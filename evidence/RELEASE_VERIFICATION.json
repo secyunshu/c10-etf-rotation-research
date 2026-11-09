@@ -1,5 +1,5 @@
 {
-  "status": "LOCAL_FORMAL_PASS",
+  "status": "PASS",
   "release_date": "2026-11-09",
   "publication_scope": "PUBLIC, twelve fixed historical accounts; no trading connection",
   "python": "3.14.3",
@@ -45,21 +45,35 @@
   "source_sha_manifest": "evidence/SOURCE_PROVENANCE.json",
   "market_sha_manifest": "data/market/MANIFEST.json",
   "package_sha_manifest": "MANIFEST.sha256",
-  "package_sha256": "fcb30cc52867b91d812c0e62ef3c96201596357f1d66f7980bdf378e2e197125",
+  "package_sha256": "93418f532751544d2db3ad4968b5f0b14b397e26614b4177adaa0145f41b9949",
   "public_content_scan": {
-    "files": 214,
+    "files": 218,
     "common_secret_patterns": 0,
     "personal_absolute_paths": 0,
     "full_third_party_webpages_included": false
   },
   "native_usage": {
     "budget": 48,
-    "started": 14,
-    "finished": 14,
+    "started": 26,
+    "finished": 26,
     "failed": 0,
-    "scope": "2 development smoke + 12 formal; pure tests do not call native"
+    "scope": "2 development smoke + 12 formal + 12 independent clean-clone; pure tests call no native"
   },
-  "clean_clone_validation": "Not yet performed at this candidate; final published receipt records actual outcome.",
+  "clean_clone_validation": {
+    "status": "PASS",
+    "candidate_commit": "8485947",
+    "fresh_checkout": true,
+    "fresh_virtualenv": true,
+    "runtime": "Python 3.14.3 macOS arm64",
+    "installation": "uv offline cache of dependencies independently installed from lock files",
+    "pytest": 24,
+    "warnings": 6,
+    "native_accounts": 12,
+    "max_abs_economic_difference": 0.0,
+    "comparison": "evidence/CLEAN_CLONE_COMPARISON.json",
+    "rebuilt_reports_changed_tracked_files": false,
+    "package_manifest_check": "PASS"
+  },
   "limits": [
     "No broker orders or real fills.",
     "No fresh 2026 performance or live strategy evidence.",
@@ -67,5 +81,21 @@
     "Source hashes verify identity, not upstream market-data accuracy.",
     "macOS/Linux POSIX lock; native Windows is unsupported, use WSL2.",
     "No remote CI enabled; optional workflow is documentation only."
-  ]
+  ],
+  "subsequent_changes": "Documentation CSV-unit explanation and publication evidence only; source, data and economic output unchanged after clean clone.",
+  "native_attempt_evidence": "evidence/NATIVE_ATTEMPTS.jsonl",
+  "original_private_journal_sha256": "f2be82c4def96f6dd4ff89724ee33d9d5352bfac2001f666ca0178ac5c56551c",
+  "original_private_log_hashes": {
+    "report-identity-red.log": "4eb2b6b3db807e635a0018713be8a56679b27935760202e8af0a4178d8b4ff8d",
+    "typeguard.log": "6b5ea121edd81979997bd0ab647e63c84ee6842e523377906f24b35e74eedfca",
+    "target-finite-red.log": "ff4bfae85b12356d750d3a5e45c1544e6777030fa7adc47a63c4e7fea119578d",
+    "typeguard-release.log": "077addfb8a93d34159acb86b6fce2296cad434d9d9415e65495e0992e27cd6fe",
+    "clean-tests.log": "5b60321b0dcf811e1275d6223a8eca7a0ad91dc478e59cf19963e02281d6ae44",
+    "tests-final.log": "34d585623e68cb45b32fa0da1bd8a708965ccd191e26ae43f0891db014e39b2d",
+    "clean-reproduction.log": "9cf2d8211e7cc8dfcfdd5d25af4848e76e79a8e080d6aa94d3cd321c4897cd18",
+    "tests.log": "8282301f3080ae089fa50ac8e04a097e6e79a76c46127e7788ffe1c5bf6de4fc",
+    "formal-reproduction.log": "9cf2d8211e7cc8dfcfdd5d25af4848e76e79a8e080d6aa94d3cd321c4897cd18",
+    "tests-release.log": "0366b9ec3e56f7884b03774a5bf33f7e747304dbc7b5a794ae7e8c414c4c106f",
+    "clean-manifest.log": "28770767a016f1a6b12e86e16d9f00dd4a9ea4588895a786f67c77a30f54092f"
+  }
 }

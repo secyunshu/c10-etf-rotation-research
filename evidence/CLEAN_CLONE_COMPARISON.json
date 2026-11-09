@@ -1,0 +1,194 @@
+[
+  {
+    "account": "C10_5bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "C10_20bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "C00_5bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "C00_20bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "C11_20bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "C11_5bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "SPY_BH_5bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "SPY_BH_20bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "QQQ_BH_5bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "QQQ_BH_20bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "SPY60_IEF40_5bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  },
+  {
+    "account": "SPY60_IEF40_20bp",
+    "status": "PASS",
+    "absolute_tolerance": 1e-10,
+    "max_abs_difference": {
+      "daily": 0.0,
+      "orders": 0.0,
+      "holdings": 0.0,
+      "dividends": 0.0,
+      "trades": 0.0,
+      "metrics": 0.0,
+      "targets": 0.0,
+      "task": 0.0,
+      "verified": 0.0
+    }
+  }
+]

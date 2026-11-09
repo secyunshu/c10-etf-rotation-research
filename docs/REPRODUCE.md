@@ -47,6 +47,8 @@ python scripts/build_report.py
 
 从保存的每日资产独立计算年度／累计收益、回撤、年化波动、Sharpe、月度收益及最大回撤区间，输出到`results/`与`figures/`，与参考指标核对。它不会重新交易；只跑这一命令不能代替第二步。
 
+CSV中的`total_return`、`cagr`、`max_dd`、`annual_volatility`均为小数比例，例如`0.5328`代表53.28%，不是0.5328%。`opening_equity`、`end_equity`、`profit`、`fees`、`dividends`为美元；回撤为正的损失幅度，图中回撤线可画成负数。`orders`是成交记录条数，并不是月度调仓次数或完整往返交易数。
+
 年度收益不使用年度CAGR；每年首日以前的资产也必须纳入收益和回撤。全期年化使用252／交易日数，完整期1003日。详见[指标定义](STRATEGY.md#指标)。
 
 ## 开发检查
