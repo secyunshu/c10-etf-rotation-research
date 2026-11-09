@@ -1,0 +1,710 @@
+[
+  {
+    "key": "C10_5bp_historical2022_2025",
+    "rule": "C10",
+    "cost_bps": 5,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "3dbfb5d9c6dbf074b3c50fb1beebfc00312c6e7049c10aa616d1ed3b3c4d169c",
+      "dividends.csv.gz": "778cd32242f4522e90f43bd30490c26b8b6df8c6f01aa8788e627287ec2cc3df",
+      "holdings.csv.gz": "a69d0ab29bc58f148980c9c423a6524f46b133280d29934b424889b0ef8a73c4",
+      "metrics.json": "ba646dddf0a64d830819fe75df51e1f6583e6cd99e1f8d2e754f9e2b62bd252c",
+      "native_returns.json": "268c3a570356a212a1d9d1ef547694a9a40430e53c23c691ac73e3618b31a9f6",
+      "native_total_return.json": "2d75187a71132251b80feee5a8c6325ed1d003da9012eb27303444956d5da412",
+      "open_trades.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "orders.csv.gz": "9bbec0bca47236fee36115cf6467a804883c7750fc9d813a6e68167d237a9434",
+      "targets.json": "c9f2f8fe897da71e0cf18f029aaf772a47b9a14ab6d3e1d4c9efcb62b06b7efa",
+      "trades.csv.gz": "88d63b70b7a11bb41ae56f1245b2f056a42ef5c6865934bdba346fd898ee57d0"
+    },
+    "upstream_account_id": "historical34_uncapped_K1_5bp_historical2022_2025",
+    "upstream_native_evidence_sha256": "9d3859da6f87a9e4fa1c26e66a9584f14ca886a1de4ba1bbcda21d0d82f79c1d"
+  },
+  {
+    "key": "C10_5bp_reset2026",
+    "rule": "C10",
+    "cost_bps": 5,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "28ff2704fa89ac017029d304eec69539e244666bbb96b62e39a3b0b28a2d60bc",
+      "dividends.csv.gz": "ef9fff432c5d45f857c5d4b8ad51376105ef86a1619e15d5a2a0ae63f3d47592",
+      "holdings.csv.gz": "c47cc8f2f9598573c9618e4f29ad8b86ec72af0dd140eaf28604d2998bc4c3ff",
+      "native_returns.json": "c61ff50eecc85abc1f3d7cbebe420b9b51e35b16a6ae4afa7da967cf150eed5a",
+      "native_total_return.json": "d4192d8caa0c8ac6b6e8a28b718744481af13836cae18b16ab0ed8c129f20eba",
+      "open_trades.json": "47f93a17ba5f8c2b1e0447235eacd1d98ae5ba517ad8fd1e910676f642b826f8",
+      "orders.csv.gz": "dfc8eda94dd2fc45f1fbec4df2da42f02687742ebc899ed5c04717b326e5e14a",
+      "targets.json": "518cd34af692971ded0d2c844cf04f30b5b3ece6411d150f987866775717a1d8",
+      "trades.csv.gz": "7a96b59f2f65f9201c72f5ac45c1c79a4aa840c0f503fe9ab901ce3fa8a90163",
+      "ytd.json": "0c81f1f7007b33c073501bd093c4cacf4b5773623df84051fe461050d2395cb5"
+    },
+    "upstream_account_id": "historical34_uncapped_K1_5bp_reset2026",
+    "upstream_native_evidence_sha256": "590580c78298dfec3577e1b88452de7cc0821207f8662847e636fd9fb738d9f1"
+  },
+  {
+    "key": "C10_5bp_continuous2022_2026",
+    "rule": "C10",
+    "cost_bps": 5,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "42bef0fbf93a524f8cbe608b657246fbb27db1c5ed6e5d8453920702fd7ec7d3",
+      "dividends.csv.gz": "938839e43894020583a2797476545db75a23add09280c24c8b14661f6d791aa3",
+      "holdings.csv.gz": "00ae9e4cd1cffd0bbfdb3fa5097925f0e575869942ea01977f6875c503f46a99",
+      "native_returns.json": "73633f6659fd40afcc6cc421650785b0d9d2e0712b37346eccf580176c417195",
+      "native_total_return.json": "d1fedccacc7ce835484bf27dc6c420bc3abcb90149e87d7ef9feda1023d90294",
+      "open_trades.json": "ca73d3605d9a8bfe4ef0b70e628699cc9b1dda6da90a5d55862cb4de9751f138",
+      "orders.csv.gz": "9beb6d11d4d3aac3f5a07c861053d7e3dea489aa6ef90048f120d5af38180163",
+      "targets.json": "44b72cb79f377086a57a6780593b3a6dbbc167512a03d01a61c9b149b54dfb09",
+      "trades.csv.gz": "c395af310c10523c2244af325772b75f5c13377e56fdebd137a1a08ca8d3d300",
+      "ytd.json": "e7d70837ab075c83c23e8a2962317dd6a2fe9470a12552042955168c6542fda8"
+    },
+    "upstream_account_id": "historical34_uncapped_K1_5bp_continuous2022_2026",
+    "upstream_native_evidence_sha256": "2cd92592adb70ccb9b9d4800126381513fe0c1280b1d5ea8ca5b5fac239b8ae2"
+  },
+  {
+    "key": "C10_20bp_historical2022_2025",
+    "rule": "C10",
+    "cost_bps": 20,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "d8f7ba15eb52058f735de81b863db493653b97149ecc4e6400d4cb7ffdc9d076",
+      "dividends.csv.gz": "ca709ad97a5183b311125d4cf2e8f3f922f73a5bb2fc1fd46e3e29891ea40528",
+      "holdings.csv.gz": "6921bccbb81cd0f5080b636631f22b631405d762f7a9cc631a1ce0d858e298b6",
+      "metrics.json": "a3140bd6a3500849ca411f08cf4c7de26cfca69113bed27eb738b1a5b466733f",
+      "native_returns.json": "15978a1335d3a094f5b9f1afec069e23bf5482ec892d7010742848ad11759ac3",
+      "native_total_return.json": "765e146789d033452dc4e9e87d15df98d7973c47bd1c8c4f2fc1c10cdd50f202",
+      "open_trades.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "orders.csv.gz": "5fe08b6a00579b357c3cc46ca24759f365068e60d5882b49bec8d9dad3082862",
+      "targets.json": "c9f2f8fe897da71e0cf18f029aaf772a47b9a14ab6d3e1d4c9efcb62b06b7efa",
+      "trades.csv.gz": "314f409cc57a7b3e3a5bacc5bf27b3201b30898557068352a75b0005a673076d"
+    },
+    "upstream_account_id": "historical34_uncapped_K1_20bp_historical2022_2025",
+    "upstream_native_evidence_sha256": "bcc2f2d7fc4ab974e2e918ba8604338cacd476a3c3b0d3f216279c5e7b60858e"
+  },
+  {
+    "key": "C10_20bp_reset2026",
+    "rule": "C10",
+    "cost_bps": 20,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "3c28e18698af12fdeab5cb9ce60073722b858a372e97e731ddf14520efc017e8",
+      "dividends.csv.gz": "63f0ccf4cd73c24617e3f493ac5c6389b873f1dad465dccdc1bb681c3291bdf8",
+      "holdings.csv.gz": "35230f56f1df4293f2dd59e53830caf6f9bf51791c0e97d85992bd56109862c5",
+      "native_returns.json": "793017ff440edc68054a8e254f50b73ebc04e401a925f3bffdbdb5459a58d6ea",
+      "native_total_return.json": "a2c0f78b320a96546071db568987d418bb26920e363d8f717406c068d70dfd16",
+      "open_trades.json": "104200e2817eaa18412243ee3d1bc3da1d4b24796f8f99d31b8cb5376ed4a50a",
+      "orders.csv.gz": "6f83db08f333d5405da53db3571419e3cb9fd2b7c9b7b39afa5abf8dbf15d73f",
+      "targets.json": "518cd34af692971ded0d2c844cf04f30b5b3ece6411d150f987866775717a1d8",
+      "trades.csv.gz": "72d08e2c40514111938e56b435ee074bd847aaeb9956001370c75b4c63017ff9",
+      "ytd.json": "b816cb8142c275d8d3c4016e14f78d770e236859ac145820b71175862b740e43"
+    },
+    "upstream_account_id": "historical34_uncapped_K1_20bp_reset2026",
+    "upstream_native_evidence_sha256": "88cfb905ff89aa49ca2593fc8a28966678aade5b95b445980f4b55a1d114812f"
+  },
+  {
+    "key": "C10_20bp_continuous2022_2026",
+    "rule": "C10",
+    "cost_bps": 20,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "b285b8b89bb06fe896d5232dff205ca52f7cdb4e8f928ab3d83cb3d7f0b26509",
+      "dividends.csv.gz": "c6bc9841ff189d8e416444fd38e6accbfbc3fdb91f8c3b5a0fbbce1255e51a4a",
+      "holdings.csv.gz": "ce05f2ee91e7554019debe2a96cd7b10ddee8cb4d348d27466c53e1c51236f90",
+      "native_returns.json": "e8091dccfe71a9d7cc5b30f7ce780fde643ccb82da1cda31e7c6aa37e29479db",
+      "native_total_return.json": "f24c91ef7d1b1254bf2f367f37e77ef832c3d35af75a108a8ebcc8bafa104fac",
+      "open_trades.json": "bb5a915bae7771b3299d5952324388ce497d75c868b0ce796ab28475db775a52",
+      "orders.csv.gz": "e375d88e2a1e1c9c8b338b8ef0e5eab32e813d033e58a774c48d382754f61195",
+      "targets.json": "44b72cb79f377086a57a6780593b3a6dbbc167512a03d01a61c9b149b54dfb09",
+      "trades.csv.gz": "4804aae04009312f175767fdf78f035b7a75774dc7790d0e69341211ae915bca",
+      "ytd.json": "3f38d3288e03d21a9564df75f9807c86bfb2417ffa29151947d391315f4896d7"
+    },
+    "upstream_account_id": "historical34_uncapped_K1_20bp_continuous2022_2026",
+    "upstream_native_evidence_sha256": "38586a482b8e98b2f020f528c07ecfae8897bc393d25d03cecdcf8ece2c89bce"
+  },
+  {
+    "key": "C11_5bp_historical2022_2025",
+    "rule": "C11",
+    "cost_bps": 5,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "3ba21e8793a5c88988579b6d427ab432de3aa06c27f94dba0d95b1f528ca89ca",
+      "dividends.csv.gz": "b5cd4fb4c7832814d964df3c7438e95c7c50b6d3637258cb7062a0e97ce39674",
+      "holdings.csv.gz": "783b37a736403cf653f9591228a6fbe76aee6a3acde2c20fe6cc19eed7c9e8e6",
+      "metrics.json": "edbf5a648ef8683c73065454d8c316ee4b9d8926a54a651b27adc56e5acd0236",
+      "native_returns.json": "46b3420243c6550dd58b7b4c146610728b1e3146d066c31b2ad4b89d56d54d32",
+      "native_total_return.json": "4f28022bbbaf0fab534e0bb14b678f8b3525e8d72bb4f1c1be020ffe2921834a",
+      "open_trades.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "orders.csv.gz": "8c5ff7b5f98dcf9bfa06a3527c3bac395dbabc775506d779fecb708bfe3c7919",
+      "targets.json": "3717e0ffe2089f3b00f93bc08d44a9cbf85cbc5bb1df2a43878e482cd17d592a",
+      "trades.csv.gz": "9eaea70c7c51315f1a4683c1dc2fbc19a67c29c0a6a850917acbb3b4e432a745"
+    },
+    "upstream_account_id": "historical34_cap1_K2_5bp_historical2022_2025",
+    "upstream_native_evidence_sha256": "6e332c11d7c01169791a0f0d896da17fc921cef25ba39522a44b3f051aa76064"
+  },
+  {
+    "key": "C11_5bp_reset2026",
+    "rule": "C11",
+    "cost_bps": 5,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "5f62f10f477fd096a912368ed636507a22c875b06cf0b58909689296b99d2348",
+      "dividends.csv.gz": "ab858e143248149d78235555e9b005d8a228da0ff5b00d3f4dedc67f116b1cf1",
+      "holdings.csv.gz": "3bf70f6a066bd377289fd17adaec60f8655ad2c055fdcf35e2b7ec06a6772db5",
+      "native_returns.json": "7336b2d1266d54dce126ab91ef1e80f8c40cfc1a6c3962d71fd814f633fe3e22",
+      "native_total_return.json": "380fa582ebfedb40658c19289e3e773d813205d15bf27f40abb943487f8e2073",
+      "open_trades.json": "90ca7a76d825b00e6cb3712e7eb2b7a955bcafd012b8b4eac88f6bfb524ec558",
+      "orders.csv.gz": "988b2653ca7fc9be26cd1807a5fe582e84b884c141ff35b3b9ef9624837ed94d",
+      "targets.json": "718ee7400761fcd8ee907c86626505f594239b509cdf300b381aa936bf2f1589",
+      "trades.csv.gz": "2e22209d127fb8e95b11aa8c5e296f95a0ee1607ca9820b03338e407facf2e67",
+      "ytd.json": "89d78bbfcbac5d8cbf850d81253ded1a16b237e93e70d54b71cf94f82c7d9ee3"
+    },
+    "upstream_account_id": "historical34_cap1_K2_5bp_reset2026",
+    "upstream_native_evidence_sha256": "d6a58e58ac2abee97a1fc8014b9d45be562c65a5f431e4394a661a88533708bd"
+  },
+  {
+    "key": "C11_5bp_continuous2022_2026",
+    "rule": "C11",
+    "cost_bps": 5,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "0d1e8cd23c02532aa7deb2408020f5e7380a67d626c9f0d6999bb67cc4872b2b",
+      "dividends.csv.gz": "9570c26160ba4f93d646ddbe4a10af1ea1a90da1cf3066cfe540903665d113c1",
+      "holdings.csv.gz": "9b1e37b8958e9a403fbf284dd9eaa949d037331161a07a78529a73bdf2bb7906",
+      "native_returns.json": "18448af023af40ed0d147cfd7740485ffd5d6116a918a9a7eed228c0257e5c42",
+      "native_total_return.json": "e3e45736eb752e41d29cfe661d13f6f22e25bbdba6b271f61bcc45d4e6f0bace",
+      "open_trades.json": "a18604cee9b7c21866c4cdc3af7ab15b9cdf915b0a73f3d519814fe9c4e431fe",
+      "orders.csv.gz": "27d23a8bf2ba7235747ee5e040483d33e0462e9b4b2f0ccfd133d16d06dcf4c4",
+      "targets.json": "7741d2bf0169786186b57bf5fa7e2c6fbeb00adaf948696a832d326661697c3a",
+      "trades.csv.gz": "6e3be7188d3248bfc1b3287cb8048c475a8a3ff8c409fb1e54999dc8de1b16f4",
+      "ytd.json": "616dd8553c326413326b389b19715c1a1be758bc9c33ed2d1c20eee38a6afe32"
+    },
+    "upstream_account_id": "historical34_cap1_K2_5bp_continuous2022_2026",
+    "upstream_native_evidence_sha256": "d4e320c8bdbd83dfd2956a5f144b5eb1464ebac619207e864df2be0d8c8f2244"
+  },
+  {
+    "key": "C11_20bp_historical2022_2025",
+    "rule": "C11",
+    "cost_bps": 20,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "32716a0c7e0af5ab9458690d6cf807a0fe3c3447f3822367aad183c5cb5851b6",
+      "dividends.csv.gz": "dac4bccbec48d342b0673b5754b40c78cbe36583b35b44c86106c30af6ca6d5c",
+      "holdings.csv.gz": "52a146461a98066f766a53e97e1421accaa14f09492333e971d5f9a0d6491f46",
+      "metrics.json": "e5e75d33c193414fdae240a90ef24b517d6956085b491732956984de34d9d48c",
+      "native_returns.json": "9a43165eba5df85485df6b3cc1ac74f8e634a931167035ceae445fef1d9079d3",
+      "native_total_return.json": "0caa1da1bbb4f8f6606dab4d7604dc5c391954a992cad5333f0bc570ef82d1bb",
+      "open_trades.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "orders.csv.gz": "64aaf302cb9bd12665ca1b92b03a0830dffc61e88fd8005402b784c41b7c0fa5",
+      "targets.json": "3717e0ffe2089f3b00f93bc08d44a9cbf85cbc5bb1df2a43878e482cd17d592a",
+      "trades.csv.gz": "f84f8a32bce98b1358520017cc4cbe5cf13fbb3e29f2b4c0e9bf286b7ebc07ed"
+    },
+    "upstream_account_id": "historical34_cap1_K2_20bp_historical2022_2025",
+    "upstream_native_evidence_sha256": "c23bd767253e83a0cb9d2b0e3ddd538b93cfa1585c75804a46e8aa5ee465123b"
+  },
+  {
+    "key": "C11_20bp_reset2026",
+    "rule": "C11",
+    "cost_bps": 20,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "1b8b4d4472ee389dcdcff9d948be0ef6a8fc429a8d8eeb86569bf2dd1260d17a",
+      "dividends.csv.gz": "4b4e63cba0853bd9dfa43c2621c6e2158fe9b2bb6a0b2f09fd12859faa30c662",
+      "holdings.csv.gz": "399bd1dd632239384a1e8c77d3bce229444f8e6c3e55896af6e0f3dfb389eea1",
+      "native_returns.json": "9c5716bf0c0462e3842a6804ee7d20f6785e857512d1ee743c48629ac8aa4bb2",
+      "native_total_return.json": "301d27b2e8ada7782e3d32c56260fc4495fae199a06cc541a9e4e7f26390b286",
+      "open_trades.json": "712f8c1c04a85dbf8a7867740264461a3e3485afb6bc3a938232eb325cb0b977",
+      "orders.csv.gz": "95fca1d9d8815726115b5dcbe6f21cec0d7fd56d976daf51bd26620ee614cc19",
+      "targets.json": "718ee7400761fcd8ee907c86626505f594239b509cdf300b381aa936bf2f1589",
+      "trades.csv.gz": "757b83e86ed5375d9f03eaa62c97fe9342f48e56d512dc11f952789c77958cc9",
+      "ytd.json": "3caca528a593635691c201e8f018e2f8af89a5eb0a4386fc292b0ce232bd65bd"
+    },
+    "upstream_account_id": "historical34_cap1_K2_20bp_reset2026",
+    "upstream_native_evidence_sha256": "9ab8453a635c98cc04fc635a497e5585d1bd283edca9e3e2e524f7086dc16804"
+  },
+  {
+    "key": "C11_20bp_continuous2022_2026",
+    "rule": "C11",
+    "cost_bps": 20,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "df0df84d9d0dd49353b1653d8e32afff34afd9564dbedc8af358e597d8ec5f30",
+      "dividends.csv.gz": "bde796c49015588622923297ec4bbc41795bd793b7947452da7e63d79e1d5b28",
+      "holdings.csv.gz": "0a6f061e4ff887a3bb4b917a2780a5a9a177289a74d240305690add2d5cd57f7",
+      "native_returns.json": "bdae450d00d8a247bcf49a95b80e8b926f85e9872c280a34c8dd68a5ad585574",
+      "native_total_return.json": "fe63b6569ec66bd5c8b0b7cffd27a01a6d74b4d83bed6b07d3b3b9b056da6b9f",
+      "open_trades.json": "17a5a0db71c466ebb05dd90795528333b17dad02b658a57be3e8898818ac1349",
+      "orders.csv.gz": "986611180dab14b576d8b106242431f2e6377e7fe4fecbcb79b1882c51c92784",
+      "targets.json": "7741d2bf0169786186b57bf5fa7e2c6fbeb00adaf948696a832d326661697c3a",
+      "trades.csv.gz": "45466025e9be66333fd03dab995a7af3533d985b785dadb961bbc94b72a6cef7",
+      "ytd.json": "6679029910b4c104d87c611bc73669ce382304c905c2dc0f1e2f30dd3754c1e1"
+    },
+    "upstream_account_id": "historical34_cap1_K2_20bp_continuous2022_2026",
+    "upstream_native_evidence_sha256": "916a940ae8e363817092478cef28171d03c675b123f6d8543f9fe829a66a1ed4"
+  },
+  {
+    "key": "C00_5bp_historical2022_2025",
+    "rule": "C00",
+    "cost_bps": 5,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "5ed7efd5ea03bdd01e227342c289f3e134aae10a08f2da7b0f5ed01eb19b4dad",
+      "dividends.csv.gz": "7419719e27bf3ca9d64bff8ca5b0b8596a50c980d36577e528390d6bf8c2a608",
+      "holdings.csv.gz": "5cfafec056c7a7b4a57c942d85ea6555bc9516d179a330d7e4ee3068b960c86d",
+      "metrics.json": "c634ea6c40ff629cf47a97ec46c74336468e042769fba66a3d79799db97fca8c",
+      "native_returns.json": "e6c2643f5a2adabb199b1ab81b008c57ac70777fce3038264677109cf595a3f8",
+      "native_total_return.json": "73907b52ac14b3f7cef40b964716b3dce97bd0fc4274556fc939e9002dbe65ac",
+      "open_trades.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "orders.csv.gz": "290267c0667d0e24f626d22836d3f710aa45aba826f9c5bef83199122cc5ada6",
+      "targets.json": "e8423f49bc912ff01a45c2e93fc30302f77c76d51e1e8ea1f24d640cbcc7283b",
+      "trades.csv.gz": "3b68b839ad6b8f6d786ba6838a9ddd583f11a750129f2fbc81de31bcb76ca669"
+    },
+    "upstream_account_id": "historical34_cap1_K3_5bp_historical2022_2025",
+    "upstream_native_evidence_sha256": "9911b361f2aa2a7e96ac3b00390af56bc25430930ce511ab6df138d964356f57"
+  },
+  {
+    "key": "C00_5bp_reset2026",
+    "rule": "C00",
+    "cost_bps": 5,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "84644ea2e3b53e55cd1ea6808dd1a66a841be9bd9907c5388b5e300466867140",
+      "dividends.csv.gz": "180ae341bec6efce73518ce2b5ab14c92c6b058bc58ba68d1a5a7deca8f8b2c2",
+      "holdings.csv.gz": "4932bb3533f225bf34bbccdefb824fc6b701bf849ecba7b5707c510df6b76f05",
+      "native_returns.json": "ab045c1ae9114dfa4104700b618aa1252781dd327994c8447aabc8a0d0e1eea4",
+      "native_total_return.json": "64f8271140ca94cbe51eba7c28612d190dddee3b188ac221aba2d8b3dd6c4f38",
+      "open_trades.json": "6958d9fc41588bb791664fe966083bd72f7191baf37fa49ac0c7b1550c3f52fc",
+      "orders.csv.gz": "fb7f51dbc5e212e105cab0119c3eaba2ce61af6b0aa9627c07843d14093dedd5",
+      "targets.json": "eb509366d936fdd6c687ae402a13623c57dae97d97a8c63ff04d3c4de84ecb9a",
+      "trades.csv.gz": "8b89d90dacb130cc4c5982b743316ba3faf11881b40e29e255e6163cb3d80b6e",
+      "ytd.json": "64c1390c9e87f40978476c4b0c2e134184a5b5f90163ff9b08c65ced7c337510"
+    },
+    "upstream_account_id": "historical34_cap1_K3_5bp_reset2026",
+    "upstream_native_evidence_sha256": "6e8f516c5ac942fa8f799d624304149152a845a7f5a4750a192982f9727a9238"
+  },
+  {
+    "key": "C00_5bp_continuous2022_2026",
+    "rule": "C00",
+    "cost_bps": 5,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "14fc666bf1d6df836ed188385b1542ada8a4952aed8201d5853d48a6a0e6e65a",
+      "dividends.csv.gz": "a35c206d4995cc03ac6d6f118565cdcbb779b74c6fce382982bbbd2ab93bd7a1",
+      "holdings.csv.gz": "46b5cc29b19e6b3f4235b4f95b1460b053327223503bbd94fd4c11345bdb93b6",
+      "native_returns.json": "ad0e717b8bf240562617ac8f3edc83059dff9149bdb19d2610424e6e1a29a4d9",
+      "native_total_return.json": "bca7891df6938bbd3e331c4b92ad776b7d2d1bc621bd31ec8eba3ea6e403f573",
+      "open_trades.json": "51ea0833f6064c6b8030f5c90548dab6b25eb7e7b06c49fcb7c1dca618b6aa78",
+      "orders.csv.gz": "c016e3e2c73e5ba9a56213ae83e9757bcbf6d71935fb865b71a94f07bd9398ff",
+      "targets.json": "2d2cd27fa905013ae16bc68f102e1ecffa9f1ff77b2a15e0dda00238836fd8e8",
+      "trades.csv.gz": "4f10333afb4ebfdf038d8c3b8bc73178c9358d746a0096c98accbbe0141aef2a",
+      "ytd.json": "99c0b9b241d777517c570158110f4f168721c39a655e5f3940609011d5bec5bc"
+    },
+    "upstream_account_id": "historical34_cap1_K3_5bp_continuous2022_2026",
+    "upstream_native_evidence_sha256": "2beb5b6617dde3be76723c7530c4d6544980de4ca3fb3ac33fe826c5f679193f"
+  },
+  {
+    "key": "C00_20bp_historical2022_2025",
+    "rule": "C00",
+    "cost_bps": 20,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "786f0d6c6d7a365c097983f4ebe50afd42494e82b1d68d35b9ec1c32f82bb9e8",
+      "dividends.csv.gz": "7003948da8b0e2e192042729e43cd862e9e1e3d141a4890904603aeb368ecd9d",
+      "holdings.csv.gz": "813a76e9be1411fa84b2e41a21339370dc4debcc553adc90e9ce827bb18ce5af",
+      "metrics.json": "63b6b9cc149d462b6c1275693b4de48e150e6d39afdcde1bae0253d9191ccde0",
+      "native_returns.json": "34a07b3dc111c87222202fd3f19ba1e29483619ac465727a92ec3c64a2413588",
+      "native_total_return.json": "9250dc2157deddc714a19e9a684aa25d59b781e6ce2439a4d9a2581b745a97a7",
+      "open_trades.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "orders.csv.gz": "dac003ebe6ceed7fea41bc175607c22cc6eaf896d2429910cd90a0a33b7cce00",
+      "targets.json": "e8423f49bc912ff01a45c2e93fc30302f77c76d51e1e8ea1f24d640cbcc7283b",
+      "trades.csv.gz": "7853d531f1dad4a9a0e464fa3222c711ce6b44281703f34a2d70eec28935bac6"
+    },
+    "upstream_account_id": "historical34_cap1_K3_20bp_historical2022_2025",
+    "upstream_native_evidence_sha256": "5426dd9962478e979644496927422d8c5852d876ed3bbca8fc1a1652655193be"
+  },
+  {
+    "key": "C00_20bp_reset2026",
+    "rule": "C00",
+    "cost_bps": 20,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "27fdee2454791f8ea2ad47fed975b28989f85aaf065a4da19d31b3d0b24a4cfa",
+      "dividends.csv.gz": "4eea71757ced33b564a224f9bbec4c0f02900cdda2b8ab23a0cee7d03a7310e1",
+      "holdings.csv.gz": "2ca0e058a60e9cae1d6137c056a18f2d91004669e3f610a9b6f4c2fe2a201c88",
+      "native_returns.json": "9f823a5215dab205cc18ff1344c4d05092fec2ace6e98ba9320a5d234ce6178b",
+      "native_total_return.json": "6218d8bf35d2ad652ff4ed52c18831ec602b2cd76e031c12838987ed4d92d609",
+      "open_trades.json": "1d7ca8c090563cb25e53f29983982111e5faf10429182b5731f8afb18148e904",
+      "orders.csv.gz": "061f37d48d75c430ebcec8ea1d89cc02a32049898f3e21a04329842a6bc8a329",
+      "targets.json": "eb509366d936fdd6c687ae402a13623c57dae97d97a8c63ff04d3c4de84ecb9a",
+      "trades.csv.gz": "9b807d51714515a7ae1bf43b8c86111c3e3e458fcf78fb4bd9d2dcbc9ea07b9c",
+      "ytd.json": "f0127613266652142fab88076708668d5ebe948d75cd83fb115961c5083fd672"
+    },
+    "upstream_account_id": "historical34_cap1_K3_20bp_reset2026",
+    "upstream_native_evidence_sha256": "66ba63d11514a3cc21dc98721c6f1477f5b6990ad7b37b212b797197c78d4a8c"
+  },
+  {
+    "key": "C00_20bp_continuous2022_2026",
+    "rule": "C00",
+    "cost_bps": 20,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "6b360ef5479ac9bcf7cbb969370632d95f90eabe429c80466d79626d01af85e6",
+      "dividends.csv.gz": "f6021df2d56022dccce4e20f32e7bd107581f2a3af30dbe6abde6bad40733358",
+      "holdings.csv.gz": "8e1002f4366714ebb5592b78838ea97dfc512aaded3237495c0fb9af6068e47b",
+      "native_returns.json": "345e254170b07e91af752590ae55cdee4c8a53fd259378a1c84850d9c0ef5565",
+      "native_total_return.json": "d1ecd72fda295557e846c97a03d69e519b59f3e9e9219943eab53ebe6f7ef981",
+      "open_trades.json": "1c0fca7f0a6e1c58cdc53def3f076c005bb7dcde0b33de03e6f2e60e958d24ba",
+      "orders.csv.gz": "364d9c3d081f0ae80acb2636cff71c5a7c99edc6be2791a34b6a541dac5c1166",
+      "targets.json": "2d2cd27fa905013ae16bc68f102e1ecffa9f1ff77b2a15e0dda00238836fd8e8",
+      "trades.csv.gz": "07ed941f34bc38cce08363642c952dc09c0d2fcc8e4b9f7e3296780f809bd9a3",
+      "ytd.json": "5af404f2cb4e508b342cf6f41d4744f4f2cf8a5d993a5a988d223b3b48cee816"
+    },
+    "upstream_account_id": "historical34_cap1_K3_20bp_continuous2022_2026",
+    "upstream_native_evidence_sha256": "558388d04b99b77c50dbc37125844d6bd1fda50cd777b174aab672601381d83a"
+  },
+  {
+    "key": "SPY_BH_5bp_historical2022_2025",
+    "rule": "SPY_BH",
+    "cost_bps": 5,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "978a70f1ecc6a76d5d78db2dc61029920a6716af6a33b05dee85d70a09d4ceb8",
+      "dividends.csv.gz": "280a3eb1ef3d105ec326638c266e8c05a31fc1b1797efa1a87bbb3306bfde839",
+      "holdings.csv.gz": "ba1ccf23c2c55fa5c3158ba430d6abea838a819e5334cbe81a0f45d11c581cba",
+      "metrics.json": "d2d3ae2e93c72326a79bf866e9405c37c43fda0c4fe4aceb794c4d5ee0f115f2",
+      "native_total_return.json": "aedc90e705b30a02c355ba36005e4824dc9df1d7e7f2bf733e2f9e2416669882",
+      "orders.csv.gz": "65ecbc790f91fb92d026871de6d34444fbf1a3dc99c630006acbf962ca687680",
+      "targets.json": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "trades.csv.gz": "5af22009db6a74abb5f60f5352d4112dcc28db09fa57cf4ed797aa37733f2545"
+    },
+    "upstream_account_id": "SPY_BH_5bp",
+    "upstream_native_evidence_sha256": "1d3549bacdb05dfbaaf59eef24710f5a7a10f36a0958de8958cd6d3775c9f878"
+  },
+  {
+    "key": "SPY_BH_5bp_reset2026",
+    "rule": "SPY_BH",
+    "cost_bps": 5,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "d3d8daab097079d1c1afc32a0b585f6530659b196d332f47ad32dd6945b2e294",
+      "dividends.csv.gz": "f7ff7dd432991807b683d08f3299878dccf00a03359f8c9927de9b7adeac5834",
+      "holdings.csv.gz": "e209ccceacacda4e57e4550300352db50da69d6fe08b68c9e74bfd583c84d5b0",
+      "native_returns.json": "3d3e4638d107e1ce0ac820f99e5ee93ed682598923d393ea3af7a23a8b864e04",
+      "native_total_return.json": "65e33f6e62dbdb6a25efd4f01c554aadb2e1b3b32f491046adaef403f4109ecc",
+      "open_trades.json": "6e6cc8dd2b6c9152e60dd87a7e433d00f96e8a36bbb91b4f869d74cbf7b75693",
+      "orders.csv.gz": "aa99f93d27c334f8a99979ef5f0251afb3582b3097b750d4c514d87e9016d9f8",
+      "targets.json": "cda12ee2b84025cb4bd2ac2d8af999cdf5247454100f5072ccaa0dfe9800c9df",
+      "trades.csv.gz": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "ytd.json": "dd9982e39ef027337dada41c25eb5f222fe3e328e2a94cbe51060bb549b9a559"
+    },
+    "upstream_account_id": "reset2026_SPY_BH_5bp",
+    "upstream_native_evidence_sha256": "028289321a351093f4deaabbfe247213bd3a4e92fe58154bf12262468b10af9f"
+  },
+  {
+    "key": "SPY_BH_5bp_continuous2022_2026",
+    "rule": "SPY_BH",
+    "cost_bps": 5,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "831d0e97e47418365065d0df40bb7d886825abc2b5908a436326d95c9c0e63d7",
+      "dividends.csv.gz": "d3eafc871ca7c08cfb784368bb6a9682dcaf1f005a21ff821bb63b0c88bde59d",
+      "holdings.csv.gz": "ff467b279ae3274bc2874261e5c014844908660e49c169a6ead172dd51a9e959",
+      "native_returns.json": "2e7eb749e4c3d7f514b6133510040dd6ba92f07d28387e0d4fa1adb0fb358863",
+      "native_total_return.json": "eb2e587769b79cf1efbb187bfe616cecfaecee81bff912bf5b3c7be7fdca482c",
+      "open_trades.json": "44ab31521583aa2ca867e4e9ae16ed6cecd79815edd8ae682411f08f7c1ab61a",
+      "orders.csv.gz": "f45d77392b66dff9736c23c06cbaf030286f438d145ec47d504bade8309afdbb",
+      "targets.json": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "trades.csv.gz": "78e325bf0f962458a46c8ca0c5c1bb361401aaa64a88ca038bb6547aa337c50c",
+      "ytd.json": "005b760e29cc12f63c2137bce390ff3d9cbd7ad97ce455bb82fbc8e71f3360af"
+    },
+    "upstream_account_id": "continuous2022_SPY_BH_5bp",
+    "upstream_native_evidence_sha256": "30f76b3c4c0964bc30524cc46035e585afe7f35c7fa6c5ffcdc2cc2f1759766f"
+  },
+  {
+    "key": "SPY_BH_20bp_historical2022_2025",
+    "rule": "SPY_BH",
+    "cost_bps": 20,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "b322ccd264465552bf1ea2c480ce0a30834248e1b235fdb262fe33db45b8a7da",
+      "dividends.csv.gz": "280a3eb1ef3d105ec326638c266e8c05a31fc1b1797efa1a87bbb3306bfde839",
+      "holdings.csv.gz": "ba1ccf23c2c55fa5c3158ba430d6abea838a819e5334cbe81a0f45d11c581cba",
+      "metrics.json": "bf96de6724fda94755a20a879a7ea4f713ea380b63cc1ef240d00a323ce953f7",
+      "native_total_return.json": "895c8dbfe709bcd3b891a865785ee424683e6f5ff3374f09657ad8da7f65c62b",
+      "orders.csv.gz": "6f5d274f43b74d4840eeb8f6326aad9338fe90e0ac5fbe46684460d8592b8bcb",
+      "targets.json": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "trades.csv.gz": "dab4120ca9a1412579a241875ae46d66bb7459bb775ca27da95084fd2e20b44e"
+    },
+    "upstream_account_id": "SPY_BH_20bp",
+    "upstream_native_evidence_sha256": "42087cc4423ef3b629549b05153317f6cfa8cda9a1d4a275c07a8f9b99a19f8e"
+  },
+  {
+    "key": "SPY_BH_20bp_reset2026",
+    "rule": "SPY_BH",
+    "cost_bps": 20,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "88080a7f3fbb17875a8951571cc8e21340b9462862dcaf0365d3cb96e7ceb28f",
+      "dividends.csv.gz": "8ab13b1c7ed14c8ade90bb4c50b9cfcf8b359f5a96473e474690966796a205e6",
+      "holdings.csv.gz": "df4f152dbe4709c97843540bfa8f5e066c3c92ce72ebde2e17df8a790fc4ad30",
+      "native_returns.json": "5c33b184bbc802bffd9c4763f00a33d02a646b22ab5c0cc5ac18486541bb1e90",
+      "native_total_return.json": "f947d3360642e0396b12de69d5b0d59b08e0f02be453d612c39d870a7103bf2c",
+      "open_trades.json": "b5989f8bb6fa5a79f967789df1a364f3985d06e08d351821c76f0feacdd7cf6d",
+      "orders.csv.gz": "812aebffabec1eeb4a0abfd66daed7a2fbde423412aaea4f35de9cfb975080e3",
+      "targets.json": "cda12ee2b84025cb4bd2ac2d8af999cdf5247454100f5072ccaa0dfe9800c9df",
+      "trades.csv.gz": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "ytd.json": "60059476e9c7422bc254d0485f7adc107bd9b55e58eaf09b126208e40e0d2467"
+    },
+    "upstream_account_id": "reset2026_SPY_BH_20bp",
+    "upstream_native_evidence_sha256": "74cc06e8daefb00b481cc51b043753eb2069a4217ff15850efd539dd0f508384"
+  },
+  {
+    "key": "SPY_BH_20bp_continuous2022_2026",
+    "rule": "SPY_BH",
+    "cost_bps": 20,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "fad30fcd7df49e34dc62534eccdcfa8b1ca21d8f91397b174ca63067aa9dee21",
+      "dividends.csv.gz": "04b3c4ae01b19955df20f9960fc1dcb431c3e931c66abff554efe104d14304d6",
+      "holdings.csv.gz": "409e68fda49fc93b4ea479cb9f1040a4f39d37895c1c64c3001bf4ad753596bf",
+      "native_returns.json": "bb2d76ae3e9675b7e673ab29170e55920924edecdcf59c0bc9a26710eb800e52",
+      "native_total_return.json": "b3206e4fe532494a529e0a2d1c4a60cd285a479bddffc6c80157eba64e842e96",
+      "open_trades.json": "9d07e33baca736f852b9e8accfdd4bb23323969b9c04818d3274b2165bd682aa",
+      "orders.csv.gz": "22a72d5949440b0749ab41df0cdd5c8860903bc0d4dbcf2c1e6b3789dd9e251a",
+      "targets.json": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "trades.csv.gz": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "ytd.json": "7cb70c58a4d2915212c60618103d79c367db1b75d54b7e3d464f8cdccdbb7dd9"
+    },
+    "upstream_account_id": "continuous2022_SPY_BH_20bp",
+    "upstream_native_evidence_sha256": "d5d2abc6238edb0b0af42bfbcb7a0384ac3567234b0b48080be24735da6db43c"
+  },
+  {
+    "key": "QQQ_BH_5bp_historical2022_2025",
+    "rule": "QQQ_BH",
+    "cost_bps": 5,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "3e2b692cb87ce5d5638e07709a96703be5e34855d08564c55c46dec5af3fb192",
+      "dividends.csv.gz": "1ddfa7e2a659115f235323bd5e0bf7ae08a0ab2f86e8584cd3a63c7732db9818",
+      "holdings.csv.gz": "694e35be1a61da8c652b4096058245237f185da0d7245af8e13b9d88bd4b944a",
+      "metrics.json": "e23834da68ab4dd9859337f5f06991b81fdc5edc013f377c52216e37e234d574",
+      "native_total_return.json": "553a5cd61ed859a0b21fb662ecf5d90a5c166e551545612bd05c9ccc8d04a643",
+      "orders.csv.gz": "3d7ff377c3f5e634fd1fe18b68ddb80961c8e8d553fa48908dc9a1a58914801c",
+      "targets.json": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "trades.csv.gz": "f3439ef034063ab8528a0d623688f9726461b733d206bdb7eca560321e48f5d6"
+    },
+    "upstream_account_id": "QQQ_BH_5bp",
+    "upstream_native_evidence_sha256": "fe40bad72dd65bd8736b3df1bd6c0bb45e62d9b709cd84d3abdc95c76dfeb9cf"
+  },
+  {
+    "key": "QQQ_BH_5bp_reset2026",
+    "rule": "QQQ_BH",
+    "cost_bps": 5,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "76e032eddb027634a9c3f4c4c4ac09bbb8ef20d12c6ea8676e5b3cc5b1c7ecc7",
+      "dividends.csv.gz": "50baefea9b487c0f9a7d40f019a0e0421732073a2d12e2d00c0c171634227bbd",
+      "holdings.csv.gz": "152717cc07250c2d15eb96832b6b1ef2631452745107e18b82a89aa93e5cebce",
+      "native_returns.json": "4499bf9a36425b12e6efc2b2fee9109388a44ebae0355137d7bba7907439055f",
+      "native_total_return.json": "92394f06b335c5c6f381db0bfdb536ca38fc780c9f3cf25a047ca3d36054795c",
+      "open_trades.json": "450c7db3fa5c4511da8a3f1cf50f62f8509f90d73721559272a3446591c40da6",
+      "orders.csv.gz": "b6c942f4a1d0bbb870a455ef1ca1e55b85e07d9143cb99d4cc3b8f482dc53ac7",
+      "targets.json": "c352bb2d292128ad679eb0c420d70d5c4838dd03602f2ddb83f5a8088c3c2ea7",
+      "trades.csv.gz": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "ytd.json": "6a8d29122d04bf71ee09ddca1ba6fda06d8116aa70a0d6f440529b738b8d9608"
+    },
+    "upstream_account_id": "reset2026_QQQ_BH_5bp",
+    "upstream_native_evidence_sha256": "252f90155cb30d874ac0832dd13f82b34156f86a6f91d1efd83ec9f5affd51c7"
+  },
+  {
+    "key": "QQQ_BH_5bp_continuous2022_2026",
+    "rule": "QQQ_BH",
+    "cost_bps": 5,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "09cd859df5a1d65bb648658f3825415bb0e6786cf1ef45f3d947812110a4901b",
+      "dividends.csv.gz": "41415566a5ace519e1d46e3fd33f40baf64a955fea782d12f00cfcb196906c8c",
+      "holdings.csv.gz": "9552717554136d883bd32c974760b32f8e22e34b07b3128b9bcc693c4e80ba87",
+      "native_returns.json": "2fc258ac19a1f16eafb0825fcad0046f9e6df6f2de901a13cdbe5b363387d59e",
+      "native_total_return.json": "130fc29fa9fa3d7e8c0d733a1d7800c397d008f9a9b57c1f3255dca056b552d2",
+      "open_trades.json": "c6612d8def99431d1d215fba50c8cbced9b344f66daa8a7dba17c00cb5a45b1b",
+      "orders.csv.gz": "b9eb8568b0bd1eb11b5a0f228a32b5fb3210a602a79b6765929e4e705d2fe913",
+      "targets.json": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "trades.csv.gz": "88e325dcdc446cce1f02f78c6a4438ac7aff981bb100e35229bd5c3039030f5c",
+      "ytd.json": "83b69cdb39a9cc06600d48fced1e271a2d7d65c9df9a4bd114812648e61ffa12"
+    },
+    "upstream_account_id": "continuous2022_QQQ_BH_5bp",
+    "upstream_native_evidence_sha256": "9658d3c33940303658059a282424b418ce47c0d880c8f2563994607537fa66b4"
+  },
+  {
+    "key": "QQQ_BH_20bp_historical2022_2025",
+    "rule": "QQQ_BH",
+    "cost_bps": 20,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "5695e9dd4b85f0940436846efadf93b63c184257b81f63f76893edd4452b47fa",
+      "dividends.csv.gz": "1ddfa7e2a659115f235323bd5e0bf7ae08a0ab2f86e8584cd3a63c7732db9818",
+      "holdings.csv.gz": "694e35be1a61da8c652b4096058245237f185da0d7245af8e13b9d88bd4b944a",
+      "metrics.json": "e9028c752945655856e5349fbb10a6c0bbbdb7ebbfff149269834ba979044988",
+      "native_total_return.json": "dd1af92905f9c2bcf73332a581ff74f7a1d1d06042d6fe1d4c846f6303140f65",
+      "orders.csv.gz": "1f9dcfc301e2774e7cd3765905ba329ef84104e144cdc6f888c64a9540e42b23",
+      "targets.json": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "trades.csv.gz": "fe9569e98a50e59c7dae9c82785081c187edca409c8fd9fd460e56ee7aeb45ce"
+    },
+    "upstream_account_id": "QQQ_BH_20bp",
+    "upstream_native_evidence_sha256": "5e9109cca188f178657e73ed8f0e3103968028915bec0753f28a7b4b9e339824"
+  },
+  {
+    "key": "QQQ_BH_20bp_reset2026",
+    "rule": "QQQ_BH",
+    "cost_bps": 20,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "4cc771fc2555c9e68ed9457951cbc0e7bc58fcda97f38a529cb23c1a64e62ff2",
+      "dividends.csv.gz": "b0a8451bffbd10a1153e1ce5b0108a754262f9a190c682a96bfbef35e46bb18f",
+      "holdings.csv.gz": "2043ba2103df110e5553ba430a1fcec21cbe6743644c6e528bfa2d3c450e2462",
+      "native_returns.json": "a52c2d9179604842c9a4a7550bb148be22865c311add904bda4c0edb9eaa6a5c",
+      "native_total_return.json": "a0ba0cbb0c72e850a0d92b25745368c08247ca729df45dcad9ccac55f0289f36",
+      "open_trades.json": "5c31138bbbae4b59481665aca0b7bc7199dc0d34d65b24fb36871b2fd3ba1d51",
+      "orders.csv.gz": "9211f13eea74998f2b86084990eeed3eae4c04875c055be46ecf8b071f8ad04f",
+      "targets.json": "c352bb2d292128ad679eb0c420d70d5c4838dd03602f2ddb83f5a8088c3c2ea7",
+      "trades.csv.gz": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "ytd.json": "22bad991dbbfaeccdeb7a2dc8a895e4b9057c470a3fc759ce0191934cbb394a1"
+    },
+    "upstream_account_id": "reset2026_QQQ_BH_20bp",
+    "upstream_native_evidence_sha256": "92b5b1e552c3c36c63a589b27ec3c833db48b5c9938fb5f377fd69fa2eaab11f"
+  },
+  {
+    "key": "QQQ_BH_20bp_continuous2022_2026",
+    "rule": "QQQ_BH",
+    "cost_bps": 20,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "ae27aa8b51080eb522780992417e734b07dad1ab8837562db134562117eca25e",
+      "dividends.csv.gz": "9d811ae1e07f3b46a7335e74558d0e07add14212f803f30f27cef566180fd957",
+      "holdings.csv.gz": "5a0bc2209e3998bfa7ecb638929e444fc468472a84689b7ec50628dc209800ff",
+      "native_returns.json": "b5f74bd53f83a4a432ad4abf877d96993d86f0d8cd9098d65b454072127ca1e4",
+      "native_total_return.json": "d6bb3fb56d783899783636b4aa9a7b0ae4ab712571edd055e275a57c44084c42",
+      "open_trades.json": "38d100282a061a67c8a01867790128fe4e77163875f3e11eb6912763c18f0544",
+      "orders.csv.gz": "29f665cf084921d2bc5299f3011d34a2d77fe8afea4322fa6475e62a8add59cb",
+      "targets.json": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "trades.csv.gz": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "ytd.json": "1b89319a8f9845306fd7a077f726afb73e2422d9abbda1ffd212d32d3f03a89b"
+    },
+    "upstream_account_id": "continuous2022_QQQ_BH_20bp",
+    "upstream_native_evidence_sha256": "cabfae8da7d09417989805072eac5b7be5eb319145edab28efeb3ea165248ef5"
+  },
+  {
+    "key": "SPY60_IEF40_5bp_historical2022_2025",
+    "rule": "SPY60_IEF40",
+    "cost_bps": 5,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "6a7419b9dd6656bad19af3736e17f649977dd466b6e7c55f8bc622836c103a17",
+      "dividends.csv.gz": "6153103d3c0470160ad23f2ce3e532226d495bc20bf116aafd4361d467ecd8f2",
+      "holdings.csv.gz": "0f8d0166baadc64690a35d46585045d35342b441822c1221bdf252a728b1e0c6",
+      "metrics.json": "dc62af32640bb36c69bb873f466d9d335505232469bc220df5226c8cb7b7ad2a",
+      "native_total_return.json": "2b1771c07fba86a40167356fdf0b86169f42c3078e5c7ac36e8e1a70cb6a3632",
+      "orders.csv.gz": "da3255c41de870ae32d3add7ed4a5db91829c65d8b05eb2dfc64d19f60b5a878",
+      "targets.json": "665bff935de6f44034ad4ddd48c7fb3abea4adfc9ec16e61807326bce9fe1f67",
+      "trades.csv.gz": "3ad5abdf36d42042da9f91b6ce38021e6cad3637c84b8a6af54e16f360d79821"
+    },
+    "upstream_account_id": "SPY60_IEF40_5bp",
+    "upstream_native_evidence_sha256": "3f36a7e6ed18c1ba2fc1618d537aec205ec41db2f22714433d6fb8a151932a2a"
+  },
+  {
+    "key": "SPY60_IEF40_5bp_reset2026",
+    "rule": "SPY60_IEF40",
+    "cost_bps": 5,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "54848d7e7f0143b0d4141a0ee2d9b28d9108c05eea19c6f16873422a6686af69",
+      "dividends.csv.gz": "52e25f35864b646548f91246f0d08dbdcbb9d0798aecbb91433c8e8ade347805",
+      "holdings.csv.gz": "b0984fb0dbbcd1daddf8d404d67eef7168f109f8bfc47209896209b4b470cbee",
+      "native_returns.json": "d1534388819a0b5032238a247f1e393969495b7bb3c0b73067e551f4b6667387",
+      "native_total_return.json": "42ddf3ffbbb23afadac14b43bce2cc3146f7766e3f61b718fd07475b66325807",
+      "open_trades.json": "e2414ab1847a1aa867361183a27122c4ac7dbca085f455363cdc4f37cb99e914",
+      "orders.csv.gz": "01cc16a21fa1b6199e1a0022285c6dafb97807b5460cb73340068c2ed596209e",
+      "targets.json": "dd855a8cabe6b9bb7d9b57f69a6f21b56b95cdcd76b9150edc8c87cb6e2a7449",
+      "trades.csv.gz": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "ytd.json": "1a5c7b047504cd9d7adb9b5eb125bd5d54c1f25f6b757ed3326f880843767cda"
+    },
+    "upstream_account_id": "reset2026_SPY60_IEF40_5bp",
+    "upstream_native_evidence_sha256": "b1598e23dc85e8148bd9032e01c697df12671722f77610bf296f9052ddc614e1"
+  },
+  {
+    "key": "SPY60_IEF40_5bp_continuous2022_2026",
+    "rule": "SPY60_IEF40",
+    "cost_bps": 5,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "2821723a852b09a761c5c09f7cd7a34f99f29672f93ec1e0d05fec9e4f6f5a73",
+      "dividends.csv.gz": "a6d1695990ca12545fcc4699ae7a9697251d5d39a5761dc546e18db10ee3d16a",
+      "holdings.csv.gz": "4157dbd2c52a26fcd7aa172bbee8df020032842324773f103c3f608b3da3c1e1",
+      "native_returns.json": "cd0e0cda98490748bda7ba7d40e92d83ced7bad844f3a0291a52f1079e483c48",
+      "native_total_return.json": "a32aea815b0dece6d7c76c701c3a6b2d26d2cd3bd13744710cee825379477c41",
+      "open_trades.json": "c49df4f5eaa46e943d9cdc79ea8312c2af757feff292a285be40b08db7d88d50",
+      "orders.csv.gz": "84c86eb4d9380565ba7c39ed5a26ab26cc1f3502ac4114161364c7bc7f2cd96f",
+      "targets.json": "38189975f67e32c97a20d05ff16c34a95fd1410be5fc312c3e7b1525d7be90ec",
+      "trades.csv.gz": "78e325bf0f962458a46c8ca0c5c1bb361401aaa64a88ca038bb6547aa337c50c",
+      "ytd.json": "8d89172445d81bbde88bfbb26776b8d578d2bbed2063aa8a9bcd444d673ec8ee"
+    },
+    "upstream_account_id": "continuous2022_SPY60_IEF40_5bp",
+    "upstream_native_evidence_sha256": "cb0e33f19b918f0c4b552571cb9a8bb1b9e0a229f0e4f9c25a0db6ecbd8ea850"
+  },
+  {
+    "key": "SPY60_IEF40_20bp_historical2022_2025",
+    "rule": "SPY60_IEF40",
+    "cost_bps": 20,
+    "cohort": "historical2022_2025",
+    "reference_files": {
+      "daily.csv.gz": "c2a3939ea553d747985d79d77b7ab817887cfec26a2168fba42675b1dfc656c9",
+      "dividends.csv.gz": "14504130b1728e9bd328fe9ab4a0a7da4ded48cf5f86b551b760681c4cbcf142",
+      "holdings.csv.gz": "377616eb85b4a3ee82b6dc15783572cd574dc046609d6b47ab6ac33b0d14757a",
+      "metrics.json": "3adc97e5f67fbd265c46e24ca5d10d9d9c831c617724a535cfdccbf801c29d81",
+      "native_total_return.json": "0dd0ee07cb99fe9aa0311e8e660bbed5e9627c914fa6532870c36c9d44f9ab40",
+      "orders.csv.gz": "65788551d37003dbe79241c90c3250a97a9085f82e469bc6c3f2963ceab1797d",
+      "targets.json": "665bff935de6f44034ad4ddd48c7fb3abea4adfc9ec16e61807326bce9fe1f67",
+      "trades.csv.gz": "417c6ab810da8c6a4226ac173971a969e74c8d568f75fbf4f99452603a954a49"
+    },
+    "upstream_account_id": "SPY60_IEF40_20bp",
+    "upstream_native_evidence_sha256": "f335d904753dd9f86612ca2133016c39bd3af7054b36363b0e440cf7871ef02a"
+  },
+  {
+    "key": "SPY60_IEF40_20bp_reset2026",
+    "rule": "SPY60_IEF40",
+    "cost_bps": 20,
+    "cohort": "reset2026",
+    "reference_files": {
+      "daily.csv.gz": "a72e27d22986779710a07cfd74012f9c7cea84c8f93995bca34ec93c1abde23b",
+      "dividends.csv.gz": "764a781205b516b618467f4a24d6c196264f8847b73ef1ff4bcad7f6b36a1e1d",
+      "holdings.csv.gz": "bfb03aaeebf5e25fbd91d3c6b8b5e1719eb78a31a3850df7754fe98848444d10",
+      "native_returns.json": "66ba8f0fda0e72004a14f319ba9fea23330096f2b2dea0de0a8f86c9452d6094",
+      "native_total_return.json": "cc484cc35cb28d135de38605f7feef2863dba340522391a5b2c29d6c0823f169",
+      "open_trades.json": "570fa46f7f775bc6f63f9db06521446ef8ce06c145598db4b5db9bd57aa7599e",
+      "orders.csv.gz": "deb4b43bb2fd0054753b106b78aa683f985e9d5bde7d1dc1cc36592afa794872",
+      "targets.json": "dd855a8cabe6b9bb7d9b57f69a6f21b56b95cdcd76b9150edc8c87cb6e2a7449",
+      "trades.csv.gz": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "ytd.json": "1b5e7173adc711a17b78d617a0e7e175f140bb9bd69f60cd1bf4fe94aaf15320"
+    },
+    "upstream_account_id": "reset2026_SPY60_IEF40_20bp",
+    "upstream_native_evidence_sha256": "cf9093362e6a1f3d99bf3f30f7d44e3a0225dc43e316be680c4f8f4de0319896"
+  },
+  {
+    "key": "SPY60_IEF40_20bp_continuous2022_2026",
+    "rule": "SPY60_IEF40",
+    "cost_bps": 20,
+    "cohort": "continuous2022_2026",
+    "reference_files": {
+      "daily.csv.gz": "1e30cbe3164e1b5d17ca121f05a8989ba6fda7cfee3a762de4e80d544676f8a3",
+      "dividends.csv.gz": "9415605d3e3b29b9617943b87a0546457836c30e1e3e91f9fc5f31148378f3ad",
+      "holdings.csv.gz": "ab1e58293624e96e1b801b65410f32bec4e2a4679feb56b267a050add06743ea",
+      "native_returns.json": "fd3a5feca53a715bb4d112688d6b95376ae12a730dc8e1af9ed4d52bf8f106ad",
+      "native_total_return.json": "4de52ae9565df4789a2f5f73fca15622e0690f1b3e466bb0d1cbe2fd9d61473e",
+      "open_trades.json": "3559e1915326a551a783b3ada02ff9e486936706d03feadfa7e47f0656982903",
+      "orders.csv.gz": "5f12039d7ae8272a33deb32db77ad6d78626a478cd65e1246cf144082c80caf0",
+      "targets.json": "38189975f67e32c97a20d05ff16c34a95fd1410be5fc312c3e7b1525d7be90ec",
+      "trades.csv.gz": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "ytd.json": "ae04ea36f5daf52bc2e4290b55afee28cb4f22b6ae09c2561da913860ca3d6b4"
+    },
+    "upstream_account_id": "continuous2022_SPY60_IEF40_20bp",
+    "upstream_native_evidence_sha256": "91c983bc4b3e25731adb3bf97356a76d559bcba1683f262022d1144d06a36113"
+  }
+]
