@@ -1,0 +1,25 @@
+# Locked from original verified Python 3.14.3 environment.
+annotated-types==0.8.0
+backtrader==1.9.78.123
+beartype==0.23.1
+contourpy==1.4.0
+cycler==0.12.1
+exchange-calendars==4.13.2
+fonttools==4.68.0
+kiwisolver==1.5.1
+korean-lunar-calendar==0.4.0
+matplotlib==3.11.2
+numpy==2.5.4
+packaging==26.3
+pandas==3.1.1
+pillow==13.0.0
+pydantic==2.14.2
+pydantic-core==2.50.2
+pyluach==2.3.0
+pyparsing==3.3.3
+python-dateutil==4.0.0
+scipy==1.18.1
+toolz==1.2.0
+typing-extensions==4.16.0
+typing-inspection==0.4.5
+tzdata==2026.6

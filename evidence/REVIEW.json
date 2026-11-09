@@ -1,0 +1,35 @@
+{
+  "scope": "Public package review; original core/data unmodified.",
+  "date": "2026-11-09",
+  "reviews": [
+    {
+      "area": "mathematical reporting and disclosures",
+      "status": "PASS_AFTER_WORDING_CORRECTION",
+      "checks": [
+        "12 full accounts and 48 annual rows independently recomputed; maximum error 4.44e-16",
+        "576 monthly rows reconciled",
+        "108 reference and 41 market payload hashes matched",
+        "current AUM bias, reused history, negative evidence and v2 distinction disclosed"
+      ],
+      "finding": "95% was imprecisely called a continuous deployment cap; corrected to target budget and disclosed 96.17% observed drift."
+    },
+    {
+      "area": "portable Backtrader adapter",
+      "status": "PASS_AFTER_TWO_BOUNDARY_FIXES",
+      "checks": [
+        "12 core source files and target file unchanged",
+        "60 reference CSV ledgers and 41 market payloads identical to original",
+        "feed order, top3 execution shell, split/payment and terminal-open semantics retained"
+      ],
+      "findings_addressed": [
+        "TargetRecord rejects NaN/positive infinity/negative infinity with RED-to-GREEN tests; verifier checks finite differences.",
+        "Report now reuses the fixed account/task loader, rejecting relabelled curves and modified research windows with RED-to-GREEN tests."
+      ]
+    }
+  ],
+  "limits": [
+    "Read-only reviews are not native executions or live-broker evidence.",
+    "Third-party data redistribution rights are not granted by the code license.",
+    "Only twelve fixed accounts are rerun in this release; auxiliary research tables are historical evidence."
+  ]
+}

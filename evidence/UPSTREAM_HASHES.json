@@ -1,0 +1,2191 @@
+{
+  "description": "Original input provenance; upstream raw responses are not bundled. Canonical inputs ARE fully bundled and hash checked. This manifest records lineage, not independent proof of supplier correctness.",
+  "source_manifest_sha256": "8cbf2a1b09d956fe9a3287c83953736dd6e41058f9818ab8d3b85d10b005e526",
+  "sources": [
+    {
+      "original_path": "inputs_large36_return_safe_20261108/MANIFEST.json",
+      "sha256": "5586825a2c60d62be79f38ebc245a8c86a9679cf0524f12a5ca8cbb15b95d59c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/IJR.csv.gz",
+      "sha256": "1aeef31102582f5a6d499c2fe2feaf23b0fcfbdb888fe4ca1639f7f9f7786aaa",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/SPHQ.csv.gz",
+      "sha256": "22ff0e6d65e6993ce796904b1098dcbfa8ee86f49fdd764b7a4d6ef0a95a97e6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLB.csv.gz",
+      "sha256": "ab21ce9671d3e7bd499b890d4f58e0e77049e7114c8ab69b7402953e6327f7a2",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLV.csv.gz",
+      "sha256": "6ea84fe78c990ecbb356e8d59e5ccabf23e0c00d2fd003597fd5e36c4ac28fbc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/VOO.csv.gz",
+      "sha256": "22bfa2cea523f6837f358ad6b795b16bccc086815d92832ebb121e2e528f9b6e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/INDA.csv.gz",
+      "sha256": "ee255d6d0c3a249bcf9486f612d0b52f60196ed43509445049507f68a50f13b8",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/SLV.csv.gz",
+      "sha256": "d55b1ab847c80937c28256646854c95f6a12ead453baef8ca69f3505159bd56d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/GLD.csv.gz",
+      "sha256": "04c525d0387824b48ba935aa7f639f956d54a35d64d0a4a063c031d934ba92f8",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/SPLITS.json",
+      "sha256": "f6b2fafad558ac025119c8a755eadf24801f5ebf18dbd0dd2c7d72b4ecddb9f8",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/VNQ.csv.gz",
+      "sha256": "17536eb4f817fc3526e22bf0867c45b5bb5470c5cdf08815a598e1c918de5e5c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLF.csv.gz",
+      "sha256": "53653062b3ebd45320f07251c7cde3d5dc40df775be28b80bda957571c296d29",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/EWJ.csv.gz",
+      "sha256": "908ad54b0bf3da0124c0c883f9c31c9e4966c5af3b5a9e3e658b83fa3f6e0713",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/SMH.csv.gz",
+      "sha256": "2ea34107df505568b0af4628864c7b6e9357230725883dced9a52d2f96eb2ff4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/SHY.csv.gz",
+      "sha256": "46e25e5ca5a06075109f68c150984895e035a6d166f12ac21e4160306936ab43",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/VEA.csv.gz",
+      "sha256": "a38eca810d5a74ce86bc9c7a0d0954e3f6da5c7060beb29a95ffcc1b314a0f16",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/IEMG.csv.gz",
+      "sha256": "9cd42633f51934d39f3cc440a746b2296049584bca6d6d4d35803300b93bf56c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/MCHI.csv.gz",
+      "sha256": "59eb62d8009e4a645b49a78fabac1256d3a129247252572a27dc6dcdd4654a2f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/TLT.csv.gz",
+      "sha256": "0fda3606d65b60a8d586106b2f979e760d111b310eec99b771547abacb3433d7",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/QQQ.csv.gz",
+      "sha256": "d23ebdf9261d6dbcd8e16449f7991cb1649c96b5819c16836f71bf062e663f84",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLP.csv.gz",
+      "sha256": "67e09ec432e7facf1edaa32410f15b35ef8303ad3f1ae5e16e93fc026ae9f530",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/VCIT.csv.gz",
+      "sha256": "2684aa61cdc7a24a5725a205df1149abb48766edda61ddfb54b2d58a0f766627",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/VGSH.csv.gz",
+      "sha256": "8bdf9e6fb8036dde11e8bccb01008a3dc83ba332fa2d489488d65dd2532f8718",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLY.csv.gz",
+      "sha256": "5ab4b1a6e3736f158b2eb0734bfd4f1744c4aba29b4630fb84bf09adb4cd8174",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/VTIP.csv.gz",
+      "sha256": "e2d3fde2b442d3b116720d4be524f3eb0ab1142b648a6c8fb5c59806aafd1402",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLU.csv.gz",
+      "sha256": "5e2f5437853aa010ed7b79373678801db284e1bf87c4fe1790b0c0c11c0ddc53",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/IEF.csv.gz",
+      "sha256": "6a55fd049a1328ecab161c4d1d96dea93a6f4eeac7e800fa975b0c0aca723864",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/VGT.csv.gz",
+      "sha256": "2318191f06041fcb76c09cddfca35f1d235593b52e0b2a484044c4eacf2b82e4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/MANIFEST.json",
+      "sha256": "2b721724fb9fe4e0729847fbcae96f2eb59683f663623eb10eb3ca4c41f5e198",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/SPMO.csv.gz",
+      "sha256": "2820eb2274650e932eabb59aa55460e918524d3d0bf1895fb30f10bc3f666162",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/USMV.csv.gz",
+      "sha256": "712f299a218886e3b41a343c6f8e5a821b0dce0c26acb8e39015c5793d957f8c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLC.csv.gz",
+      "sha256": "3dd87299677cd07cc63a6a6151bc673084d073349fee62bb84687674599f23b3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/SCHD.csv.gz",
+      "sha256": "82906ac6cbe6a082ff73fcffbc13d3e08efd5c3417c21efbb3975bfce03f541f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/SGOV.csv.gz",
+      "sha256": "39eeb1a314646e0f45f51ffd075b6c43291301c951c087439accd1401f9246f0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/CASH.json",
+      "sha256": "2e9d47ca0f5882f2f75d9f2bcc749d3953cc16fe0d548532d13b81eacaa6fa2b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLE.csv.gz",
+      "sha256": "1d90cef130c96ce7e5faeb99a159d1b4f883912e04c8243774ac81bf36c4b9a1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/XLI.csv.gz",
+      "sha256": "ed0b313d13daa08d9edc62370d8cd20ad9937c3292caa35b2440849bc373a9e1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/PDBC.csv.gz",
+      "sha256": "1a51d8e6a1730b3a8de37d7453487c2a25093615da1e0e2a0e75a1138126c28a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/USHY.csv.gz",
+      "sha256": "7ee55fdf1e6924dc5b6e252634621515be6513683df5d03be74e4eb6d77a606b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/BND.csv.gz",
+      "sha256": "8fa9d53bc08844a112f1ea7922ad1136489dee30c3e419e26f23d8dc2f215bfb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_large36_return_safe_20261108/full/VTI.csv.gz",
+      "sha256": "15a563f2840bd21a8ec8e624ffdd5124c85eb034fee3312ed49dcdaae728e8f6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/MANIFEST.json",
+      "sha256": "f1a4f6a014fb632424a9428a07952a45d1652feaa683ce13f695fecc0a2c1502",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/SPY_prices.csv.gz",
+      "sha256": "455ed43c4baeca3c10e455553b6f6611622a52bc142e469b57571a849776109f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/SPY_cash.json",
+      "sha256": "27a7cafeb7c31d340ab844356e0db8eb76adda616e6cdf1706c6a99d49484320",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/SPY_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "research/ETF_UNIVERSE_FEASIBILITY_20261107/AUM5B_CATEGORY_POOL_PROPOSED.csv",
+      "sha256": "dc826cd173d3db0202ee11eee4d072bc2c4d27037585bfe1a4b2671eac8439cc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/MANIFEST.json",
+      "sha256": "17d34ba4b4283b0caa2103f7b1c765e463979a7b4c19841ab73c00ef5040cc8f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/PRICE_PATCH_RECEIPT.json",
+      "sha256": "f9d789b4d5eb8d742dadfa6de4a0cacb9bdf0adc3906e8d153584ae1fa89a823",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/GLD_prices.csv.gz",
+      "sha256": "511b1123d988b5ad1d147a3ceacc186d05afdc98ebe59abf5817c383976c4b7a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/GLD_cash.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/GLD_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/IEF_prices.csv.gz",
+      "sha256": "83b8cb0c3dc8b8cfdf2dc46912968d4af69f3794752f4dfa51809e3077e176a3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/IEF_cash.json",
+      "sha256": "c2b14f2025fad80d0a0a573021e8da86f0c40f3a155430feaea6f3024a76942c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/IEF_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/IEF_manifest.json",
+      "sha256": "d47a14664e178136f3707e46ba00692af450c47422c42ea46f40f0de8902e0ea",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/IEF_raw_page0.json",
+      "sha256": "c78046654cfbbc58546c0697f08cb4b1f16a9fd5e0f2569000b8cd9ead1f8cb1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/IEF_raw_page1.json",
+      "sha256": "3ea2cc66d3dde3be3e9b697df7355bedde652b19238c37aa95257cfb139bb2c1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/IEF_raw_page2.json",
+      "sha256": "4aed4c1f0c0966a2029e881725334d85c80180847dff879b83a035e0a2f51878",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/IEF_raw_page3.json",
+      "sha256": "65608cd6fcd8534acff15819bd612b41f91bcf2d6c423b0a749accf2d01d7470",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/QQQ_prices.csv.gz",
+      "sha256": "39d55ee7db8c6817b7c8896b9073128346ec0c1ace2898469655b90dc5ac5e3d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/QQQ_cash.json",
+      "sha256": "2d86643353896cc536b14bb3a71c8dd9333a731ece4bbdf140be1f9895f3b375",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/QQQ_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/SHY_prices.csv.gz",
+      "sha256": "0b5c0f82e5582db88cf17a7e9c4a3007b4c2b04e6ba4eb2bb84ee4ffafb95093",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/SHY_cash.json",
+      "sha256": "15cc343a501d62fdd7e0e3ba5ae143eaf9f24c7281047dfb1e496508b391b33e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/SHY_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/TLT_prices.csv.gz",
+      "sha256": "0ec7fe1513662d3323c54989fa7466e27ebfd02016bda9d1c2184401147ac480",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/TLT_cash.json",
+      "sha256": "d5b6da7495149fc37978a4dd233ac886462b8fd77f55e99272abf0ca955106f6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_next_history_20261108/TLT_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLB_prices.csv.gz",
+      "sha256": "cd3a16fb69d0d0ad670f19faa90c8c63aa1e8cf03473ecafc7989c528fdcfcc5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLB_cash.json",
+      "sha256": "731a4065700e08d824a70e4930dd33cb55c878ca1046b6b7641229f6a7f0bbc0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLB_splits.json",
+      "sha256": "c0489f99cf5fb6e903fe82e09ac4d2f3611ea26f343112f75d8154c99e18d2e4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLB_manifest.json",
+      "sha256": "989b1885a0d581802eaca4eb83673d07d727e22b5f8f00f587a2da956313c5a2",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLB_raw_page0.json",
+      "sha256": "59cd08e470e0adc18488345b4c5c85febd10ce33147d342fb2f4a38929490261",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLB_raw_page1.json",
+      "sha256": "8a30eb63199cbd92776bb120f5e3c7268e5c6a9c67ec22974ee7ae9927696017",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLB_raw_page2.json",
+      "sha256": "4901e801b36485ff50318db57bdb35759dd39ad342a3ba138543cc7a21325e21",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLE_prices.csv.gz",
+      "sha256": "80cba67dedb174cb49e44bc1e9588dd35a889db6f5687af7c12caffa738097d4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLE_cash.json",
+      "sha256": "e64edc13325f338ce518a679297bd0b1b5c0d883a02abed6969ddf9effc3ffa9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLE_splits.json",
+      "sha256": "49731cecfe38f2d664ad80947d1abe08c7010727d9fd19c8126817877ac9d95c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLE_manifest.json",
+      "sha256": "4f2739bd417f0b84d87cc117aa2a32c06818d67bbe454bbfb9b3d9dcc895e392",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLE_raw_page0.json",
+      "sha256": "eea46a77f786a92598ad894190e123c73db475f9b5d475408c89bdbdd69b936e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLE_raw_page1.json",
+      "sha256": "84bdb4e104b1144ebb5eddd26d79e640325eb4bd5228be96b66988a118188537",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLE_raw_page2.json",
+      "sha256": "d8be6f610334b69c6a2b0294905ebe2592d3c5a40567826ede8f81ad49d15ba0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLI_prices.csv.gz",
+      "sha256": "346c9c95e5a1f651af0376c5670f06860cb56c07ff1e60f5209dd5aa31325202",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLI_cash.json",
+      "sha256": "91de74cd8420faadec180dfff8340aca7921bfddadcf8f09933527a1e4252004",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLI_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLI_manifest.json",
+      "sha256": "a078859589fb52c0d86afcd9ab5d01f8aa539436cfae652cfc30e01daf7c103f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLI_raw_page0.json",
+      "sha256": "5e07d849055f63f8f5185724540c12f5502fc16c35336612f919797681a62e6d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLI_raw_page1.json",
+      "sha256": "8812e02d7ee2a3d2b44df97cc983ea78e189286ba030387cb62a92c34e9a0fb7",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLI_raw_page2.json",
+      "sha256": "5d730492d01ab44205f089f0b72034219afee1f6cded620a5575ff4fd7050b77",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLP_prices.csv.gz",
+      "sha256": "3a55448cc31e658ea7f2dc9ad8384e9af9ffde37e275eb836639e9e7a755aee3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLP_cash.json",
+      "sha256": "d944b5ffa08b834f6d54e29ad1b2957b77337450917c003fff856857b6644247",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLP_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLP_manifest.json",
+      "sha256": "746094206294cb9960978d5516e63ad64be3a6f12e64428732b33f4303e4627d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLP_raw_page0.json",
+      "sha256": "4bf8b46c77b1bafd1c99ba8f38c828e693b8d52cf7b018d0a70c39acaf86e0c6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLP_raw_page1.json",
+      "sha256": "760662b8090c35752db4f6a43ef6fe7226d302979f2c0f939f29d56e45826f6d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLP_raw_page2.json",
+      "sha256": "fd269e1e7a63fb8ce8b59530be09b92ef46c9349260a509a9f196e3724ee805d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLU_prices.csv.gz",
+      "sha256": "6b18c267ea2c4f6960b690ee3631c695d0c249256b3878859b56af9b151f48d9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLU_cash.json",
+      "sha256": "5baceedd999d84131fdf9e4a9d99fdf039bef89bf3efb3c55fee539c69282615",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLU_splits.json",
+      "sha256": "54ed23db7e2ea39c2bb2c40bb44d6f21747b89782c11cd2881907fbf989ce5a8",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLU_manifest.json",
+      "sha256": "ff948efa328c4589cb0de93780ad213b6877e4529c31e76b31566c9e79bca78e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLU_raw_page0.json",
+      "sha256": "c2ac60a07727225216d3c781a9a2ed94b62ddbb1ddd83ee62e7140ded23091d4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLU_raw_page1.json",
+      "sha256": "319c2697194908532340f745721ba88e8a9bd223f3cb922b9ea2af1628f7797d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLU_raw_page2.json",
+      "sha256": "25e2099ec0cb554aa19efb7b997e41cb14a6e516bd1d107c46acc47d1b9c66b5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLV_prices.csv.gz",
+      "sha256": "b4b2a11cdae8cf2daca648a9051050c9a6dab4c3f1e58cf4c35c6a6ad25bc5cc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLV_cash.json",
+      "sha256": "a5a57094ff46b4200f3cdeac778d96e83c37d74d4cc778605ea577e4c7cd7924",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLV_splits.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLV_manifest.json",
+      "sha256": "137191c91324a161a156fe1c4352d8ba9c8219a6ee26ace86089409bceb4954e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLV_raw_page0.json",
+      "sha256": "7cf72067fd1546cb3845e05d3c319a51719fbb2546d6cfabaa070ec6dd92a4ee",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLV_raw_page1.json",
+      "sha256": "827a1d814a0133b26e36c262d32e2cd684189503f66e2b6a472211571fe65566",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLV_raw_page2.json",
+      "sha256": "979228da2571722a9ececa7c516e104ae71fd71fce5d8ca6442bb117414ba54c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLY_prices.csv.gz",
+      "sha256": "1db1dc4a45cb9df099a35d98511d2fafb27f19a11e231ae5aa58e37f2342d2d9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLY_cash.json",
+      "sha256": "4312a26b19210b5de7542cb609b920bdd17e6b81cef4a425501ce38eb13b4c60",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_canonical_20261108/XLY_splits.json",
+      "sha256": "ca56c9f0aa4f8878285452d05ccd9d3ae2d1057330c7fb17b7038befd99ca683",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLY_manifest.json",
+      "sha256": "8767118bb9930e53c736d6883b0df2167a132c2d8b51a19b0b89451e2aeff31d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLY_raw_page0.json",
+      "sha256": "75de3f4735e40c89fcca54542ed9469ca39d4de4382594fee1228c7f3d16b3ac",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLY_raw_page1.json",
+      "sha256": "150dde432b08e865fd33938c11402a2a6d198c1643c776d7b396a862e63f6ba9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_history_futu_20261108/XLY_raw_page2.json",
+      "sha256": "981e89bc681b68510a598721d3c44d2739d107cdd10fd21071a4ce55b055fcb6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "research/ETF_ROTATION_REVIEW_20261107/LARGE_RESOLUTION_RECEIPT.json",
+      "sha256": "01ba147993567747a086be49472ab794600c20381f8e1340a3b27cd7bbcf88e3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/BND_manifest.json",
+      "sha256": "0f22041426166a16b6d7af130e7635293ad365a8a5c6c1d0756d4fccc1f75bb3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/BND_raw_page0.json",
+      "sha256": "e5c24c47ebdb8b4f157425a198056948b8a3b39dea9ae7e03025b500d960a48f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/BND_raw_page1.json",
+      "sha256": "aa305db411977b2d9d7313f0b7960396a2b6bd333fdca278afacdfab74bccfbd",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/BND_raw_page2.json",
+      "sha256": "86cd8ba5a3c462cb68c9133d2aaf540cf94540ec4753712c8001a2e5e9bf5efb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/BND_get_rehab.json",
+      "sha256": "19fb6649f63a9500f97d224aeff3446150a0463558aa1047c2b78ce5141b9a9b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/BND_get_corporate_actions_dividends.json",
+      "sha256": "ba1913c932c550295e7b6e3512b5184df1c90d4740d2c5d5e84d69848bb83589",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/EWJ_manifest.json",
+      "sha256": "b6f7c165ce45964e035debd91d0fc788639ec37136c50c8a93b354a8355b1545",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/EWJ_raw_page0.json",
+      "sha256": "6fc1abfb712412179e7b2e95a8ae719da46ed6ecaac1fce16466b81a40a9a99f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/EWJ_raw_page1.json",
+      "sha256": "881def0ab7d8bb03a953135276328df057d24d54d358c2ebb089bec3fa4e502f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/EWJ_raw_page2.json",
+      "sha256": "ff60c0bd20e5faa6196be0411121fe114694698d89c211cd97bcb19afa72e676",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/EWJ_get_rehab.json",
+      "sha256": "69e73469e6de1aa5cd6aa95e32f2f2cbebc602dcfef4a511e7efabdf9519e073",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/EWJ_get_corporate_actions_dividends.json",
+      "sha256": "9a0ecafeb077664d3a3dd229aa6507db2d360f3218984045dc02898c648bae43",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/GLD_manifest.json",
+      "sha256": "160f6744db801decc590ea11e25a1efd824362780bd302a79a16cf72efdd3e62",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/GLD_raw_page0.json",
+      "sha256": "020a92b1141edc5fd9b209b51f8f532fff7e68b4d88fdda4d574f84eaf4cf021",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/GLD_raw_page1.json",
+      "sha256": "6fb270244a91f100d9ef579770eed96796823375efd2624a7a3bcf4b7aebccbc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/GLD_raw_page2.json",
+      "sha256": "13d28ae4e9f1493b871d897fc4ea38c434984ae99b39afd933bdcd0f3852806b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/GLD_get_rehab.json",
+      "sha256": "ace810d7e2cbb4f8c40ce09dc8e191ae466adb4e1a7d49c59f2215b411d38b05",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/GLD_get_corporate_actions_dividends.json",
+      "sha256": "bae9dae24618b1ba5ee3fc0fc751386fb6a104643382f3c866442bfaf79107f3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/GLD_rehab_futu.log",
+      "sha256": "0c1bb1af755b7a205c4e3487e73f9e21ab408605e1dbf26224ef6ee26d534826",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/GLD_dividends_futu.log",
+      "sha256": "259563a8ef7fa84f9584eabd5143cdde58e330b2c1c2f70d97abb35dc57c5716",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/GLD_dividends_nasdaq.json",
+      "sha256": "b89695b4db2c5ddd1a7ff40f2e2872a52096a694174195396b0fcc9097d47071",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEF_manifest.json",
+      "sha256": "075d102336930e3c26c8c2c58b8f1fe2be2e7aa8b2efbb82ea296e2b91ee1029",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEF_raw_page0.json",
+      "sha256": "42ebe065551aa84a47276a7599b0aff615bc92ab7564b0fae400c8ccc7e4019d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEF_raw_page1.json",
+      "sha256": "67bd2083c44b750fdda9e536dfe7294d137829b8af802bb390050dbce49f54e2",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEF_raw_page2.json",
+      "sha256": "727b707f9905cd410e742e9c638b333967e45b9ba5f422022563f8ee6736c6bb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEF_get_rehab.json",
+      "sha256": "7644d10511a0159c1b0b96bc9b7a7d8078ded8d6cb4d025964eeffcb6dd6b536",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEF_get_corporate_actions_dividends.json",
+      "sha256": "5cb25b5bdbeea86e6a55bf60c8d23d22d7d23db9ae41b6a71fea8b840733f299",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/IEF_rehab_futu.log",
+      "sha256": "2dcaa2c21cdd6ef8fc43a704d291c97292a2a3f9ac5b95c37c1bfe3fda92a8d4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/IEF_dividends_futu.log",
+      "sha256": "f92ac4c408584459addeb7e36a2d2585f07fa5e2db3a69476aa6ca46940f24bd",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/IEF_dividends_nasdaq.json",
+      "sha256": "63f62112762434cdfbb7b4d1597f2a0fd4d14e6c7405a10d8480538c7a069ebe",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEMG_manifest.json",
+      "sha256": "9c6ba6653886e7ff6eced4456ea3872d2d05d2d2f7f56bf626f45820b983b509",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEMG_raw_page0.json",
+      "sha256": "67b84e8a64d8fdea56da68827b13fb8790b233a7f95ed459df75a9f65f627078",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEMG_raw_page1.json",
+      "sha256": "0b3c826cd300c3aee274773b23f601cf082776f81a8b6499d2548e126fb449b2",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEMG_raw_page2.json",
+      "sha256": "0cc89ef9d85db6bcd3c06a8b0e912153d554e7d36d283861a6a1109279344d51",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEMG_get_rehab.json",
+      "sha256": "fdb01ea9f1b111d5da8729fa3fcb971125c3df311150d38d465daae843b61ae5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IEMG_get_corporate_actions_dividends.json",
+      "sha256": "92b89df204612434b56e0494323500363feae405b3971cf038d5c03cd9e161a5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IJR_manifest.json",
+      "sha256": "936e8a3ed2949ee39edd5f01bc3f98d4df4f91f129a1a4d77c0ac43a38e6d440",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IJR_raw_page0.json",
+      "sha256": "366b35908bdeccb30a2136b2af0d5c2d1aaa33087abe814ab596331d988bcc1b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IJR_raw_page1.json",
+      "sha256": "03c72f6c488b8ca2d2565b540b87e9811354a6c13e765194be087fccc7f5d9f0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IJR_raw_page2.json",
+      "sha256": "4ba5e3ef0448516082296d7a48e80f8a18bf06fd228fee9decbdd7c8c26c7db5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IJR_get_rehab.json",
+      "sha256": "ac521a9b8b42212f386d9b3818240cfb53d5f2c87d040c53f7f2483a7435ae73",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/IJR_get_corporate_actions_dividends.json",
+      "sha256": "347452571b86a7325ba66a2e813aef65608af3393096de5dcbbc1a16e10e3646",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/INDA_manifest.json",
+      "sha256": "d337c87068f92c0a832c63be40fc31ba8f282bd56df97f98967839378759d6a9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/INDA_raw_page0.json",
+      "sha256": "c08d5d91de669c3ba8fd52aebbc32140f3e49c394d2aad8252385c147e84cce6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/INDA_raw_page1.json",
+      "sha256": "6f31a331c0a2a2de64fa44a0b28187d26732ac4f1eff661aece507c28336eb10",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/INDA_raw_page2.json",
+      "sha256": "de46c13353b04b8f2abee2ea9d025b50654970da3984605e58289efc104c3ac1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/INDA_get_rehab.json",
+      "sha256": "78f622a716e79ff27065172f20ed909e49bf23e967c135b55b34726621ef1e16",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/INDA_get_corporate_actions_dividends.json",
+      "sha256": "649f7d69f2133dbc74de17b91bbb20d2e570cb0f5c845fee7a4b20e43801380a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/MCHI_manifest.json",
+      "sha256": "fc1bdc321f77bb1478970e941fe15b9459126b294f574f71536dd4300c5cea73",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/MCHI_raw_page0.json",
+      "sha256": "d25eb3ffa1ed45ba6fb71ec4652b8aff43b1be3b2412f1ee6d0830ddff3c3fec",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/MCHI_raw_page1.json",
+      "sha256": "10ccd2b93560235023a5ab3d253a91a469f3bfbd8d7add6045e089ce9d84b4eb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/MCHI_raw_page2.json",
+      "sha256": "91f2163e6ea5f8a976c3c2748e8a7154229ca85ba8383e71e5b70f7d6d81a880",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/MCHI_get_rehab.json",
+      "sha256": "f451eea8e528090559f482888cf31b2843471d8cad143250c8f3e519c02fe6fc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/MCHI_get_corporate_actions_dividends.json",
+      "sha256": "0774f84e9ed595e98cfd5e22402c4c6d2030e6a04c5331d7d6b12f6266565ca6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/PDBC_manifest.json",
+      "sha256": "c1fd9852c94bc339af54ea750d1bc8818a959b255a032cba3d19dd2f70621aeb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/PDBC_raw_page0.json",
+      "sha256": "ffb78effb2ca5c2665514e8d8e69631bc0375b6e487df72cb10312a67a2c4bde",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/PDBC_raw_page1.json",
+      "sha256": "b2323731eb5dc1e32d592f34e697af7c32b5c1b66410152b2e9249b19c61acef",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/PDBC_raw_page2.json",
+      "sha256": "8e7518a6caa3893c95f62db951bfeedfad67e2d4c0250770d52fbb37039a77c4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/PDBC_get_rehab.json",
+      "sha256": "ddb83c22513cacffab5ce46bd8e425c999d49b4896ea0a5f91c2eaf9e49bf037",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/PDBC_get_corporate_actions_dividends.json",
+      "sha256": "8aedadab723eeac0b3a30c8ca502c0acadd28350cd38892c1da357add08ad6bc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/QQQ_manifest.json",
+      "sha256": "b07233efa6c6448ff45205860c70f40e3a12f04ec0384a7ebee44227d37e1072",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/QQQ_raw_page0.json",
+      "sha256": "d07590c03fa697fa6794efebf8ad78eec914cd45ded3152d3ebd16b7d12c3313",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/QQQ_raw_page1.json",
+      "sha256": "a83f5e418c99fe6594ca2fdce72648b077eb3698b82e9b1d0b1e79e6b1d6cbbc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/QQQ_raw_page2.json",
+      "sha256": "cdc7621cc0e3ca2e26e345188b1b75a38d21d5216fc636f761ef9330261cd5f1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/QQQ_get_rehab.json",
+      "sha256": "666bb8d84e43dc01e325242ff46a46553cdae3b81cff6698d0654009300402cb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/QQQ_get_corporate_actions_dividends.json",
+      "sha256": "8b62d00966f5061fa55dc3f88c361633eeb1a5195cad93950e3a27ab3cdba72b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/QQQ_rehab_futu.log",
+      "sha256": "05e54dadb19048af8ff6b4a70f9a50dd93297ed0ad42d5f51ac3841c7346a9f6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/QQQ_dividends_futu.log",
+      "sha256": "d2b323a8eceea61b4787b46a2951e651e98c02254d85f5ee3ddf8dc5630cfea6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/QQQ_dividends_nasdaq.json",
+      "sha256": "10e287fa0af3ce9c87db91131c3d37659149bfbb47b8dd3d36f7c31e5468b673",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SCHD_manifest.json",
+      "sha256": "d0971dcc8a95ef548d7ddce14f2026542ba9b2c1313d58787415477f795b8091",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SCHD_raw_page0.json",
+      "sha256": "76b28fc936f544a1cd8f32e14a68628dc2079cb97c2bc62e5e3fb345cc7c2f07",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SCHD_raw_page1.json",
+      "sha256": "35a1a63444d988632d579a3a912ded481f77bb0d7f550501706a5697fd324a72",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SCHD_raw_page2.json",
+      "sha256": "59b665043374103b66c337699e2a39dadd3a6bcb4b48c93c0dd87963e832f098",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SCHD_get_rehab.json",
+      "sha256": "958c59f2e0a1b24aba9c874187f8cf63dce883cc1921e61d9ba5379a0236c627",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SCHD_get_corporate_actions_dividends.json",
+      "sha256": "3e5aa17e94199326e9695a6a7df560afddff8a90d3d33819cb79a26f134c66a3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SGOV_manifest.json",
+      "sha256": "8de4305f69dfad4b8c139d30ae525da1989dc74fb11bd7d82de14dcd2ba14b44",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SGOV_raw_page0.json",
+      "sha256": "dfe05f893ac32e9191970b6b1f9aa43cd7ccac16071e2d4790a0cf4f91acd38f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SGOV_raw_page1.json",
+      "sha256": "15d8870d6ff567118e4243f97c3abbdac0b590d2df649a800fae7e69a2001a7e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SGOV_get_rehab.json",
+      "sha256": "e2f7302b3293c6cc04c11ae610f97a43fff598afdb74cd124265be79e5271c5b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SGOV_get_corporate_actions_dividends.json",
+      "sha256": "151562d51cc624b976504688bc5af05e5985c97b39dc961e8e7a7e9801f5583f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_legacy_resolved_20261107/SHY_manifest.json",
+      "sha256": "35fb14a2ce9dc927a075808d949092954b795fd592dcca902206eb83dadb91ba",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_legacy_resolved_20261107/SHY_raw_page0.json",
+      "sha256": "92d2668ba55d27f592618d8a7eca2a9afa8e8c2257e969844f4256b48858e6b7",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_legacy_resolved_20261107/SHY_raw_page1.json",
+      "sha256": "fff0de8a381590b6bcb239623e06cabc27fe7feb927cdc5a1dbae9230624e931",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_legacy_resolved_20261107/SHY_raw_page2.json",
+      "sha256": "82c3e6d507dddd02f0a7f2ee3fdadf2b2d91b733543f7437bec1b0f1eb7e3d49",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_legacy_resolved_20261107/SHY_get_rehab.json",
+      "sha256": "a6fb596de2ea350288704a2cbf0af14cf4aee882a59306d2a74431427b30f5fb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_legacy_resolved_20261107/SHY_get_corporate_actions_dividends.json",
+      "sha256": "4027ce89f7a2939c056a20643bc697b2915395e56bab9acabe0ff5e52060a102",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/SHY_rehab_futu.log",
+      "sha256": "5ea6a5a7be1b703986cc6118de990fe2fec7f64bea81ff32319030b65e0b75cd",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/SHY_dividends_futu.log",
+      "sha256": "8f3f2432ee698c659dbac7a57b6c6ea5fd9ce71f7a4b3fa8ccdcd220c3f0b0d1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/SHY_dividends_nasdaq.json",
+      "sha256": "4eb4612a4cf4918a6efbe37e37b36b98b6977c568f4a2cb2b5d2d3e369d1c289",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SLV_manifest.json",
+      "sha256": "8930bab2e81f4104db548627463e5aadb07dc530d5f967ff00049ec1ca9ba577",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SLV_raw_page0.json",
+      "sha256": "153e559c46618e7f4c089f4a9bf09f92383a142f8df17f108412ba95762638a8",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SLV_raw_page1.json",
+      "sha256": "9c40c91cd4e0bb13a851bf3d313a3d321eec5ef871736466f9d8bc0168f67e77",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SLV_raw_page2.json",
+      "sha256": "fae1b2d9b451a72c95c198f89fa43b45e13cdeeeaf9b45fdd447839955c4ae75",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SLV_get_rehab.json",
+      "sha256": "1ef7bee24e7f40326e3f55c9d2a9f6641b28a3e1c8fd9bbb9944b8b83b821995",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SLV_get_corporate_actions_dividends.json",
+      "sha256": "bae9dae24618b1ba5ee3fc0fc751386fb6a104643382f3c866442bfaf79107f3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SMH_manifest.json",
+      "sha256": "689d6f666b52a731714cca990f97a5c7fecfcc545b98eb0197d07ad91caed85a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SMH_raw_page0.json",
+      "sha256": "4e41c6268d94a3b78bfaa27a6cad2a70e8881d2ae6086b0c8f104e40780226dd",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SMH_raw_page1.json",
+      "sha256": "25213c8290c9b8903d5fe498c97da3ff99b11d94e070407db4bbe7ef95e3c514",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SMH_raw_page2.json",
+      "sha256": "480b09b6601fb469b9f41baeeb955b82fe035a771f454f2d0ba4a8ecd79db6a0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SMH_get_rehab.json",
+      "sha256": "a2d1c880532dc339be200eea19adb0b1bca3e64d10cab6b8662ccede8b1d853e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SMH_get_corporate_actions_dividends.json",
+      "sha256": "0e6aa4760874053ddb3860f2deac652197427ef73ccb0f60a088fa2ea0b4dac7",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPHQ_manifest.json",
+      "sha256": "c2d142785a8496844f763886ea08cef34139e6ca5ec6c9029e45013df019b690",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPHQ_raw_page0.json",
+      "sha256": "56508c0a645631d5f500c5155ea673ffc1f8978c82a92bd43e9bd56aa984853d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPHQ_raw_page1.json",
+      "sha256": "cf6e4850a4935c6187722e326ea82944095441430efe1860010308572a42df71",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPHQ_raw_page2.json",
+      "sha256": "e165bd457759ec41f2229cd1fb58cec5d8cecab9cf730f475637aa73c52ea796",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPHQ_get_rehab.json",
+      "sha256": "70f4ddec846ff40cf27881b558bdf50f14261058edaad0beb26f94c9d6c8f5f3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPHQ_get_corporate_actions_dividends.json",
+      "sha256": "66a384f0788896b90ca9d98392db097fd8eb802ba72055f71bf57b9341bc89c4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPMO_manifest.json",
+      "sha256": "4f8b5b7a25cceffb095c914491e73b14276a2f546fe46e3bca2af830bf02cc11",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPMO_raw_page0.json",
+      "sha256": "c753fdf8e78e75242736724c7552556eb7522e49f8df5cc77fd0ea725cef47fd",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPMO_raw_page1.json",
+      "sha256": "1e0a5ccbc0e24a7c5e7bbd032f4b1ef4d95fa00ecb3552033ee54ed303528a40",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPMO_raw_page2.json",
+      "sha256": "994f518eedb526d04ad55b27f684ecadb05e84bae1d553e4584f1cc33a361419",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPMO_get_rehab.json",
+      "sha256": "8f2d6eeb414b7bdefc1eedc55d5d9cab2832a454ed1b3b4289f09243b6ed45e6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/SPMO_get_corporate_actions_dividends.json",
+      "sha256": "4500e0850e7857b4dc35232925881b517b9e800191e899d221aaeb6f3ad6fe31",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/TLT_manifest.json",
+      "sha256": "719c2b3c61ae213ab09fb536f9b08503431d6d617c2d07202fd8abf7d6f7b5c6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/TLT_raw_page0.json",
+      "sha256": "c1056b4a9af78e58945d1fb06c6388322be02542c4a5f51c57c8bb6d9e25201e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/TLT_raw_page1.json",
+      "sha256": "959658fd86623bf2d04b23ab3153db3a1e3c2541da02776c230d8461ad4d38ed",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/TLT_raw_page2.json",
+      "sha256": "03e21dc1612361257e27bcfcafc742da5a6afe3ec36d894622bd7204b7629d27",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/TLT_get_rehab.json",
+      "sha256": "cf6949a798404772b045427d9d73a8af625337ed6c5a3e77a74e48dc6072a3c3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/TLT_get_corporate_actions_dividends.json",
+      "sha256": "3037f0e10dc96ee5cb47553ac33308d07fbcfb7f5881df1e62b974b75ccbd19c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/TLT_rehab_futu.log",
+      "sha256": "c5a7d646b6985c249445c552975d1026628b328aaa8b9841612ee8f60ee8da60",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/TLT_dividends_futu.log",
+      "sha256": "7fd2c9de5a9b5d3ae50c9e2fa2a066f4ac95310e2a7b0c9642d9c47c1fd2f9c6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_phase3/TLT_dividends_nasdaq.json",
+      "sha256": "702761814a46af7b24e8a353707fcd38cc26f8ca2444494da5aa823acd3cca04",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USHY_manifest.json",
+      "sha256": "fef2aa3acc785e6b78178af16af77e2e885d73d74b0b21a3190356351356e520",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USHY_raw_page0.json",
+      "sha256": "feb54c8f5e02f2fa7c55675734cad8aba0c5643609a13aac2c51b142d4a57617",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USHY_raw_page1.json",
+      "sha256": "bbb53259ada91515bab317151cd145b707fa9a53058d58fbdcf7c593c02c1dd2",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USHY_raw_page2.json",
+      "sha256": "fe2863df4528ba22f2bdde414962135adaa6141fdb6917a14797b56e4d84ed42",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USHY_get_rehab.json",
+      "sha256": "25920d7cdf389817faea4f36bf2bb5b2482d366c521cd0cc88400332aa1139eb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USHY_get_corporate_actions_dividends.json",
+      "sha256": "fb1f489b91e2f6e77f3fee91d8005d072aaf56d835bc1d18f49bce646e3129b1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USMV_manifest.json",
+      "sha256": "6d182775a866a065596ca0de92e05e12c3d91cbfcb3acc423f0f844798368be0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USMV_raw_page0.json",
+      "sha256": "19ee0b1b1f3fe9062c28c4f151c3cd5b1323a608ce6d0bde3b779e5e2a00786c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USMV_raw_page1.json",
+      "sha256": "2fb3b523b500e786f6e89f509bf352b07cc1936131cea5cdcad7150f7adb71be",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USMV_raw_page2.json",
+      "sha256": "aa6bf87e7a7be86720fdef71a433597d2059e2eac0f57b215f4ea204fea57618",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USMV_get_rehab.json",
+      "sha256": "b7c31e41cc9815ffc9421a65ce2cf9ad2077621474597abe15f6a4c82a89faf9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/USMV_get_corporate_actions_dividends.json",
+      "sha256": "ff7ea4efdd62f299b68b2f79e8d5476101aa5298631b533bde2bcab42a55edde",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VCIT_manifest.json",
+      "sha256": "017abed347b04cacdb58a1ecb1871d3be388e44b468d64ce6285cc5fb4ca7db5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VCIT_raw_page0.json",
+      "sha256": "86bba1bb7aed45ecc1fdf559db6b056d0eb971b4319a1a924d9dc411c61a5b7d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VCIT_raw_page1.json",
+      "sha256": "3f8ce02a2a58439f97d73b56d9e203935ec5136ac7866765b0f8cc0f4bdbcd3d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VCIT_raw_page2.json",
+      "sha256": "128d9b24dffc846356cb50e965b151bea8438ab8893132796624768e635907f6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VCIT_get_rehab.json",
+      "sha256": "f12f03392f060e8bf176d67d1a8b3c8d2185cbcd8f9b3b8102a1333886ff2258",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VCIT_get_corporate_actions_dividends.json",
+      "sha256": "4241713e171dddbdd613fff72d16f56ab9025004dfa9eae721a750c2e4e3dccf",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VEA_manifest.json",
+      "sha256": "ee8413a32262432137316777cfb5c951fbc93d500ba1a889fa7a4e7f90899c32",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VEA_raw_page0.json",
+      "sha256": "ce70fa69878289eb0990c4cea056f71a86367495df6cc3694370b8460cfca44c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VEA_raw_page1.json",
+      "sha256": "883b55e34be5919dc28185c27f7fb9052ed966f63a22d8806aaf29770084d430",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VEA_raw_page2.json",
+      "sha256": "34c5b5f915fdbd8d72407eb277cde070545dfbc83922d37e3902141ca3478749",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VEA_get_rehab.json",
+      "sha256": "e75377b1ffc8bdb04c6940bcb815527e146d0a6096e5ed1fc42997aa3f0f0b32",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VEA_get_corporate_actions_dividends.json",
+      "sha256": "6fd4d2a62f87021cd65f0429d7f20c2b24ec2423ca8ce6bc644c1709955d5847",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGSH_manifest.json",
+      "sha256": "ba78fb040d011c1de319049eee8ddc25f3afba9185aa5307b0489ea28125f994",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGSH_raw_page0.json",
+      "sha256": "38474fa74bf0efef9aaf85357c73dfe91ba575922f3d942dee5b38629f3054ea",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGSH_raw_page1.json",
+      "sha256": "49caa0c109ee8a688873970de51cce3366cc026086b52cc4dbfb8657cc0e769f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGSH_raw_page2.json",
+      "sha256": "79071066391f6acf8075a7784e26e67cc3d875852b90d92b9247f438d822e8b5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGSH_get_rehab.json",
+      "sha256": "5f1fcaee30428ee1ee3d7554b9ba481a5c04df12d6bce63179119ce680a11888",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGSH_get_corporate_actions_dividends.json",
+      "sha256": "c6b99e0f7d615249c2eaef6d68785cc4ac69004474e4800eb62f9d1ee418bbbf",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGT_manifest.json",
+      "sha256": "38ba99c0706cf5c21e13f62e3e8e5d7e08786ebd82d91eceed405066480dceba",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGT_raw_page0.json",
+      "sha256": "55da87f5d1ae987bdf700ac90a0b700555351c7e1af7c50a45325084f62d673a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGT_raw_page1.json",
+      "sha256": "2dd0be7d4f6c3072cf72eee1ee0286f0b8fb28526c40148ea561dfa17858a4a0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGT_raw_page2.json",
+      "sha256": "dccc2929afabdd1e2b6654172f56aaf802a4d5bffa67ce22cabef7445ae1d62b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGT_get_rehab.json",
+      "sha256": "b0e38068fec7e4f74b085faa0fd86a0095236c6af31546ca83e29d2b879b0e47",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VGT_get_corporate_actions_dividends.json",
+      "sha256": "420cb1ab0867710074fd11260e7bc8232f5378d28714f7045ae2777f5e3dac8a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VNQ_manifest.json",
+      "sha256": "a6175bfd9598674e4588c9d6cf73386fbfc105db631169fdb918e76804e24523",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VNQ_raw_page0.json",
+      "sha256": "e920783ef5a70684aa40cf71ecbd707502c3bfcd8585ecf85bf6bc5a6553e1a3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VNQ_raw_page1.json",
+      "sha256": "2f760c3a025aee67affb908b999655aba9072823ad1ea5ade749d2782411c3fc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VNQ_raw_page2.json",
+      "sha256": "3f6de93b28059b98c80308dd45e8b9398732a67895d8873d200d0621d15a00ac",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VNQ_get_rehab.json",
+      "sha256": "87f88512e27a7367ff910c7f8b84e8ba6d76bd8ceac9a5690c47b08fb358e1ea",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VNQ_get_corporate_actions_dividends.json",
+      "sha256": "adb8990b1c805c66528354c825c53647b96bee315077943559017e9b3f556d11",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VOO_manifest.json",
+      "sha256": "7f261f2445b1e4e82c7de2206642cbee25d620142aeb3d922ca3ab56ecb431d9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VOO_raw_page0.json",
+      "sha256": "a9fa67c4775b969028f77e059935550a28dfc58e28e0ac63906120bca604bcca",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VOO_raw_page1.json",
+      "sha256": "961eee662e11e8b287818ee2948a42f6508bc5f676c6dc680e7f9590c814fd14",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VOO_raw_page2.json",
+      "sha256": "837b79eea9085e50669d082a0dd6601139c7a4a9e3944ce60de087e31dfa29a3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VOO_get_rehab.json",
+      "sha256": "d4faaa1bdde3648b17a12d2dc7ce503d9063b961e1ee8d2f5920e9b93a9212fc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VOO_get_corporate_actions_dividends.json",
+      "sha256": "0736a2fe75254311054c37ab70f437c4402f3f2e8e42a9bc855903571bed12fe",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTI_manifest.json",
+      "sha256": "7a5fbced0e5687bfc67787642a4e886b8bc7344d2e71a2deed8a325619c4a40c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTI_raw_page0.json",
+      "sha256": "4e74386d8df8bb077c669431cc66692cab8c46871499fb84e5ff196e8852dc01",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTI_raw_page1.json",
+      "sha256": "be3099f12d9557f5d41060ffabd7efa03ad0ba20eb0ea47be782b79fa875f0a5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTI_raw_page2.json",
+      "sha256": "fd0b1fecaa3a85bd2566aeea5654fec0e2fee91d4d55be84b114cedb2d6ba2af",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTI_get_rehab.json",
+      "sha256": "e868c96bf39393b99a5fd399eed56d9caaa904b53042cad5c0a6b0e863f75f88",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTI_get_corporate_actions_dividends.json",
+      "sha256": "e6896f195cab4d9f89754d3ccc54037d92d893a0016ebb2115536fd4dfec673a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTIP_manifest.json",
+      "sha256": "78f9ffb717c513a236275e915bde2166b3f8247f76307e0ef06f9e6e73ce8a22",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTIP_raw_page0.json",
+      "sha256": "e908882599452ac8663347956b73b4da91a67434e0486facf6e6f2ad4b881f84",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTIP_raw_page1.json",
+      "sha256": "f0d0bfe672f0ed8de61a0a8abc86e18647ec0f1b6e3567a7c575fa11c06ecd17",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTIP_raw_page2.json",
+      "sha256": "0fb381e9993de9c7971a1c36347c20932262cf539893e37eb4ea6292ca31a502",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTIP_get_rehab.json",
+      "sha256": "483b7894afd2126bacaf736ce9a55ae374d48285862db819e4e7d561b1b05d20",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/VTIP_get_corporate_actions_dividends.json",
+      "sha256": "a4e3c61b51bbaa1fa514a7991548e7f8cc3ac7463c0bc14de6acf4867e3f628c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLB_manifest.json",
+      "sha256": "f84f993ccfe8d9e37b8de36ba0336ab7509defcc399e8bf60fc934b60e8972c3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLB_raw_page0.json",
+      "sha256": "a9031db040bbd9f381de9395f51a507ca0da047ebfe6c4cf7cd01140c38020b0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLB_raw_page1.json",
+      "sha256": "a041ebb54589cb38993700a4202baf7264d871b619203bf1943b2b7869492d5b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLB_raw_page2.json",
+      "sha256": "41d1f7c54579a84d4865dd837eaf00acb675aa11e8a99bb3683905b9aa723daf",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLB_get_rehab.json",
+      "sha256": "094ae7413ad809456aab3008993db66589b146ebbc7ea9194894fd11c5e92f1b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLB_get_corporate_actions_dividends.json",
+      "sha256": "0e5bd77a3089287525341245de8d61bb57027a1c2a63ab2d85a657cf0c753478",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLC_manifest.json",
+      "sha256": "c91e824d5827ef90d691f2bc4cb29bc8d2eca3c89a9bda8ce274d69681d0f81b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLC_raw_page0.json",
+      "sha256": "62fd9742e8fe432a42d766b67d202556452bd144873f2ec591ccf660647fc0f6",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLC_raw_page1.json",
+      "sha256": "efde3e7884d97b3921f951d9de635bedb023771bb137f150e670b43a6ad396bd",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLC_get_rehab.json",
+      "sha256": "e7b77e92d68b9598a75eb9f299af2e560a3f83c9f23b3a53f319849f4f7551c5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLC_get_corporate_actions_dividends.json",
+      "sha256": "29a6347a1d4623918a1498b53657cd6db087166c66ac97badd2aec2f335a78b8",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLE_manifest.json",
+      "sha256": "275e66049e21d3e9e8d234ba1f0a75d484aeb423db1123c9ef7c9024a17033f0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLE_raw_page0.json",
+      "sha256": "2b0179667bb2c410e113556b09ca5314fc5a1f6c80ca1a2d845946be959a1a3b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLE_raw_page1.json",
+      "sha256": "8c7e0df9c8d9eafbedb2d4116d1900f61093f7b3da712ee29243d74dfb3c87e9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLE_raw_page2.json",
+      "sha256": "a62334f89e754140b7a7267c9e80a35fbea223f3cdf881291fbef70481932e35",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLE_get_rehab.json",
+      "sha256": "a103002df1ab12407e8b27582bb1aa668a69c7a7fb1e6267937ae26607ebd8c5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLE_get_corporate_actions_dividends.json",
+      "sha256": "c198f5b2d757625b25c0ada472601e8fd0a32d70d334df06d79f36492c4601eb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLF_manifest.json",
+      "sha256": "e52d56beb8eee910c48c96930a7fa14f4294189b4b4e5b19bb9af081c7702ee0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLF_raw_page0.json",
+      "sha256": "88d02e63908e198c3d01223b1e90b50386a06ccec0e90237c2ac3b0c2fe14a43",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLF_raw_page1.json",
+      "sha256": "8d2c0008ebbb7fa7b0cfb30950d580a15ba90af56ee05fe0e016a7b1ca3e9b3f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLF_raw_page2.json",
+      "sha256": "e9ab8bdd80b569d22c90af780efc0b70f5a7bce104770dd88ea8372e426635b7",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLF_get_rehab.json",
+      "sha256": "5b26d8633861b46c83547299a7a1dcf81d5ec74c09d3e4b0370353c6d35e3638",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLF_get_corporate_actions_dividends.json",
+      "sha256": "5076e6765be03265c7d9ef5f81aab55dc98acdea398a7e5fc7ce5ddf6eca1ddd",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLI_manifest.json",
+      "sha256": "fa97f729fcecf083d2db22762395da7ca45a1a96fb73ff9c62b5671798291879",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLI_raw_page0.json",
+      "sha256": "96db32deb342df9adc9c72387ee065d7e4dd5c7623bb1d6daab602541409376f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLI_raw_page1.json",
+      "sha256": "d405ce379aee04c737986506bfc2c10ff91d8258b5361f884f70a08e9dd28559",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLI_raw_page2.json",
+      "sha256": "902039f06a9d5fc8cca62d8f8ca275847f6c99d99730f30663f08fcdabc50688",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLI_get_rehab.json",
+      "sha256": "92fd31c89bc8aaf1c45dde0670b71f2d08964c7fbd767eb0a9cfe6bd455d61e5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLI_get_corporate_actions_dividends.json",
+      "sha256": "b92ff5d9afe9e866db8ad88caeb70efbaa4192fa902f7354d8d0d1c3e6a25f33",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLP_manifest.json",
+      "sha256": "1ec43c55bb0b54a77fe7fd866a3df16e94c19b000320e24b149c1745546d81ae",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLP_raw_page0.json",
+      "sha256": "6c0b426a0fa5903db098c30e6c4c5d7f64a88a56592c8d6c05acca52bc919bca",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLP_raw_page1.json",
+      "sha256": "808ea71ee7f54c89dd07f1bc8fecc285cecb97920658c67b0ce25c1abe81dee8",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLP_raw_page2.json",
+      "sha256": "56453e7656d3f49af08cf5db97851197a43be87b4adbd9691c3ae859e0df1b96",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLP_get_rehab.json",
+      "sha256": "ef95a370ae6d3577aa2c2fdcb0eea06315aca881cc89f214bed7d705598eb178",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLP_get_corporate_actions_dividends.json",
+      "sha256": "37277785c0a8af643ac903497b75008271966b410aa508ddf32537e20bc5b117",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLU_manifest.json",
+      "sha256": "8a368eb3adddd775d5b7cf11bc9b4eec964e37acfaf5f71d61d6732e29b43ce0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLU_raw_page0.json",
+      "sha256": "0436e4cd56d30c08b3af6f872d1a0f2bd3d4476ee246ada2413fcd4648e0b322",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLU_raw_page1.json",
+      "sha256": "3466f97d09ffacb8c4734e6c03dc9dde9ebddd74594f29dfd9373c27e3d18c34",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLU_raw_page2.json",
+      "sha256": "bd088e010c6469625bf76902cf5d1d022d575c742d26cc7440ef88ed2fb9762c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLU_get_rehab.json",
+      "sha256": "210da0b78e5761029eb5232d15b7e6a5ffe6fa8ee2f45709a7f754daa34dc1ec",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLU_get_corporate_actions_dividends.json",
+      "sha256": "21c880d448a617ab9d33b7ed483f2d0a56ec4ec7eb84b288acab4522d020f062",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLV_manifest.json",
+      "sha256": "5285395f6fb58dcd0e1dd3b40b1c428b4345b0dd13997c962a422c018d5aa2ea",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLV_raw_page0.json",
+      "sha256": "ea68b23232130a673fee9f8c5664b12c14d4fefc1dc220aae497b1bf8fe64b1c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLV_raw_page1.json",
+      "sha256": "d15891fd5ac9256b97964800dd4a73f2b915492431cc480a82fa3d701757dfad",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLV_raw_page2.json",
+      "sha256": "e59d36c1af6fe5281b80c874ae0c1996c8ea9eed4ab249b04569bdac03bd2aad",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLV_get_rehab.json",
+      "sha256": "ad12a134a7ec65dbc2976f4aff5b38e96c7253a09b027ea2be00ec2846dce50a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLV_get_corporate_actions_dividends.json",
+      "sha256": "1f8e4039979e56ef2fe9ad4e3ebfadc7490272ce8431b9702dee3742a0ef0fb2",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLY_manifest.json",
+      "sha256": "bba27204491add26a496e75892f4d8921a30d5aa995bfed8cba2ca80d92ae1ef",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLY_raw_page0.json",
+      "sha256": "6c32173490cf0b03ea15a43e8d4de8627841744dc823e4f4ed354c7b1005a0bc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLY_raw_page1.json",
+      "sha256": "090d764ae19af09d925350864fe0402ef24c211b60d8f4c6a0d25f92b392db0e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLY_raw_page2.json",
+      "sha256": "0c1a43a66e702101dea430050dc04baac8d52e80362a4ab94c6eb43e0cdb187d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLY_get_rehab.json",
+      "sha256": "5148d3ebafb964d5c01bcd3d301518aae5aa1c1ec472788a59a3c6ec82ce304f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "inputs_etf_large36_resolved_20261107/XLY_get_corporate_actions_dividends.json",
+      "sha256": "a97fab3d3fcd4d7c288195862b6ec391869c8ec63957e6a894f4266cf56aeed0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/__init__.py",
+      "sha256": "1442bb3cf72bab27c07ff8d9a278e9fb400cdbd552625e6c2ced7622a26f4a39",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/analysis.py",
+      "sha256": "eacd1eda5fedc0427f5170ad4e06b62c0422da0001c91425a8e1e7ee13fbb503",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/broker.py",
+      "sha256": "45f6749f5b11c6461b20c5464696f38146f7dd95fb50a7ae901e52793b2ad0a7",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/crypto_risk/__init__.py",
+      "sha256": "de8b9bdaec74a3fe547ebae690c9a2b3ea763aaea1e0840376c704673c0b50da",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/crypto_risk/analysis.py",
+      "sha256": "a79781b06816dcf0e415cc5617b968958056ef7f6bca690d56a673e901799df5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/crypto_risk/data.py",
+      "sha256": "bf6a2c5e7bc095b4a1d4bb5fa67ba079c1d85be163e4932cefc5b408d117645b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/crypto_risk/engine.py",
+      "sha256": "e8a8af59b9c528b238ea9cd5025b4455dac5dd13a28fca0615768e33dda9b72f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/crypto_risk/features.py",
+      "sha256": "3f1ef7969077d2de5b83ff34a69f991a31c9e9002b6900a422b205b38e2f2f47",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/crypto_risk/models.py",
+      "sha256": "35a7af607a6ada2ea7271267b2610e49ec4e9c89325d0bba68342c696613802e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/crypto_risk/registry.py",
+      "sha256": "7ae6db659298cdc9464de4e473402bfab1af35c89d6862ad3fb085b72a6ae922",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/crypto_risk/study.py",
+      "sha256": "c54db37928281f4d07b39c3e75d197dded5981e8a4cea9ecc771db46f7a38f08",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/data.py",
+      "sha256": "4f5f3ec7525f32d00f95e20084c257b6ebe606eb2baea1ba4e7452b224d7b75a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/fixed_orb150/__init__.py",
+      "sha256": "ae6e7d0d89772e7c793e53fd495b686f2b5c4087aef47ac28ad50060a6590218",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/fixed_orb150/data.py",
+      "sha256": "e27999e4e4892abae78571a8d0ec6e03bf65dad579d3aa3514d6af8f3b040f85",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/fixed_orb150/engine.py",
+      "sha256": "6238b5f1e017c732277a8afb86af341732588f3a0a1139b976a4169e60dca336",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/fixed_orb150/models.py",
+      "sha256": "56afecee5bb1df2d07dc9aca4191aa5403a2df4b78b1cec591c8cee36bb3aad3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/fixed_orb150/selection.py",
+      "sha256": "8f127ea1dd54548114384e51fa34c614b0bcfcccd9514d2fb51717041baeeef9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/fixed_orb150/study.py",
+      "sha256": "457fd4b2c5ac1d0708cbc93cf9e1cd0fb21875c1e41e32b36f7cc7c418c22abf",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum/__init__.py",
+      "sha256": "e0579bc7790b6c070ac9a8ca224560d468a153f357f050be817d8b45ac0b34cd",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum/data.py",
+      "sha256": "942b3655987bb3f4cb94f37213de791badd31d8bf7b8163c5f89d9370750c673",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum/engine.py",
+      "sha256": "74d14f3582126ce24e6d806b2c6300492d68b0747bf697cc6efe46586e2f4df2",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum/models.py",
+      "sha256": "11b4c6edceec9fa93c9ff6d896d9eac5cf04034f6d6888f2eba1d820264682c7",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum/registry.py",
+      "sha256": "d4129e7ded226e54f15775bb68c6fb6c90c735f42522abb1c1c9c8514c379d4f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum/report.py",
+      "sha256": "cf166dfbed6d7bbc92ee7ec0262d76e8cf9f69bf3b6f902a22886cd98c255643",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum/statistics.py",
+      "sha256": "2f52b12966f338205ca43114039d0e8ca72b2f0046db80fc574d5c30c9b03f1d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum/study.py",
+      "sha256": "8048d8ef97cfa000db33427516ade344acc81e4620d27951a2e78da0aa77d0ac",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum_completion/__init__.py",
+      "sha256": "2ace54ebf9b3fb9f2680471408e3769e1e26e99caee30415daa33f859882b7a0",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum_completion/complete.py",
+      "sha256": "ba11e0b7daeb2ff20ee0e0be8e919330b98cccd64e0ac00f8ba92b8d213f3a29",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum_completion/report.py",
+      "sha256": "352441e2cb192aaf6b3886cc1179b9d4053b55b39c2e59e182312b9501604281",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/intraday_momentum_diagnostics.py",
+      "sha256": "98497e8b3f85336504901b213627a57206dbb702d2323040ac836d57a98a6e5d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/models.py",
+      "sha256": "a5a4990e36a39bbc5055758f66e74f4359de8943bed7d70a2bb3a5ecadd587fa",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/orb_feasibility.py",
+      "sha256": "d4cad520e5964bcf27c0e9c07b689a181d114ae287bbdf8c430b98b4531351e1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/__init__.py",
+      "sha256": "d4611707ffaa86eca927f7398d8f1a2267eb7338aa6d24f4554caa6aaecff114",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/catalog.py",
+      "sha256": "0a3cb2516f7a7d490e7a1150138fbf8286fb22630aa9854cba5e8862cc5afb83",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/data.py",
+      "sha256": "3da379275eaf537eed9a6e8a35d252c252c2340e6c32c6ca48aa30058c171d2a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/diagnostics.py",
+      "sha256": "653e632bb3132f553470c14e28b00fc0cf4feaea1088e6215b8a7d76f9f45810",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/features.py",
+      "sha256": "f5dd7bd60bf93142d09f4c93aff09e0bbaf3d791f1ca233b22a0343b31aca36b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/models.py",
+      "sha256": "945267f9f68a5540a1de789acb19050bcebe63195e53d2c44a3ba5f6faba2cef",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/registry.py",
+      "sha256": "b6f2467de18aa1da97c8a7591defeda8a07bedf746b29df45938fa1e650a0885",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/report.py",
+      "sha256": "380cd2b747c427c41263bb5fd9805ee91bb5ab5e84fc837de2a24e847ad2bce9",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/runner.py",
+      "sha256": "ca83bd21bb02f73e410b915c37a0cc8e8ace63bc68e5851d9a15362dd07fc3eb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/selection.py",
+      "sha256": "998383b1213e9b59198f4b82357651d254d1934d8d627948f6e1888c0e6002e1",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/signals.py",
+      "sha256": "932d89ae9bb9c55427dd2ec3c26a08796534e449f22e0016901b513895e4f632",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/strategy.py",
+      "sha256": "b243b313738a19bb2d01800ddf219b359d6c232dd055cf680882700005b1a84d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase2/study.py",
+      "sha256": "1ddd0c86dbb798861d19725c402870ce7cc57911adf4bd8ae4b0987cdca58a3f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase3/__init__.py",
+      "sha256": "3701bcef882e3864eb6581d13a496ad9cd688b8627cfb1d2d1400cd0f672957a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase3/catalog.py",
+      "sha256": "8865e1b1aba26304f8cb885932ab841c57494f27f2cb2434537f0fd0941cdee8",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase3/data.py",
+      "sha256": "0a0d097d7e6503184c5eed8bcfc8091839a6f74d5de1a1ba3dd29b60562dd50a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase3/legacy.py",
+      "sha256": "d8c978193c389094af3497e889b2d9ae9ff3af5d51a076ddfee30a2a43ce37d4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase3/reference.py",
+      "sha256": "b57466825245b20f3714c21f51a681ccf70d690db80cb548615cd1757c91a801",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase3/report.py",
+      "sha256": "988364759550f480fde444ee685e895f61d7e6a92de100f54711b337b4a12043",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase3/selection.py",
+      "sha256": "c008d208f512cc5f2fff9cfde69baa87015e0b5cd86ddb5148bf8f898f66aedf",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase3/study.py",
+      "sha256": "c8e5ab1052e2b00d8afd182118ed8c689b823db093bcdb7dc520428737e0ca81",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase4/__init__.py",
+      "sha256": "cfcdc9bc823bcd611b7f710d76ac3cd33c5c9eedcc2142785d8a516e2be2731c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase4/data.py",
+      "sha256": "34f1c58f08b62f92a1a4cddd4c1a7ab1307c5c0bb41bb0da6d67301d6464068a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase4/engine.py",
+      "sha256": "20f3823b1e157733d6d678e83d2822771873f5c171a759e0e1737c5a74ead3df",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase4/features.py",
+      "sha256": "609dd2ee8b4ee5268aac7c88e49c3af506de92bbcea7660147c8c11d0900162a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase4/models.py",
+      "sha256": "f9bdccbaa4d0e539ac78929ddc4a8d5dbc10918f2b619246f0850d936495643f",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase4/report.py",
+      "sha256": "45947681c1d8a619073838ed63caf1c4d889aa051bb5aa2519f6e57c213e6b27",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase4/study.py",
+      "sha256": "b70a5dd43ae45fe838514b799c1a1fa6db00a2c12920eb6e88a1b3e1b9578c81",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase5/__init__.py",
+      "sha256": "03794c033bd4e2531579fa2902488dd13b3177034a6046743063a16b9357c22c",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase5/data.py",
+      "sha256": "d2882fe2e9c108e7bfe23f589a056856d47143f1b1c7502a30aa2527b926f7ca",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase5/engine.py",
+      "sha256": "a59da6648c7a47797a76b96e03600a571454551d18e1a17ef589a6fdb3baf320",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase5/features.py",
+      "sha256": "94e49e7341b2abac9159ebef007fea5e57afb6cde24621fb5036d177428c71aa",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase5/models.py",
+      "sha256": "6eda0170c1845711913a9dc8b8404da4273a6d9b423b244a158c8b2cc5fe678b",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase5/report.py",
+      "sha256": "00470edc80f9cacda6def1b065505d9d25a5356a167905ff2dbcc561262fb8a4",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase5/study.py",
+      "sha256": "1d4503d126eb38e296ec863ab1dc88a7cba3491fcbf9d88135b78f69a169c9a7",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase6/__init__.py",
+      "sha256": "729d362879f102b4919346425d959de466051023e976de567eba7e209aaf0693",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase6/analysis.py",
+      "sha256": "52ceabd5cd498aa713e18edbe01860244ad2a334270c75e4e9b7c2cb963150cb",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase6/data.py",
+      "sha256": "706b1d5b48dc350633799d03ee1b41001b39e9261c7d8b62e81f66ce247c157a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase6/engine.py",
+      "sha256": "3fb18b5dcc9db8ef2c1791b7ca206dfd43e4bd5450076679ac08f4430f3b7eab",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase6/features.py",
+      "sha256": "d7982f5750145bf23232f14ea4e45447d5fbe9a5e752ea8c9c909782a934ccd3",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase6/models.py",
+      "sha256": "ba952615c543722b7a71197afc5b27bd2934b3c8fe216b22204a253ebf6f5a36",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase6/study.py",
+      "sha256": "385a9303c962d6dbcb470a40f5546da6d5cbb60b826edf06aff384cfd0aabd6a",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/phase6/verify.py",
+      "sha256": "e0c1b441d66b1b5369da9facb3287c6908e5798e5f15e9c86448760668ba1fa5",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/runner.py",
+      "sha256": "67d26817f315769581e9588a698b2bc80b379ca4aaa84bb64e45fa34aaef5672",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/statistics.py",
+      "sha256": "d09deaf3ab3e5ecc561fd2e4a4d0bc3498a24999e0aa9f8a47558b9580b2d73e",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/strategy.py",
+      "sha256": "17b46dc899bbe9d0181fd54bc5376af069b09f33f9bc60deb91d8bf9edb7ca7d",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "src/rotbt/study.py",
+      "sha256": "41dbe2a20d9ac32f6156ea15da0c0783a49950df54b17a8e2cf5338e8c688e79",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "docs/superpowers/plans/2026-11-08-c10-institutional-validation.md",
+      "sha256": "9fcb2ff7d33acf81ab4cf525722c6407ee0bd018720891b7d5fb5224dea23571",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "scripts/etf_c10_institutional_inputs.py",
+      "sha256": "321f2ca72252e6454dfa36a11a54c7c117abce10914526f386650b72c3304ecc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "scripts/etf_large36_safe_inputs.py",
+      "sha256": "49f4fe0b2b3490820f1d4fce6b8081ea59a8740d776982b4d89570df9cc822fc",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "scripts/etf_rotation_futu_inputs.py",
+      "sha256": "c68183c8f1ad05fc15e145f5e2fd78c4ba5912175db84229bc505f13fb3fd517",
+      "included_in_public_package": false
+    },
+    {
+      "original_path": "tests/test_c10_institutional_inputs.py",
+      "sha256": "e248c07ad23059dba6d24976f6bb0c1513da86bde8117084a728ac7cdc1252fb",
+      "included_in_public_package": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "key": "C10_5bp",
+  "spec": {
+    "label": "C10",
+    "family": "A",
+    "universe": "expanded",
+    "score": "return",
+    "windows": [
+      252
+    ],
+    "top": 3,
+    "frequency": "monthly",
+    "filter": "cash",
+    "allocation": "equal",
+    "cap": null,
+    "vol_target": 0.0,
+    "stop": "none",
+    "stop_value": 0.0,
+    "take_profit": 0.0,
+    "band": 0.0,
+    "min_days": 0,
+    "hurdle": 0.0,
+    "hysteresis": false,
+    "bucket_caps": false,
+    "fixed": [],
+    "phase_shift": false,
+    "delay_days": 0,
+    "removed": []
+  },
+  "settings": {
+    "fees": {
+      "commission_per_share": 0.0049,
+      "commission_min": 0.99,
+      "platform_per_share": 0.005,
+      "platform_min": 1.0,
+      "settlement_per_share": 0.003,
+      "sec_rate": 2.06e-05,
+      "sec_min": 0.01,
+      "nms_per_share": 3e-06
+    },
+    "initial_cash": 50000.0,
+    "invested": 0.95,
+    "slip_bps": 5.0,
+    "tax": 0.0,
+    "research_period": {
+      "first_year": 2022,
+      "last_year": 2025,
+      "split_year": 2023
+    }
+  },
+  "start": "2022-01-03",
+  "end": "2025-12-31",
+  "stage": "full2022_2025",
+  "scenario": "base_5bp",
+  "choices": [],
+  "engine": "phase2"
+}

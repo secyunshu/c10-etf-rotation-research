@@ -1,0 +1,88 @@
+{
+  "utc": "2026-11-07T13:26:47.833343+00:00",
+  "proposal_sha256": "10ab3eb3e721a742a2c086e5029047bd4d60a0182d34d2a01d39324c726ead4a",
+  "records": [
+    {
+      "symbol": "BND",
+      "ex_date": "2020-12-23",
+      "adopted_amount": 0.29078,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.291
+    },
+    {
+      "symbol": "BND",
+      "ex_date": "2021-04-01",
+      "adopted_amount": 0.19245,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.192
+    },
+    {
+      "symbol": "BND",
+      "ex_date": "2021-12-23",
+      "adopted_amount": 0.27085000000000004,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.271
+    },
+    {
+      "symbol": "VGSH",
+      "ex_date": "2020-12-23",
+      "adopted_amount": 0.40149999999999997,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.402
+    },
+    {
+      "symbol": "VGSH",
+      "ex_date": "2021-12-23",
+      "adopted_amount": 0.2039,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.204
+    },
+    {
+      "symbol": "VCIT",
+      "ex_date": "2020-12-23",
+      "adopted_amount": 0.3876,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.388
+    },
+    {
+      "symbol": "VCIT",
+      "ex_date": "2021-12-23",
+      "adopted_amount": 0.7693000000000001,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.769
+    },
+    {
+      "symbol": "VGSH",
+      "old_ex": "2023-07-05",
+      "adopted_ex": "2023-07-03",
+      "primary": "Futu rehab event date",
+      "corroboration": "Yahoo ex-date agrees; Futu actual payment day retained"
+    },
+    {
+      "symbol": "BND",
+      "old_ex": "2023-07-05",
+      "adopted_ex": "2023-07-03",
+      "primary": "Futu rehab event date",
+      "corroboration": "Yahoo ex-date agrees; Futu actual payment day retained"
+    },
+    {
+      "symbol": "USHY",
+      "ex_date": "2021-04-01",
+      "adopted_amount": 0.18002,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.18
+    },
+    {
+      "symbol": "USHY",
+      "ex_date": "2023-12-01",
+      "adopted_amount": 0.19434,
+      "primary": "Futu detailed cash components",
+      "corroborating_total": 0.194
+    }
+  ],
+  "amount_changes": 9,
+  "date_changes": 2,
+  "raw_source_unchanged": true,
+  "artifact_type": "explicit canonical normalization, not original API response",
+  "note": "Original receipt includes events before the public warmup start. Those earlier records explain provenance and are not injected into the 2020-12-31+ canonical data."
+}

@@ -1,0 +1,230 @@
+[
+  {
+    "name": "C10_5bp",
+    "rule": "C10",
+    "cost_bps": 5,
+    "original_key": "0f303216610d7efca29e08a7",
+    "original_reference_folder": "large36_starts_outputs/20261108_v1/full/runs/0f303216610d7efca29e08a7",
+    "original_task_sha256": "e6e5be30dbb368811fa6440a0dffc29bb376dcff2e563bd3658c778ec9fded4c",
+    "reference_files": {
+      "daily.csv.gz": "016aeaddad9cb2e6ebd4d87ec6b607b700658575a25bb7346184d75842a02665",
+      "dividends.csv.gz": "a25519f68056f66ae648e7fed4852fcef2fbb448e8862a31f86caa6a1591dffb",
+      "holdings.csv.gz": "f98b7826f3b652369409cdc599d6bd6f705d7e88dd5473a88fabce9e12f2f5d7",
+      "metrics.json": "785a581f027504605d0471948f28014d5227f838e672afc351e3bfced921aacc",
+      "orders.csv.gz": "63074853533c88af006b32b38f05a6665df6dc5a79d01cdf203a0d35424fa1ec",
+      "targets.json": "3cd5e4ebdc686e87d547674002f9f3e1d49c0e4f1491063f9c0978d1ffb3c6d0",
+      "task.json": "cf44276c7e81c5c47b2112b416a2b7c0157ef229a21085938124f270f71759f7",
+      "trades.csv.gz": "6b5ce4b6916d66e700bb2ec54e1fd40888abbc3a29fd5a28e44d381ca8225a5f",
+      "verified.json": "bcd163db121c7c40254edebb8f5fc58b291d5e20ac2f65f2182147e62e90d3bc"
+    }
+  },
+  {
+    "name": "C10_20bp",
+    "rule": "C10",
+    "cost_bps": 20,
+    "original_key": "1598464d9e8c39d757ed9bdb",
+    "original_reference_folder": "large36_starts_outputs/20261108_v1/full/runs/1598464d9e8c39d757ed9bdb",
+    "original_task_sha256": "aee2a72ed5c9ba2facb2ddbb746da71b9471d126144178f7a0fc0bd013c19965",
+    "reference_files": {
+      "daily.csv.gz": "9212f44abee4e5055b858f624c99948febdd97ffd89fe3b9af1c616ccdcb2416",
+      "dividends.csv.gz": "0a627a359110c0f5d88ba3d43e67e44afe680617b18411f2eff7cdae1ff0a13e",
+      "holdings.csv.gz": "78defc510686778607817999b531e49a71632b1549ea46dd160e79686ebe23b5",
+      "metrics.json": "289955c0bd0ab3dbf51306584f6713eb7377d741a36073987d6854b47658b9cd",
+      "orders.csv.gz": "3661d38614c13b88b6df0df21247a8c4d78294bb82b65471a6ac6653a949e420",
+      "targets.json": "3cd5e4ebdc686e87d547674002f9f3e1d49c0e4f1491063f9c0978d1ffb3c6d0",
+      "task.json": "cf1840dbff152d41d869848dd9264258e746aae3e366ff183d78db4ac98901d5",
+      "trades.csv.gz": "a5290343dc74f0d61af5628b459617718a413ba64df8ac15ee21cc80bf10401f",
+      "verified.json": "7ba3986888be3917eea6ef5eed1f3e7e4f07fcd6d8e95ff91263ee6a1739a1d6"
+    }
+  },
+  {
+    "name": "C00_5bp",
+    "rule": "C00",
+    "cost_bps": 5,
+    "original_key": "44c242f6ebbc80c72551f33f",
+    "original_reference_folder": "large36_starts_outputs/20261108_v1/full/runs/44c242f6ebbc80c72551f33f",
+    "original_task_sha256": "be817c09b2c9f9b48f43c9d8687231ec540cb9dca16aa77614633cf58e386fdc",
+    "reference_files": {
+      "daily.csv.gz": "778e53af72f44cd595923853822cc14cd45e13d2c393180fc330aa31497e30f9",
+      "dividends.csv.gz": "a6fb1179577394b169511177c4821da67433db2097612c1ed2bef9820a7073cf",
+      "holdings.csv.gz": "c6b4a0db0d4774df22b672ca347455948fe7dfcf19b7fe43b9f5ba81db604550",
+      "metrics.json": "65f001ca870831d759e81870229ba56738d8eabd5fa1ffebd96bc4c7fa028ffc",
+      "orders.csv.gz": "8272ab13a0ee472eb006bac5316446ea338f520ac854254848bba7b7f101effa",
+      "targets.json": "46761bfed28c57e645301dc9a7ed86c22ad4833f8cbe12beafc6b0f673095754",
+      "task.json": "a8922c736f29c5746c59dee75fc4ef347ce23d7b273b2743b30113501908499c",
+      "trades.csv.gz": "3266970410714f7a2577d40584c501e1577c56f879847c4ae0a4dfd36e43d1cd",
+      "verified.json": "7499d480ce56610b2f353a0501ba1058b03d729ed7d27b0bacd8563a646d3052"
+    }
+  },
+  {
+    "name": "C00_20bp",
+    "rule": "C00",
+    "cost_bps": 20,
+    "original_key": "3f85a936a4669a8ced9e3851",
+    "original_reference_folder": "large36_starts_outputs/20261108_v1/full/runs/3f85a936a4669a8ced9e3851",
+    "original_task_sha256": "a9695d3bb4b7dd2f82601e45aa4ddc7151d92801db125446f166e4a0950132e2",
+    "reference_files": {
+      "daily.csv.gz": "46cfa7279e73dcc95e7499cf3c8b54be6347e4fc224ffd3ab894c5d541666f52",
+      "dividends.csv.gz": "fef01db409530a3ab32459afe9aa2a1d341ecc0d708607bd97ff259d91ef92ac",
+      "holdings.csv.gz": "477f33f97d655aa5ed663af4bf91b88fb0c500c4080a7e2c448673c7896373d2",
+      "metrics.json": "14bb561eaab334b0c63bc32a2a08daf19f80c808d05f4c3738a37cc46edc2eb8",
+      "orders.csv.gz": "04be65e1dfd0ce5f6a611d8916ed4453a80dbc5e83288b817612e5524e2994e2",
+      "targets.json": "46761bfed28c57e645301dc9a7ed86c22ad4833f8cbe12beafc6b0f673095754",
+      "task.json": "56ee58b5fc883a1ed87fc6a1c0613bc5044c11c3eef6c26c6e230eebaef54f6e",
+      "trades.csv.gz": "0d6259fbaff798bc19ba4bba8da3abf2fbb053ade98510c1a2b3acacaf5304a5",
+      "verified.json": "eb598e535eca46aaabaa78ad15118db5f5e823c604237aaa668d44734add1f7d"
+    }
+  },
+  {
+    "name": "C11_20bp",
+    "rule": "C11",
+    "cost_bps": 20,
+    "original_key": "e4ca60488eb69fbec06237af",
+    "original_reference_folder": "large36_starts_outputs/20261108_v1/full/runs/e4ca60488eb69fbec06237af",
+    "original_task_sha256": "7228126f41e6f3d166c171bf9bcd66cd8d296dde466710d7a582d031006fd63d",
+    "reference_files": {
+      "daily.csv.gz": "8b3ed86cb74e45c5ad67c5547035281ec55b4ee8faa71eebb8110691817a6a28",
+      "dividends.csv.gz": "eb21db88f042751cb84ce94832798dff7e344ba571ec37c8e89bfa42e9baa9c7",
+      "holdings.csv.gz": "3438736bab5cd6f954142f8e259f1f02f7a7564fbe3af91b26ff4131f797a92b",
+      "metrics.json": "bcc245f0689941e8bae31648a308c3e7450a6a88a2f1a6ba861462590411ee60",
+      "orders.csv.gz": "37ecf8b6e3e098702d958195f16cad7219cb8bc1cf25954cede656c563ebaf3e",
+      "targets.json": "910d633ac89db58c13c92c27ab54b95af105ca8b584ad8e3459a0373c8889eb7",
+      "task.json": "be745c969874d6304e746e988737c652ad43aab5288cded1eea3d706571cb4e5",
+      "trades.csv.gz": "64d77f9f369be841124bc995f39894a9f87530a1bba40ee88f2af35274cabe5e",
+      "verified.json": "c18836d4cec9c7e761384c83f9c13702da8b4779078871c5d623ae5ea43a303f"
+    }
+  },
+  {
+    "name": "C11_5bp",
+    "rule": "C11",
+    "cost_bps": 5,
+    "original_key": "2be7a76f86de7674941ae22f",
+    "original_reference_folder": "large36_starts_outputs/20261108_v1/full/runs/2be7a76f86de7674941ae22f",
+    "original_task_sha256": "853cf6258e0aaa31e06677b9b8bebdd1b425095b7eda20b79d6d49b2cd213508",
+    "reference_files": {
+      "daily.csv.gz": "c6f6633e506d3a0e5c249638d231244bd8b59f04879e1fb782d2f8ed07731bf1",
+      "dividends.csv.gz": "2fc33e7750bdb4dd6eb5ff9ab2a0318775318236db102a0a0e53161f4c759900",
+      "holdings.csv.gz": "d4a59e944751b821498a9cd84902dd6809654edb0bab6bf6ff610055b086c9d3",
+      "metrics.json": "2b212809f2fb67779fca55ce3c575ebfecc74e65e1ee1bd1daf47a992e34a3fc",
+      "orders.csv.gz": "c3503ada8c1a6740a8323c9e5d8f9d9981620316594faedefd5befbabe0e8399",
+      "targets.json": "910d633ac89db58c13c92c27ab54b95af105ca8b584ad8e3459a0373c8889eb7",
+      "task.json": "559374dc44d63ed20d93424c420b237e9676a8907b5ac00937d3087cdce7bdbc",
+      "trades.csv.gz": "8c38914d2bf210c76802cd1de50c7f90d9200e6af44f4e2649c94191f10df22a",
+      "verified.json": "69c9e2e09583c9e1aa07fd9d0898a422cefa6e523a6d02a63a23908a91722771"
+    }
+  },
+  {
+    "name": "SPY_BH_5bp",
+    "rule": "SPY_BH",
+    "cost_bps": 5,
+    "original_key": "ecdef0564765230e49fc4d51",
+    "original_reference_folder": "c10_institutional_outputs/20261108_v1/modern/runs/ecdef0564765230e49fc4d51",
+    "original_task_sha256": "36bceedd06a183722339f114e1678f56845ca139f7bb05df2ddcbbc8f6cdb588",
+    "reference_files": {
+      "daily.csv.gz": "978a70f1ecc6a76d5d78db2dc61029920a6716af6a33b05dee85d70a09d4ceb8",
+      "dividends.csv.gz": "280a3eb1ef3d105ec326638c266e8c05a31fc1b1797efa1a87bbb3306bfde839",
+      "holdings.csv.gz": "ba1ccf23c2c55fa5c3158ba430d6abea838a819e5334cbe81a0f45d11c581cba",
+      "metrics.json": "d2d3ae2e93c72326a79bf866e9405c37c43fda0c4fe4aceb794c4d5ee0f115f2",
+      "orders.csv.gz": "65ecbc790f91fb92d026871de6d34444fbf1a3dc99c630006acbf962ca687680",
+      "targets.json": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "task.json": "042b24a7297edb812e14f511d4adb4d87ebc0463af50a6ac58fe9e6a6e484e78",
+      "trades.csv.gz": "5af22009db6a74abb5f60f5352d4112dcc28db09fa57cf4ed797aa37733f2545",
+      "verified.json": "1d3549bacdb05dfbaaf59eef24710f5a7a10f36a0958de8958cd6d3775c9f878"
+    }
+  },
+  {
+    "name": "SPY_BH_20bp",
+    "rule": "SPY_BH",
+    "cost_bps": 20,
+    "original_key": "36cc21a6d659efb4099a20b2",
+    "original_reference_folder": "c10_institutional_outputs/20261108_v1/modern/runs/36cc21a6d659efb4099a20b2",
+    "original_task_sha256": "14f3e3d610bc411faa5105da9529001ed3cb4a45e4b8231a1dbb794daab86ba0",
+    "reference_files": {
+      "daily.csv.gz": "b322ccd264465552bf1ea2c480ce0a30834248e1b235fdb262fe33db45b8a7da",
+      "dividends.csv.gz": "280a3eb1ef3d105ec326638c266e8c05a31fc1b1797efa1a87bbb3306bfde839",
+      "holdings.csv.gz": "ba1ccf23c2c55fa5c3158ba430d6abea838a819e5334cbe81a0f45d11c581cba",
+      "metrics.json": "bf96de6724fda94755a20a879a7ea4f713ea380b63cc1ef240d00a323ce953f7",
+      "orders.csv.gz": "6f5d274f43b74d4840eeb8f6326aad9338fe90e0ac5fbe46684460d8592b8bcb",
+      "targets.json": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "task.json": "6376dc5552dfeabf777db1929b7925a36e23e34a2355b6b561129c1db100e7d3",
+      "trades.csv.gz": "dab4120ca9a1412579a241875ae46d66bb7459bb775ca27da95084fd2e20b44e",
+      "verified.json": "42087cc4423ef3b629549b05153317f6cfa8cda9a1d4a275c07a8f9b99a19f8e"
+    }
+  },
+  {
+    "name": "QQQ_BH_5bp",
+    "rule": "QQQ_BH",
+    "cost_bps": 5,
+    "original_key": "2b96490b777368bf916b92ca",
+    "original_reference_folder": "c10_institutional_outputs/20261108_v1/modern/runs/2b96490b777368bf916b92ca",
+    "original_task_sha256": "8b179be8c9c4c55fbf20c7732d3a38c573e5705b8b075a8a53b941cb3ec7d5de",
+    "reference_files": {
+      "daily.csv.gz": "3e2b692cb87ce5d5638e07709a96703be5e34855d08564c55c46dec5af3fb192",
+      "dividends.csv.gz": "1ddfa7e2a659115f235323bd5e0bf7ae08a0ab2f86e8584cd3a63c7732db9818",
+      "holdings.csv.gz": "694e35be1a61da8c652b4096058245237f185da0d7245af8e13b9d88bd4b944a",
+      "metrics.json": "e23834da68ab4dd9859337f5f06991b81fdc5edc013f377c52216e37e234d574",
+      "orders.csv.gz": "3d7ff377c3f5e634fd1fe18b68ddb80961c8e8d553fa48908dc9a1a58914801c",
+      "targets.json": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "task.json": "d600501665d7b60396bc2418c5505b368b746a193da9331e71109d81e30683fc",
+      "trades.csv.gz": "f3439ef034063ab8528a0d623688f9726461b733d206bdb7eca560321e48f5d6",
+      "verified.json": "fe40bad72dd65bd8736b3df1bd6c0bb45e62d9b709cd84d3abdc95c76dfeb9cf"
+    }
+  },
+  {
+    "name": "QQQ_BH_20bp",
+    "rule": "QQQ_BH",
+    "cost_bps": 20,
+    "original_key": "b85cd8a71e68752c41fed1b4",
+    "original_reference_folder": "c10_institutional_outputs/20261108_v1/modern/runs/b85cd8a71e68752c41fed1b4",
+    "original_task_sha256": "92f68f0c2e068a7e0e24cf1e3d05c8afc4e9cff1441475e1c8452d5d8e26a3cd",
+    "reference_files": {
+      "daily.csv.gz": "5695e9dd4b85f0940436846efadf93b63c184257b81f63f76893edd4452b47fa",
+      "dividends.csv.gz": "1ddfa7e2a659115f235323bd5e0bf7ae08a0ab2f86e8584cd3a63c7732db9818",
+      "holdings.csv.gz": "694e35be1a61da8c652b4096058245237f185da0d7245af8e13b9d88bd4b944a",
+      "metrics.json": "e9028c752945655856e5349fbb10a6c0bbbdb7ebbfff149269834ba979044988",
+      "orders.csv.gz": "1f9dcfc301e2774e7cd3765905ba329ef84104e144cdc6f888c64a9540e42b23",
+      "targets.json": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "task.json": "a976e9054ad0f361916b62e5c4474eb2fdec33e7ff26099e8e6339d34a1632fb",
+      "trades.csv.gz": "fe9569e98a50e59c7dae9c82785081c187edca409c8fd9fd460e56ee7aeb45ce",
+      "verified.json": "5e9109cca188f178657e73ed8f0e3103968028915bec0753f28a7b4b9e339824"
+    }
+  },
+  {
+    "name": "SPY60_IEF40_5bp",
+    "rule": "SPY60_IEF40",
+    "cost_bps": 5,
+    "original_key": "81f180ae702db03e3d69aac5",
+    "original_reference_folder": "c10_institutional_outputs/20261108_v1/modern/runs/81f180ae702db03e3d69aac5",
+    "original_task_sha256": "0b26ccad173eba552c25af07e2794031ce4926a90b9098dab64f9529a247c952",
+    "reference_files": {
+      "daily.csv.gz": "6a7419b9dd6656bad19af3736e17f649977dd466b6e7c55f8bc622836c103a17",
+      "dividends.csv.gz": "6153103d3c0470160ad23f2ce3e532226d495bc20bf116aafd4361d467ecd8f2",
+      "holdings.csv.gz": "0f8d0166baadc64690a35d46585045d35342b441822c1221bdf252a728b1e0c6",
+      "metrics.json": "dc62af32640bb36c69bb873f466d9d335505232469bc220df5226c8cb7b7ad2a",
+      "orders.csv.gz": "da3255c41de870ae32d3add7ed4a5db91829c65d8b05eb2dfc64d19f60b5a878",
+      "targets.json": "665bff935de6f44034ad4ddd48c7fb3abea4adfc9ec16e61807326bce9fe1f67",
+      "task.json": "1ba557da092f82cc988ef04f2f2cc47b1f2d6ed785a845bb66edb928c72d6487",
+      "trades.csv.gz": "3ad5abdf36d42042da9f91b6ce38021e6cad3637c84b8a6af54e16f360d79821",
+      "verified.json": "3f36a7e6ed18c1ba2fc1618d537aec205ec41db2f22714433d6fb8a151932a2a"
+    }
+  },
+  {
+    "name": "SPY60_IEF40_20bp",
+    "rule": "SPY60_IEF40",
+    "cost_bps": 20,
+    "original_key": "a1daaff331ed62aae3c24dac",
+    "original_reference_folder": "c10_institutional_outputs/20261108_v1/modern/runs/a1daaff331ed62aae3c24dac",
+    "original_task_sha256": "ddb6af381a146d179980b317044d9b93d2e1229f2ac314d15d991abac06103e2",
+    "reference_files": {
+      "daily.csv.gz": "c2a3939ea553d747985d79d77b7ab817887cfec26a2168fba42675b1dfc656c9",
+      "dividends.csv.gz": "14504130b1728e9bd328fe9ab4a0a7da4ded48cf5f86b551b760681c4cbcf142",
+      "holdings.csv.gz": "377616eb85b4a3ee82b6dc15783572cd574dc046609d6b47ab6ac33b0d14757a",
+      "metrics.json": "3adc97e5f67fbd265c46e24ca5d10d9d9c831c617724a535cfdccbf801c29d81",
+      "orders.csv.gz": "65788551d37003dbe79241c90c3250a97a9085f82e469bc6c3f2963ceab1797d",
+      "targets.json": "665bff935de6f44034ad4ddd48c7fb3abea4adfc9ec16e61807326bce9fe1f67",
+      "task.json": "4f39ad1c12ae26f762892434bd43b7848f8e4a3570c8fae1a4ef63e71f004cb3",
+      "trades.csv.gz": "417c6ab810da8c6a4226ac173971a969e74c8d568f75fbf4f99452603a954a49",
+      "verified.json": "f335d904753dd9f86612ca2133016c39bd3af7054b36363b0e440cf7871ef02a"
+    }
+  }
+]

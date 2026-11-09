@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "native_return": 2.742620538515007,
+  "equity_return": 2.7426205385150113,
+  "days": 1003,
+  "orders": 97,
+  "cash_events": 55,
+  "min_available": 2563.679014000009,
+  "final_locked": 0.0,
+  "terminal_positions": 0
+}

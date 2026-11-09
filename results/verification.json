@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "accounts": 12,
+  "source_hashes_checked": 108,
+  "periods_checked": 84,
+  "metric_values_checked": 840,
+  "annual_rows": 48,
+  "monthly_rows": 576,
+  "tolerance": 1e-10,
+  "source_manifest": "data/ACCOUNTS.json",
+  "notes": [
+    "Daily NAV and account books are saved native Backtrader output.",
+    "All metrics independently recalculated without calling the native analyzer.",
+    "Year and month returns compound to each full-account total return.",
+    "Calendar-year return includes the first day's movement from preceding capital.",
+    "CAGR uses 252 trading days; calendar-year return is not annualized.",
+    "Maximum drawdown includes period-opening capital; positive magnitude is loss."
+  ]
+}

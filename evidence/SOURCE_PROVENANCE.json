@@ -1,0 +1,102 @@
+{
+  "original_commit": "1e0da435",
+  "files": [
+    {
+      "path": "src/rotbt/__init__.py",
+      "original_path": "src/rotbt/__init__.py",
+      "original_sha256": "1442bb3cf72bab27c07ff8d9a278e9fb400cdbd552625e6c2ced7622a26f4a39",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/models.py",
+      "original_path": "src/rotbt/models.py",
+      "original_sha256": "a5a4990e36a39bbc5055758f66e74f4359de8943bed7d70a2bb3a5ecadd587fa",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/broker.py",
+      "original_path": "src/rotbt/broker.py",
+      "original_sha256": "45f6749f5b11c6461b20c5464696f38146f7dd95fb50a7ae901e52793b2ad0a7",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/data.py",
+      "original_path": "src/rotbt/data.py",
+      "original_sha256": "4f5f3ec7525f32d00f95e20084c257b6ebe606eb2baea1ba4e7452b224d7b75a",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/analysis.py",
+      "original_path": "src/rotbt/analysis.py",
+      "original_sha256": "eacd1eda5fedc0427f5170ad4e06b62c0422da0001c91425a8e1e7ee13fbb503",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/strategy.py",
+      "original_path": "src/rotbt/strategy.py",
+      "original_sha256": "17b46dc899bbe9d0181fd54bc5376af069b09f33f9bc60deb91d8bf9edb7ca7d",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/phase2/__init__.py",
+      "original_path": "src/rotbt/phase2/__init__.py",
+      "original_sha256": "d4611707ffaa86eca927f7398d8f1a2267eb7338aa6d24f4554caa6aaecff114",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/phase2/models.py",
+      "original_path": "src/rotbt/phase2/models.py",
+      "original_sha256": "945267f9f68a5540a1de789acb19050bcebe63195e53d2c44a3ba5f6faba2cef",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/phase2/features.py",
+      "original_path": "src/rotbt/phase2/features.py",
+      "original_sha256": "f5dd7bd60bf93142d09f4c93aff09e0bbaf3d791f1ca233b22a0343b31aca36b",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/phase2/signals.py",
+      "original_path": "src/rotbt/phase2/signals.py",
+      "original_sha256": "932d89ae9bb9c55427dd2ec3c26a08796534e449f22e0016901b513895e4f632",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/phase2/strategy.py",
+      "original_path": "src/rotbt/phase2/strategy.py",
+      "original_sha256": "b243b313738a19bb2d01800ddf219b359d6c232dd055cf680882700005b1a84d",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/rotbt/phase2/runner.py",
+      "original_path": "src/rotbt/phase2/runner.py",
+      "original_sha256": "ca83bd21bb02f73e410b915c37a0cc8e8ace63bc68e5851d9a15362dd07fc3eb",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/c10share/targets.py",
+      "original_path": "scripts/etf_large36_return_targets.py",
+      "original_sha256": "d075af79f3db7f4c1a6e5d08b34fde4d5daec16b479f3c1f9966827e97263be7",
+      "mode": "unchanged"
+    },
+    {
+      "path": "src/c10share/actions.py",
+      "original_path": "scripts/etf_rotation_legacy.py",
+      "original_sha256": "07ec7c35bd15df605514cde2836773bd9e6b15756a743f208a5898c220c25fd0",
+      "mode": "verbatim_method_excerpt",
+      "method": "_cash_events",
+      "first_line": 218,
+      "last_line": 239
+    },
+    {
+      "path": "src/c10share/actions.py",
+      "original_path": "scripts/etf_rotation_legacy.py",
+      "original_sha256": "07ec7c35bd15df605514cde2836773bd9e6b15756a743f208a5898c220c25fd0",
+      "mode": "verbatim_method_excerpt",
+      "method": "scheduled",
+      "first_line": 254,
+      "last_line": 264
+    }
+  ],
+  "notes": "Unchanged source files and verbatim method excerpts. Original private repository is not published. Paths are repository-relative."
+}

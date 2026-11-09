@@ -1,0 +1,71 @@
+{
+  "status": "LOCAL_FORMAL_PASS",
+  "release_date": "2026-11-09",
+  "publication_scope": "PUBLIC, twelve fixed historical accounts; no trading connection",
+  "python": "3.14.3",
+  "platform": "macOS arm64",
+  "dependencies": "requirements.lock + requirements-dev.lock installed in isolated virtual environment via uv",
+  "tests": {
+    "pytest": 24,
+    "typeguard_pytest": 24,
+    "warnings": 4,
+    "warnings_explanation": "Pandas future timezone deprecation from third-party exchange calendar path, retained."
+  },
+  "static": {
+    "mypy_strict": "PASS, 21 source files",
+    "pyright": "PASS, 0 errors",
+    "ruff": "PASS"
+  },
+  "native_formal": {
+    "accounts": 12,
+    "status": "PASS",
+    "max_abs_economic_difference": 0.0,
+    "comparison": "evidence/REPRODUCTION_COMPARISON.json"
+  },
+  "report": {
+    "status": "PASS",
+    "accounts": 12,
+    "source_hashes_checked": 108,
+    "periods_checked": 84,
+    "metric_values_checked": 840,
+    "annual_rows": 48,
+    "monthly_rows": 576,
+    "tolerance": 1e-10,
+    "source_manifest": "data/ACCOUNTS.json",
+    "notes": [
+      "Daily NAV and account books are saved native Backtrader output.",
+      "All metrics independently recalculated without calling the native analyzer.",
+      "Year and month returns compound to each full-account total return.",
+      "Calendar-year return includes the first day's movement from preceding capital.",
+      "CAGR uses 252 trading days; calendar-year return is not annualized.",
+      "Maximum drawdown includes period-opening capital; positive magnitude is loss."
+    ]
+  },
+  "independent_review": "evidence/REVIEW.json; both P2 identity/nonfinite-weight findings closed after RED-to-GREEN tests",
+  "source_sha_manifest": "evidence/SOURCE_PROVENANCE.json",
+  "market_sha_manifest": "data/market/MANIFEST.json",
+  "package_sha_manifest": "MANIFEST.sha256",
+  "package_sha256": "fcb30cc52867b91d812c0e62ef3c96201596357f1d66f7980bdf378e2e197125",
+  "public_content_scan": {
+    "files": 214,
+    "common_secret_patterns": 0,
+    "personal_absolute_paths": 0,
+    "full_third_party_webpages_included": false
+  },
+  "native_usage": {
+    "budget": 48,
+    "started": 14,
+    "finished": 14,
+    "failed": 0,
+    "scope": "2 development smoke + 12 formal; pure tests do not call native"
+  },
+  "clean_clone_validation": "Not yet performed at this candidate; final published receipt records actual outcome.",
+  "limits": [
+    "No broker orders or real fills.",
+    "No fresh 2026 performance or live strategy evidence.",
+    "Auxiliary research tables are prior frozen summaries; only primary twelve are rerun.",
+    "Source hashes verify identity, not upstream market-data accuracy.",
+    "macOS/Linux POSIX lock; native Windows is unsupported, use WSL2.",
+    "No remote CI enabled; optional workflow is documentation only."
+  ]
+}

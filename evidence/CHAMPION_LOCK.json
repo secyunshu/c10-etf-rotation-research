@@ -1,0 +1,18 @@
+{
+  "status": "ELIGIBLE_CHALLENGER",
+  "ranked_first": "C10",
+  "champion": "C10",
+  "conditions": {
+    "net_increment_2pp": true,
+    "cost20_net_positive": true,
+    "cost20_increment_positive": true,
+    "positive_annual_increments_2of3": true
+  },
+  "failed": [],
+  "development_window": "2022-2024_seen_history",
+  "freshOOS": false,
+  "no_runnerup": true,
+  "all_development_results_sha256": "34f70fb01feb2c61112e224dfbbf79147c19426b31065ba5405609b65665ad8e",
+  "protocol_sha256": "80f085b74a72c32285c9d38cea72034a1c0c768d240d28b22290faddeb5b54da",
+  "code_sha256": "7da52b7b536cfb7a362e0dd76c2454eee78a274a4aa545c27fc2ff1e4fc7e6d1"
+}

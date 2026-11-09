@@ -1,0 +1,32 @@
+[
+  {
+    "path": "evidence/development_candidates.csv",
+    "original_path": "large36_return_outputs/20261108_v1/development/DEVELOPMENT_SORTED.csv",
+    "sha256": "98f003c32d51fe706b31f54f878ac576169df89de70c895ada029ef465dd8010",
+    "scope": "Frozen prior research summary. Auxiliary experiments are not rerun by this release."
+  },
+  {
+    "path": "evidence/timing_pressure.csv",
+    "original_path": "large36_return_outputs/20261108_v1/PRESSURE_SORTED.csv",
+    "sha256": "4231eea486c5d2f6ef1c79b866487265b3b012f8ee7ad5040aad0241f03b47ff",
+    "scope": "Frozen prior research summary. Auxiliary experiments are not rerun by this release."
+  },
+  {
+    "path": "evidence/start_cohorts.csv",
+    "original_path": "large36_starts_outputs/20261108_v1/full/metrics_all.csv",
+    "sha256": "3cd434524ab3cdda299cc791f1eb8a10325cdd911898286eee81fd52398702f5",
+    "scope": "Frozen prior research summary. Auxiliary experiments are not rerun by this release."
+  },
+  {
+    "path": "evidence/dependence_results.csv",
+    "original_path": "c10_dependence_outputs/20261108_v1/full/metrics_all.csv",
+    "sha256": "a1091552661c2bf59fedcb610c672264dc80dae669d9237b5de1244a527c4fe3",
+    "scope": "Frozen prior research summary. Auxiliary experiments are not rerun by this release."
+  },
+  {
+    "path": "evidence/mature_transfer.csv",
+    "original_path": "c10_institutional_outputs/20261108_v1/mature/metrics_all.csv",
+    "sha256": "3d534d3990845d233dceaf18750e3405b4cb1cb357802a59101fe0f4302ddc60",
+    "scope": "Frozen prior research summary. Auxiliary experiments are not rerun by this release."
+  }
+]
