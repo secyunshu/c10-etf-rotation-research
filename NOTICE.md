@@ -8,4 +8,6 @@ The code license does not grant ownership of or additional redistribution rights
 
 Price, volume, turnover, corporate-action and distribution information primarily came from Futu OpenAPI. Nasdaq ETF metadata was used to select the fixed universe; Yahoo/issuer information corroborated specified discrepancies. Full issuer webpages, MSCI ESG content, authentication material and account information are not included. See `docs/DATA.md` for the source hierarchy, corrections and limitations.
 
+V2 uses pre-start archived ETFdb reported-AUM observations within the previously designed candidate cohort. Its canonical 2025/2026 numerical input subsets and specific issuer-corroborated QUAL/BIL decisions are identified in `standard/evidence/INPUT_PROVENANCE.json` and `standard/evidence/DATA_CORRECTIONS.json`. These additions retain the same third-party-data rights limitations above. See `docs/STANDARD_V2.md` for the residual selection and historical information-date limitations.
+
 Reproducing a calculation does not verify every source observation or establish investment efficacy. No real-money trading performance is reported.

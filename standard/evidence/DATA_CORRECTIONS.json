@@ -1,0 +1,71 @@
+{
+  "scope": "V2 extra issuer-verified adjudications; V1 corrections remain in evidence/DATA_CORRECTIONS.json",
+  "events": [
+    {
+      "source_record": "QUAL_ISSUER_ADJUDICATION.json",
+      "source_record_sha256": "e15a217bb18b0854d9b5e8bb48e908bea2ca792738ffd9aa8bae507053c7a5ef",
+      "record": {
+        "status": "ROOT_ADJUDICATED_RETAIN_PRIOR_APPROVED_CASH",
+        "recorded_utc": "2026-11-09 15:44:12.395830+00:00",
+        "symbol": "QUAL",
+        "event": "2023-12-28",
+        "retained_amount": 0.09652,
+        "pay_date": "2024-01-04",
+        "issuer_row": {
+          "recordDate": 20231229,
+          "exDate": 20231228,
+          "payableDate": 20240104,
+          "totalDistribution": "0.024128",
+          "incomeAmount": "0.024128",
+          "shortTermCapitalGain": "0.0",
+          "longTermCapitalGain": "0.0",
+          "returnOnCapital": "0.0"
+        },
+        "actual_later_split_factor": 4,
+        "issuer_historical_share_amount": 0.096512,
+        "difference_to_retained": 8e-06,
+        "resolution": "Issuerordinarycash matchesoldapprovedamountwithin.001afteractual4for1shares; rawrehab.19302notadopted. Preserveoldsource/receipt; no oldbuginferred.",
+        "hashes": {
+          "research/ETF_GROUP_CAP_20261109/data_qa/ISSUER_QUAL_BROWSER_RAW.json": "fea347639c41211f7936aea018171b9958a1b5bdf35673e8e128df8e4c95afcd",
+          "inputs_etf_legacy_resolved_20261107/RESOLUTION_RECEIPT.json": "989834e191a617894a629e582c72b7584848151aa756904bde3ea9e244b06e92"
+        },
+        "source_url": "https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf"
+      }
+    },
+    {
+      "source_record": "BIL_ZERO_ADJUDICATION.json",
+      "source_record_sha256": "36c45c14bc4cde62611a061be7b3d87bd9257c6be535e3e48a276602e7a08606",
+      "record": {
+        "status": "USER_APPROVED_BIL_ZERO_DISTRIBUTION",
+        "recorded_utc": "2026-11-09 15:46:33.418674+00:00",
+        "symbol": "BIL",
+        "ex_date": "2022-03-01",
+        "pay_date": "2022-03-07",
+        "retained_amount": 0.0,
+        "ignored_detail_statement": "1股派息0.0215USD",
+        "ignored_detail_amount": 0.0215,
+        "decision": "User explicitly approved zero distribution for this study; ignore exactly this conflicting detail only, preserve all original responses. No cash event inserted.",
+        "issuer_source_url": "https://www.ssga.com/us/en/individual/library-content/products/fund-data/etfs/us/spdr-etf-historical-distributions.xlsx",
+        "issuer_xlsx_sha256": "4add18439e505ba6c114bea5d352ac68b1ea5420bc99abdf2e21500dd6f1faa2",
+        "issuer_sheet": "xl/worksheets/sheet1.xml",
+        "issuer_row_number": 59,
+        "issuer_row": {
+          "A": "State Street® SPDR® Bloomberg 1-3 Month T-Bill ETF",
+          "B": "BIL",
+          "C": "78468R663",
+          "D": "03/01/2022",
+          "E": "03/02/2022",
+          "F": "03/07/2022",
+          "G": "0.000000"
+        },
+        "hashes": {
+          "research/ETF_GROUP_CAP_20261109/data_qa/ISSUER_BIL_XLSX_BROWSER_RAW_V3.json": "4e885d9392a0727945a954d6099a1a3a74427441575075418904bdaa3a5eacb5",
+          "research/ETF_GROUP_CAP_20261109/raw_new7/BIL_rehab.json": "912f77b3d740ae09c1e807c70a178b5b16d0d24d54981f691a0ea3f198700420",
+          "research/ETF_GROUP_CAP_20261109/raw_new7/BIL_dividends.json": "c356443cf08e73d89d1824dead87c41961883d5b88a79dd7cf7219c967f56251"
+        },
+        "old_sources_modified": false,
+        "native_runs": 0
+      }
+    }
+  ]
+}

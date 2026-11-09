@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "c10-etf-rotation-research"
-version = "1.0.0"
+version = "2.0.0"
 description = "Reproducible conditional ETF momentum research with native Backtrader accounts"
 requires-python = ">=3.12"
 license = "GPL-3.0-or-later"

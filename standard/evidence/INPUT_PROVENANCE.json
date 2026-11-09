@@ -1,0 +1,2103 @@
+{
+  "schema": 1,
+  "source_project": "etf_rotation_backtrader",
+  "source_group_protocol_sha256": "604012937b8cac26d746f8002f62caf661baf5437e37f79839999ca2e5a5ea82",
+  "source_group_full_audit_sha256": "24fd17e01688e6dcee1fd1b6e7f1e96ff6fccecfac6dacf89ff557a244dd8ea7",
+  "source_standard_delivery_sha256": "f1e33a1c9fa6274802c1c5f50f140906af5a299fa259fa5973ceba0e3b57a4d7",
+  "entries": [
+    {
+      "path": "standard/data/2025/AGG.csv.gz",
+      "sha256": "f86119387708b24ddefa09307ed7053f5105c28407bdce2c6231000f99a92884",
+      "source_id": "inputs_etf_group_cap_20261109/2025/AGG.csv.gz",
+      "source_sha256": "f86119387708b24ddefa09307ed7053f5105c28407bdce2c6231000f99a92884",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/BIL.csv.gz",
+      "sha256": "4cad0021fdd94a1b9615c55778b03116e64041bf4e2a8996e14565e753203738",
+      "source_id": "inputs_etf_group_cap_20261109/2025/BIL.csv.gz",
+      "source_sha256": "4cad0021fdd94a1b9615c55778b03116e64041bf4e2a8996e14565e753203738",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/EWJ.csv.gz",
+      "sha256": "c7a52d4d91e5d41091afc98d7f749ca2b37747e65e6aae2ed78378b40bfa27a1",
+      "source_id": "inputs_etf_group_cap_20261109/2025/EWJ.csv.gz",
+      "source_sha256": "c7a52d4d91e5d41091afc98d7f749ca2b37747e65e6aae2ed78378b40bfa27a1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/GLD.csv.gz",
+      "sha256": "9004e93349a76a00e45d62c6b57fd21702cc69b79b0573b3b638f3da16875655",
+      "source_id": "inputs_etf_group_cap_20261109/2025/GLD.csv.gz",
+      "source_sha256": "9004e93349a76a00e45d62c6b57fd21702cc69b79b0573b3b638f3da16875655",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/HYG.csv.gz",
+      "sha256": "ac2853eb82840bf381a7b6858df50a5384df8991504d988cbc6bce7d78b339db",
+      "source_id": "inputs_etf_group_cap_20261109/2025/HYG.csv.gz",
+      "source_sha256": "ac2853eb82840bf381a7b6858df50a5384df8991504d988cbc6bce7d78b339db",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/IEF.csv.gz",
+      "sha256": "45012d14be9c6623ff3e3b47d1ba634549ef7f487f70c1ae07f8753442e29c13",
+      "source_id": "inputs_etf_group_cap_20261109/2025/IEF.csv.gz",
+      "source_sha256": "45012d14be9c6623ff3e3b47d1ba634549ef7f487f70c1ae07f8753442e29c13",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/IEMG.csv.gz",
+      "sha256": "dd0bcca93e077f5105786aa20033a28df67dc7915df9c0b822d868e69ba2915b",
+      "source_id": "inputs_etf_group_cap_20261109/2025/IEMG.csv.gz",
+      "source_sha256": "dd0bcca93e077f5105786aa20033a28df67dc7915df9c0b822d868e69ba2915b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/IJR.csv.gz",
+      "sha256": "75e66634369c42ab772d6e9dca8b97ade251ad2a3fb0b5ad684555ee77c48af3",
+      "source_id": "inputs_etf_group_cap_20261109/2025/IJR.csv.gz",
+      "source_sha256": "75e66634369c42ab772d6e9dca8b97ade251ad2a3fb0b5ad684555ee77c48af3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/INDA.csv.gz",
+      "sha256": "6686cc54621140add5f05dfc6717497e39d362b4d2760be4405b3df04d332f6b",
+      "source_id": "inputs_etf_group_cap_20261109/2025/INDA.csv.gz",
+      "source_sha256": "6686cc54621140add5f05dfc6717497e39d362b4d2760be4405b3df04d332f6b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/MCHI.csv.gz",
+      "sha256": "673cd756321d500c84cf34f01979dd215a1faff4ba26faebc9d051eac59222ff",
+      "source_id": "inputs_etf_group_cap_20261109/2025/MCHI.csv.gz",
+      "source_sha256": "673cd756321d500c84cf34f01979dd215a1faff4ba26faebc9d051eac59222ff",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/PDBC.csv.gz",
+      "sha256": "5d9e617595a1bf5ff466df62acc8111445aa58ea9908faf21571131116597baf",
+      "source_id": "inputs_etf_group_cap_20261109/2025/PDBC.csv.gz",
+      "source_sha256": "5d9e617595a1bf5ff466df62acc8111445aa58ea9908faf21571131116597baf",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/QQQ.csv.gz",
+      "sha256": "145ec850451e8dd5abf3016586849368ee6f1838399228431ac46273116885e3",
+      "source_id": "inputs_etf_group_cap_20261109/2025/QQQ.csv.gz",
+      "source_sha256": "145ec850451e8dd5abf3016586849368ee6f1838399228431ac46273116885e3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/QUAL.csv.gz",
+      "sha256": "a81925915d51e9968870352fb2a4fa6a321f406ddbf0965df774b45a179acc6e",
+      "source_id": "inputs_etf_group_cap_20261109/2025/QUAL.csv.gz",
+      "source_sha256": "a81925915d51e9968870352fb2a4fa6a321f406ddbf0965df774b45a179acc6e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/SHY.csv.gz",
+      "sha256": "18097080957a077e7907c4fa83e4c62dcd801c152366f64807c1d878d403bbea",
+      "source_id": "inputs_etf_group_cap_20261109/2025/SHY.csv.gz",
+      "source_sha256": "18097080957a077e7907c4fa83e4c62dcd801c152366f64807c1d878d403bbea",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/SLV.csv.gz",
+      "sha256": "d56ebd00db195ab825647d56f0009c9b5bec4f1a060a82077696551c79c9f438",
+      "source_id": "inputs_etf_group_cap_20261109/2025/SLV.csv.gz",
+      "source_sha256": "d56ebd00db195ab825647d56f0009c9b5bec4f1a060a82077696551c79c9f438",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/SOXX.csv.gz",
+      "sha256": "1a60da91014ff41974b4ac82222dee8dabfedd825246c5ee0811d11fae6c2e64",
+      "source_id": "inputs_etf_group_cap_20261109/2025/SOXX.csv.gz",
+      "source_sha256": "1a60da91014ff41974b4ac82222dee8dabfedd825246c5ee0811d11fae6c2e64",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/SPY.csv.gz",
+      "sha256": "9bc4f722267b4f5fa24955256fc985e7568527c91dd45b856743426a5501066c",
+      "source_id": "inputs_etf_group_cap_20261109/2025/SPY.csv.gz",
+      "source_sha256": "9bc4f722267b4f5fa24955256fc985e7568527c91dd45b856743426a5501066c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/TIP.csv.gz",
+      "sha256": "0f2b1c584427dab9eef16975a5ea64e147341610ac1ec9affc0ca7104bc74b1e",
+      "source_id": "inputs_etf_group_cap_20261109/2025/TIP.csv.gz",
+      "source_sha256": "0f2b1c584427dab9eef16975a5ea64e147341610ac1ec9affc0ca7104bc74b1e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/TLT.csv.gz",
+      "sha256": "b9f754b4adba257b84ffc13f8b016cf01ccd9c7586051cdd4e65f87506c37c27",
+      "source_id": "inputs_etf_group_cap_20261109/2025/TLT.csv.gz",
+      "source_sha256": "b9f754b4adba257b84ffc13f8b016cf01ccd9c7586051cdd4e65f87506c37c27",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/USMV.csv.gz",
+      "sha256": "6b02c58512a950b35e6144f8f6d14d9562e19f08543377999a939bfef8b8ec4d",
+      "source_id": "inputs_etf_group_cap_20261109/2025/USMV.csv.gz",
+      "source_sha256": "6b02c58512a950b35e6144f8f6d14d9562e19f08543377999a939bfef8b8ec4d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/VCIT.csv.gz",
+      "sha256": "eeb0a5a163d3f32eaa7ff0a75db5df3be5b1311afb5d9341b939729aad8c7114",
+      "source_id": "inputs_etf_group_cap_20261109/2025/VCIT.csv.gz",
+      "source_sha256": "eeb0a5a163d3f32eaa7ff0a75db5df3be5b1311afb5d9341b939729aad8c7114",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/VEA.csv.gz",
+      "sha256": "f5701401a84a5ff220d9972ffe6c24160dd37e38d29e06987fdad5a35adc6f7a",
+      "source_id": "inputs_etf_group_cap_20261109/2025/VEA.csv.gz",
+      "source_sha256": "f5701401a84a5ff220d9972ffe6c24160dd37e38d29e06987fdad5a35adc6f7a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/VGT.csv.gz",
+      "sha256": "631aec62db8efa5986e9ebcfacb05474ff19f6a6aa62cbb7611d3370f021503a",
+      "source_id": "inputs_etf_group_cap_20261109/2025/VGT.csv.gz",
+      "source_sha256": "631aec62db8efa5986e9ebcfacb05474ff19f6a6aa62cbb7611d3370f021503a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/VIG.csv.gz",
+      "sha256": "1f2ad9c1020ca1879d8f6c88fee7178eea02edc0f297630b3fd9b4bf9e8ac7de",
+      "source_id": "inputs_etf_group_cap_20261109/2025/VIG.csv.gz",
+      "source_sha256": "1f2ad9c1020ca1879d8f6c88fee7178eea02edc0f297630b3fd9b4bf9e8ac7de",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/VNQ.csv.gz",
+      "sha256": "626f3d3ccdf1e2e2bcddaeae90d2720539d659bbe627948a3f711fbe4b9716d7",
+      "source_id": "inputs_etf_group_cap_20261109/2025/VNQ.csv.gz",
+      "source_sha256": "626f3d3ccdf1e2e2bcddaeae90d2720539d659bbe627948a3f711fbe4b9716d7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/VTI.csv.gz",
+      "sha256": "504d521bae5e3412ad46a3617e538b0e00dc07374191fb054c5f8f4c6675acad",
+      "source_id": "inputs_etf_group_cap_20261109/2025/VTI.csv.gz",
+      "source_sha256": "504d521bae5e3412ad46a3617e538b0e00dc07374191fb054c5f8f4c6675acad",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLB.csv.gz",
+      "sha256": "350b77dd6888d260b03b73bbb3b54b50f7187b66eb8936f01bc248d8e7490046",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLB.csv.gz",
+      "source_sha256": "350b77dd6888d260b03b73bbb3b54b50f7187b66eb8936f01bc248d8e7490046",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLC.csv.gz",
+      "sha256": "ae72ddd997b0f7adfba68db1b7c4ddfe403c8217e7113d41a5e27e872e24ba47",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLC.csv.gz",
+      "source_sha256": "ae72ddd997b0f7adfba68db1b7c4ddfe403c8217e7113d41a5e27e872e24ba47",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLE.csv.gz",
+      "sha256": "a118ceb95af8a7f496cbeb25066ddc93267bac20292f614cd72a5f6ed0a9d630",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLE.csv.gz",
+      "source_sha256": "a118ceb95af8a7f496cbeb25066ddc93267bac20292f614cd72a5f6ed0a9d630",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLF.csv.gz",
+      "sha256": "d4c39661f4fc967618ca95a28c5344c93e0d2817943732807a2491d525368665",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLF.csv.gz",
+      "source_sha256": "d4c39661f4fc967618ca95a28c5344c93e0d2817943732807a2491d525368665",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLI.csv.gz",
+      "sha256": "6984b441b50a2a101f3e85a35c50a36460fc3c5542113f6a0d8570bb8062927e",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLI.csv.gz",
+      "source_sha256": "6984b441b50a2a101f3e85a35c50a36460fc3c5542113f6a0d8570bb8062927e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLP.csv.gz",
+      "sha256": "c86392a5532c4b19139e1aa99d5279522f2abb816e80bf17d60c2ecb64601b41",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLP.csv.gz",
+      "source_sha256": "c86392a5532c4b19139e1aa99d5279522f2abb816e80bf17d60c2ecb64601b41",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLU.csv.gz",
+      "sha256": "e7e095a50be277657cd1600eea27bed285032e37f5046bef73bc359edff275be",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLU.csv.gz",
+      "source_sha256": "e7e095a50be277657cd1600eea27bed285032e37f5046bef73bc359edff275be",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLV.csv.gz",
+      "sha256": "9a659422b0e3419784ecd856980570ceb8728de15a4c1f87b03b5ef92e5d064a",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLV.csv.gz",
+      "source_sha256": "9a659422b0e3419784ecd856980570ceb8728de15a4c1f87b03b5ef92e5d064a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/XLY.csv.gz",
+      "sha256": "5c426ee796c5383f472c9801ef8db4ff333e165ce51e03b868bd9400b8b7173b",
+      "source_id": "inputs_etf_group_cap_20261109/2025/XLY.csv.gz",
+      "source_sha256": "5c426ee796c5383f472c9801ef8db4ff333e165ce51e03b868bd9400b8b7173b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2025/CASH.json",
+      "sha256": "d65c2cd5de3b0cd85944c6da9589322d08f8369e5f688027beb5b2a9e6d88aa9",
+      "source_id": "inputs_etf_group_cap_20261109/2025/CASH.json",
+      "source_sha256": "056b94cbf36c8ebf497130ee6ee3e3524014bc007467465894dff7ff7b01b9b5",
+      "method": "select exact35 symbols; all event fields unchanged"
+    },
+    {
+      "path": "standard/data/2025/SPLITS.json",
+      "sha256": "e8c3f5c65321ae7da075fb45ec1b8a55a1be45258ba689b4ccd3d787508ef404",
+      "source_id": "inputs_etf_group_cap_20261109/2025/SPLITS.json",
+      "source_sha256": "68f15c8b5b989a386bdd7c3b6683c338fc0b897df11b78f13f75da1fd8453814",
+      "method": "select exact35 symbols; all event fields unchanged"
+    },
+    {
+      "path": "standard/data/2026/AGG.csv.gz",
+      "sha256": "30526bcc88207f582d35be686aa45edb3a0f63bc6eb136029b121eaa6ec73a33",
+      "source_id": "inputs_etf_group_cap_20261109/2026/AGG.csv.gz",
+      "source_sha256": "30526bcc88207f582d35be686aa45edb3a0f63bc6eb136029b121eaa6ec73a33",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/BIL.csv.gz",
+      "sha256": "4bb1576a641813afa5f4341f191f60cfccbd4170c5071e9e18548ab55bf9a7fb",
+      "source_id": "inputs_etf_group_cap_20261109/2026/BIL.csv.gz",
+      "source_sha256": "4bb1576a641813afa5f4341f191f60cfccbd4170c5071e9e18548ab55bf9a7fb",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/EWJ.csv.gz",
+      "sha256": "d6544352b8747e9e17c3d2bd24f3b09bfa32fef53b9aa7a79890486b8a8c892b",
+      "source_id": "inputs_etf_group_cap_20261109/2026/EWJ.csv.gz",
+      "source_sha256": "d6544352b8747e9e17c3d2bd24f3b09bfa32fef53b9aa7a79890486b8a8c892b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/GLD.csv.gz",
+      "sha256": "820165620248d692c8b8f91955f0346568efe009de3c55e539f767960d8c3f44",
+      "source_id": "inputs_etf_group_cap_20261109/2026/GLD.csv.gz",
+      "source_sha256": "820165620248d692c8b8f91955f0346568efe009de3c55e539f767960d8c3f44",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/HYG.csv.gz",
+      "sha256": "96af66d84b9a604f02395ef623cb4f514176736bfeaba1bee8a7d0baf3b97a04",
+      "source_id": "inputs_etf_group_cap_20261109/2026/HYG.csv.gz",
+      "source_sha256": "96af66d84b9a604f02395ef623cb4f514176736bfeaba1bee8a7d0baf3b97a04",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/IEF.csv.gz",
+      "sha256": "8458ff6ae1fddcd257523336c9aa41a2c5dfacf30e6350d9a6df944459bec640",
+      "source_id": "inputs_etf_group_cap_20261109/2026/IEF.csv.gz",
+      "source_sha256": "8458ff6ae1fddcd257523336c9aa41a2c5dfacf30e6350d9a6df944459bec640",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/IEMG.csv.gz",
+      "sha256": "4eb8a4bfa6505132b18d7ccb087da0b65e1e64a717d2a5dc93f6913c44a5dab3",
+      "source_id": "inputs_etf_group_cap_20261109/2026/IEMG.csv.gz",
+      "source_sha256": "4eb8a4bfa6505132b18d7ccb087da0b65e1e64a717d2a5dc93f6913c44a5dab3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/IJR.csv.gz",
+      "sha256": "5276cb0c351af89b9cc7520955298a9cf1236a92321ca5693902e6b8b92c12fe",
+      "source_id": "inputs_etf_group_cap_20261109/2026/IJR.csv.gz",
+      "source_sha256": "5276cb0c351af89b9cc7520955298a9cf1236a92321ca5693902e6b8b92c12fe",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/INDA.csv.gz",
+      "sha256": "2a81c4904cd8223d5ccd86ff32a6c56d2d382f02c7ea18de84f157ab0f85828f",
+      "source_id": "inputs_etf_group_cap_20261109/2026/INDA.csv.gz",
+      "source_sha256": "2a81c4904cd8223d5ccd86ff32a6c56d2d382f02c7ea18de84f157ab0f85828f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/MCHI.csv.gz",
+      "sha256": "70120612d7708542fd3cc26c99240d2d5b609539d59e049dbeef3ca26be4fd71",
+      "source_id": "inputs_etf_group_cap_20261109/2026/MCHI.csv.gz",
+      "source_sha256": "70120612d7708542fd3cc26c99240d2d5b609539d59e049dbeef3ca26be4fd71",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/PDBC.csv.gz",
+      "sha256": "5c0f17cd4c5a8147bcffbd13c278f58e85aef6c7342b15f373bb52491a50a30f",
+      "source_id": "inputs_etf_group_cap_20261109/2026/PDBC.csv.gz",
+      "source_sha256": "5c0f17cd4c5a8147bcffbd13c278f58e85aef6c7342b15f373bb52491a50a30f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/QQQ.csv.gz",
+      "sha256": "94fdd42ac4849d36f2be9fa914b3b78b41a5b8192d32cec0d6bdf14f047db545",
+      "source_id": "inputs_etf_group_cap_20261109/2026/QQQ.csv.gz",
+      "source_sha256": "94fdd42ac4849d36f2be9fa914b3b78b41a5b8192d32cec0d6bdf14f047db545",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/QUAL.csv.gz",
+      "sha256": "f7f49790c74ffadd0bf21a47f2feddc09eef74d2719319b75f83542d8a927014",
+      "source_id": "inputs_etf_group_cap_20261109/2026/QUAL.csv.gz",
+      "source_sha256": "f7f49790c74ffadd0bf21a47f2feddc09eef74d2719319b75f83542d8a927014",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/SHY.csv.gz",
+      "sha256": "0838a1e409c550a9fd786b458f2a1ea521eaf895fd30aa4564877abbdda1afa1",
+      "source_id": "inputs_etf_group_cap_20261109/2026/SHY.csv.gz",
+      "source_sha256": "0838a1e409c550a9fd786b458f2a1ea521eaf895fd30aa4564877abbdda1afa1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/SLV.csv.gz",
+      "sha256": "63cb379cfc395dc2ec5abbedd7ce39ed32099a194c72d4432441ce422e297462",
+      "source_id": "inputs_etf_group_cap_20261109/2026/SLV.csv.gz",
+      "source_sha256": "63cb379cfc395dc2ec5abbedd7ce39ed32099a194c72d4432441ce422e297462",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/SOXX.csv.gz",
+      "sha256": "b3a4cfeab49068786cc1e90b8e3320bb92965ffbfdd0d197e788447a486c404d",
+      "source_id": "inputs_etf_group_cap_20261109/2026/SOXX.csv.gz",
+      "source_sha256": "b3a4cfeab49068786cc1e90b8e3320bb92965ffbfdd0d197e788447a486c404d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/SPY.csv.gz",
+      "sha256": "444da4d8017966f94dab223d0f86605ecae35c9abec030e84795f163085624a7",
+      "source_id": "inputs_etf_group_cap_20261109/2026/SPY.csv.gz",
+      "source_sha256": "444da4d8017966f94dab223d0f86605ecae35c9abec030e84795f163085624a7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/TIP.csv.gz",
+      "sha256": "0a76b7fb164e0a30a71743f03d9b2896c8ed95520bcfd2c7c66f4d76d539f7a3",
+      "source_id": "inputs_etf_group_cap_20261109/2026/TIP.csv.gz",
+      "source_sha256": "0a76b7fb164e0a30a71743f03d9b2896c8ed95520bcfd2c7c66f4d76d539f7a3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/TLT.csv.gz",
+      "sha256": "4d4a65970d0723df6d6ce3757dc54da40595de43f8fa6d5b81dbe78fe37d0e5e",
+      "source_id": "inputs_etf_group_cap_20261109/2026/TLT.csv.gz",
+      "source_sha256": "4d4a65970d0723df6d6ce3757dc54da40595de43f8fa6d5b81dbe78fe37d0e5e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/USMV.csv.gz",
+      "sha256": "8b82e4c695cc1576709ad9112f05b7dfb814b8161f3fbdc7541c5aac2fc9d218",
+      "source_id": "inputs_etf_group_cap_20261109/2026/USMV.csv.gz",
+      "source_sha256": "8b82e4c695cc1576709ad9112f05b7dfb814b8161f3fbdc7541c5aac2fc9d218",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/VCIT.csv.gz",
+      "sha256": "26abfbb63f263b8d34e08e6ae5af4db13a8d405dc26e6535e7736a8d3743ad0d",
+      "source_id": "inputs_etf_group_cap_20261109/2026/VCIT.csv.gz",
+      "source_sha256": "26abfbb63f263b8d34e08e6ae5af4db13a8d405dc26e6535e7736a8d3743ad0d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/VEA.csv.gz",
+      "sha256": "deb75aad18a65594186c776ab214638a5ede4c12370cb45ff9db6740aff4efb1",
+      "source_id": "inputs_etf_group_cap_20261109/2026/VEA.csv.gz",
+      "source_sha256": "deb75aad18a65594186c776ab214638a5ede4c12370cb45ff9db6740aff4efb1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/VGT.csv.gz",
+      "sha256": "4c04c55cc93f0dcaf968643191b9936b2b6eb73ca6a8ad1a93ee80a81b2cec23",
+      "source_id": "inputs_etf_group_cap_20261109/2026/VGT.csv.gz",
+      "source_sha256": "4c04c55cc93f0dcaf968643191b9936b2b6eb73ca6a8ad1a93ee80a81b2cec23",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/VIG.csv.gz",
+      "sha256": "2cee8ed1988496b9b215f7b1d95ce23cc2ec669660c967e5766f85087c7481e6",
+      "source_id": "inputs_etf_group_cap_20261109/2026/VIG.csv.gz",
+      "source_sha256": "2cee8ed1988496b9b215f7b1d95ce23cc2ec669660c967e5766f85087c7481e6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/VNQ.csv.gz",
+      "sha256": "6198d8cc2883fcab1ef5f2bf5e546c953bf168ad231b46f0e8e1516bff8aa7fe",
+      "source_id": "inputs_etf_group_cap_20261109/2026/VNQ.csv.gz",
+      "source_sha256": "6198d8cc2883fcab1ef5f2bf5e546c953bf168ad231b46f0e8e1516bff8aa7fe",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/VTI.csv.gz",
+      "sha256": "2e25ededed94d7d23b579b4323e96a6142a2e097f59ba177d6b8c99376572639",
+      "source_id": "inputs_etf_group_cap_20261109/2026/VTI.csv.gz",
+      "source_sha256": "2e25ededed94d7d23b579b4323e96a6142a2e097f59ba177d6b8c99376572639",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLB.csv.gz",
+      "sha256": "475f653381753100365b26208f98b5969e2dd9418816358bf213996d8d5a2f6a",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLB.csv.gz",
+      "source_sha256": "475f653381753100365b26208f98b5969e2dd9418816358bf213996d8d5a2f6a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLC.csv.gz",
+      "sha256": "fa0fb0a4435f9b0c0dc41f371ce61a9bc920967fc322617d01dab68a53b0d447",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLC.csv.gz",
+      "source_sha256": "fa0fb0a4435f9b0c0dc41f371ce61a9bc920967fc322617d01dab68a53b0d447",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLE.csv.gz",
+      "sha256": "b98302e9575672d75c766594a26debb6ede790473bfacd7bdb3ff9d3dd278069",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLE.csv.gz",
+      "source_sha256": "b98302e9575672d75c766594a26debb6ede790473bfacd7bdb3ff9d3dd278069",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLF.csv.gz",
+      "sha256": "fa311fa283b6a296466ffac5daa3cceac7d8b4a8851d5302243ad643dbc8688f",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLF.csv.gz",
+      "source_sha256": "fa311fa283b6a296466ffac5daa3cceac7d8b4a8851d5302243ad643dbc8688f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLI.csv.gz",
+      "sha256": "5aa4f1eab0272d78687e13d0ef05110ddc34a290764556eba090652518cdb274",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLI.csv.gz",
+      "source_sha256": "5aa4f1eab0272d78687e13d0ef05110ddc34a290764556eba090652518cdb274",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLP.csv.gz",
+      "sha256": "f82e5f5128f2b3de52c293df79b383c72380603bb384414f6ad3542f8a54b493",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLP.csv.gz",
+      "source_sha256": "f82e5f5128f2b3de52c293df79b383c72380603bb384414f6ad3542f8a54b493",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLU.csv.gz",
+      "sha256": "91dd4bc296f421fd77d3109ea63e5f4ef41ab5a8c3b7d1496feced580e7da315",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLU.csv.gz",
+      "source_sha256": "91dd4bc296f421fd77d3109ea63e5f4ef41ab5a8c3b7d1496feced580e7da315",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLV.csv.gz",
+      "sha256": "a08fa4157ce349fc6e16acc44bc3d2b571e82def77e33869306da1d56820e295",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLV.csv.gz",
+      "source_sha256": "a08fa4157ce349fc6e16acc44bc3d2b571e82def77e33869306da1d56820e295",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/XLY.csv.gz",
+      "sha256": "fea8f00be528761084af55c3cdbf72426cadcd3f99905f82c5f1c46917c705ba",
+      "source_id": "inputs_etf_group_cap_20261109/2026/XLY.csv.gz",
+      "source_sha256": "fea8f00be528761084af55c3cdbf72426cadcd3f99905f82c5f1c46917c705ba",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/data/2026/CASH.json",
+      "sha256": "9ec034f733a6eae4b62254d490ad751b3113d24ea3fb16abd944d2b556c058d4",
+      "source_id": "inputs_etf_group_cap_20261109/2026/CASH.json",
+      "source_sha256": "b3f213280055679a9d5296378af88ba0c8812ba9757ff8378720d33c54cf6379",
+      "method": "select exact35 symbols; all event fields unchanged"
+    },
+    {
+      "path": "standard/data/2026/SPLITS.json",
+      "sha256": "28b7444f3e46d0080f405136e13aaf9c41373a7fd1b8fb9fdedf23f351f8328f",
+      "source_id": "inputs_etf_group_cap_20261109/2026/SPLITS.json",
+      "source_sha256": "887cc304a2b428c38d0946c8716ed37465d6004f2f570e9c45ad20c6b43bc6ca",
+      "method": "select exact35 symbols; all event fields unchanged"
+    },
+    {
+      "path": "standard/reference/C10_5bp_historical2022_2025/daily.csv.gz",
+      "sha256": "3dbfb5d9c6dbf074b3c50fb1beebfc00312c6e7049c10aa616d1ed3b3c4d169c",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_historical2022_2025/daily.csv.gz",
+      "source_sha256": "3dbfb5d9c6dbf074b3c50fb1beebfc00312c6e7049c10aa616d1ed3b3c4d169c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_historical2022_2025/orders.csv.gz",
+      "sha256": "9bbec0bca47236fee36115cf6467a804883c7750fc9d813a6e68167d237a9434",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_historical2022_2025/orders.csv.gz",
+      "source_sha256": "9bbec0bca47236fee36115cf6467a804883c7750fc9d813a6e68167d237a9434",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "a69d0ab29bc58f148980c9c423a6524f46b133280d29934b424889b0ef8a73c4",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_historical2022_2025/holdings.csv.gz",
+      "source_sha256": "a69d0ab29bc58f148980c9c423a6524f46b133280d29934b424889b0ef8a73c4",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "778cd32242f4522e90f43bd30490c26b8b6df8c6f01aa8788e627287ec2cc3df",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_historical2022_2025/dividends.csv.gz",
+      "source_sha256": "778cd32242f4522e90f43bd30490c26b8b6df8c6f01aa8788e627287ec2cc3df",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_historical2022_2025/trades.csv.gz",
+      "sha256": "88d63b70b7a11bb41ae56f1245b2f056a42ef5c6865934bdba346fd898ee57d0",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_historical2022_2025/trades.csv.gz",
+      "source_sha256": "88d63b70b7a11bb41ae56f1245b2f056a42ef5c6865934bdba346fd898ee57d0",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_historical2022_2025/metrics.json",
+      "sha256": "ba646dddf0a64d830819fe75df51e1f6583e6cd99e1f8d2e754f9e2b62bd252c",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_historical2022_2025/METRICS.json",
+      "source_sha256": "ba646dddf0a64d830819fe75df51e1f6583e6cd99e1f8d2e754f9e2b62bd252c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_reset2026/daily.csv.gz",
+      "sha256": "28ff2704fa89ac017029d304eec69539e244666bbb96b62e39a3b0b28a2d60bc",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_reset2026/daily.csv.gz",
+      "source_sha256": "28ff2704fa89ac017029d304eec69539e244666bbb96b62e39a3b0b28a2d60bc",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_reset2026/orders.csv.gz",
+      "sha256": "dfc8eda94dd2fc45f1fbec4df2da42f02687742ebc899ed5c04717b326e5e14a",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_reset2026/orders.csv.gz",
+      "source_sha256": "dfc8eda94dd2fc45f1fbec4df2da42f02687742ebc899ed5c04717b326e5e14a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_reset2026/holdings.csv.gz",
+      "sha256": "c47cc8f2f9598573c9618e4f29ad8b86ec72af0dd140eaf28604d2998bc4c3ff",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_reset2026/holdings.csv.gz",
+      "source_sha256": "c47cc8f2f9598573c9618e4f29ad8b86ec72af0dd140eaf28604d2998bc4c3ff",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_reset2026/dividends.csv.gz",
+      "sha256": "ef9fff432c5d45f857c5d4b8ad51376105ef86a1619e15d5a2a0ae63f3d47592",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_reset2026/dividends.csv.gz",
+      "source_sha256": "ef9fff432c5d45f857c5d4b8ad51376105ef86a1619e15d5a2a0ae63f3d47592",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_reset2026/trades.csv.gz",
+      "sha256": "7a96b59f2f65f9201c72f5ac45c1c79a4aa840c0f503fe9ab901ce3fa8a90163",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_reset2026/trades.csv.gz",
+      "source_sha256": "7a96b59f2f65f9201c72f5ac45c1c79a4aa840c0f503fe9ab901ce3fa8a90163",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_reset2026/ytd.json",
+      "sha256": "0c81f1f7007b33c073501bd093c4cacf4b5773623df84051fe461050d2395cb5",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_reset2026/YTD.json",
+      "source_sha256": "0c81f1f7007b33c073501bd093c4cacf4b5773623df84051fe461050d2395cb5",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "42bef0fbf93a524f8cbe608b657246fbb27db1c5ed6e5d8453920702fd7ec7d3",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_continuous2022_2026/daily.csv.gz",
+      "source_sha256": "42bef0fbf93a524f8cbe608b657246fbb27db1c5ed6e5d8453920702fd7ec7d3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "9beb6d11d4d3aac3f5a07c861053d7e3dea489aa6ef90048f120d5af38180163",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_continuous2022_2026/orders.csv.gz",
+      "source_sha256": "9beb6d11d4d3aac3f5a07c861053d7e3dea489aa6ef90048f120d5af38180163",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "00ae9e4cd1cffd0bbfdb3fa5097925f0e575869942ea01977f6875c503f46a99",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_continuous2022_2026/holdings.csv.gz",
+      "source_sha256": "00ae9e4cd1cffd0bbfdb3fa5097925f0e575869942ea01977f6875c503f46a99",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "938839e43894020583a2797476545db75a23add09280c24c8b14661f6d791aa3",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_continuous2022_2026/dividends.csv.gz",
+      "source_sha256": "938839e43894020583a2797476545db75a23add09280c24c8b14661f6d791aa3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "c395af310c10523c2244af325772b75f5c13377e56fdebd137a1a08ca8d3d300",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_continuous2022_2026/trades.csv.gz",
+      "source_sha256": "c395af310c10523c2244af325772b75f5c13377e56fdebd137a1a08ca8d3d300",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_5bp_continuous2022_2026/ytd.json",
+      "sha256": "e7d70837ab075c83c23e8a2962317dd6a2fe9470a12552042955168c6542fda8",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_5bp_continuous2022_2026/YTD.json",
+      "source_sha256": "e7d70837ab075c83c23e8a2962317dd6a2fe9470a12552042955168c6542fda8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_historical2022_2025/daily.csv.gz",
+      "sha256": "d8f7ba15eb52058f735de81b863db493653b97149ecc4e6400d4cb7ffdc9d076",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_historical2022_2025/daily.csv.gz",
+      "source_sha256": "d8f7ba15eb52058f735de81b863db493653b97149ecc4e6400d4cb7ffdc9d076",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_historical2022_2025/orders.csv.gz",
+      "sha256": "5fe08b6a00579b357c3cc46ca24759f365068e60d5882b49bec8d9dad3082862",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_historical2022_2025/orders.csv.gz",
+      "source_sha256": "5fe08b6a00579b357c3cc46ca24759f365068e60d5882b49bec8d9dad3082862",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "6921bccbb81cd0f5080b636631f22b631405d762f7a9cc631a1ce0d858e298b6",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_historical2022_2025/holdings.csv.gz",
+      "source_sha256": "6921bccbb81cd0f5080b636631f22b631405d762f7a9cc631a1ce0d858e298b6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "ca709ad97a5183b311125d4cf2e8f3f922f73a5bb2fc1fd46e3e29891ea40528",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_historical2022_2025/dividends.csv.gz",
+      "source_sha256": "ca709ad97a5183b311125d4cf2e8f3f922f73a5bb2fc1fd46e3e29891ea40528",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_historical2022_2025/trades.csv.gz",
+      "sha256": "314f409cc57a7b3e3a5bacc5bf27b3201b30898557068352a75b0005a673076d",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_historical2022_2025/trades.csv.gz",
+      "source_sha256": "314f409cc57a7b3e3a5bacc5bf27b3201b30898557068352a75b0005a673076d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_historical2022_2025/metrics.json",
+      "sha256": "a3140bd6a3500849ca411f08cf4c7de26cfca69113bed27eb738b1a5b466733f",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_historical2022_2025/METRICS.json",
+      "source_sha256": "a3140bd6a3500849ca411f08cf4c7de26cfca69113bed27eb738b1a5b466733f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_reset2026/daily.csv.gz",
+      "sha256": "3c28e18698af12fdeab5cb9ce60073722b858a372e97e731ddf14520efc017e8",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_reset2026/daily.csv.gz",
+      "source_sha256": "3c28e18698af12fdeab5cb9ce60073722b858a372e97e731ddf14520efc017e8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_reset2026/orders.csv.gz",
+      "sha256": "6f83db08f333d5405da53db3571419e3cb9fd2b7c9b7b39afa5abf8dbf15d73f",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_reset2026/orders.csv.gz",
+      "source_sha256": "6f83db08f333d5405da53db3571419e3cb9fd2b7c9b7b39afa5abf8dbf15d73f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_reset2026/holdings.csv.gz",
+      "sha256": "35230f56f1df4293f2dd59e53830caf6f9bf51791c0e97d85992bd56109862c5",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_reset2026/holdings.csv.gz",
+      "source_sha256": "35230f56f1df4293f2dd59e53830caf6f9bf51791c0e97d85992bd56109862c5",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_reset2026/dividends.csv.gz",
+      "sha256": "63f0ccf4cd73c24617e3f493ac5c6389b873f1dad465dccdc1bb681c3291bdf8",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_reset2026/dividends.csv.gz",
+      "source_sha256": "63f0ccf4cd73c24617e3f493ac5c6389b873f1dad465dccdc1bb681c3291bdf8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_reset2026/trades.csv.gz",
+      "sha256": "72d08e2c40514111938e56b435ee074bd847aaeb9956001370c75b4c63017ff9",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_reset2026/trades.csv.gz",
+      "source_sha256": "72d08e2c40514111938e56b435ee074bd847aaeb9956001370c75b4c63017ff9",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_reset2026/ytd.json",
+      "sha256": "b816cb8142c275d8d3c4016e14f78d770e236859ac145820b71175862b740e43",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_reset2026/YTD.json",
+      "source_sha256": "b816cb8142c275d8d3c4016e14f78d770e236859ac145820b71175862b740e43",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "b285b8b89bb06fe896d5232dff205ca52f7cdb4e8f928ab3d83cb3d7f0b26509",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_continuous2022_2026/daily.csv.gz",
+      "source_sha256": "b285b8b89bb06fe896d5232dff205ca52f7cdb4e8f928ab3d83cb3d7f0b26509",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "e375d88e2a1e1c9c8b338b8ef0e5eab32e813d033e58a774c48d382754f61195",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_continuous2022_2026/orders.csv.gz",
+      "source_sha256": "e375d88e2a1e1c9c8b338b8ef0e5eab32e813d033e58a774c48d382754f61195",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "ce05f2ee91e7554019debe2a96cd7b10ddee8cb4d348d27466c53e1c51236f90",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_continuous2022_2026/holdings.csv.gz",
+      "source_sha256": "ce05f2ee91e7554019debe2a96cd7b10ddee8cb4d348d27466c53e1c51236f90",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "c6bc9841ff189d8e416444fd38e6accbfbc3fdb91f8c3b5a0fbbce1255e51a4a",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_continuous2022_2026/dividends.csv.gz",
+      "source_sha256": "c6bc9841ff189d8e416444fd38e6accbfbc3fdb91f8c3b5a0fbbce1255e51a4a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "4804aae04009312f175767fdf78f035b7a75774dc7790d0e69341211ae915bca",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_continuous2022_2026/trades.csv.gz",
+      "source_sha256": "4804aae04009312f175767fdf78f035b7a75774dc7790d0e69341211ae915bca",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C10_20bp_continuous2022_2026/ytd.json",
+      "sha256": "3f38d3288e03d21a9564df75f9807c86bfb2417ffa29151947d391315f4896d7",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_uncapped_K1_20bp_continuous2022_2026/YTD.json",
+      "source_sha256": "3f38d3288e03d21a9564df75f9807c86bfb2417ffa29151947d391315f4896d7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_historical2022_2025/daily.csv.gz",
+      "sha256": "3ba21e8793a5c88988579b6d427ab432de3aa06c27f94dba0d95b1f528ca89ca",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_historical2022_2025/daily.csv.gz",
+      "source_sha256": "3ba21e8793a5c88988579b6d427ab432de3aa06c27f94dba0d95b1f528ca89ca",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_historical2022_2025/orders.csv.gz",
+      "sha256": "8c5ff7b5f98dcf9bfa06a3527c3bac395dbabc775506d779fecb708bfe3c7919",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_historical2022_2025/orders.csv.gz",
+      "source_sha256": "8c5ff7b5f98dcf9bfa06a3527c3bac395dbabc775506d779fecb708bfe3c7919",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "783b37a736403cf653f9591228a6fbe76aee6a3acde2c20fe6cc19eed7c9e8e6",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_historical2022_2025/holdings.csv.gz",
+      "source_sha256": "783b37a736403cf653f9591228a6fbe76aee6a3acde2c20fe6cc19eed7c9e8e6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "b5cd4fb4c7832814d964df3c7438e95c7c50b6d3637258cb7062a0e97ce39674",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_historical2022_2025/dividends.csv.gz",
+      "source_sha256": "b5cd4fb4c7832814d964df3c7438e95c7c50b6d3637258cb7062a0e97ce39674",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_historical2022_2025/trades.csv.gz",
+      "sha256": "9eaea70c7c51315f1a4683c1dc2fbc19a67c29c0a6a850917acbb3b4e432a745",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_historical2022_2025/trades.csv.gz",
+      "source_sha256": "9eaea70c7c51315f1a4683c1dc2fbc19a67c29c0a6a850917acbb3b4e432a745",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_historical2022_2025/metrics.json",
+      "sha256": "edbf5a648ef8683c73065454d8c316ee4b9d8926a54a651b27adc56e5acd0236",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_historical2022_2025/METRICS.json",
+      "source_sha256": "edbf5a648ef8683c73065454d8c316ee4b9d8926a54a651b27adc56e5acd0236",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_reset2026/daily.csv.gz",
+      "sha256": "5f62f10f477fd096a912368ed636507a22c875b06cf0b58909689296b99d2348",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_reset2026/daily.csv.gz",
+      "source_sha256": "5f62f10f477fd096a912368ed636507a22c875b06cf0b58909689296b99d2348",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_reset2026/orders.csv.gz",
+      "sha256": "988b2653ca7fc9be26cd1807a5fe582e84b884c141ff35b3b9ef9624837ed94d",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_reset2026/orders.csv.gz",
+      "source_sha256": "988b2653ca7fc9be26cd1807a5fe582e84b884c141ff35b3b9ef9624837ed94d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_reset2026/holdings.csv.gz",
+      "sha256": "3bf70f6a066bd377289fd17adaec60f8655ad2c055fdcf35e2b7ec06a6772db5",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_reset2026/holdings.csv.gz",
+      "source_sha256": "3bf70f6a066bd377289fd17adaec60f8655ad2c055fdcf35e2b7ec06a6772db5",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_reset2026/dividends.csv.gz",
+      "sha256": "ab858e143248149d78235555e9b005d8a228da0ff5b00d3f4dedc67f116b1cf1",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_reset2026/dividends.csv.gz",
+      "source_sha256": "ab858e143248149d78235555e9b005d8a228da0ff5b00d3f4dedc67f116b1cf1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_reset2026/trades.csv.gz",
+      "sha256": "2e22209d127fb8e95b11aa8c5e296f95a0ee1607ca9820b03338e407facf2e67",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_reset2026/trades.csv.gz",
+      "source_sha256": "2e22209d127fb8e95b11aa8c5e296f95a0ee1607ca9820b03338e407facf2e67",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_reset2026/ytd.json",
+      "sha256": "89d78bbfcbac5d8cbf850d81253ded1a16b237e93e70d54b71cf94f82c7d9ee3",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_reset2026/YTD.json",
+      "source_sha256": "89d78bbfcbac5d8cbf850d81253ded1a16b237e93e70d54b71cf94f82c7d9ee3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "0d1e8cd23c02532aa7deb2408020f5e7380a67d626c9f0d6999bb67cc4872b2b",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_continuous2022_2026/daily.csv.gz",
+      "source_sha256": "0d1e8cd23c02532aa7deb2408020f5e7380a67d626c9f0d6999bb67cc4872b2b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "27d23a8bf2ba7235747ee5e040483d33e0462e9b4b2f0ccfd133d16d06dcf4c4",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_continuous2022_2026/orders.csv.gz",
+      "source_sha256": "27d23a8bf2ba7235747ee5e040483d33e0462e9b4b2f0ccfd133d16d06dcf4c4",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "9b1e37b8958e9a403fbf284dd9eaa949d037331161a07a78529a73bdf2bb7906",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_continuous2022_2026/holdings.csv.gz",
+      "source_sha256": "9b1e37b8958e9a403fbf284dd9eaa949d037331161a07a78529a73bdf2bb7906",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "9570c26160ba4f93d646ddbe4a10af1ea1a90da1cf3066cfe540903665d113c1",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_continuous2022_2026/dividends.csv.gz",
+      "source_sha256": "9570c26160ba4f93d646ddbe4a10af1ea1a90da1cf3066cfe540903665d113c1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "6e3be7188d3248bfc1b3287cb8048c475a8a3ff8c409fb1e54999dc8de1b16f4",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_continuous2022_2026/trades.csv.gz",
+      "source_sha256": "6e3be7188d3248bfc1b3287cb8048c475a8a3ff8c409fb1e54999dc8de1b16f4",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_5bp_continuous2022_2026/ytd.json",
+      "sha256": "616dd8553c326413326b389b19715c1a1be758bc9c33ed2d1c20eee38a6afe32",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_5bp_continuous2022_2026/YTD.json",
+      "source_sha256": "616dd8553c326413326b389b19715c1a1be758bc9c33ed2d1c20eee38a6afe32",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_historical2022_2025/daily.csv.gz",
+      "sha256": "32716a0c7e0af5ab9458690d6cf807a0fe3c3447f3822367aad183c5cb5851b6",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_historical2022_2025/daily.csv.gz",
+      "source_sha256": "32716a0c7e0af5ab9458690d6cf807a0fe3c3447f3822367aad183c5cb5851b6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_historical2022_2025/orders.csv.gz",
+      "sha256": "64aaf302cb9bd12665ca1b92b03a0830dffc61e88fd8005402b784c41b7c0fa5",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_historical2022_2025/orders.csv.gz",
+      "source_sha256": "64aaf302cb9bd12665ca1b92b03a0830dffc61e88fd8005402b784c41b7c0fa5",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "52a146461a98066f766a53e97e1421accaa14f09492333e971d5f9a0d6491f46",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_historical2022_2025/holdings.csv.gz",
+      "source_sha256": "52a146461a98066f766a53e97e1421accaa14f09492333e971d5f9a0d6491f46",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "dac4bccbec48d342b0673b5754b40c78cbe36583b35b44c86106c30af6ca6d5c",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_historical2022_2025/dividends.csv.gz",
+      "source_sha256": "dac4bccbec48d342b0673b5754b40c78cbe36583b35b44c86106c30af6ca6d5c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_historical2022_2025/trades.csv.gz",
+      "sha256": "f84f8a32bce98b1358520017cc4cbe5cf13fbb3e29f2b4c0e9bf286b7ebc07ed",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_historical2022_2025/trades.csv.gz",
+      "source_sha256": "f84f8a32bce98b1358520017cc4cbe5cf13fbb3e29f2b4c0e9bf286b7ebc07ed",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_historical2022_2025/metrics.json",
+      "sha256": "e5e75d33c193414fdae240a90ef24b517d6956085b491732956984de34d9d48c",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_historical2022_2025/METRICS.json",
+      "source_sha256": "e5e75d33c193414fdae240a90ef24b517d6956085b491732956984de34d9d48c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_reset2026/daily.csv.gz",
+      "sha256": "1b8b4d4472ee389dcdcff9d948be0ef6a8fc429a8d8eeb86569bf2dd1260d17a",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_reset2026/daily.csv.gz",
+      "source_sha256": "1b8b4d4472ee389dcdcff9d948be0ef6a8fc429a8d8eeb86569bf2dd1260d17a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_reset2026/orders.csv.gz",
+      "sha256": "95fca1d9d8815726115b5dcbe6f21cec0d7fd56d976daf51bd26620ee614cc19",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_reset2026/orders.csv.gz",
+      "source_sha256": "95fca1d9d8815726115b5dcbe6f21cec0d7fd56d976daf51bd26620ee614cc19",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_reset2026/holdings.csv.gz",
+      "sha256": "399bd1dd632239384a1e8c77d3bce229444f8e6c3e55896af6e0f3dfb389eea1",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_reset2026/holdings.csv.gz",
+      "source_sha256": "399bd1dd632239384a1e8c77d3bce229444f8e6c3e55896af6e0f3dfb389eea1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_reset2026/dividends.csv.gz",
+      "sha256": "4b4e63cba0853bd9dfa43c2621c6e2158fe9b2bb6a0b2f09fd12859faa30c662",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_reset2026/dividends.csv.gz",
+      "source_sha256": "4b4e63cba0853bd9dfa43c2621c6e2158fe9b2bb6a0b2f09fd12859faa30c662",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_reset2026/trades.csv.gz",
+      "sha256": "757b83e86ed5375d9f03eaa62c97fe9342f48e56d512dc11f952789c77958cc9",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_reset2026/trades.csv.gz",
+      "source_sha256": "757b83e86ed5375d9f03eaa62c97fe9342f48e56d512dc11f952789c77958cc9",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_reset2026/ytd.json",
+      "sha256": "3caca528a593635691c201e8f018e2f8af89a5eb0a4386fc292b0ce232bd65bd",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_reset2026/YTD.json",
+      "source_sha256": "3caca528a593635691c201e8f018e2f8af89a5eb0a4386fc292b0ce232bd65bd",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "df0df84d9d0dd49353b1653d8e32afff34afd9564dbedc8af358e597d8ec5f30",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_continuous2022_2026/daily.csv.gz",
+      "source_sha256": "df0df84d9d0dd49353b1653d8e32afff34afd9564dbedc8af358e597d8ec5f30",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "986611180dab14b576d8b106242431f2e6377e7fe4fecbcb79b1882c51c92784",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_continuous2022_2026/orders.csv.gz",
+      "source_sha256": "986611180dab14b576d8b106242431f2e6377e7fe4fecbcb79b1882c51c92784",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "0a6f061e4ff887a3bb4b917a2780a5a9a177289a74d240305690add2d5cd57f7",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_continuous2022_2026/holdings.csv.gz",
+      "source_sha256": "0a6f061e4ff887a3bb4b917a2780a5a9a177289a74d240305690add2d5cd57f7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "bde796c49015588622923297ec4bbc41795bd793b7947452da7e63d79e1d5b28",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_continuous2022_2026/dividends.csv.gz",
+      "source_sha256": "bde796c49015588622923297ec4bbc41795bd793b7947452da7e63d79e1d5b28",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "45466025e9be66333fd03dab995a7af3533d985b785dadb961bbc94b72a6cef7",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_continuous2022_2026/trades.csv.gz",
+      "source_sha256": "45466025e9be66333fd03dab995a7af3533d985b785dadb961bbc94b72a6cef7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C11_20bp_continuous2022_2026/ytd.json",
+      "sha256": "6679029910b4c104d87c611bc73669ce382304c905c2dc0f1e2f30dd3754c1e1",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K2_20bp_continuous2022_2026/YTD.json",
+      "source_sha256": "6679029910b4c104d87c611bc73669ce382304c905c2dc0f1e2f30dd3754c1e1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_historical2022_2025/daily.csv.gz",
+      "sha256": "5ed7efd5ea03bdd01e227342c289f3e134aae10a08f2da7b0f5ed01eb19b4dad",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_historical2022_2025/daily.csv.gz",
+      "source_sha256": "5ed7efd5ea03bdd01e227342c289f3e134aae10a08f2da7b0f5ed01eb19b4dad",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_historical2022_2025/orders.csv.gz",
+      "sha256": "290267c0667d0e24f626d22836d3f710aa45aba826f9c5bef83199122cc5ada6",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_historical2022_2025/orders.csv.gz",
+      "source_sha256": "290267c0667d0e24f626d22836d3f710aa45aba826f9c5bef83199122cc5ada6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "5cfafec056c7a7b4a57c942d85ea6555bc9516d179a330d7e4ee3068b960c86d",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_historical2022_2025/holdings.csv.gz",
+      "source_sha256": "5cfafec056c7a7b4a57c942d85ea6555bc9516d179a330d7e4ee3068b960c86d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "7419719e27bf3ca9d64bff8ca5b0b8596a50c980d36577e528390d6bf8c2a608",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_historical2022_2025/dividends.csv.gz",
+      "source_sha256": "7419719e27bf3ca9d64bff8ca5b0b8596a50c980d36577e528390d6bf8c2a608",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_historical2022_2025/trades.csv.gz",
+      "sha256": "3b68b839ad6b8f6d786ba6838a9ddd583f11a750129f2fbc81de31bcb76ca669",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_historical2022_2025/trades.csv.gz",
+      "source_sha256": "3b68b839ad6b8f6d786ba6838a9ddd583f11a750129f2fbc81de31bcb76ca669",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_historical2022_2025/metrics.json",
+      "sha256": "c634ea6c40ff629cf47a97ec46c74336468e042769fba66a3d79799db97fca8c",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_historical2022_2025/METRICS.json",
+      "source_sha256": "c634ea6c40ff629cf47a97ec46c74336468e042769fba66a3d79799db97fca8c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_reset2026/daily.csv.gz",
+      "sha256": "84644ea2e3b53e55cd1ea6808dd1a66a841be9bd9907c5388b5e300466867140",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_reset2026/daily.csv.gz",
+      "source_sha256": "84644ea2e3b53e55cd1ea6808dd1a66a841be9bd9907c5388b5e300466867140",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_reset2026/orders.csv.gz",
+      "sha256": "fb7f51dbc5e212e105cab0119c3eaba2ce61af6b0aa9627c07843d14093dedd5",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_reset2026/orders.csv.gz",
+      "source_sha256": "fb7f51dbc5e212e105cab0119c3eaba2ce61af6b0aa9627c07843d14093dedd5",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_reset2026/holdings.csv.gz",
+      "sha256": "4932bb3533f225bf34bbccdefb824fc6b701bf849ecba7b5707c510df6b76f05",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_reset2026/holdings.csv.gz",
+      "source_sha256": "4932bb3533f225bf34bbccdefb824fc6b701bf849ecba7b5707c510df6b76f05",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_reset2026/dividends.csv.gz",
+      "sha256": "180ae341bec6efce73518ce2b5ab14c92c6b058bc58ba68d1a5a7deca8f8b2c2",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_reset2026/dividends.csv.gz",
+      "source_sha256": "180ae341bec6efce73518ce2b5ab14c92c6b058bc58ba68d1a5a7deca8f8b2c2",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_reset2026/trades.csv.gz",
+      "sha256": "8b89d90dacb130cc4c5982b743316ba3faf11881b40e29e255e6163cb3d80b6e",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_reset2026/trades.csv.gz",
+      "source_sha256": "8b89d90dacb130cc4c5982b743316ba3faf11881b40e29e255e6163cb3d80b6e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_reset2026/ytd.json",
+      "sha256": "64c1390c9e87f40978476c4b0c2e134184a5b5f90163ff9b08c65ced7c337510",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_reset2026/YTD.json",
+      "source_sha256": "64c1390c9e87f40978476c4b0c2e134184a5b5f90163ff9b08c65ced7c337510",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "14fc666bf1d6df836ed188385b1542ada8a4952aed8201d5853d48a6a0e6e65a",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_continuous2022_2026/daily.csv.gz",
+      "source_sha256": "14fc666bf1d6df836ed188385b1542ada8a4952aed8201d5853d48a6a0e6e65a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "c016e3e2c73e5ba9a56213ae83e9757bcbf6d71935fb865b71a94f07bd9398ff",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_continuous2022_2026/orders.csv.gz",
+      "source_sha256": "c016e3e2c73e5ba9a56213ae83e9757bcbf6d71935fb865b71a94f07bd9398ff",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "46b5cc29b19e6b3f4235b4f95b1460b053327223503bbd94fd4c11345bdb93b6",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_continuous2022_2026/holdings.csv.gz",
+      "source_sha256": "46b5cc29b19e6b3f4235b4f95b1460b053327223503bbd94fd4c11345bdb93b6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "a35c206d4995cc03ac6d6f118565cdcbb779b74c6fce382982bbbd2ab93bd7a1",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_continuous2022_2026/dividends.csv.gz",
+      "source_sha256": "a35c206d4995cc03ac6d6f118565cdcbb779b74c6fce382982bbbd2ab93bd7a1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "4f10333afb4ebfdf038d8c3b8bc73178c9358d746a0096c98accbbe0141aef2a",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_continuous2022_2026/trades.csv.gz",
+      "source_sha256": "4f10333afb4ebfdf038d8c3b8bc73178c9358d746a0096c98accbbe0141aef2a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_5bp_continuous2022_2026/ytd.json",
+      "sha256": "99c0b9b241d777517c570158110f4f168721c39a655e5f3940609011d5bec5bc",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_5bp_continuous2022_2026/YTD.json",
+      "source_sha256": "99c0b9b241d777517c570158110f4f168721c39a655e5f3940609011d5bec5bc",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_historical2022_2025/daily.csv.gz",
+      "sha256": "786f0d6c6d7a365c097983f4ebe50afd42494e82b1d68d35b9ec1c32f82bb9e8",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_historical2022_2025/daily.csv.gz",
+      "source_sha256": "786f0d6c6d7a365c097983f4ebe50afd42494e82b1d68d35b9ec1c32f82bb9e8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_historical2022_2025/orders.csv.gz",
+      "sha256": "dac003ebe6ceed7fea41bc175607c22cc6eaf896d2429910cd90a0a33b7cce00",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_historical2022_2025/orders.csv.gz",
+      "source_sha256": "dac003ebe6ceed7fea41bc175607c22cc6eaf896d2429910cd90a0a33b7cce00",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "813a76e9be1411fa84b2e41a21339370dc4debcc553adc90e9ce827bb18ce5af",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_historical2022_2025/holdings.csv.gz",
+      "source_sha256": "813a76e9be1411fa84b2e41a21339370dc4debcc553adc90e9ce827bb18ce5af",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "7003948da8b0e2e192042729e43cd862e9e1e3d141a4890904603aeb368ecd9d",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_historical2022_2025/dividends.csv.gz",
+      "source_sha256": "7003948da8b0e2e192042729e43cd862e9e1e3d141a4890904603aeb368ecd9d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_historical2022_2025/trades.csv.gz",
+      "sha256": "7853d531f1dad4a9a0e464fa3222c711ce6b44281703f34a2d70eec28935bac6",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_historical2022_2025/trades.csv.gz",
+      "source_sha256": "7853d531f1dad4a9a0e464fa3222c711ce6b44281703f34a2d70eec28935bac6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_historical2022_2025/metrics.json",
+      "sha256": "63b6b9cc149d462b6c1275693b4de48e150e6d39afdcde1bae0253d9191ccde0",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_historical2022_2025/METRICS.json",
+      "source_sha256": "63b6b9cc149d462b6c1275693b4de48e150e6d39afdcde1bae0253d9191ccde0",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_reset2026/daily.csv.gz",
+      "sha256": "27fdee2454791f8ea2ad47fed975b28989f85aaf065a4da19d31b3d0b24a4cfa",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_reset2026/daily.csv.gz",
+      "source_sha256": "27fdee2454791f8ea2ad47fed975b28989f85aaf065a4da19d31b3d0b24a4cfa",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_reset2026/orders.csv.gz",
+      "sha256": "061f37d48d75c430ebcec8ea1d89cc02a32049898f3e21a04329842a6bc8a329",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_reset2026/orders.csv.gz",
+      "source_sha256": "061f37d48d75c430ebcec8ea1d89cc02a32049898f3e21a04329842a6bc8a329",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_reset2026/holdings.csv.gz",
+      "sha256": "2ca0e058a60e9cae1d6137c056a18f2d91004669e3f610a9b6f4c2fe2a201c88",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_reset2026/holdings.csv.gz",
+      "source_sha256": "2ca0e058a60e9cae1d6137c056a18f2d91004669e3f610a9b6f4c2fe2a201c88",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_reset2026/dividends.csv.gz",
+      "sha256": "4eea71757ced33b564a224f9bbec4c0f02900cdda2b8ab23a0cee7d03a7310e1",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_reset2026/dividends.csv.gz",
+      "source_sha256": "4eea71757ced33b564a224f9bbec4c0f02900cdda2b8ab23a0cee7d03a7310e1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_reset2026/trades.csv.gz",
+      "sha256": "9b807d51714515a7ae1bf43b8c86111c3e3e458fcf78fb4bd9d2dcbc9ea07b9c",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_reset2026/trades.csv.gz",
+      "source_sha256": "9b807d51714515a7ae1bf43b8c86111c3e3e458fcf78fb4bd9d2dcbc9ea07b9c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_reset2026/ytd.json",
+      "sha256": "f0127613266652142fab88076708668d5ebe948d75cd83fb115961c5083fd672",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_reset2026/YTD.json",
+      "source_sha256": "f0127613266652142fab88076708668d5ebe948d75cd83fb115961c5083fd672",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "6b360ef5479ac9bcf7cbb969370632d95f90eabe429c80466d79626d01af85e6",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_continuous2022_2026/daily.csv.gz",
+      "source_sha256": "6b360ef5479ac9bcf7cbb969370632d95f90eabe429c80466d79626d01af85e6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "364d9c3d081f0ae80acb2636cff71c5a7c99edc6be2791a34b6a541dac5c1166",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_continuous2022_2026/orders.csv.gz",
+      "source_sha256": "364d9c3d081f0ae80acb2636cff71c5a7c99edc6be2791a34b6a541dac5c1166",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "8e1002f4366714ebb5592b78838ea97dfc512aaded3237495c0fb9af6068e47b",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_continuous2022_2026/holdings.csv.gz",
+      "source_sha256": "8e1002f4366714ebb5592b78838ea97dfc512aaded3237495c0fb9af6068e47b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "f6021df2d56022dccce4e20f32e7bd107581f2a3af30dbe6abde6bad40733358",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_continuous2022_2026/dividends.csv.gz",
+      "source_sha256": "f6021df2d56022dccce4e20f32e7bd107581f2a3af30dbe6abde6bad40733358",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "07ed941f34bc38cce08363642c952dc09c0d2fcc8e4b9f7e3296780f809bd9a3",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_continuous2022_2026/trades.csv.gz",
+      "source_sha256": "07ed941f34bc38cce08363642c952dc09c0d2fcc8e4b9f7e3296780f809bd9a3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/C00_20bp_continuous2022_2026/ytd.json",
+      "sha256": "5af404f2cb4e508b342cf6f41d4744f4f2cf8a5d993a5a988d223b3b48cee816",
+      "source_id": "etf_group_cap_outputs/20261109_v1/historical34_cap1_K3_20bp_continuous2022_2026/YTD.json",
+      "source_sha256": "5af404f2cb4e508b342cf6f41d4744f4f2cf8a5d993a5a988d223b3b48cee816",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_historical2022_2025/daily.csv.gz",
+      "sha256": "978a70f1ecc6a76d5d78db2dc61029920a6716af6a33b05dee85d70a09d4ceb8",
+      "source_id": "public_v1/data/reference/SPY_BH_5bp/daily.csv.gz",
+      "source_sha256": "978a70f1ecc6a76d5d78db2dc61029920a6716af6a33b05dee85d70a09d4ceb8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_historical2022_2025/orders.csv.gz",
+      "sha256": "65ecbc790f91fb92d026871de6d34444fbf1a3dc99c630006acbf962ca687680",
+      "source_id": "public_v1/data/reference/SPY_BH_5bp/orders.csv.gz",
+      "source_sha256": "65ecbc790f91fb92d026871de6d34444fbf1a3dc99c630006acbf962ca687680",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "ba1ccf23c2c55fa5c3158ba430d6abea838a819e5334cbe81a0f45d11c581cba",
+      "source_id": "public_v1/data/reference/SPY_BH_5bp/holdings.csv.gz",
+      "source_sha256": "ba1ccf23c2c55fa5c3158ba430d6abea838a819e5334cbe81a0f45d11c581cba",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "280a3eb1ef3d105ec326638c266e8c05a31fc1b1797efa1a87bbb3306bfde839",
+      "source_id": "public_v1/data/reference/SPY_BH_5bp/dividends.csv.gz",
+      "source_sha256": "280a3eb1ef3d105ec326638c266e8c05a31fc1b1797efa1a87bbb3306bfde839",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_historical2022_2025/trades.csv.gz",
+      "sha256": "5af22009db6a74abb5f60f5352d4112dcc28db09fa57cf4ed797aa37733f2545",
+      "source_id": "public_v1/data/reference/SPY_BH_5bp/trades.csv.gz",
+      "source_sha256": "5af22009db6a74abb5f60f5352d4112dcc28db09fa57cf4ed797aa37733f2545",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_historical2022_2025/metrics.json",
+      "sha256": "d2d3ae2e93c72326a79bf866e9405c37c43fda0c4fe4aceb794c4d5ee0f115f2",
+      "source_id": "public_v1/data/reference/SPY_BH_5bp/metrics.json",
+      "source_sha256": "d2d3ae2e93c72326a79bf866e9405c37c43fda0c4fe4aceb794c4d5ee0f115f2",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_historical2022_2025/targets.json",
+      "sha256": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "source_id": "public_v1/data/reference/SPY_BH_5bp/targets.json",
+      "source_sha256": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_reset2026/daily.csv.gz",
+      "sha256": "d3d8daab097079d1c1afc32a0b585f6530659b196d332f47ad32dd6945b2e294",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/daily.csv.gz",
+      "source_sha256": "d3d8daab097079d1c1afc32a0b585f6530659b196d332f47ad32dd6945b2e294",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_reset2026/orders.csv.gz",
+      "sha256": "aa99f93d27c334f8a99979ef5f0251afb3582b3097b750d4c514d87e9016d9f8",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/orders.csv.gz",
+      "source_sha256": "aa99f93d27c334f8a99979ef5f0251afb3582b3097b750d4c514d87e9016d9f8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_reset2026/holdings.csv.gz",
+      "sha256": "e209ccceacacda4e57e4550300352db50da69d6fe08b68c9e74bfd583c84d5b0",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/holdings.csv.gz",
+      "source_sha256": "e209ccceacacda4e57e4550300352db50da69d6fe08b68c9e74bfd583c84d5b0",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_reset2026/dividends.csv.gz",
+      "sha256": "f7ff7dd432991807b683d08f3299878dccf00a03359f8c9927de9b7adeac5834",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/dividends.csv.gz",
+      "source_sha256": "f7ff7dd432991807b683d08f3299878dccf00a03359f8c9927de9b7adeac5834",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_reset2026/trades.csv.gz",
+      "sha256": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/trades.csv.gz",
+      "source_sha256": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_reset2026/ytd.json",
+      "sha256": "dd9982e39ef027337dada41c25eb5f222fe3e328e2a94cbe51060bb549b9a559",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/YTD.json",
+      "source_sha256": "dd9982e39ef027337dada41c25eb5f222fe3e328e2a94cbe51060bb549b9a559",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "831d0e97e47418365065d0df40bb7d886825abc2b5908a436326d95c9c0e63d7",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/daily.csv.gz",
+      "source_sha256": "831d0e97e47418365065d0df40bb7d886825abc2b5908a436326d95c9c0e63d7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "f45d77392b66dff9736c23c06cbaf030286f438d145ec47d504bade8309afdbb",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/orders.csv.gz",
+      "source_sha256": "f45d77392b66dff9736c23c06cbaf030286f438d145ec47d504bade8309afdbb",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "ff467b279ae3274bc2874261e5c014844908660e49c169a6ead172dd51a9e959",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/holdings.csv.gz",
+      "source_sha256": "ff467b279ae3274bc2874261e5c014844908660e49c169a6ead172dd51a9e959",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "d3eafc871ca7c08cfb784368bb6a9682dcaf1f005a21ff821bb63b0c88bde59d",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/dividends.csv.gz",
+      "source_sha256": "d3eafc871ca7c08cfb784368bb6a9682dcaf1f005a21ff821bb63b0c88bde59d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "78e325bf0f962458a46c8ca0c5c1bb361401aaa64a88ca038bb6547aa337c50c",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/trades.csv.gz",
+      "source_sha256": "78e325bf0f962458a46c8ca0c5c1bb361401aaa64a88ca038bb6547aa337c50c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_5bp_continuous2022_2026/ytd.json",
+      "sha256": "005b760e29cc12f63c2137bce390ff3d9cbd7ad97ce455bb82fbc8e71f3360af",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/YTD.json",
+      "source_sha256": "005b760e29cc12f63c2137bce390ff3d9cbd7ad97ce455bb82fbc8e71f3360af",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_historical2022_2025/daily.csv.gz",
+      "sha256": "b322ccd264465552bf1ea2c480ce0a30834248e1b235fdb262fe33db45b8a7da",
+      "source_id": "public_v1/data/reference/SPY_BH_20bp/daily.csv.gz",
+      "source_sha256": "b322ccd264465552bf1ea2c480ce0a30834248e1b235fdb262fe33db45b8a7da",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_historical2022_2025/orders.csv.gz",
+      "sha256": "6f5d274f43b74d4840eeb8f6326aad9338fe90e0ac5fbe46684460d8592b8bcb",
+      "source_id": "public_v1/data/reference/SPY_BH_20bp/orders.csv.gz",
+      "source_sha256": "6f5d274f43b74d4840eeb8f6326aad9338fe90e0ac5fbe46684460d8592b8bcb",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "ba1ccf23c2c55fa5c3158ba430d6abea838a819e5334cbe81a0f45d11c581cba",
+      "source_id": "public_v1/data/reference/SPY_BH_20bp/holdings.csv.gz",
+      "source_sha256": "ba1ccf23c2c55fa5c3158ba430d6abea838a819e5334cbe81a0f45d11c581cba",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "280a3eb1ef3d105ec326638c266e8c05a31fc1b1797efa1a87bbb3306bfde839",
+      "source_id": "public_v1/data/reference/SPY_BH_20bp/dividends.csv.gz",
+      "source_sha256": "280a3eb1ef3d105ec326638c266e8c05a31fc1b1797efa1a87bbb3306bfde839",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_historical2022_2025/trades.csv.gz",
+      "sha256": "dab4120ca9a1412579a241875ae46d66bb7459bb775ca27da95084fd2e20b44e",
+      "source_id": "public_v1/data/reference/SPY_BH_20bp/trades.csv.gz",
+      "source_sha256": "dab4120ca9a1412579a241875ae46d66bb7459bb775ca27da95084fd2e20b44e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_historical2022_2025/metrics.json",
+      "sha256": "bf96de6724fda94755a20a879a7ea4f713ea380b63cc1ef240d00a323ce953f7",
+      "source_id": "public_v1/data/reference/SPY_BH_20bp/metrics.json",
+      "source_sha256": "bf96de6724fda94755a20a879a7ea4f713ea380b63cc1ef240d00a323ce953f7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_historical2022_2025/targets.json",
+      "sha256": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "source_id": "public_v1/data/reference/SPY_BH_20bp/targets.json",
+      "source_sha256": "132d6c716d6d796410aabc8603560bb65d278ab9ea07fcb9a0c4fcddf1bccb0e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_reset2026/daily.csv.gz",
+      "sha256": "88080a7f3fbb17875a8951571cc8e21340b9462862dcaf0365d3cb96e7ceb28f",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/daily.csv.gz",
+      "source_sha256": "88080a7f3fbb17875a8951571cc8e21340b9462862dcaf0365d3cb96e7ceb28f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_reset2026/orders.csv.gz",
+      "sha256": "812aebffabec1eeb4a0abfd66daed7a2fbde423412aaea4f35de9cfb975080e3",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/orders.csv.gz",
+      "source_sha256": "812aebffabec1eeb4a0abfd66daed7a2fbde423412aaea4f35de9cfb975080e3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_reset2026/holdings.csv.gz",
+      "sha256": "df4f152dbe4709c97843540bfa8f5e066c3c92ce72ebde2e17df8a790fc4ad30",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/holdings.csv.gz",
+      "source_sha256": "df4f152dbe4709c97843540bfa8f5e066c3c92ce72ebde2e17df8a790fc4ad30",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_reset2026/dividends.csv.gz",
+      "sha256": "8ab13b1c7ed14c8ade90bb4c50b9cfcf8b359f5a96473e474690966796a205e6",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/dividends.csv.gz",
+      "source_sha256": "8ab13b1c7ed14c8ade90bb4c50b9cfcf8b359f5a96473e474690966796a205e6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_reset2026/trades.csv.gz",
+      "sha256": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/trades.csv.gz",
+      "source_sha256": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_reset2026/ytd.json",
+      "sha256": "60059476e9c7422bc254d0485f7adc107bd9b55e58eaf09b126208e40e0d2467",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/YTD.json",
+      "source_sha256": "60059476e9c7422bc254d0485f7adc107bd9b55e58eaf09b126208e40e0d2467",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "fad30fcd7df49e34dc62534eccdcfa8b1ca21d8f91397b174ca63067aa9dee21",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/daily.csv.gz",
+      "source_sha256": "fad30fcd7df49e34dc62534eccdcfa8b1ca21d8f91397b174ca63067aa9dee21",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "22a72d5949440b0749ab41df0cdd5c8860903bc0d4dbcf2c1e6b3789dd9e251a",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/orders.csv.gz",
+      "source_sha256": "22a72d5949440b0749ab41df0cdd5c8860903bc0d4dbcf2c1e6b3789dd9e251a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "409e68fda49fc93b4ea479cb9f1040a4f39d37895c1c64c3001bf4ad753596bf",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/holdings.csv.gz",
+      "source_sha256": "409e68fda49fc93b4ea479cb9f1040a4f39d37895c1c64c3001bf4ad753596bf",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "04b3c4ae01b19955df20f9960fc1dcb431c3e931c66abff554efe104d14304d6",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/dividends.csv.gz",
+      "source_sha256": "04b3c4ae01b19955df20f9960fc1dcb431c3e931c66abff554efe104d14304d6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/trades.csv.gz",
+      "source_sha256": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY_BH_20bp_continuous2022_2026/ytd.json",
+      "sha256": "7cb70c58a4d2915212c60618103d79c367db1b75d54b7e3d464f8cdccdbb7dd9",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/YTD.json",
+      "source_sha256": "7cb70c58a4d2915212c60618103d79c367db1b75d54b7e3d464f8cdccdbb7dd9",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_historical2022_2025/daily.csv.gz",
+      "sha256": "3e2b692cb87ce5d5638e07709a96703be5e34855d08564c55c46dec5af3fb192",
+      "source_id": "public_v1/data/reference/QQQ_BH_5bp/daily.csv.gz",
+      "source_sha256": "3e2b692cb87ce5d5638e07709a96703be5e34855d08564c55c46dec5af3fb192",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_historical2022_2025/orders.csv.gz",
+      "sha256": "3d7ff377c3f5e634fd1fe18b68ddb80961c8e8d553fa48908dc9a1a58914801c",
+      "source_id": "public_v1/data/reference/QQQ_BH_5bp/orders.csv.gz",
+      "source_sha256": "3d7ff377c3f5e634fd1fe18b68ddb80961c8e8d553fa48908dc9a1a58914801c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "694e35be1a61da8c652b4096058245237f185da0d7245af8e13b9d88bd4b944a",
+      "source_id": "public_v1/data/reference/QQQ_BH_5bp/holdings.csv.gz",
+      "source_sha256": "694e35be1a61da8c652b4096058245237f185da0d7245af8e13b9d88bd4b944a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "1ddfa7e2a659115f235323bd5e0bf7ae08a0ab2f86e8584cd3a63c7732db9818",
+      "source_id": "public_v1/data/reference/QQQ_BH_5bp/dividends.csv.gz",
+      "source_sha256": "1ddfa7e2a659115f235323bd5e0bf7ae08a0ab2f86e8584cd3a63c7732db9818",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_historical2022_2025/trades.csv.gz",
+      "sha256": "f3439ef034063ab8528a0d623688f9726461b733d206bdb7eca560321e48f5d6",
+      "source_id": "public_v1/data/reference/QQQ_BH_5bp/trades.csv.gz",
+      "source_sha256": "f3439ef034063ab8528a0d623688f9726461b733d206bdb7eca560321e48f5d6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_historical2022_2025/metrics.json",
+      "sha256": "e23834da68ab4dd9859337f5f06991b81fdc5edc013f377c52216e37e234d574",
+      "source_id": "public_v1/data/reference/QQQ_BH_5bp/metrics.json",
+      "source_sha256": "e23834da68ab4dd9859337f5f06991b81fdc5edc013f377c52216e37e234d574",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_historical2022_2025/targets.json",
+      "sha256": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "source_id": "public_v1/data/reference/QQQ_BH_5bp/targets.json",
+      "source_sha256": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_reset2026/daily.csv.gz",
+      "sha256": "76e032eddb027634a9c3f4c4c4ac09bbb8ef20d12c6ea8676e5b3cc5b1c7ecc7",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/daily.csv.gz",
+      "source_sha256": "76e032eddb027634a9c3f4c4c4ac09bbb8ef20d12c6ea8676e5b3cc5b1c7ecc7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_reset2026/orders.csv.gz",
+      "sha256": "b6c942f4a1d0bbb870a455ef1ca1e55b85e07d9143cb99d4cc3b8f482dc53ac7",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/orders.csv.gz",
+      "source_sha256": "b6c942f4a1d0bbb870a455ef1ca1e55b85e07d9143cb99d4cc3b8f482dc53ac7",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_reset2026/holdings.csv.gz",
+      "sha256": "152717cc07250c2d15eb96832b6b1ef2631452745107e18b82a89aa93e5cebce",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/holdings.csv.gz",
+      "source_sha256": "152717cc07250c2d15eb96832b6b1ef2631452745107e18b82a89aa93e5cebce",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_reset2026/dividends.csv.gz",
+      "sha256": "50baefea9b487c0f9a7d40f019a0e0421732073a2d12e2d00c0c171634227bbd",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/dividends.csv.gz",
+      "source_sha256": "50baefea9b487c0f9a7d40f019a0e0421732073a2d12e2d00c0c171634227bbd",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_reset2026/trades.csv.gz",
+      "sha256": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/trades.csv.gz",
+      "source_sha256": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_reset2026/ytd.json",
+      "sha256": "6a8d29122d04bf71ee09ddca1ba6fda06d8116aa70a0d6f440529b738b8d9608",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/YTD.json",
+      "source_sha256": "6a8d29122d04bf71ee09ddca1ba6fda06d8116aa70a0d6f440529b738b8d9608",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "09cd859df5a1d65bb648658f3825415bb0e6786cf1ef45f3d947812110a4901b",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/daily.csv.gz",
+      "source_sha256": "09cd859df5a1d65bb648658f3825415bb0e6786cf1ef45f3d947812110a4901b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "b9eb8568b0bd1eb11b5a0f228a32b5fb3210a602a79b6765929e4e705d2fe913",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/orders.csv.gz",
+      "source_sha256": "b9eb8568b0bd1eb11b5a0f228a32b5fb3210a602a79b6765929e4e705d2fe913",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "9552717554136d883bd32c974760b32f8e22e34b07b3128b9bcc693c4e80ba87",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/holdings.csv.gz",
+      "source_sha256": "9552717554136d883bd32c974760b32f8e22e34b07b3128b9bcc693c4e80ba87",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "41415566a5ace519e1d46e3fd33f40baf64a955fea782d12f00cfcb196906c8c",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/dividends.csv.gz",
+      "source_sha256": "41415566a5ace519e1d46e3fd33f40baf64a955fea782d12f00cfcb196906c8c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "88e325dcdc446cce1f02f78c6a4438ac7aff981bb100e35229bd5c3039030f5c",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/trades.csv.gz",
+      "source_sha256": "88e325dcdc446cce1f02f78c6a4438ac7aff981bb100e35229bd5c3039030f5c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_5bp_continuous2022_2026/ytd.json",
+      "sha256": "83b69cdb39a9cc06600d48fced1e271a2d7d65c9df9a4bd114812648e61ffa12",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/YTD_REVALIDATED.json",
+      "source_sha256": "83b69cdb39a9cc06600d48fced1e271a2d7d65c9df9a4bd114812648e61ffa12",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_historical2022_2025/daily.csv.gz",
+      "sha256": "5695e9dd4b85f0940436846efadf93b63c184257b81f63f76893edd4452b47fa",
+      "source_id": "public_v1/data/reference/QQQ_BH_20bp/daily.csv.gz",
+      "source_sha256": "5695e9dd4b85f0940436846efadf93b63c184257b81f63f76893edd4452b47fa",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_historical2022_2025/orders.csv.gz",
+      "sha256": "1f9dcfc301e2774e7cd3765905ba329ef84104e144cdc6f888c64a9540e42b23",
+      "source_id": "public_v1/data/reference/QQQ_BH_20bp/orders.csv.gz",
+      "source_sha256": "1f9dcfc301e2774e7cd3765905ba329ef84104e144cdc6f888c64a9540e42b23",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "694e35be1a61da8c652b4096058245237f185da0d7245af8e13b9d88bd4b944a",
+      "source_id": "public_v1/data/reference/QQQ_BH_20bp/holdings.csv.gz",
+      "source_sha256": "694e35be1a61da8c652b4096058245237f185da0d7245af8e13b9d88bd4b944a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "1ddfa7e2a659115f235323bd5e0bf7ae08a0ab2f86e8584cd3a63c7732db9818",
+      "source_id": "public_v1/data/reference/QQQ_BH_20bp/dividends.csv.gz",
+      "source_sha256": "1ddfa7e2a659115f235323bd5e0bf7ae08a0ab2f86e8584cd3a63c7732db9818",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_historical2022_2025/trades.csv.gz",
+      "sha256": "fe9569e98a50e59c7dae9c82785081c187edca409c8fd9fd460e56ee7aeb45ce",
+      "source_id": "public_v1/data/reference/QQQ_BH_20bp/trades.csv.gz",
+      "source_sha256": "fe9569e98a50e59c7dae9c82785081c187edca409c8fd9fd460e56ee7aeb45ce",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_historical2022_2025/metrics.json",
+      "sha256": "e9028c752945655856e5349fbb10a6c0bbbdb7ebbfff149269834ba979044988",
+      "source_id": "public_v1/data/reference/QQQ_BH_20bp/metrics.json",
+      "source_sha256": "e9028c752945655856e5349fbb10a6c0bbbdb7ebbfff149269834ba979044988",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_historical2022_2025/targets.json",
+      "sha256": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "source_id": "public_v1/data/reference/QQQ_BH_20bp/targets.json",
+      "source_sha256": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_reset2026/daily.csv.gz",
+      "sha256": "4cc771fc2555c9e68ed9457951cbc0e7bc58fcda97f38a529cb23c1a64e62ff2",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/daily.csv.gz",
+      "source_sha256": "4cc771fc2555c9e68ed9457951cbc0e7bc58fcda97f38a529cb23c1a64e62ff2",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_reset2026/orders.csv.gz",
+      "sha256": "9211f13eea74998f2b86084990eeed3eae4c04875c055be46ecf8b071f8ad04f",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/orders.csv.gz",
+      "source_sha256": "9211f13eea74998f2b86084990eeed3eae4c04875c055be46ecf8b071f8ad04f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_reset2026/holdings.csv.gz",
+      "sha256": "2043ba2103df110e5553ba430a1fcec21cbe6743644c6e528bfa2d3c450e2462",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/holdings.csv.gz",
+      "source_sha256": "2043ba2103df110e5553ba430a1fcec21cbe6743644c6e528bfa2d3c450e2462",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_reset2026/dividends.csv.gz",
+      "sha256": "b0a8451bffbd10a1153e1ce5b0108a754262f9a190c682a96bfbef35e46bb18f",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/dividends.csv.gz",
+      "source_sha256": "b0a8451bffbd10a1153e1ce5b0108a754262f9a190c682a96bfbef35e46bb18f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_reset2026/trades.csv.gz",
+      "sha256": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/trades.csv.gz",
+      "source_sha256": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_reset2026/ytd.json",
+      "sha256": "22bad991dbbfaeccdeb7a2dc8a895e4b9057c470a3fc759ce0191934cbb394a1",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/YTD.json",
+      "source_sha256": "22bad991dbbfaeccdeb7a2dc8a895e4b9057c470a3fc759ce0191934cbb394a1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "ae27aa8b51080eb522780992417e734b07dad1ab8837562db134562117eca25e",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/daily.csv.gz",
+      "source_sha256": "ae27aa8b51080eb522780992417e734b07dad1ab8837562db134562117eca25e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "29f665cf084921d2bc5299f3011d34a2d77fe8afea4322fa6475e62a8add59cb",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/orders.csv.gz",
+      "source_sha256": "29f665cf084921d2bc5299f3011d34a2d77fe8afea4322fa6475e62a8add59cb",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "5a0bc2209e3998bfa7ecb638929e444fc468472a84689b7ec50628dc209800ff",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/holdings.csv.gz",
+      "source_sha256": "5a0bc2209e3998bfa7ecb638929e444fc468472a84689b7ec50628dc209800ff",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "9d811ae1e07f3b46a7335e74558d0e07add14212f803f30f27cef566180fd957",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/dividends.csv.gz",
+      "source_sha256": "9d811ae1e07f3b46a7335e74558d0e07add14212f803f30f27cef566180fd957",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/trades.csv.gz",
+      "source_sha256": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/QQQ_BH_20bp_continuous2022_2026/ytd.json",
+      "sha256": "1b89319a8f9845306fd7a077f726afb73e2422d9abbda1ffd212d32d3f03a89b",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/YTD.json",
+      "source_sha256": "1b89319a8f9845306fd7a077f726afb73e2422d9abbda1ffd212d32d3f03a89b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_historical2022_2025/daily.csv.gz",
+      "sha256": "6a7419b9dd6656bad19af3736e17f649977dd466b6e7c55f8bc622836c103a17",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_5bp/daily.csv.gz",
+      "source_sha256": "6a7419b9dd6656bad19af3736e17f649977dd466b6e7c55f8bc622836c103a17",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_historical2022_2025/orders.csv.gz",
+      "sha256": "da3255c41de870ae32d3add7ed4a5db91829c65d8b05eb2dfc64d19f60b5a878",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_5bp/orders.csv.gz",
+      "source_sha256": "da3255c41de870ae32d3add7ed4a5db91829c65d8b05eb2dfc64d19f60b5a878",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "0f8d0166baadc64690a35d46585045d35342b441822c1221bdf252a728b1e0c6",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_5bp/holdings.csv.gz",
+      "source_sha256": "0f8d0166baadc64690a35d46585045d35342b441822c1221bdf252a728b1e0c6",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "6153103d3c0470160ad23f2ce3e532226d495bc20bf116aafd4361d467ecd8f2",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_5bp/dividends.csv.gz",
+      "source_sha256": "6153103d3c0470160ad23f2ce3e532226d495bc20bf116aafd4361d467ecd8f2",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_historical2022_2025/trades.csv.gz",
+      "sha256": "3ad5abdf36d42042da9f91b6ce38021e6cad3637c84b8a6af54e16f360d79821",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_5bp/trades.csv.gz",
+      "source_sha256": "3ad5abdf36d42042da9f91b6ce38021e6cad3637c84b8a6af54e16f360d79821",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_historical2022_2025/metrics.json",
+      "sha256": "dc62af32640bb36c69bb873f466d9d335505232469bc220df5226c8cb7b7ad2a",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_5bp/metrics.json",
+      "source_sha256": "dc62af32640bb36c69bb873f466d9d335505232469bc220df5226c8cb7b7ad2a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_historical2022_2025/targets.json",
+      "sha256": "665bff935de6f44034ad4ddd48c7fb3abea4adfc9ec16e61807326bce9fe1f67",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_5bp/targets.json",
+      "source_sha256": "665bff935de6f44034ad4ddd48c7fb3abea4adfc9ec16e61807326bce9fe1f67",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_reset2026/daily.csv.gz",
+      "sha256": "54848d7e7f0143b0d4141a0ee2d9b28d9108c05eea19c6f16873422a6686af69",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_5bp/daily.csv.gz",
+      "source_sha256": "54848d7e7f0143b0d4141a0ee2d9b28d9108c05eea19c6f16873422a6686af69",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_reset2026/orders.csv.gz",
+      "sha256": "01cc16a21fa1b6199e1a0022285c6dafb97807b5460cb73340068c2ed596209e",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_5bp/orders.csv.gz",
+      "source_sha256": "01cc16a21fa1b6199e1a0022285c6dafb97807b5460cb73340068c2ed596209e",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_reset2026/holdings.csv.gz",
+      "sha256": "b0984fb0dbbcd1daddf8d404d67eef7168f109f8bfc47209896209b4b470cbee",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_5bp/holdings.csv.gz",
+      "source_sha256": "b0984fb0dbbcd1daddf8d404d67eef7168f109f8bfc47209896209b4b470cbee",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_reset2026/dividends.csv.gz",
+      "sha256": "52e25f35864b646548f91246f0d08dbdcbb9d0798aecbb91433c8e8ade347805",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_5bp/dividends.csv.gz",
+      "source_sha256": "52e25f35864b646548f91246f0d08dbdcbb9d0798aecbb91433c8e8ade347805",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_reset2026/trades.csv.gz",
+      "sha256": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_5bp/trades.csv.gz",
+      "source_sha256": "48b73bab24db1b07c272886413273f3786be5a0008f353cc750c67403474b763",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_reset2026/ytd.json",
+      "sha256": "1a5c7b047504cd9d7adb9b5eb125bd5d54c1f25f6b757ed3326f880843767cda",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_5bp/YTD.json",
+      "source_sha256": "1a5c7b047504cd9d7adb9b5eb125bd5d54c1f25f6b757ed3326f880843767cda",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "2821723a852b09a761c5c09f7cd7a34f99f29672f93ec1e0d05fec9e4f6f5a73",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_5bp/daily.csv.gz",
+      "source_sha256": "2821723a852b09a761c5c09f7cd7a34f99f29672f93ec1e0d05fec9e4f6f5a73",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "84c86eb4d9380565ba7c39ed5a26ab26cc1f3502ac4114161364c7bc7f2cd96f",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_5bp/orders.csv.gz",
+      "source_sha256": "84c86eb4d9380565ba7c39ed5a26ab26cc1f3502ac4114161364c7bc7f2cd96f",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "4157dbd2c52a26fcd7aa172bbee8df020032842324773f103c3f608b3da3c1e1",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_5bp/holdings.csv.gz",
+      "source_sha256": "4157dbd2c52a26fcd7aa172bbee8df020032842324773f103c3f608b3da3c1e1",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "a6d1695990ca12545fcc4699ae7a9697251d5d39a5761dc546e18db10ee3d16a",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_5bp/dividends.csv.gz",
+      "source_sha256": "a6d1695990ca12545fcc4699ae7a9697251d5d39a5761dc546e18db10ee3d16a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "78e325bf0f962458a46c8ca0c5c1bb361401aaa64a88ca038bb6547aa337c50c",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_5bp/trades.csv.gz",
+      "source_sha256": "78e325bf0f962458a46c8ca0c5c1bb361401aaa64a88ca038bb6547aa337c50c",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_5bp_continuous2022_2026/ytd.json",
+      "sha256": "8d89172445d81bbde88bfbb26776b8d578d2bbed2063aa8a9bcd444d673ec8ee",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_5bp/YTD.json",
+      "source_sha256": "8d89172445d81bbde88bfbb26776b8d578d2bbed2063aa8a9bcd444d673ec8ee",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_historical2022_2025/daily.csv.gz",
+      "sha256": "c2a3939ea553d747985d79d77b7ab817887cfec26a2168fba42675b1dfc656c9",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_20bp/daily.csv.gz",
+      "source_sha256": "c2a3939ea553d747985d79d77b7ab817887cfec26a2168fba42675b1dfc656c9",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_historical2022_2025/orders.csv.gz",
+      "sha256": "65788551d37003dbe79241c90c3250a97a9085f82e469bc6c3f2963ceab1797d",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_20bp/orders.csv.gz",
+      "source_sha256": "65788551d37003dbe79241c90c3250a97a9085f82e469bc6c3f2963ceab1797d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_historical2022_2025/holdings.csv.gz",
+      "sha256": "377616eb85b4a3ee82b6dc15783572cd574dc046609d6b47ab6ac33b0d14757a",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_20bp/holdings.csv.gz",
+      "source_sha256": "377616eb85b4a3ee82b6dc15783572cd574dc046609d6b47ab6ac33b0d14757a",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_historical2022_2025/dividends.csv.gz",
+      "sha256": "14504130b1728e9bd328fe9ab4a0a7da4ded48cf5f86b551b760681c4cbcf142",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_20bp/dividends.csv.gz",
+      "source_sha256": "14504130b1728e9bd328fe9ab4a0a7da4ded48cf5f86b551b760681c4cbcf142",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_historical2022_2025/trades.csv.gz",
+      "sha256": "417c6ab810da8c6a4226ac173971a969e74c8d568f75fbf4f99452603a954a49",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_20bp/trades.csv.gz",
+      "source_sha256": "417c6ab810da8c6a4226ac173971a969e74c8d568f75fbf4f99452603a954a49",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_historical2022_2025/metrics.json",
+      "sha256": "3adc97e5f67fbd265c46e24ca5d10d9d9c831c617724a535cfdccbf801c29d81",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_20bp/metrics.json",
+      "source_sha256": "3adc97e5f67fbd265c46e24ca5d10d9d9c831c617724a535cfdccbf801c29d81",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_historical2022_2025/targets.json",
+      "sha256": "665bff935de6f44034ad4ddd48c7fb3abea4adfc9ec16e61807326bce9fe1f67",
+      "source_id": "public_v1/data/reference/SPY60_IEF40_20bp/targets.json",
+      "source_sha256": "665bff935de6f44034ad4ddd48c7fb3abea4adfc9ec16e61807326bce9fe1f67",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_reset2026/daily.csv.gz",
+      "sha256": "a72e27d22986779710a07cfd74012f9c7cea84c8f93995bca34ec93c1abde23b",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_20bp/daily.csv.gz",
+      "source_sha256": "a72e27d22986779710a07cfd74012f9c7cea84c8f93995bca34ec93c1abde23b",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_reset2026/orders.csv.gz",
+      "sha256": "deb4b43bb2fd0054753b106b78aa683f985e9d5bde7d1dc1cc36592afa794872",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_20bp/orders.csv.gz",
+      "source_sha256": "deb4b43bb2fd0054753b106b78aa683f985e9d5bde7d1dc1cc36592afa794872",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_reset2026/holdings.csv.gz",
+      "sha256": "bfb03aaeebf5e25fbd91d3c6b8b5e1719eb78a31a3850df7754fe98848444d10",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_20bp/holdings.csv.gz",
+      "source_sha256": "bfb03aaeebf5e25fbd91d3c6b8b5e1719eb78a31a3850df7754fe98848444d10",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_reset2026/dividends.csv.gz",
+      "sha256": "764a781205b516b618467f4a24d6c196264f8847b73ef1ff4bcad7f6b36a1e1d",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_20bp/dividends.csv.gz",
+      "source_sha256": "764a781205b516b618467f4a24d6c196264f8847b73ef1ff4bcad7f6b36a1e1d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_reset2026/trades.csv.gz",
+      "sha256": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_20bp/trades.csv.gz",
+      "source_sha256": "958b310d76a03775f98466afbf20fef00c443e685f9708317dd7fb3555e6dfa3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_reset2026/ytd.json",
+      "sha256": "1b5e7173adc711a17b78d617a0e7e175f140bb9bd69f60cd1bf4fe94aaf15320",
+      "source_id": "c10_2026_outputs/20261109_v1/reset2026_SPY60_IEF40_20bp/YTD.json",
+      "source_sha256": "1b5e7173adc711a17b78d617a0e7e175f140bb9bd69f60cd1bf4fe94aaf15320",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_continuous2022_2026/daily.csv.gz",
+      "sha256": "1e30cbe3164e1b5d17ca121f05a8989ba6fda7cfee3a762de4e80d544676f8a3",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_20bp/daily.csv.gz",
+      "source_sha256": "1e30cbe3164e1b5d17ca121f05a8989ba6fda7cfee3a762de4e80d544676f8a3",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_continuous2022_2026/orders.csv.gz",
+      "sha256": "5f12039d7ae8272a33deb32db77ad6d78626a478cd65e1246cf144082c80caf0",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_20bp/orders.csv.gz",
+      "source_sha256": "5f12039d7ae8272a33deb32db77ad6d78626a478cd65e1246cf144082c80caf0",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_continuous2022_2026/holdings.csv.gz",
+      "sha256": "ab1e58293624e96e1b801b65410f32bec4e2a4679feb56b267a050add06743ea",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_20bp/holdings.csv.gz",
+      "source_sha256": "ab1e58293624e96e1b801b65410f32bec4e2a4679feb56b267a050add06743ea",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_continuous2022_2026/dividends.csv.gz",
+      "sha256": "9415605d3e3b29b9617943b87a0546457836c30e1e3e91f9fc5f31148378f3ad",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_20bp/dividends.csv.gz",
+      "source_sha256": "9415605d3e3b29b9617943b87a0546457836c30e1e3e91f9fc5f31148378f3ad",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_continuous2022_2026/trades.csv.gz",
+      "sha256": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_20bp/trades.csv.gz",
+      "source_sha256": "13492f32fd79901f37ad3dbf4851584549832c82952368bc6658e45045d3b5e8",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/reference/SPY60_IEF40_20bp_continuous2022_2026/ytd.json",
+      "sha256": "ae04ea36f5daf52bc2e4290b55afee28cb4f22b6ae09c2561da913860ca3d6b4",
+      "source_id": "c10_2026_outputs/20261109_v1/continuous2022_SPY60_IEF40_20bp/YTD.json",
+      "source_sha256": "ae04ea36f5daf52bc2e4290b55afee28cb4f22b6ae09c2561da913860ca3d6b4",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/evidence/historical_pool_comparison.csv",
+      "sha256": "d989a7c6a30fa1f81e99ff3d9ab88e082afc74c7cf333c853025473b9c653334",
+      "source_id": "research/HISTORICAL_AUM_UNIVERSE_20261109/HISTORICAL_POOL_COMPARISON_LATEST.csv",
+      "source_sha256": "d989a7c6a30fa1f81e99ff3d9ab88e082afc74c7cf333c853025473b9c653334",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/evidence/historical_candidates.csv",
+      "sha256": "4c14aa2ec863770d0a5f919da13bb4dbf3c925a6e7a35ff0fe7e5b3fd905532d",
+      "source_id": "research/HISTORICAL_AUM_UNIVERSE_20261109/ALL95_CANDIDATE_AUM_LATEST.csv",
+      "source_sha256": "4c14aa2ec863770d0a5f919da13bb4dbf3c925a6e7a35ff0fe7e5b3fd905532d",
+      "method": "byte_copy"
+    },
+    {
+      "path": "standard/evidence/paired_pool_group_metrics.csv",
+      "sha256": "c632346e9cbe814fceddc6727770d915792bd3a6d25af46ba57b6957c349dfee",
+      "source_id": "research/ETF_GROUP_CAP_20261109/PERIOD_METRICS.csv",
+      "source_sha256": "c632346e9cbe814fceddc6727770d915792bd3a6d25af46ba57b6957c349dfee",
+      "method": "byte_copy"
+    }
+  ],
+  "meaning": "Relative source identifiers and hashes are provenance, not imports or filesystem requirements. Canonical files needed to reproduce are included in this repository. No full provider webpages published."
+}

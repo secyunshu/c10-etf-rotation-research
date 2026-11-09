@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "version": "2.0.0",
+  "release_date": "2026-11-10",
+  "standard_id": "C10_HISTORICAL_GROUP_CAP_V2",
+  "default_rule": "C10",
+  "adopted_changes": [
+    "pre2022 archivedAUM conditional historical34 plus SHY",
+    "one ETF per fixed economic risk group"
+  ],
+  "strategy_hash": "f8af2cb9f5f491e1148b2f18e6a389faafcd95da787d61e607ff1fef1c49639f",
+  "tests": {
+    "pytest_typeguard_passed": 45,
+    "warning_count": 204,
+    "warnings": "third-party pandas/exchange-calendars deprecations retained",
+    "new_native_from_tests": 0
+  },
+  "static": {
+    "mypy_strict_files": 28,
+    "pyright_errors": 0,
+    "ruff": "PASS"
+  },
+  "native_reproduction": {
+    "public": 36,
+    "isolated_copy": 36,
+    "started": 72,
+    "finished": 72,
+    "failed": 0,
+    "hard_cap_including_failures": 96,
+    "max_absolute_economic_difference": 0.0,
+    "native_on_postpublication_download": 0
+  },
+  "report": {
+    "accounts": 36,
+    "reference_hashes_checked": 348,
+    "archived_values_checked": 1260,
+    "annual_rows": 120,
+    "summary_rows": 36,
+    "monthly_rows": 1416,
+    "isolated_output_files_byte_exact": 7
+  },
+  "preserved_v1_files": 190,
+  "local_and_public_standard_json_byte_exact": true,
+  "new_public_sensitive_text_scan": "PASS",
+  "new_doc_link_check": "PASS",
+  "strategy_efficacy_status": "NOT_PROVEN_CONDITIONAL_RESEARCH_ONLY",
+  "fresh_OOS": false,
+  "complete_PIT_universe": false,
+  "no_annual_universe_refresh": true,
+  "old_forward_chain_unchanged": true,
+  "market_api_calls": 0,
+  "live_account_or_order_calls": 0,
+  "tooling_limitations": [
+    "GitHub connector unavailable; authenticated GitHub CLI/git used",
+    "installed ship helper/sections incomplete; checks and independent reviews executed directly, not claimed as automated ship pass"
+  ],
+  "evidence": {
+    "standard/evidence/REPRODUCTION_LOCK.json": "b562e8b58ff50e10db953979e65a625a8cb9c140c8a4625976b831fad36312c8",
+    "standard/evidence/REPRODUCTION_COMPARISON.json": "5fe22bba8f8f881617ec04be98256cd508683ce2f7bd044dc993bfce8148d4e2",
+    "standard/evidence/ISOLATED_REPRODUCTION_COMPARISON.json": "fe9954654d39e89ccbd8b7b00f8a15904a5b3dd2e43296e3d79056b069e3996e",
+    "standard/evidence/NATIVE_ATTEMPTS.jsonl": "25e176877808f6ebbd6aa9f527703dd8f50fa5e7a989554e8fed6c4c65eadc97",
+    "standard/results/verification.json": "da152a386826612a775742d66a0e43af31e2453ff7cd96415c7a0d97db83bd6b"
+  }
+}
