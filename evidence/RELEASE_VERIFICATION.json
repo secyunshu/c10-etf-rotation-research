@@ -45,19 +45,19 @@
   "source_sha_manifest": "evidence/SOURCE_PROVENANCE.json",
   "market_sha_manifest": "data/market/MANIFEST.json",
   "package_sha_manifest": "MANIFEST.sha256",
-  "package_sha256": "93418f532751544d2db3ad4968b5f0b14b397e26614b4177adaa0145f41b9949",
+  "package_sha256": "b43e6878d7ecf1dedd327dfe862938037411d408647c228bbae0b8fa7c5e13c8",
   "public_content_scan": {
-    "files": 218,
+    "files": 219,
     "common_secret_patterns": 0,
     "personal_absolute_paths": 0,
     "full_third_party_webpages_included": false
   },
   "native_usage": {
     "budget": 48,
-    "started": 26,
-    "finished": 26,
+    "started": 38,
+    "finished": 38,
     "failed": 0,
-    "scope": "2 development smoke + 12 formal + 12 independent clean-clone; pure tests call no native"
+    "scope": "2 development smoke + 12 formal + 12 clean local clone + 12 public GitHub clone; all fixed hypotheses"
   },
   "clean_clone_validation": {
     "status": "PASS",
@@ -82,9 +82,9 @@
     "macOS/Linux POSIX lock; native Windows is unsupported, use WSL2.",
     "No remote CI enabled; optional workflow is documentation only."
   ],
-  "subsequent_changes": "Documentation CSV-unit explanation and publication evidence only; source, data and economic output unchanged after clean clone.",
+  "subsequent_changes": "Publication evidence only after the public clone; source, inputs and economic outputs unchanged.",
   "native_attempt_evidence": "evidence/NATIVE_ATTEMPTS.jsonl",
-  "original_private_journal_sha256": "f2be82c4def96f6dd4ff89724ee33d9d5352bfac2001f666ca0178ac5c56551c",
+  "original_private_journal_sha256": "a4a479b2bb128721f989d97ecd2f7cf413b4127cabed7bf37f53d0735c624ab2",
   "original_private_log_hashes": {
     "report-identity-red.log": "4eb2b6b3db807e635a0018713be8a56679b27935760202e8af0a4178d8b4ff8d",
     "typeguard.log": "6b5ea121edd81979997bd0ab647e63c84ee6842e523377906f24b35e74eedfca",
@@ -97,5 +97,20 @@
     "formal-reproduction.log": "9cf2d8211e7cc8dfcfdd5d25af4848e76e79a8e080d6aa94d3cd321c4897cd18",
     "tests-release.log": "0366b9ec3e56f7884b03774a5bf33f7e747304dbc7b5a794ae7e8c414c4c106f",
     "clean-manifest.log": "28770767a016f1a6b12e86e16d9f00dd4a9ea4588895a786f67c77a30f54092f"
-  }
+  },
+  "github_clone_validation": {
+    "status": "PASS",
+    "url": "https://github.com/secyunshu/c10-etf-rotation-research",
+    "visibility": "PUBLIC",
+    "downloaded_commit": "388df467a71522251863b57ece66d7a3c4924d7a",
+    "fresh_clone": true,
+    "fresh_virtualenv": true,
+    "package_manifest": "PASS",
+    "reference_verify": "PASS",
+    "native_accounts": 12,
+    "max_abs_economic_difference": 0.0,
+    "comparison": "evidence/GITHUB_CLONE_COMPARISON.json",
+    "tracked_tree_unchanged": true
+  },
+  "warnings_addendum": "First import in clean environments also reports two Backtrader invalid-escape SyntaxWarnings; no runtime failure. Existing third-party source retained."
 }
