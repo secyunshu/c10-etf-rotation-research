@@ -1,0 +1,48 @@
+{
+  "status": "DONE_WITH_CONCERNS",
+  "verified_utc": "2026-11-09T16:09:59.908600+00:00",
+  "prices_through": "2026-11-06",
+  "roles": 72,
+  "unique_economic_paths": 60,
+  "actual_native_started": 44,
+  "actual_native_finished": 44,
+  "actual_native_failed": 0,
+  "old_reuses": 18,
+  "aliases": 12,
+  "tests_passed": 52,
+  "strict_mypy_source_files": 84,
+  "pyright_and_ruff": "PASS",
+  "full_native_object_hashes": 847,
+  "run_source_hashes": 484,
+  "joint_acceptance_hashes": 99,
+  "independent_period_rows": 168,
+  "independent_month_rows": 528,
+  "known_concerns": [
+    "8 supplementary 2026 benchmark order-count cells not exported; returns/drawdowns/fees verified. User asked to authorize filling counts only; no reply received and no repair assumed authorized."
+  ],
+  "source_and_raw_preserved": true,
+  "source_commits": [
+    "9d126f72",
+    "ef9fd4f4"
+  ],
+  "new_publication": false,
+  "live_account_or_order_calls": 0,
+  "hashes": {
+    "research_repo/research/ETF_GROUP_CAP_20261109/FINAL_REPORT.md": "ec53ec50e9e391bb69ae0e3094880120648d290c446a862e713ebc755724959e",
+    "research_repo/research/ETF_GROUP_CAP_20261109/PERIOD_METRICS.csv": "c632346e9cbe814fceddc6727770d915792bd3a6d25af46ba57b6957c349dfee",
+    "research_repo/research/ETF_GROUP_CAP_20261109/MONTHLY_2026.csv": "c35e9f6ced76ce6a47d2393efb9849aad0c63b1ca30a723d5e808c9b46c69c85",
+    "research_repo/research/ETF_GROUP_CAP_20261109/ASSET_PROFIT_2026.csv": "892c8fadc424617669d4c9e647c03ee9225da2b67a54eb34a9ca37c48ef444f5",
+    "research_repo/research/ETF_GROUP_CAP_20261109/END_POSITIONS_2026.csv": "e24fdb34292f6961dc24ff1c376f979270249074cfe184696e4b7194a5f712f5",
+    "research_repo/research/ETF_GROUP_CAP_20261109/JAN30_CRASH_CHECK.csv": "9a8d06ac7f58eace0cd9288515bc2c1e00e18baa6a6fb66114f7617eae0bc615",
+    "research_repo/research/ETF_GROUP_CAP_20261109/BENCHMARK_COMPARISON.csv": "cd841d3ce656df4c1fa642047067ec128b3b59974ef75bf87d840132b205a68e",
+    "research_repo/research/ETF_GROUP_CAP_20261109/GROUP_CAP_2026_NAV.png": "d8e17086249593517619249924f909d137c2ad16cb56707f4b76061dcee5c1f5",
+    "research_repo/research/ETF_GROUP_CAP_20261109/INDEPENDENT_RESULT_REVIEW.json": "67dbfd64cac5e38c3f7c764981a57f9ab3662508ff0a885bb688e7810d4471ef",
+    "research_repo/research/ETF_GROUP_CAP_20261109/REPORT_CHALLENGE.json": "7e60bbcdf1fe80c4628f90eab60119d9c2f1451d90e485c0416f448f39faa8ea",
+    "research_repo/research/ETF_GROUP_CAP_20261109/SCIENCE_RUN.log": "77d9d6316258f3b16a36ab9abb9765449ef3d77de5d7a30b8f0ea5bc51c4aee3",
+    "research_repo/etf_group_cap_outputs/20261109_v1/REGISTRY.json": "c17a37ecaec10ba19ad142ec13e6a77425c8fe79be66ec53728f0d9b12dece73",
+    "research_repo/etf_group_cap_outputs/20261109_v1/RUN_LOCK.json": "adc89a9e3b080e58ae81525f58bd198f21bef98c5cf357aa6cec2f28bec4f4e8",
+    "research_repo/etf_group_cap_outputs/20261109_v1/JOINT_LOCK.json": "302075484e4aa83397a2b27682a259c1e3129b68bc4a654b905a3b48ef6bc3d8",
+    "research_repo/etf_group_cap_outputs/20261109_v1/FULL_AUDIT.json": "24fd17e01688e6dcee1fd1b6e7f1e96ff6fccecfac6dacf89ff557a244dd8ea7",
+    "research_repo/etf_group_cap_outputs/20261109_v1/NATIVE_ATTEMPTS.jsonl": "c3d114cef03ed52631367c6acb12a3f03225319cf3953688a90b258dfe22ac79"
+  }
+}

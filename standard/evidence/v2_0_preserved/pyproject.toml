@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "c10-etf-rotation-research"
+version = "2.0.0"
+description = "Reproducible conditional ETF momentum research with native Backtrader accounts"
+requires-python = ">=3.12"
+license = "GPL-3.0-or-later"
+dependencies = ["backtrader==1.9.78.123", "numpy==2.5.4", "pandas==3.1.1", "pydantic==2.14.2", "beartype==0.23.1", "exchange-calendars==4.13.2", "scipy==1.18.1", "matplotlib==3.11.2"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.mypy]
+strict = true
+ignore_missing_imports = true
+mypy_path = "typings"
+
+[[tool.mypy.overrides]]
+module = ["rotbt.broker", "rotbt.strategy", "rotbt.phase2.strategy"]
+disallow_subclassing_any = false
+
+[tool.pyright]
+include = ["src", "scripts"]
+typeCheckingMode = "strict"
+pythonVersion = "3.14"
+stubPath = "typings"
+venvPath = "."
+venv = ".venv"
+reportMissingTypeStubs = false
+reportUnknownMemberType = false
+reportUnknownVariableType = false
+reportUnknownArgumentType = false
+reportUnknownParameterType = false
+reportUntypedBaseClass = false
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

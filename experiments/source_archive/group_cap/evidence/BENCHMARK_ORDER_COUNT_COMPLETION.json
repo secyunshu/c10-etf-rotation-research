@@ -1,0 +1,128 @@
+{
+  "status": "PASS",
+  "recorded_utc": "2026-11-09T16:21:58.970599+00:00",
+  "authorization": "User explicitly approved filling only the 8 missing 2026 benchmark order counts from retained books, no backtest rerun.",
+  "scope": "8 orders cells only; all other CSV fields and original source books unchanged",
+  "changes": [
+    {
+      "csv_line": 7,
+      "rule": "SPY_BH",
+      "cost_bps": 5,
+      "cohort": "reset2026",
+      "before": "",
+      "after": 1,
+      "source_book": "research_repo/c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/orders.csv.gz",
+      "source_metric": "research_repo/c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/YTD.json"
+    },
+    {
+      "csv_line": 8,
+      "rule": "SPY_BH",
+      "cost_bps": 5,
+      "cohort": "continuous2022",
+      "before": "",
+      "after": 0,
+      "source_book": "research_repo/c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/orders.csv.gz",
+      "source_metric": "research_repo/c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/YTD.json"
+    },
+    {
+      "csv_line": 14,
+      "rule": "SPY_BH",
+      "cost_bps": 20,
+      "cohort": "reset2026",
+      "before": "",
+      "after": 1,
+      "source_book": "research_repo/c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/orders.csv.gz",
+      "source_metric": "research_repo/c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/YTD.json"
+    },
+    {
+      "csv_line": 15,
+      "rule": "SPY_BH",
+      "cost_bps": 20,
+      "cohort": "continuous2022",
+      "before": "",
+      "after": 0,
+      "source_book": "research_repo/c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/orders.csv.gz",
+      "source_metric": "research_repo/c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/YTD.json"
+    },
+    {
+      "csv_line": 21,
+      "rule": "QQQ_BH",
+      "cost_bps": 5,
+      "cohort": "reset2026",
+      "before": "",
+      "after": 1,
+      "source_book": "research_repo/c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/orders.csv.gz",
+      "source_metric": "research_repo/c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/YTD.json"
+    },
+    {
+      "csv_line": 22,
+      "rule": "QQQ_BH",
+      "cost_bps": 5,
+      "cohort": "continuous2022",
+      "before": "",
+      "after": 0,
+      "source_book": "research_repo/c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/orders.csv.gz",
+      "source_metric": "research_repo/c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/YTD_REVALIDATED.json"
+    },
+    {
+      "csv_line": 28,
+      "rule": "QQQ_BH",
+      "cost_bps": 20,
+      "cohort": "reset2026",
+      "before": "",
+      "after": 1,
+      "source_book": "research_repo/c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/orders.csv.gz",
+      "source_metric": "research_repo/c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/YTD.json"
+    },
+    {
+      "csv_line": 29,
+      "rule": "QQQ_BH",
+      "cost_bps": 20,
+      "cohort": "continuous2022",
+      "before": "",
+      "after": 0,
+      "source_book": "research_repo/c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/orders.csv.gz",
+      "source_metric": "research_repo/c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/YTD.json"
+    }
+  ],
+  "before_csv_sha256": "cd841d3ce656df4c1fa642047067ec128b3b59974ef75bf87d840132b205a68e",
+  "after_csv_sha256": "1693de4369d9b8bb57a0ca1de9d197bf041941875547bf4f91e09fa8705e3a04",
+  "backup_files": {
+    "research_repo/research/ETF_GROUP_CAP_20261109/corrections/20261110_benchmark_orders/BENCHMARK_COMPARISON.csv": "cd841d3ce656df4c1fa642047067ec128b3b59974ef75bf87d840132b205a68e",
+    "research_repo/research/ETF_GROUP_CAP_20261109/corrections/20261110_benchmark_orders/FINAL_REPORT.md": "ec53ec50e9e391bb69ae0e3094880120648d290c446a862e713ebc755724959e"
+  },
+  "source_hashes": {
+    "research_repo/c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/orders.csv.gz": "aa99f93d27c334f8a99979ef5f0251afb3582b3097b750d4c514d87e9016d9f8",
+    "research_repo/c10_2026_outputs/20261109_v1/reset2026_SPY_BH_5bp/YTD.json": "dd9982e39ef027337dada41c25eb5f222fe3e328e2a94cbe51060bb549b9a559",
+    "research_repo/c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/orders.csv.gz": "f45d77392b66dff9736c23c06cbaf030286f438d145ec47d504bade8309afdbb",
+    "research_repo/c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_5bp/YTD.json": "005b760e29cc12f63c2137bce390ff3d9cbd7ad97ce455bb82fbc8e71f3360af",
+    "research_repo/c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/orders.csv.gz": "812aebffabec1eeb4a0abfd66daed7a2fbde423412aaea4f35de9cfb975080e3",
+    "research_repo/c10_2026_outputs/20261109_v1/reset2026_SPY_BH_20bp/YTD.json": "60059476e9c7422bc254d0485f7adc107bd9b55e58eaf09b126208e40e0d2467",
+    "research_repo/c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/orders.csv.gz": "22a72d5949440b0749ab41df0cdd5c8860903bc0d4dbcf2c1e6b3789dd9e251a",
+    "research_repo/c10_2026_outputs/20261109_v1/continuous2022_SPY_BH_20bp/YTD.json": "7cb70c58a4d2915212c60618103d79c367db1b75d54b7e3d464f8cdccdbb7dd9",
+    "research_repo/c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/orders.csv.gz": "b6c942f4a1d0bbb870a455ef1ca1e55b85e07d9143cb99d4cc3b8f482dc53ac7",
+    "research_repo/c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_5bp/YTD.json": "6a8d29122d04bf71ee09ddca1ba6fda06d8116aa70a0d6f440529b738b8d9608",
+    "research_repo/c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/orders.csv.gz": "b9eb8568b0bd1eb11b5a0f228a32b5fb3210a602a79b6765929e4e705d2fe913",
+    "research_repo/c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_5bp/YTD_REVALIDATED.json": "83b69cdb39a9cc06600d48fced1e271a2d7d65c9df9a4bd114812648e61ffa12",
+    "research_repo/c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/orders.csv.gz": "9211f13eea74998f2b86084990eeed3eae4c04875c055be46ecf8b071f8ad04f",
+    "research_repo/c10_2026_outputs/20261109_v1/reset2026_QQQ_BH_20bp/YTD.json": "22bad991dbbfaeccdeb7a2dc8a895e4b9057c470a3fc759ce0191934cbb394a1",
+    "research_repo/c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/orders.csv.gz": "29f665cf084921d2bc5299f3011d34a2d77fe8afea4322fa6475e62a8add59cb",
+    "research_repo/c10_2026_outputs/20261109_v1/continuous2022_QQQ_BH_20bp/YTD.json": "1b89319a8f9845306fd7a077f726afb73e2422d9abbda1ffd212d32d3f03a89b"
+  },
+  "validation": {
+    "changed_cells": 8,
+    "changed_columns": [
+      "orders"
+    ],
+    "all_other_csv_cells_exact": true,
+    "counts_match_native_orders_and_saved_ytd": true,
+    "full_audit_847_objects_unchanged": true
+  },
+  "native_runs_added": 0,
+  "API_calls": 0,
+  "prior_audit_receipts_preserved": {
+    "research_repo/research/ETF_GROUP_CAP_20261109/INDEPENDENT_RESULT_REVIEW.json": "67dbfd64cac5e38c3f7c764981a57f9ab3662508ff0a885bb688e7810d4471ef",
+    "research_repo/research/ETF_GROUP_CAP_20261109/REPORT_CHALLENGE.json": "7e60bbcdf1fe80c4628f90eab60119d9c2f1451d90e485c0416f448f39faa8ea",
+    "research_repo/research/ETF_GROUP_CAP_20261109/DELIVERY_VERIFICATION.json": "57c974259bf720d65b07ffed983a2693b93330a38fca02322dc2a5b716dcc686"
+  }
+}

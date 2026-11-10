@@ -1,0 +1,65 @@
+{
+  "status": "CORE_IMPLEMENTATION_PASS_REPORT_REVIEW_PENDING",
+  "reviewed_utc": "2026-11-10T07:22:13.880524+00:00",
+  "scope": "Independent read-only specification and quality source review of13612Wtargets/nativeadapter andpuretestcontracts. Reportmodule not yet presentat thissnapshot.",
+  "study_id": "ETF13612W_CALENDAR_MONTHENDS_GROUPED_20261110",
+  "source_hashes": {
+    "scripts/etf_13612w.py": "09f67777a6e2ab03b8872318e4803778bd322310b3f31ea3bc01354d45d18202",
+    "tests/test_etf_13612w.py": "1b0f1e059ad0e102fda99cffa82c1d20f1c2183fc3406779bf9c27826248957a",
+    "research/ETF13612W_20261110/PROTOCOL.json": "2cbe7188f6cfb0c4288c13e767173c44ef70c399851c0f4cf6f74be65bd53484",
+    "research/ETF13612W_20261110/CATALOG.json": "45902e69f2d4552d21e1a396a22ece7d0e3af802afc98641aa903883415ae4e2"
+  },
+  "spec_checks": {
+    "formula": "(12*R1+4*R3+2*R6+R12)/4",
+    "feature_endpoints": "PandasPeriodM-minus-lag thenlastXNYSsession of exact month forlags0,1,3,6,12.",
+    "independent_raw_endpoints": "DateOffset(months=lag)+MonthEnd thenpreviousXNYSsession; nocalltofeaturecalendar_score/decision.",
+    "signal_day": "BothpathsassertactualXNYSmonthend,includinginitial2021-12-31.",
+    "missing_endpoint_policy": "ExactTRindexmembershipandpositivefinitevalue required; noffill/no21/63/126/252substitution.",
+    "warmup": "Atleast253observations;2020-12-31sourcecoversinitial12monthpoint.",
+    "qualification": "Originalrawclose>=5, actualADV20>=10M,20positivevolumedays; noextraabsolute-scorefilter.",
+    "group_and_gate": "Globalscoredescending/symboltie; greedychooseunusedgroupsuntilK; strictETFscore>same13612WscoreSHY; missingfailedfixed.90/KslotsgoSHY; nativeonce.95.",
+    "calendar_vs252_qualification": "Scoredefinitionchangeincludesbothmultiwindowweightsandcalendarhorizons; notpurecausalrecentweighttest.",
+    "native_engine": "Singlecalltounchangedetf_c10_2026_run._native, noCerebroconstruction/accountengine innewscript.",
+    "hooks": "native.target/native.oracle restoredinfinallyincludingfailure; nofeedhookneededbecausecurrentnativefeedsalready35actualriskpool+SHY.",
+    "physical_history": "prepared_forreusesacceptedgroup_prepared whichloadsphysical2025thenbuildsfeatures;2026separatepurposeauthorized.",
+    "terminal_andMTM": "OriginalnativeContractfinitecohortthrough; historicalterminalopen2025,reset/continuous2026closeMTM,own2025closeforcontinuous.",
+    "trial_identity": "TRIALrecordsretainW13612namespace/cohort/K/cost/scorewhileoldC10/C11/C00shellonlymapsK.",
+    "fixed_catalog": "18scienceallK/cost/cohortcombinations+2preselectedoriginal252bridgesexact.",
+    "bridge_comparison": "Exact5books/targetsreasons/actualnativevector/openTrade/scalar/savedmetricsagainstacceptedpublicV2.",
+    "reuses": "Exactly36publicV2accounts/contracts/refhashes; scoresoriginal252orbenchmark, notnewindependentexperiments.",
+    "journal": "Independenttypedstudyjournal,atomicfilelock/startcheck/durablefsync;allstartedincludingfailurescounted,hard28.",
+    "resume": "NATIVE_COMPLETEartifactSHArequired; partialfailedobjects cannotbesilentlyoverwritten; validcompletedobjectrevalidationaddsnoCerebro.",
+    "saved_export": "Fivebooks comparedtoreexportedARTIFACT;TARGETS/NATIVE_TOTAL_RETURN/METRICSorYTDexistingfilesverifiedbeforeVERIFIED.",
+    "stage_gate": "Bothfixedbridgesstatus+keys+sourcehashrequiredbeforescience; FULL_AUDITbindstrialfiles/all36refs/source/journal/registry;20distinctplannedpathsetand20..28actualstarts."
+  },
+  "pure_test_source_review": [
+    "Exactholiday/leapmonthendpoints andinitial2020-12-31 endpoint.",
+    "Knownweightedscorearithmetic confirmsdivisor4andtruecalendarreturns.",
+    "Missing/NaN/zero/Infendpointrejection andfuturerowinvariance.",
+    "Groupquota/strictSHYgate/fixedslots/ties/originalqualification/shortwarmup.",
+    "Original252bridgehookpreservation andfinallyrestoration.",
+    "Hard28includingfailed, noautomaticpartialrerun,completedobject0-native revalidation.",
+    "Meter-before-native failingstub andrealcompletedartifact wrongsavedsclar rejection."
+  ],
+  "open_review_followups_not_findings": [
+    "Reportauthor stillimplementing: review54roleexpectedidentity/path/score/cost/cohortvalidationbeforeauthorizingfreeze.",
+    "RUN_LOCKmustbecapturedonlyafterbothauthorsstopwriting; currentcodeglobcoversreportandmatchingtestswhenpresent.",
+    "REGISTRYgeneratedafterRUN_LOCK; report/stageacceptanceshouldvalidateexpected54contractratherthanonlyhashcurrentregistry.",
+    "Reportmustshowall18newand36reused,2026YTDnotannualized,openingNAV/DD/monthly/feesandtradeoffs; noFAAPAA VAAcompleteclaim."
+  ],
+  "required_fixes_found": [],
+  "interpretation_limits": [
+    "Conditionalhistorical34selection/residualPITandsurvivorbiasunchanged.",
+    "2026alreadyseen; historicalperiodrepeatedlyresearched; nofreshOOS/reliabilityclaim.",
+    "Noresultdependentweight/window/group/frequency/KselectionorV2standardreplacementauthorized."
+  ],
+  "reviewer_execution": {
+    "native": 0,
+    "API": 0,
+    "tests": 0,
+    "Git": 0,
+    "new_strategy_returns_read": false,
+    "source_or_old_data_modified": false
+  },
+  "next_step": "AuthorfinalstaticSHAthenreportsource/outputcontractreviewbeforeRUN_LOCKprepareandfirstnative."
+}

@@ -256,21 +256,24 @@ def verify_book(book: Book) -> int:
 def write_report(
     root: Path, summaries: list[Statistics], annual: list[Statistics], verification: Verification
 ) -> None:
+    default_rule = load_strategy(root).default_rule
+    default_k = {"C10": 1, "C11": 2, "C00": 3}[default_rule]
     default = next(
         row
         for row in summaries
-        if row.rule == "C10" and row.cost_bps == 5 and row.cohort == "reset2026"
+        if row.rule == default_rule and row.cost_bps == 5 and row.cohort == "reset2026"
     )
     lines = [
         "# V2 标准历史与 2026 已见样本结果",
         "",
-        "固定默认是 **C10 / K=1**：历史 2022 前 AUM 条件池（34 风险资产 + SHY），"
-        "21 个经济风险组，每组最多 1 个持仓。C11/K=2 与 C00/K=3 是已登记变体，"
-        "不根据本表挑选冠军替换默认。",
+        f"当前默认是 **{default_rule} / K={default_k}**：历史 2022 前 AUM 条件池"
+        "（34 风险资产 + SHY），21 个经济风险组，每组最多 1 个持仓。"
+        "用户于2026-11-11明确将默认从C10前1只改为C11前2只；C10与C00仍为完整对照。"
+        "这是看过历史结果后的规则选择，不是新的独立样本外确认。",
         "",
-        f"**默认 C10，5 bp 单边滑点，2026 重置账户累计收益 {default.total_return:.2%}，"
+        f"**默认 {default_rule}，5 bp 单边滑点，2026 重置账户累计收益 {default.total_return:.2%}，"
         f"最大回撤 {default.max_drawdown:.2%}。** "
-        "这是负收益且大幅回撤的已见样本；成为研究标准不代表获准实盘。"
+        "回撤仍然较大；成为研究标准不代表获准实盘。"
         "2026 已参与研究，不能再称全新 OOS。历史 AUM 证据仅支持 conditional PIT，"
         "不能抹去候选集构造、存活与反复研究偏差。",
         "",
@@ -307,9 +310,9 @@ def write_report(
             lines.append("")
     lines.extend(
         [
-            "## 历史年度 C10 / QQQ / SPY · 5 bp",
+            f"## 历史年度 {default_rule} / QQQ / SPY · 5 bp",
             "",
-            "| 年度 | C10 收益 / 回撤 | QQQ 收益 / 回撤 | SPY 收益 / 回撤 |",
+            f"| 年度 | {default_rule} 收益 / 回撤 | QQQ 收益 / 回撤 | SPY 收益 / 回撤 |",
             "|---|---:|---:|---:|",
         ]
     )
@@ -323,7 +326,7 @@ def write_report(
                 and row.cohort == "historical2022_2025"
                 and row.period == str(year)
             )
-            for rule in ("C10", "QQQ_BH", "SPY_BH")
+            for rule in (default_rule, "QQQ_BH", "SPY_BH")
         ]
         lines.append(
             f"| {year} | "
@@ -372,6 +375,8 @@ def plot_reports(root: Path, books: list[Book]) -> None:
             "savefig.dpi": 170,
         }
     )
+    default_rule = load_strategy(root).default_rule
+    default_k = {"C10": 1, "C11": 2, "C00": 3}[default_rule]
     rules = ("C10", "C11", "C00", "QQQ_BH", "SPY_BH")
     colors = ("#0072B2", "#56B4E9", "#009E73", "#D55E00", "#CC79A7")
     for cohort, filename, title in (
@@ -401,9 +406,9 @@ def plot_reports(root: Path, books: list[Book]) -> None:
                 nav / book.initial_cash * 100,
                 color=color,
                 label=rule,
-                linewidth=2.3 if rule == "C10" else 1.5,
+                linewidth=2.3 if rule == default_rule else 1.5,
             )
-            if rule in ("C10", "QQQ_BH", "SPY_BH"):
+            if rule in (default_rule, "QQQ_BH", "SPY_BH"):
                 axes[1].plot(
                     dates,
                     nav / np.maximum.accumulate(nav) - 1,
@@ -412,7 +417,9 @@ def plot_reports(root: Path, books: list[Book]) -> None:
                     linewidth=1.5,
                 )
         axes[0].set_title(
-            f"V2 | {title}\n5 bp one-way slippage plus fees; C10 / K=1 fixed default", pad=36
+            f"V2 | {title}\n5 bp one-way slippage plus fees; "
+            f"{default_rule} / K={default_k} default",
+            pad=36,
         )
         axes[0].set_ylabel("NAV (initial capital = 100)")
         axes[0].legend(loc="lower left", bbox_to_anchor=(0, 1), ncols=5, frameon=False)

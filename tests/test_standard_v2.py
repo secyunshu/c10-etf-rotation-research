@@ -18,7 +18,7 @@ def strategy() -> Strategy:
     return Strategy(
         version=2,
         id="C10_HISTORICAL_GROUP_CAP_V2",
-        default_rule="C10",
+        default_rule="C11",
         group_cap=True,
         risk_names=RISK,
         groups=GROUPS,
@@ -75,10 +75,10 @@ def prepared() -> Prepared:
     )
 
 
-def test_fixed_matrix_has_thirty_six_accounts_and_top_one_remains_default() -> None:
+def test_fixed_matrix_preserves_all_accounts_and_top_two_is_default() -> None:
     accounts = catalog()
     assert len(accounts) == 36 and len({a.key for a in accounts}) == 36
-    assert Contract().rule == "C10" and Contract().cost_bps == 5
+    assert Contract().rule == "C11" and Contract().cost_bps == 5
     assert Contract().cohort == "historical2022_2025"
     assert all(
         a.through < date.max and (a.terminal == (a.cohort == "historical2022_2025"))

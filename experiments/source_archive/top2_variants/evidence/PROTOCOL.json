@@ -1,0 +1,170 @@
+{
+  "id": "ETF_V2_TOP2_SIX_MOMENTUM_VARIANTS_20261110",
+  "frozen_utc": "2026-11-10T15:35:09.684193+00:00",
+  "variants": {
+    "E01": "skip21",
+    "E02": "calendar_equal13612",
+    "E03": "risk_adjusted_rank",
+    "E04": "regression_rank",
+    "E05": "positive_gate",
+    "E06": "sma200_gate"
+  },
+  "fixed_top_k": 2,
+  "baseline": "V2 historical34groupcap252top2",
+  "science": 36,
+  "bridges": 2,
+  "planned_native": 38,
+  "native_hard_cap": 48,
+  "reused_roles": 30,
+  "report_roles": 66,
+  "costs": [
+    5,
+    20
+  ],
+  "first": "2022-01-03",
+  "historical_end": "2025-12-31",
+  "ytd_end": "2026-11-06",
+  "freshOOS": false,
+  "pool": [
+    "AGG",
+    "BIL",
+    "EWJ",
+    "GLD",
+    "HYG",
+    "IEF",
+    "IEMG",
+    "IJR",
+    "INDA",
+    "MCHI",
+    "PDBC",
+    "QQQ",
+    "QUAL",
+    "SLV",
+    "SOXX",
+    "SPY",
+    "TIP",
+    "TLT",
+    "USMV",
+    "VCIT",
+    "VEA",
+    "VGT",
+    "VIG",
+    "VNQ",
+    "VTI",
+    "XLB",
+    "XLC",
+    "XLE",
+    "XLF",
+    "XLI",
+    "XLP",
+    "XLU",
+    "XLV",
+    "XLY"
+  ],
+  "groups": {
+    "us_broad_style": [
+      "VTI",
+      "QQQ",
+      "IJR",
+      "USMV",
+      "SPY",
+      "VIG",
+      "QUAL"
+    ],
+    "technology_semiconductors": [
+      "VGT",
+      "SOXX"
+    ],
+    "financials": [
+      "XLF"
+    ],
+    "healthcare": [
+      "XLV"
+    ],
+    "energy": [
+      "XLE"
+    ],
+    "industrials": [
+      "XLI"
+    ],
+    "utilities": [
+      "XLU"
+    ],
+    "consumer_discretionary": [
+      "XLY"
+    ],
+    "consumer_staples": [
+      "XLP"
+    ],
+    "communications": [
+      "XLC"
+    ],
+    "materials": [
+      "XLB"
+    ],
+    "real_estate": [
+      "VNQ"
+    ],
+    "developed_foreign": [
+      "VEA",
+      "EWJ"
+    ],
+    "emerging_foreign": [
+      "IEMG",
+      "INDA",
+      "MCHI"
+    ],
+    "short_treasury": [
+      "BIL"
+    ],
+    "nominal_treasury_duration": [
+      "IEF",
+      "TLT"
+    ],
+    "inflation_bonds": [
+      "TIP"
+    ],
+    "investment_grade_bonds": [
+      "VCIT",
+      "AGG"
+    ],
+    "high_yield_credit": [
+      "HYG"
+    ],
+    "precious_metals": [
+      "GLD",
+      "SLV"
+    ],
+    "broad_commodities": [
+      "PDBC"
+    ]
+  },
+  "statistics": {
+    "family": [
+      "E01",
+      "E02",
+      "E03",
+      "E04",
+      "E05",
+      "E06"
+    ],
+    "period": "2022-2025",
+    "replications": 10000,
+    "blocks": [
+      5,
+      20,
+      60
+    ],
+    "method": "existingrotbt.statistics.max_bootstrap",
+    "global_search_adjusted": false
+  },
+  "market_API": 0,
+  "source_hashes": {
+    "research_repo/docs/superpowers/plans/2026-11-10-etf-momentum-variants.md": "0e8872bc0ad73acd346ced18b9f3c50d578ba43a5df52a3c8951a66c17a72ebc",
+    "research_repo/research/ETF_MOMENTUM_VARIANTS_20261110/CATALOG.json": "6f4338e7700226a2ef0c4a3c8cd7e9c380007b4e9eee6c0c510043ec17f10469",
+    "public_v2_0/standard/STRATEGY.json": "f8af2cb9f5f491e1148b2f18e6a389faafcd95da787d61e607ff1fef1c49639f",
+    "public_v2_0/standard/ACCOUNTS.json": "5c1969130e272541ef340599717b6475964a44f07075948923b8d929a8b4128f",
+    "research_repo/research/ETF13612W_20261110/PROTOCOL.json": "2cbe7188f6cfb0c4288c13e767173c44ef70c399851c0f4cf6f74be65bd53484",
+    "research_repo/etf13612w_outputs/20261110_v1/FULL_AUDIT.json": "b6b07881c4551f6a2e53ce04b9ad344efb897fefbf7568609eef5dbca6a299bb"
+  }
+}

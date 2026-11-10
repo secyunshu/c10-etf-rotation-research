@@ -22,7 +22,7 @@ from rotbt.analysis import analyze
 
 from . import native
 from .audit import audit, describe, equal
-from .io import ROOT, load_accounts, load_market, reference_folder, settings_for
+from .io import ROOT, load_accounts, load_market, load_strategy, reference_folder, settings_for
 from .models import (
     BOOKS,
     COHORTS,
@@ -267,7 +267,9 @@ def main() -> None:
         "--journal", type=Path, help="shared96-attempt journal for all reproduction copies"
     )
     parser.add_argument("--all36", action="store_true")
-    parser.add_argument("--rule", choices=RULES, default="C10")
+    parser.add_argument(
+        "--rule", choices=RULES, help="default: standard/STRATEGY.json default_rule"
+    )
     parser.add_argument("--cost-bps", type=int, choices=(5, 20), default=5)
     parser.add_argument("--cohort", choices=COHORTS, default="historical2022_2025")
     parser.add_argument(
@@ -281,7 +283,11 @@ def main() -> None:
         if args.all36
         else (
             Contract.model_validate(
-                {"rule": args.rule, "cost_bps": args.cost_bps, "cohort": args.cohort}
+                {
+                    "rule": args.rule or load_strategy(args.root).default_rule,
+                    "cost_bps": args.cost_bps,
+                    "cohort": args.cohort,
+                }
             ),
         )
     )

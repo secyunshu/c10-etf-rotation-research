@@ -1,0 +1,454 @@
+{
+  "status": "PASS_WITH_RESEARCH_LIMITATIONS",
+  "reviewed_utc": "2026-11-10T15:57:12.366856+00:00",
+  "full_audit_sha256": "ebce7d853aac28169772c793ee33111e6a7b2d162447fab04b867f7c9acc7901",
+  "full_hashes_verified_before_after": 1459,
+  "source_lock_hashes_verified": 961,
+  "report_hashes": {
+    "research_repo/research/ETF_MOMENTUM_VARIANTS_20261110/PERIOD_METRICS.csv": "de6ae7cfcb097c07e93f94c590014b5ce036c1b806468674668678448453573d",
+    "research_repo/research/ETF_MOMENTUM_VARIANTS_20261110/SUMMARY.csv": "458d5338720d86c2467477d1f282c7ce26e5b601013365cc6b427bb72dd9387f",
+    "research_repo/research/ETF_MOMENTUM_VARIANTS_20261110/MONTHLY.csv": "f8c6682371190313d132b71f19a404206f2901cbd609da120ac4d859beeef1a5",
+    "research_repo/research/ETF_MOMENTUM_VARIANTS_20261110/PAIRED_COMPARISON.csv": "da90f03afc187519a8e01d89172da91d89e70da85dc27d89ba593c51959064a8",
+    "research_repo/research/ETF_MOMENTUM_VARIANTS_20261110/STATISTICS.csv": "a704bd9f5f5e66f5abadf0346d5c8768d58e26ad7c1dd27cad22308e758078e3",
+    "research_repo/research/ETF_MOMENTUM_VARIANTS_20261110/PARETO.csv": "20959f4b3a2d68436995c0e446d427b7f57da23aa277e02c6231ef6b3475f3c6",
+    "research_repo/research/ETF_MOMENTUM_VARIANTS_20261110/SAME_PATH.csv": "8aa8a96175160cd5a45b192ee9edab583d485dcd5e044d38d63c18f0555f9972"
+  },
+  "actual_journal": {
+    "started": 38,
+    "native_completed": 38,
+    "finished": 38
+  },
+  "native_budget": 48,
+  "science": 36,
+  "bridges": 2,
+  "reuses": 30,
+  "report_roles": 66,
+  "period_rows_recomputed": 154,
+  "summary_rows_recomputed": 66,
+  "month_rows_recomputed": 1540,
+  "pair_rows_recomputed": 168,
+  "metrics_checks": {
+    "period_days": 154,
+    "period_opening": 154,
+    "period_closing": 154,
+    "period_total_return": 154,
+    "period_max_drawdown": 154,
+    "period_cagr_252": 110,
+    "period_annualized_volatility": 154,
+    "period_sharpe_rf0": 154,
+    "period_fees": 154,
+    "period_orders": 154,
+    "period_turnover": 154,
+    "month_open": 1540,
+    "month_close": 1540,
+    "month_return": 1540,
+    "month_compound": 66,
+    "summary_days": 66,
+    "summary_opening": 66,
+    "summary_closing": 66,
+    "summary_total_return": 66,
+    "summary_max_drawdown": 66,
+    "summary_annualized_volatility": 66,
+    "summary_sharpe_rf0": 66,
+    "summary_fees": 66,
+    "summary_orders": 66,
+    "summary_turnover": 66,
+    "summary_cagr_252": 22,
+    "paired_new_return": 168,
+    "paired_original_return": 168,
+    "paired_return_difference": 168,
+    "paired_new_drawdown": 168,
+    "paired_original_drawdown": 168,
+    "paired_drawdown_difference": 168,
+    "paired_fees_difference": 168,
+    "paired_orders_difference": 168,
+    "paired_turnover_difference": 168
+  },
+  "maximum_errors": {
+    "period_days": 0.0,
+    "period_opening": 0.0,
+    "period_closing": 0.0,
+    "period_total_return": 0.0,
+    "period_max_drawdown": 0.0,
+    "period_cagr_252": 0.0,
+    "period_annualized_volatility": 5.551115123125783e-17,
+    "period_sharpe_rf0": 4.440892098500626e-16,
+    "period_fees": 1.1368683772161603e-13,
+    "period_orders": 0.0,
+    "period_turnover": 7.105427357601002e-15,
+    "month_open": 0.0,
+    "month_close": 0.0,
+    "month_return": 0.0,
+    "month_compound": 2.220446049250313e-15,
+    "summary_days": 0.0,
+    "summary_opening": 0.0,
+    "summary_closing": 0.0,
+    "summary_total_return": 0.0,
+    "summary_max_drawdown": 0.0,
+    "summary_annualized_volatility": 5.551115123125783e-17,
+    "summary_sharpe_rf0": 2.220446049250313e-16,
+    "summary_fees": 1.1368683772161603e-13,
+    "summary_orders": 0.0,
+    "summary_turnover": 7.105427357601002e-15,
+    "summary_cagr_252": 0.0,
+    "paired_new_return": 0.0,
+    "paired_original_return": 0.0,
+    "paired_return_difference": 0.0,
+    "paired_new_drawdown": 0.0,
+    "paired_original_drawdown": 0.0,
+    "paired_drawdown_difference": 0.0,
+    "paired_fees_difference": 2.2737367544323206e-13,
+    "paired_orders_difference": 0.0,
+    "paired_turnover_difference": 1.4210854715202004e-14
+  },
+  "reviewer_notes": [
+    "First longer audit command stopped at Python syntax parsing before reading data or writing an artifact. Corrected reviewer command only; study code unchanged.",
+    "The reviewer command was split into metrics and raw-signal stages; all writes are only this auditartifact, with no source or account changes.",
+    "Bootstrap first command lacked PYTHONPATH and stopped on import before any calculation or write; rerun with project PYTHONPATH=src, no source changes."
+  ],
+  "reviewer_execution": {
+    "native": 0,
+    "API": 0,
+    "tests": 0,
+    "Git": 0,
+    "savedNAV_bootstrap_recomputations": 6,
+    "source_or_old_data_modified": false
+  },
+  "signal_review": {
+    "59signal_monthends": true,
+    "raw_targets_recomputed": 1523,
+    "raw_nextopen_order_records_checked": 4970,
+    "native_daily_vector_returns_checked": 31428,
+    "group_day_checks": 31331,
+    "group_violations": 0,
+    "native_trade_profit_closures": 38,
+    "checks": {
+      "independent_target": 4469,
+      "native_vector": 31428,
+      "native_scalar_vector": 38,
+      "native_scalar_nav": 38,
+      "native_trade_profit": 38
+    },
+    "max_errors": {
+      "independent_target": 0.0,
+      "native_vector": 0.0,
+      "native_scalar_vector": 0.0,
+      "native_scalar_nav": 6.661338147750939e-15,
+      "native_trade_profit": 7.275957614183426e-11
+    },
+    "causal59prefix354triples_verified": true,
+    "causal_hash": "e9e13b3f526a30575a5cc6e8d307fb416663998602cd00684917ab69b31f97b3",
+    "bridges_previously_exact": [
+      "bridge_K2_5bp_historical2022_2025",
+      "bridge_K2_5bp_continuous2022_2026"
+    ]
+  },
+  "same_path_review": {
+    "rows": 66,
+    "target_and_NAV_hashes_independently_recomputed": true,
+    "E05_rows": [
+      {
+        "key": "E05_K2_5bp_historical2022_2025",
+        "variant": "E05",
+        "cost_bps": "5",
+        "cohort": "historical2022_2025",
+        "target_sha256": "2b02a516499748b11bc4eb5f2b5e484262525e257a54f9cd944318ee219efe2c",
+        "nav_sha256": "8ee309e7c8dd801609090a6068cd3075d8eeac11932a137fe7ee5e67772b0a91",
+        "same_target_keys": "E05_K2_20bp_historical2022_2025|C11_5bp_historical2022_2025|C11_20bp_historical2022_2025",
+        "same_nav_keys": "C11_5bp_historical2022_2025"
+      },
+      {
+        "key": "E05_K2_20bp_historical2022_2025",
+        "variant": "E05",
+        "cost_bps": "20",
+        "cohort": "historical2022_2025",
+        "target_sha256": "2b02a516499748b11bc4eb5f2b5e484262525e257a54f9cd944318ee219efe2c",
+        "nav_sha256": "f230b52349b0ff7498eda174cbc09da1f7608b44a606cfdd073a15925d5a17ee",
+        "same_target_keys": "E05_K2_5bp_historical2022_2025|C11_5bp_historical2022_2025|C11_20bp_historical2022_2025",
+        "same_nav_keys": "C11_20bp_historical2022_2025"
+      },
+      {
+        "key": "E05_K2_5bp_reset2026",
+        "variant": "E05",
+        "cost_bps": "5",
+        "cohort": "reset2026",
+        "target_sha256": "8bceb54457b3e2514002e2781df7e5d222d66b7c3c970655630a143e61e25a18",
+        "nav_sha256": "82f0581c2c069bcb6c3389a617df22d13c9a5ab932d7df2a11bf99bc31a809de",
+        "same_target_keys": "E05_K2_20bp_reset2026|C11_5bp_reset2026|C11_20bp_reset2026",
+        "same_nav_keys": "C11_5bp_reset2026"
+      },
+      {
+        "key": "E05_K2_20bp_reset2026",
+        "variant": "E05",
+        "cost_bps": "20",
+        "cohort": "reset2026",
+        "target_sha256": "8bceb54457b3e2514002e2781df7e5d222d66b7c3c970655630a143e61e25a18",
+        "nav_sha256": "00bd6ea6177a07f8f0247d2629c7a420b26135e369ee7ec890125b959b2d1d3c",
+        "same_target_keys": "E05_K2_5bp_reset2026|C11_5bp_reset2026|C11_20bp_reset2026",
+        "same_nav_keys": "C11_20bp_reset2026"
+      },
+      {
+        "key": "E05_K2_5bp_continuous2022_2026",
+        "variant": "E05",
+        "cost_bps": "5",
+        "cohort": "continuous2022_2026",
+        "target_sha256": "671c6d8d6a4792f3088dbac0aac1fee4035672c5b57122ee69ddf905aeaac84b",
+        "nav_sha256": "3a3f3e34d9ccfc94fc6cfae540a20274a73f0f235cabbb32805721091d7f418a",
+        "same_target_keys": "E05_K2_20bp_continuous2022_2026|C11_5bp_continuous2022_2026|C11_20bp_continuous2022_2026",
+        "same_nav_keys": "C11_5bp_continuous2022_2026"
+      },
+      {
+        "key": "E05_K2_20bp_continuous2022_2026",
+        "variant": "E05",
+        "cost_bps": "20",
+        "cohort": "continuous2022_2026",
+        "target_sha256": "671c6d8d6a4792f3088dbac0aac1fee4035672c5b57122ee69ddf905aeaac84b",
+        "nav_sha256": "b4af7f0a7b526f620f9dd8414e82b424ccfabc28519a94fa1d97a8908bfab8ce",
+        "same_target_keys": "E05_K2_5bp_continuous2022_2026|C11_5bp_continuous2022_2026|C11_20bp_continuous2022_2026",
+        "same_nav_keys": "C11_20bp_continuous2022_2026"
+      }
+    ]
+  },
+  "review_completed_utc": "2026-11-10T16:00:42.590268+00:00",
+  "bootstrap_review": {
+    "raw_NAV_matrices_independently_built": 2,
+    "samecost_exact1003historical_sessions": true,
+    "all6columns_including_E05_duplicate": true,
+    "new2026_included": false,
+    "bootstrap_calls": [
+      {
+        "cost_bps": 5,
+        "block": 5,
+        "B": 10000,
+        "matrix_shape": [
+          1003,
+          6
+        ],
+        "matrix_sha256": "0e775d035043c8c70b0998d02fface972f379eb892eb16850d304a128da0e0bc",
+        "names": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ],
+        "annualized_arithmetic_means": [
+          -0.010599623502750845,
+          -0.03068230316490052,
+          -0.1114530300237889,
+          -0.050799252887551896,
+          0.0,
+          -0.03522387576645975
+        ],
+        "family_p": 1.0,
+        "adjusted_p": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "E05_exact_zero": true
+      },
+      {
+        "cost_bps": 5,
+        "block": 20,
+        "B": 10000,
+        "matrix_shape": [
+          1003,
+          6
+        ],
+        "matrix_sha256": "0e775d035043c8c70b0998d02fface972f379eb892eb16850d304a128da0e0bc",
+        "names": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ],
+        "annualized_arithmetic_means": [
+          -0.010599623502750845,
+          -0.03068230316490052,
+          -0.1114530300237889,
+          -0.050799252887551896,
+          0.0,
+          -0.03522387576645975
+        ],
+        "family_p": 1.0,
+        "adjusted_p": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "E05_exact_zero": true
+      },
+      {
+        "cost_bps": 5,
+        "block": 60,
+        "B": 10000,
+        "matrix_shape": [
+          1003,
+          6
+        ],
+        "matrix_sha256": "0e775d035043c8c70b0998d02fface972f379eb892eb16850d304a128da0e0bc",
+        "names": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ],
+        "annualized_arithmetic_means": [
+          -0.010599623502750845,
+          -0.03068230316490052,
+          -0.1114530300237889,
+          -0.050799252887551896,
+          0.0,
+          -0.03522387576645975
+        ],
+        "family_p": 1.0,
+        "adjusted_p": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "E05_exact_zero": true
+      },
+      {
+        "cost_bps": 20,
+        "block": 5,
+        "B": 10000,
+        "matrix_shape": [
+          1003,
+          6
+        ],
+        "matrix_sha256": "54116aecb6dea1984c39ec9697d87c2f9d73622117fb69ed0d5acd6789736651",
+        "names": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ],
+        "annualized_arithmetic_means": [
+          -0.012165822697118175,
+          -0.034845247457981406,
+          -0.11077619769667792,
+          -0.04766975420332666,
+          0.0,
+          -0.037265149771836314
+        ],
+        "family_p": 1.0,
+        "adjusted_p": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "E05_exact_zero": true
+      },
+      {
+        "cost_bps": 20,
+        "block": 20,
+        "B": 10000,
+        "matrix_shape": [
+          1003,
+          6
+        ],
+        "matrix_sha256": "54116aecb6dea1984c39ec9697d87c2f9d73622117fb69ed0d5acd6789736651",
+        "names": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ],
+        "annualized_arithmetic_means": [
+          -0.012165822697118175,
+          -0.034845247457981406,
+          -0.11077619769667792,
+          -0.04766975420332666,
+          0.0,
+          -0.037265149771836314
+        ],
+        "family_p": 1.0,
+        "adjusted_p": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "E05_exact_zero": true
+      },
+      {
+        "cost_bps": 20,
+        "block": 60,
+        "B": 10000,
+        "matrix_shape": [
+          1003,
+          6
+        ],
+        "matrix_sha256": "54116aecb6dea1984c39ec9697d87c2f9d73622117fb69ed0d5acd6789736651",
+        "names": [
+          "E01",
+          "E02",
+          "E03",
+          "E04",
+          "E05",
+          "E06"
+        ],
+        "annualized_arithmetic_means": [
+          -0.012165822697118175,
+          -0.034845247457981406,
+          -0.11077619769667792,
+          -0.04766975420332666,
+          0.0,
+          -0.037265149771836314
+        ],
+        "family_p": 1.0,
+        "adjusted_p": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "E05_exact_zero": true
+      }
+    ],
+    "statistic_rows_recomputed": 36,
+    "statistical_numeric_values_compared": 180,
+    "all_adjusted_p_and_family_p": 1.0,
+    "max_statistic_absolute_error": 0.0,
+    "additional_stat_pareto_checks": 216,
+    "annualization": "Dailybp times252/10000 gives annualizedarithmeticratio,notCAGR; CIpointwise",
+    "p1_explanation": "Observed sixmeanexcessvalues all<=0,including exactzeroE05. Recenteredmaxnull includeszeroandis>=0. Thusp1 isno positive local superioritysupport, notequivalence/noeffect or universalnegativeeffectsignificance."
+  },
+  "pareto_rows_verified": 12,
+  "research_qualifications": [
+    "Conditionalhistorical34/asynchronousAUM/category/survivorbiasremains.",
+    "Historypreviouslyresearchedand2026seen;exploratorynotfreshOOS.",
+    "Sixmechanismsnotindependentnewdiscoveries;30reuse notnewtrials.",
+    "E05sameBASE252all6rolesmustnotcountasanewsuccess.",
+    "Local6multiplicityonly,noglobalprojectcorrection.",
+    "PointwiseCI notCAGRCI/notsimultaneous;adjustedpnot equivalence.",
+    "Noresultdependentweights/groups/K/default/annualpoolchanges."
+  ]
+}

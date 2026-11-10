@@ -1,0 +1,248 @@
+{
+  "status": "PASS_WITH_CONCERNS",
+  "reviewed_utc": "2026-11-09T16:09:18.342749+00:00",
+  "scope": "Independent report logic and presentation challenge only; uses prior independent all-books financial review; no source/report/input edits, native accounts, APIs, or commits.",
+  "input_hashes": {
+    "research_repo/research/ETF_GROUP_CAP_20261109/FINAL_REPORT.md": "ec53ec50e9e391bb69ae0e3094880120648d290c446a862e713ebc755724959e",
+    "research_repo/research/ETF_GROUP_CAP_20261109/PERIOD_METRICS.csv": "c632346e9cbe814fceddc6727770d915792bd3a6d25af46ba57b6957c349dfee",
+    "research_repo/research/ETF_GROUP_CAP_20261109/BENCHMARK_COMPARISON.csv": "cd841d3ce656df4c1fa642047067ec128b3b59974ef75bf87d840132b205a68e",
+    "research_repo/research/ETF_GROUP_CAP_20261109/GROUP_CAP_2026_NAV.png": "d8e17086249593517619249924f909d137c2ad16cb56707f4b76061dcee5c1f5",
+    "research_repo/research/ETF_GROUP_CAP_20261109/INDEPENDENT_RESULT_REVIEW.json": "67dbfd64cac5e38c3f7c764981a57f9ab3662508ff0a885bb688e7810d4471ef"
+  },
+  "new_blockers": [],
+  "checks": [
+    {
+      "topic": "paired_group_effect",
+      "verdict": "PASS",
+      "evidence": "All 8 pool/K/cost pairs lose historical CAGR; all 8 reduce observed reset2026 closing DD; legacy36 reset2026 returns decline. Wording limits support to observed diversification rather than reliable alpha.",
+      "report_lines": [
+        5,
+        15,
+        49,
+        56,
+        167,
+        168
+      ]
+    },
+    {
+      "topic": "cross_year_drawdown",
+      "verdict": "PASS",
+      "evidence": {
+        "historical34_cap_K3_5bp_full_dd": 0.2231607129055032,
+        "max_separate_annual_dd": 0.17716351235895755,
+        "reason": "Full-period peak carries across year boundaries, while annual high-water marks restart at each opening NAV."
+      },
+      "report_lines": [
+        52,
+        62
+      ]
+    },
+    {
+      "topic": "2026_denominators",
+      "verdict": "PASS",
+      "evidence": "Main table explicitly fresh 50000 reset Jan2; auxiliary explicitly own Dec31 2025 NAV and no 2025 liquidation. No favorable-start selection or YTD annualization in displayed tables.",
+      "report_lines": [
+        17,
+        60,
+        79,
+        92
+      ]
+    },
+    {
+      "topic": "benchmark_budget",
+      "verdict": "PASS",
+      "evidence": "SPY/QQQ explicitly same95percent investment budget and fees; not advertised as100percent costless market returns.",
+      "report_lines": [
+        43,
+        45
+      ]
+    },
+    {
+      "topic": "historical_pool_and_seen2026",
+      "verdict": "PASS",
+      "evidence": "Conditional historical reconstruction explicitly inherits2026 candidates/categories, asynchronous AUM definitions and incomplete economic dates; pool differences not attributed entirely to lookahead;2026 explicitly seen and not independent OOS.",
+      "report_lines": [
+        7,
+        31,
+        77,
+        169
+      ]
+    },
+    {
+      "topic": "mechanism_and_attribution",
+      "verdict": "PASS",
+      "evidence": "Gold/silver duplication avoided without claiming silver crash avoidance; economic groups explicitly not low-correlation guarantees; semiconductor profit concentration and financial versus causal contribution limitation disclosed.",
+      "report_lines": [
+        96,
+        103,
+        105
+      ]
+    },
+    {
+      "topic": "figure_presentation",
+      "verdict": "PASS",
+      "evidence": "Both pools visible on common scale; title specifies reset accounts throughNov6,5bp per side, conditional historical pool and original2026-selected pool; top1 alias not presented as independent extra curve."
+    },
+    {
+      "topic": "promotion_and_statistics",
+      "verdict": "PASS",
+      "evidence": "No new champion, parameter selection, multiple-testing adjustment or deployability claim; future observation described as next evidence rather than authorized execution.",
+      "report_lines": [
+        7,
+        135,
+        169,
+        170
+      ]
+    }
+  ],
+  "paired_summary": [
+    {
+      "pool": "historical34",
+      "k": 2,
+      "cost_bps": 5,
+      "historical_cagr_uncapped": 0.26617412442898947,
+      "historical_cagr_capped": 0.22110344620827527,
+      "reset2026_dd_uncapped": 0.28406029615930006,
+      "reset2026_dd_capped": 0.25245187875938624
+    },
+    {
+      "pool": "historical34",
+      "k": 2,
+      "cost_bps": 20,
+      "historical_cagr_uncapped": 0.2533678565561812,
+      "historical_cagr_capped": 0.20935667247613732,
+      "reset2026_dd_uncapped": 0.2839052903407957,
+      "reset2026_dd_capped": 0.2523117221285922
+    },
+    {
+      "pool": "historical34",
+      "k": 3,
+      "cost_bps": 5,
+      "historical_cagr_uncapped": 0.19041545988104325,
+      "historical_cagr_capped": 0.14990547230361528,
+      "reset2026_dd_uncapped": 0.21912700663700657,
+      "reset2026_dd_capped": 0.19935225660025102
+    },
+    {
+      "pool": "historical34",
+      "k": 3,
+      "cost_bps": 20,
+      "historical_cagr_uncapped": 0.17863856003626877,
+      "historical_cagr_capped": 0.13818200735277664,
+      "reset2026_dd_uncapped": 0.21926402565037395,
+      "reset2026_dd_capped": 0.19939432590414163
+    },
+    {
+      "pool": "legacy36",
+      "k": 2,
+      "cost_bps": 5,
+      "historical_cagr_uncapped": 0.28244934204498406,
+      "historical_cagr_capped": 0.27133037851229647,
+      "reset2026_dd_uncapped": 0.28406029615930006,
+      "reset2026_dd_capped": 0.24998491850551496
+    },
+    {
+      "pool": "legacy36",
+      "k": 2,
+      "cost_bps": 20,
+      "historical_cagr_uncapped": 0.273254473849162,
+      "historical_cagr_capped": 0.2618503523191327,
+      "reset2026_dd_uncapped": 0.2839052903407957,
+      "reset2026_dd_capped": 0.24928175615087755
+    },
+    {
+      "pool": "legacy36",
+      "k": 3,
+      "cost_bps": 5,
+      "historical_cagr_uncapped": 0.2523043477948119,
+      "historical_cagr_capped": 0.21363371497084693,
+      "reset2026_dd_uncapped": 0.21961375773826686,
+      "reset2026_dd_capped": 0.1967250061710949
+    },
+    {
+      "pool": "legacy36",
+      "k": 3,
+      "cost_bps": 20,
+      "historical_cagr_uncapped": 0.2399751092639708,
+      "historical_cagr_capped": 0.20183670922530794,
+      "reset2026_dd_uncapped": 0.21961676341085246,
+      "reset2026_dd_capped": 0.1975169659574969
+    }
+  ],
+  "concerns": [
+    {
+      "severity": "minor",
+      "topic": "benchmark_orders_export",
+      "affected_rows": 8,
+      "rows": [
+        {
+          "rule": "SPY_BH",
+          "cost_bps": "5",
+          "cohort": "reset2026",
+          "period": "2026YTD",
+          "orders": ""
+        },
+        {
+          "rule": "SPY_BH",
+          "cost_bps": "5",
+          "cohort": "continuous2022",
+          "period": "2026YTD",
+          "orders": ""
+        },
+        {
+          "rule": "SPY_BH",
+          "cost_bps": "20",
+          "cohort": "reset2026",
+          "period": "2026YTD",
+          "orders": ""
+        },
+        {
+          "rule": "SPY_BH",
+          "cost_bps": "20",
+          "cohort": "continuous2022",
+          "period": "2026YTD",
+          "orders": ""
+        },
+        {
+          "rule": "QQQ_BH",
+          "cost_bps": "5",
+          "cohort": "reset2026",
+          "period": "2026YTD",
+          "orders": ""
+        },
+        {
+          "rule": "QQQ_BH",
+          "cost_bps": "5",
+          "cohort": "continuous2022",
+          "period": "2026YTD",
+          "orders": ""
+        },
+        {
+          "rule": "QQQ_BH",
+          "cost_bps": "20",
+          "cohort": "reset2026",
+          "period": "2026YTD",
+          "orders": ""
+        },
+        {
+          "rule": "QQQ_BH",
+          "cost_bps": "20",
+          "cohort": "continuous2022",
+          "period": "2026YTD",
+          "orders": ""
+        }
+      ],
+      "impact": "Order-count field incomplete only; returns/drawdown/fees independently checked in prior review. Explicit disclosure at report147; no financial FAIL or hidden data acceptance claimed.",
+      "minimal_followup": "Only populate8order counts from retained books after existing pending user authorization; no native rerun or book edits."
+    }
+  ],
+  "activity": {
+    "native_runs": 0,
+    "API_calls": 0,
+    "source_edits": 0,
+    "report_edits": 0,
+    "input_edits": 0,
+    "commits": 0
+  },
+  "used_independent_financial_review_sha256": "67dbfd64cac5e38c3f7c764981a57f9ab3662508ff0a885bb688e7810d4471ef"
+}

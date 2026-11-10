@@ -1,0 +1,514 @@
+{
+  "scope": "Original source/tests for grouped historical pool, calendar13612W and six top2 variants; active portable package and tests provided separately",
+  "original_script_modules": 9,
+  "original_test_modules": 8,
+  "original_test_functions": 76,
+  "original_tests_claimed_executed_in_this_public_release": false,
+  "source_files": [
+    {
+      "study": "group_cap",
+      "source_id": "scripts/etf_group_cap_inputs.py",
+      "published_path": "experiments/source_archive/group_cap/scripts/etf_group_cap_inputs.py",
+      "sha256": "06af8e9e4318eb220f30ff3ed56de06d7d5c9ffecdb2b8464ab925185a17d1d1",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "group_cap",
+      "source_id": "scripts/etf_group_cap_targets.py",
+      "published_path": "experiments/source_archive/group_cap/scripts/etf_group_cap_targets.py",
+      "sha256": "017d08a5b9ed9768d03da10b89cf5bea73e5df536220b7ea592b213d4d934ed3",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "group_cap",
+      "source_id": "scripts/etf_group_cap_run.py",
+      "published_path": "experiments/source_archive/group_cap/scripts/etf_group_cap_run.py",
+      "sha256": "97481e19329527aadb5b1729427ebaaa7b4ed186c94dd6f301fa3550037110bc",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "group_cap",
+      "source_id": "scripts/etf_group_cap_audit.py",
+      "published_path": "experiments/source_archive/group_cap/scripts/etf_group_cap_audit.py",
+      "sha256": "50f449112aed0aeeaf0ec71ab5d68412bcef8af397264b855c6d6d521b52b0ff",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "group_cap",
+      "source_id": "scripts/etf_group_cap_report.py",
+      "published_path": "experiments/source_archive/group_cap/scripts/etf_group_cap_report.py",
+      "sha256": "509e40430395216506a2b3c577f75c5cf6549a56f84cb2b28a1de6c7c599d0e6",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "group_cap",
+      "source_id": "tests/test_etf_group_cap_inputs.py",
+      "published_path": "experiments/source_archive/group_cap/tests/test_etf_group_cap_inputs.py",
+      "sha256": "816f9003581ceef3f6e9ba81aa24f69c13dac4707bdd49f2d32f0cc41243c11c",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "tests",
+      "test_functions": [
+        "test_split_units_preserve_full_historical_cash_entitlement_and_gross_wealth",
+        "test_consistent_ordinary_components_sum_but_ambiguous_duplicates_do_not",
+        "test_qual_conflict_requires_issuer_adjudication_before_retaining_old_cash",
+        "test_bil_user_approved_zero_ignores_only_exact_conflicting_event_and_keeps_other_income",
+        "test_unresolved_financial_evidence_blocks_instead_of_guessing",
+        "test_physical_2025_cohort_removes_all_future_events_and_feature_rows",
+        "test_raw_calendar_or_changed_overlap_cannot_be_silently_filled",
+        "test_legacy_execution_source_retains_actual_turnover_lost_by_old_loader",
+        "test_historical_loader_reads_only_physically_bounded_prices_and_refuses_revisions",
+        "test_failed_build_keeps_distinct_failure_receipts_without_touching_old_inputs"
+      ],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "group_cap",
+      "source_id": "tests/test_etf_group_cap_targets.py",
+      "published_path": "experiments/source_archive/group_cap/tests/test_etf_group_cap_targets.py",
+      "sha256": "e4e3f67b90810b9653733642c11953dda56e981e47b28803217d2616941bd938",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "tests",
+      "test_functions": [
+        "test_group_cap_preserves_global_ranking_without_buying_duplicate_risk_group",
+        "test_a_failed_selected_slot_stays_defensive_instead_of_increasing_other_positions",
+        "test_unconstrained_control_and_top_one_identity_do_not_change_existing_hypothesis",
+        "test_raw_dataset_oracle_agrees_without_using_precomputed_feature_signals",
+        "test_future_observations_cannot_change_frozen_prior_close_target",
+        "test_missing_group_and_invalid_role_identity_fail_instead_of_silently_changing_pool",
+        "test_frozen_catalog_counts_reuse_and_aliases_are_not_extra_native_experiments"
+      ],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "group_cap",
+      "source_id": "tests/test_etf_group_cap_run.py",
+      "published_path": "experiments/source_archive/group_cap/tests/test_etf_group_cap_run.py",
+      "sha256": "6d3fc9b321dd9cae1e7ffd9ccbd8318a1873175f6fe36b5a59e100a00c813962",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "tests",
+      "test_functions": [
+        "test_execution_shell_uses_finite_dates_and_only_historical_accounts_liquidate",
+        "test_temporary_native_hooks_restore_even_when_the_account_fails",
+        "test_group_feed_order_matches_actual_pool_without_unselected_joint_assets",
+        "test_frozen_native_cap_counts_all_started_attempts_including_failures",
+        "test_existing_native_artifact_is_revalidated_without_spending_another_account",
+        "test_partial_failed_native_folder_requires_explicit_new_attempt_not_silent_rerun",
+        "test_reuse_binding_checks_actual_rule_instead_of_legacy_top_three_shell",
+        "test_joint_acceptance_requires_the_immutable_successful_pass_and_canonical_binding",
+        "test_native_failure_is_metered_before_invocation_and_retained_without_retry",
+        "test_incomplete_science_never_claims_full_seventy_two_role_acceptance",
+        "test_approved_old_empty_trade_amendment_cannot_change_any_frozen_input",
+        "test_native_summary_preserves_a_failed_extra_attempt_within_the_hard_budget"
+      ],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "group_cap",
+      "source_id": "tests/test_etf_group_cap_report.py",
+      "published_path": "experiments/source_archive/group_cap/tests/test_etf_group_cap_report.py",
+      "sha256": "604ebd92b2efdd93659eaf98b5b69e307fc73b0568b65946cc7374ac33b69eca",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "tests",
+      "test_functions": [
+        "test_first_session_loss_is_part_of_return_and_drawdown",
+        "test_continuous_year_uses_own_prior_close_and_excludes_previous_orders",
+        "test_missing_observations_do_not_become_a_zero_return_result"
+      ],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "calendar13612w",
+      "source_id": "scripts/etf_13612w.py",
+      "published_path": "experiments/source_archive/calendar13612w/scripts/etf_13612w.py",
+      "sha256": "09f67777a6e2ab03b8872318e4803778bd322310b3f31ea3bc01354d45d18202",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "calendar13612w",
+      "source_id": "scripts/etf_13612w_report.py",
+      "published_path": "experiments/source_archive/calendar13612w/scripts/etf_13612w_report.py",
+      "sha256": "f254854ca57e7064499558ddc1ff641f24b0f8783d0c33c69dd5a38ffe157fa3",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "calendar13612w",
+      "source_id": "tests/test_etf_13612w.py",
+      "published_path": "experiments/source_archive/calendar13612w/tests/test_etf_13612w.py",
+      "sha256": "1b0f1e059ad0e102fda99cffa82c1d20f1c2183fc3406779bf9c27826248957a",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "tests",
+      "test_functions": [
+        "test_calendar_endpoints_use_true_month_ends_including_holidays_and_short_months",
+        "test_score_weights_divide_by_four_and_use_calendar_endpoints",
+        "test_group_quota_is_applied_before_shy_gate_and_failed_slots_stay_defensive",
+        "test_missing_nonfinite_or_nonpositive_exact_endpoint_fails_instead_of_padding",
+        "test_future_data_cannot_change_prior_score_or_selected_targets",
+        "test_catalog_preserves_eighteen_science_two_bridges_and_exact_cohort_contracts",
+        "test_hooks_restore_both_original_functions_after_a_native_failure",
+        "test_separate_journal_counts_failed_attempts_and_refuses_twenty_ninth",
+        "test_saved_success_revalidation_spends_no_additional_native",
+        "test_partial_native_evidence_cannot_be_overwritten",
+        "test_equal_scores_use_symbol_tie_break_and_strict_shy_gate",
+        "test_qualification_excludes_illiquid_or_short_history_despite_a_high_score",
+        "test_bridge_hooks_preserve_original252_targets_and_raw_oracle",
+        "test_true_accepted_month_end_targets_and_independent_raw_oracle_agree",
+        "test_raw_oracle_independently_rejects_a_missing_calendar_lag_endpoint",
+        "test_native_failure_is_metered_before_entry_and_remains_preserved",
+        "test_real_completed_artifact_revalidation_rejects_a_wrong_saved_scalar"
+      ],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "calendar13612w",
+      "source_id": "tests/test_etf_13612w_report.py",
+      "published_path": "experiments/source_archive/calendar13612w/tests/test_etf_13612w_report.py",
+      "sha256": "cde71876d5d95852cf38fc1dc5de4837d9acdc813763f1f9bfd2cb455fc111c6",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "tests",
+      "test_functions": [
+        "test_2026_continuous_uses_own_december_nav_and_has_no_annualized_return",
+        "test_reset_account_starts_from_registered_cash_and_keeps_first_session_loss",
+        "test_bridges_are_excluded_and_registry_relabeling_is_rejected",
+        "test_pairing_requires_same_k_cost_cohort_and_period",
+        "test_empty_report_window_fails_instead_of_producing_zero_return"
+      ],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "top2_variants",
+      "source_id": "scripts/etf_momentum_variants.py",
+      "published_path": "experiments/source_archive/top2_variants/scripts/etf_momentum_variants.py",
+      "sha256": "1a2079d7b45b4beab2786036ed7774383cd58948b1c76bf375bca4f43d5e0c8b",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "top2_variants",
+      "source_id": "scripts/etf_momentum_variants_report.py",
+      "published_path": "experiments/source_archive/top2_variants/scripts/etf_momentum_variants_report.py",
+      "sha256": "3380fc810cd6c9508f0aaecb70aa45582a595250a0c0b601e233b4bc4478c392",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "scripts",
+      "test_functions": [],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "top2_variants",
+      "source_id": "tests/test_etf_momentum_variants.py",
+      "published_path": "experiments/source_archive/top2_variants/tests/test_etf_momentum_variants.py",
+      "sha256": "8001521b2f2c07576132596756a49afd07bd61d0a403603a96e5e3fedf727d48",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "tests",
+      "test_functions": [
+        "test_skip21_score_excludes_recent_trading_days_exactly",
+        "test_equal_calendar_weights_use_exact_month_ends_including_holidays",
+        "test_risk_adjusted_rank_has_one_percent_floor_and_keeps_unscaled_gate",
+        "test_regression_uses_last252_log_prices_and_r_squared_not_annual_compounding",
+        "test_extra_defenses_apply_after_fixed_group_slots_without_reallocation",
+        "test_independent_raw_oracle_agrees_for_every_variant_without_using_features",
+        "test_future_observations_cannot_change_any_variant_target",
+        "test_catalog_identity_is_exactly36_science_and_two_k2_bridges",
+        "test_hooks_restore_after_failure_and_independent48_budget_counts_failed_entries",
+        "test_success_revalidates_without_native_and_partial_evidence_stays_preserved",
+        "test_volatility_floor_never_hides_nonfinite_or_negative_input",
+        "test_rank_only_mechanisms_do_not_also_replace_the_original_cash_gate",
+        "test_constant_and_negative_log_trends_have_zero_and_negative_regression_scores",
+        "test_real_all_month_end_targets_agree_with_independent_raw_oracles",
+        "test_completed_native_revalidation_rejects_an_inconsistent_saved_scalar",
+        "test_prefix_rebuild_detects_noncausal_features_and_retains_actual_target_evidence"
+      ],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    },
+    {
+      "study": "top2_variants",
+      "source_id": "tests/test_etf_momentum_variants_report.py",
+      "published_path": "experiments/source_archive/top2_variants/tests/test_etf_momentum_variants_report.py",
+      "sha256": "8fd78bb4e20f98b5100a5da725a60a400a7b6a1d1428ff3cae33ecf418fde695",
+      "copy": "BYTE_EXACT_ORIGINAL",
+      "kind": "tests",
+      "test_functions": [
+        "test_continuous_ytd_keeps_prior_nav_first_day_loss_and_blank_cagr",
+        "test_pairs_require_same_period_cost_and_cohort_for_each_named_baseline",
+        "test_bootstrap_requires_all_six_columns_and_exact_historical_sessions",
+        "test_pointwise_ci_is_arithmetic_annualization_and_support_uses_each_variant_p",
+        "test_economic_target_hash_ignores_reason_and_mapping_order_but_keeps_weights",
+        "test_pareto_requires_both_costs_and_ignores_roundoff_as_improvement"
+      ],
+      "execution_status": "ORIGINAL_ARCHIVE_NOT_AUTO_COLLECTED",
+      "dependency_note": "Original research integration requires its private local source acceptance directories; active portable equivalents are separately listed and tested in tests/."
+    }
+  ],
+  "metadata_files": [
+    {
+      "source_id": "docs/superpowers/plans/2026-11-09-etf-economic-group-cap.md",
+      "source_sha256": "3927e8f102ffe4d1857e7a272333ff356c9452f3f1808b0cc8089f458dceb90b",
+      "published_path": "experiments/source_archive/group_cap/PLAN.md",
+      "published_sha256": "3927e8f102ffe4d1857e7a272333ff356c9452f3f1808b0cc8089f458dceb90b",
+      "transform": "replace local absolute roots with source identifiers; scope and wording retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/BENCHMARK_ORDER_COUNT_COMPLETION.json",
+      "source_sha256": "c567f5e4d28b8f803c431c6fa1333d6d688d31d818d19859fc6e320434544a1d",
+      "published_path": "experiments/source_archive/group_cap/evidence/BENCHMARK_ORDER_COUNT_COMPLETION.json",
+      "published_sha256": "01a9ad7e6f1330c3ebae7e6ee079f84c528f83bc686cbf866eb0bab7396d4035",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/CATALOG_ROLES.json",
+      "source_sha256": "fa57cdb7d3a3cb75308f5d48127cd5fabb8a71b60436f8a711a849ff087e48a8",
+      "published_path": "experiments/source_archive/group_cap/evidence/CATALOG_ROLES.json",
+      "published_sha256": "fa57cdb7d3a3cb75308f5d48127cd5fabb8a71b60436f8a711a849ff087e48a8",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/DELIVERY_VERIFICATION.json",
+      "source_sha256": "57c974259bf720d65b07ffed983a2693b93330a38fca02322dc2a5b716dcc686",
+      "published_path": "experiments/source_archive/group_cap/evidence/DELIVERY_VERIFICATION.json",
+      "published_sha256": "b5bffc828c42836475be2f5c6502ca59478fb5b8aefad450ead68b7132ff7167",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/DELIVERY_VERIFICATION_V2.json",
+      "source_sha256": "f1e33a1c9fa6274802c1c5f50f140906af5a299fa259fa5973ceba0e3b57a4d7",
+      "published_path": "experiments/source_archive/group_cap/evidence/DELIVERY_VERIFICATION_V2.json",
+      "published_sha256": "a59be2c6c5d60f52f45a09d1ba1e3d7ad4c017ad6ce89f7963154d55d9c7c8b9",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/GROUPS.json",
+      "source_sha256": "f3c1aa8fe87a7405c76486ca38b360d6537936ccbb055214c01eb40ba34680c1",
+      "published_path": "experiments/source_archive/group_cap/evidence/GROUPS.json",
+      "published_sha256": "f3c1aa8fe87a7405c76486ca38b360d6537936ccbb055214c01eb40ba34680c1",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/INDEPENDENT_RESULT_REVIEW.json",
+      "source_sha256": "67dbfd64cac5e38c3f7c764981a57f9ab3662508ff0a885bb688e7810d4471ef",
+      "published_path": "experiments/source_archive/group_cap/evidence/INDEPENDENT_RESULT_REVIEW.json",
+      "published_sha256": "e1447de39debd47fab86f460553d98534815c3ad863282b1642b4cd370ddd7bd",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/POOLS.json",
+      "source_sha256": "34b2749a5f1a572f239e4f8bda2fa0da54651de60cd09554f816845feaa14fe2",
+      "published_path": "experiments/source_archive/group_cap/evidence/POOLS.json",
+      "published_sha256": "34b2749a5f1a572f239e4f8bda2fa0da54651de60cd09554f816845feaa14fe2",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/PROTOCOL.json",
+      "source_sha256": "604012937b8cac26d746f8002f62caf661baf5437e37f79839999ca2e5a5ea82",
+      "published_path": "experiments/source_archive/group_cap/evidence/PROTOCOL.json",
+      "published_sha256": "01be3abd03fc2f57d5eef5d2c632eff3e3cdeef89543b1c3f8d5a360fe4c632d",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_GROUP_CAP_20261109/REPORT_CHALLENGE.json",
+      "source_sha256": "7e60bbcdf1fe80c4628f90eab60119d9c2f1451d90e485c0416f448f39faa8ea",
+      "published_path": "experiments/source_archive/group_cap/evidence/REPORT_CHALLENGE.json",
+      "published_sha256": "5e6dbe1932c86c16d23a4dffe2de6869ce175174c9c333b9db54b9f5ed0cecd6",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "docs/superpowers/plans/2026-11-10-etf-13612w.md",
+      "source_sha256": "e528ae397d86ec837abb12db15538fce069cd7aafb7f5bbdf1ad9fddcfaba0d9",
+      "published_path": "experiments/source_archive/calendar13612w/PLAN.md",
+      "published_sha256": "e528ae397d86ec837abb12db15538fce069cd7aafb7f5bbdf1ad9fddcfaba0d9",
+      "transform": "replace local absolute roots with source identifiers; scope and wording retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/CATALOG.json",
+      "source_sha256": "45902e69f2d4552d21e1a396a22ece7d0e3af802afc98641aa903883415ae4e2",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/CATALOG.json",
+      "published_sha256": "45902e69f2d4552d21e1a396a22ece7d0e3af802afc98641aa903883415ae4e2",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/DELIVERY_VERIFICATION.json",
+      "source_sha256": "c16b5daaab4e26acf68533203441d2222a56abc52acd362f79ade9651bfe8fe4",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/DELIVERY_VERIFICATION.json",
+      "published_sha256": "57dc7a8be0c565e2fee73ad2359e650f2f45a960dff858b085edb24316f7de88",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/FINAL_REPORT_REVIEW.json",
+      "source_sha256": "5643ea437a7b9b936b05d2f911d822008fe3f3b42e6b6e22c15003b20393b78d",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/FINAL_REPORT_REVIEW.json",
+      "published_sha256": "5f4b43aa5a1ea4e4e5b757757b6a13545a7ce10b753d9c82b792dc0b7ea6854b",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/IMPLEMENTATION_REVIEW.json",
+      "source_sha256": "dfbee7cfb007d1bada29b88346dbb4a3615ebb8a4e10eb97be988e19c8f2504f",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/IMPLEMENTATION_REVIEW.json",
+      "published_sha256": "1c7fb732c2ab8cdcad973241a14dea3c8445b060e4245b77baa7dfc76773ded8",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/IMPLEMENTATION_REVIEW_V2.json",
+      "source_sha256": "c40373ed80e178e3e5ebac6f3c30ef95965d32e27ca4fd0f66a5b8eabfa2e725",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/IMPLEMENTATION_REVIEW_V2.json",
+      "published_sha256": "5b6afe9b14010b1ce87e3a857f12c757276100b20ff9efeb503023500dea12d8",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/INDEPENDENT_RESULT_REVIEW.json",
+      "source_sha256": "c767ce2b914dd964197916c26345a42019d2abe30a93458bac78be1aa8670503",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/INDEPENDENT_RESULT_REVIEW.json",
+      "published_sha256": "005d9dd2068c60cc78989f0ea67ded3062d36b9c1ac576611b50905259324c13",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/INDEPENDENT_SUPPLEMENT_REVIEW.json",
+      "source_sha256": "050fdb5f1b705fc6e28b7f0dee4936d80795dd22b3657217f53abd215aed9857",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/INDEPENDENT_SUPPLEMENT_REVIEW.json",
+      "published_sha256": "7bcbff424e7972eb8ff149f2d30f23b666fd4011cfbdf06eb729450759d2b421",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/PLAN_REVIEW.json",
+      "source_sha256": "5c93de18bd52da27f189b2cafce71d9d4049075abc0335236df3a147ea46b538",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/PLAN_REVIEW.json",
+      "published_sha256": "ff34f1ab26e67dc2a84414215095017c7db291ae21e5f8e09f9d337820f2f50e",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/PROTOCOL.json",
+      "source_sha256": "2cbe7188f6cfb0c4288c13e767173c44ef70c399851c0f4cf6f74be65bd53484",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/PROTOCOL.json",
+      "published_sha256": "b9ccda4ecdf602d9f1d71c43dc8f829f5c1c2df297640e89f14d3e6ef77fefa0",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF13612W_20261110/PUBLICATION_RECEIPT.json",
+      "source_sha256": "2c2200accd30c366dd39a70c09ed4e3ac4b246fc7a741c20c926e637df76a61c",
+      "published_path": "experiments/source_archive/calendar13612w/evidence/PUBLICATION_RECEIPT.json",
+      "published_sha256": "2c2200accd30c366dd39a70c09ed4e3ac4b246fc7a741c20c926e637df76a61c",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "docs/superpowers/plans/2026-11-10-etf-momentum-variants.md",
+      "source_sha256": "0e8872bc0ad73acd346ced18b9f3c50d578ba43a5df52a3c8951a66c17a72ebc",
+      "published_path": "experiments/source_archive/top2_variants/PLAN.md",
+      "published_sha256": "0e8872bc0ad73acd346ced18b9f3c50d578ba43a5df52a3c8951a66c17a72ebc",
+      "transform": "replace local absolute roots with source identifiers; scope and wording retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/CATALOG.json",
+      "source_sha256": "6f4338e7700226a2ef0c4a3c8cd7e9c380007b4e9eee6c0c510043ec17f10469",
+      "published_path": "experiments/source_archive/top2_variants/evidence/CATALOG.json",
+      "published_sha256": "6f4338e7700226a2ef0c4a3c8cd7e9c380007b4e9eee6c0c510043ec17f10469",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/CAUSALITY_RECEIPT.json",
+      "source_sha256": "e9e13b3f526a30575a5cc6e8d307fb416663998602cd00684917ab69b31f97b3",
+      "published_path": "experiments/source_archive/top2_variants/evidence/CAUSALITY_RECEIPT.json",
+      "published_sha256": "e9e13b3f526a30575a5cc6e8d307fb416663998602cd00684917ab69b31f97b3",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/DATA_PREFLIGHT.json",
+      "source_sha256": "dffb0cc3d8807f9c0d76b959d3e174e41de6245cba96be3589c2c2a75ff86f1b",
+      "published_path": "experiments/source_archive/top2_variants/evidence/DATA_PREFLIGHT.json",
+      "published_sha256": "dffb0cc3d8807f9c0d76b959d3e174e41de6245cba96be3589c2c2a75ff86f1b",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/DELIVERY_VERIFICATION.json",
+      "source_sha256": "76ceb2b2dd26ae41009b64b5bfa2d277d2dba40d71b8adbc6256fd03178be193",
+      "published_path": "experiments/source_archive/top2_variants/evidence/DELIVERY_VERIFICATION.json",
+      "published_sha256": "bc1594a34311a3ee1d9175e98bc37e499425618b6bf8f30e9148038ee3828d93",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/FINAL_REPORT_REVIEW.json",
+      "source_sha256": "94ca9098b4fc4d0c969bfb3e6953623e6dedf3d5767c4daaf33345c451448f43",
+      "published_path": "experiments/source_archive/top2_variants/evidence/FINAL_REPORT_REVIEW.json",
+      "published_sha256": "fbd2be734039a4ec4edc4d6260c26d088c5dea35ed9fd449caef6c93fd61555d",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/IMPLEMENTATION_REVIEW.json",
+      "source_sha256": "073f22617514bac6a6feacb2d2fde7edf3765543d9b68cf1072aad12cb0a27b4",
+      "published_path": "experiments/source_archive/top2_variants/evidence/IMPLEMENTATION_REVIEW.json",
+      "published_sha256": "2a2c7f287b5610611a3845e9a2fa7c374fa657dc79673eece1b2cf960df124e6",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/INDEPENDENT_RESULT_REVIEW.json",
+      "source_sha256": "cb76ad066da0ae04a15aced96264a0830d22ee85174f2b6f6a0715ac8d0559ba",
+      "published_path": "experiments/source_archive/top2_variants/evidence/INDEPENDENT_RESULT_REVIEW.json",
+      "published_sha256": "8c7098c46bbc2af6c22049eb1154a10b2084bdeae50f51ea5ae7776b9893eb5b",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/PLAN_REVIEW.json",
+      "source_sha256": "bc51fb216456503bd55ca2b73ea7c813921f4896000cb15acc05a90807ee3964",
+      "published_path": "experiments/source_archive/top2_variants/evidence/PLAN_REVIEW.json",
+      "published_sha256": "d3c719baaadd824f780ff57095d59c1cc2b64ebd9a7c68082b7f900cafaac08e",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/PRIOR_COVERAGE.json",
+      "source_sha256": "43db3c6bad21ff92244f9dda33734f82e53238c2998fb4c0e12b912e17b6caa8",
+      "published_path": "experiments/source_archive/top2_variants/evidence/PRIOR_COVERAGE.json",
+      "published_sha256": "43db3c6bad21ff92244f9dda33734f82e53238c2998fb4c0e12b912e17b6caa8",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/PROTOCOL.json",
+      "source_sha256": "9d888f2522fb43c466fd44b0d7e89f8aca999b7256552e6fb389c62c599aa0d0",
+      "published_path": "experiments/source_archive/top2_variants/evidence/PROTOCOL.json",
+      "published_sha256": "9a00d59d7cae8ec0f4007870dbe6cd26253dae35b78a67b2847acca0afd8ec10",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    },
+    {
+      "source_id": "research/ETF_MOMENTUM_VARIANTS_20261110/PUBLICATION_RECEIPT.json",
+      "source_sha256": "9ade036a598304e26345bbe4b77641e5e751b868db24234c853b42b9f88ad4f6",
+      "published_path": "experiments/source_archive/top2_variants/evidence/PUBLICATION_RECEIPT.json",
+      "published_sha256": "9ade036a598304e26345bbe4b77641e5e751b868db24234c853b42b9f88ad4f6",
+      "transform": "JSON projection; absolute workspace roots become relative source identifiers; original SHA retained"
+    }
+  ],
+  "omitted_raw_provider_files": "Full third-party pages, raw API responses, private absolute-path source-lock files and broker/account data are not included; canonical numeric inputs and all published native ledgers remain available."
+}

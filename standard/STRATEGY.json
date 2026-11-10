@@ -3,7 +3,9 @@
   "id": "C10_HISTORICAL_GROUP_CAP_V2",
   "adopted_date": "2026-11-10",
   "status": "RESEARCH_STANDARD_NOT_LIVE_APPROVAL",
-  "default_rule": "C10",
+  "default_rule": "C11",
+  "default_policy_changed": "2026-11-11",
+  "default_policy_reason": "User explicitly selected existing V2 top2; no new efficacy claim or parameter optimization",
   "group_cap": true,
   "risk_names": [
     "AGG",

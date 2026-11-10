@@ -1,0 +1,152 @@
+{
+  "id": "ETF13612W_CALENDAR_MONTHENDS_GROUPED_20261110",
+  "frozen_utc": "2026-11-10T07:07:19.349124+00:00",
+  "formula": "(12*R1+4*R3+2*R6+R12)/4",
+  "months": [
+    1,
+    3,
+    6,
+    12
+  ],
+  "weights": [
+    12,
+    4,
+    2,
+    1
+  ],
+  "divisor": 4,
+  "month_basis": "lastXNYSsessionofeachcalendarmonth",
+  "gate": "strict scoreETF>same13612WscoreSHY",
+  "new_science": 18,
+  "bridges": 2,
+  "planned_native": 20,
+  "native_hard_cap": 28,
+  "reuse_roles": 36,
+  "report_roles": 54,
+  "fresh_OOS": false,
+  "new_market_API": 0,
+  "historical_end": "2025-12-31",
+  "end2026": "2026-11-06",
+  "pool": [
+    "AGG",
+    "BIL",
+    "EWJ",
+    "GLD",
+    "HYG",
+    "IEF",
+    "IEMG",
+    "IJR",
+    "INDA",
+    "MCHI",
+    "PDBC",
+    "QQQ",
+    "QUAL",
+    "SLV",
+    "SOXX",
+    "SPY",
+    "TIP",
+    "TLT",
+    "USMV",
+    "VCIT",
+    "VEA",
+    "VGT",
+    "VIG",
+    "VNQ",
+    "VTI",
+    "XLB",
+    "XLC",
+    "XLE",
+    "XLF",
+    "XLI",
+    "XLP",
+    "XLU",
+    "XLV",
+    "XLY"
+  ],
+  "groups": {
+    "us_broad_style": [
+      "VTI",
+      "QQQ",
+      "IJR",
+      "USMV",
+      "SPY",
+      "VIG",
+      "QUAL"
+    ],
+    "technology_semiconductors": [
+      "VGT",
+      "SOXX"
+    ],
+    "financials": [
+      "XLF"
+    ],
+    "healthcare": [
+      "XLV"
+    ],
+    "energy": [
+      "XLE"
+    ],
+    "industrials": [
+      "XLI"
+    ],
+    "utilities": [
+      "XLU"
+    ],
+    "consumer_discretionary": [
+      "XLY"
+    ],
+    "consumer_staples": [
+      "XLP"
+    ],
+    "communications": [
+      "XLC"
+    ],
+    "materials": [
+      "XLB"
+    ],
+    "real_estate": [
+      "VNQ"
+    ],
+    "developed_foreign": [
+      "VEA",
+      "EWJ"
+    ],
+    "emerging_foreign": [
+      "IEMG",
+      "INDA",
+      "MCHI"
+    ],
+    "short_treasury": [
+      "BIL"
+    ],
+    "nominal_treasury_duration": [
+      "IEF",
+      "TLT"
+    ],
+    "inflation_bonds": [
+      "TIP"
+    ],
+    "investment_grade_bonds": [
+      "VCIT",
+      "AGG"
+    ],
+    "high_yield_credit": [
+      "HYG"
+    ],
+    "precious_metals": [
+      "GLD",
+      "SLV"
+    ],
+    "broad_commodities": [
+      "PDBC"
+    ]
+  },
+  "source_hashes": {
+    "research_repo/docs/superpowers/plans/2026-11-10-etf-13612w.md": "e528ae397d86ec837abb12db15538fce069cd7aafb7f5bbdf1ad9fddcfaba0d9",
+    "research_repo/research/ETF13612W_20261110/CATALOG.json": "45902e69f2d4552d21e1a396a22ece7d0e3af802afc98641aa903883415ae4e2",
+    "public_v2_0/standard/STRATEGY.json": "f8af2cb9f5f491e1148b2f18e6a389faafcd95da787d61e607ff1fef1c49639f",
+    "public_v2_0/standard/ACCOUNTS.json": "5c1969130e272541ef340599717b6475964a44f07075948923b8d929a8b4128f",
+    "public_v2_0/standard/data/2025/MANIFEST.json": "0426cd70cb5f01b33a28902510e5f6ff272bb1a0328d7f3fddcf3d3a23a164ea",
+    "public_v2_0/standard/data/2026/MANIFEST.json": "8454654deade0eab03b160c83d438a86b0e7e9e4d35498de95f2dd91bb4e05ad"
+  }
+}

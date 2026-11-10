@@ -48,7 +48,7 @@ BOOKS = ("daily", "orders", "holdings", "dividends", "trades")
 
 class Contract(Model):
     model_config = ConfigDict(frozen=True)
-    rule: Rule = "C10"
+    rule: Rule = "C11"
     cost_bps: Literal[5, 20] = 5
     cohort: Cohort = "historical2022_2025"
 
@@ -87,7 +87,7 @@ class Strategy(Model):
     model_config = ConfigDict(extra="ignore", frozen=True)
     version: Literal[2]
     id: Literal["C10_HISTORICAL_GROUP_CAP_V2"]
-    default_rule: Literal["C10"]
+    default_rule: Literal["C11"]
     group_cap: Literal[True]
     risk_names: tuple[str, ...]
     groups: dict[str, tuple[str, ...]]

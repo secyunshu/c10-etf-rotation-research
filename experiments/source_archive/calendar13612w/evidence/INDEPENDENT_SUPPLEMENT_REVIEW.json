@@ -1,0 +1,181 @@
+{
+  "status": "PASS_WITH_RESEARCH_LIMITATIONS",
+  "reviewed_utc": "2026-11-10T12:48:00.269442+00:00",
+  "main_review_sha256": "c767ce2b914dd964197916c26345a42019d2abe30a93458bac78be1aa8670503",
+  "supplement_hashes": {
+    "ASSET_PROFIT_5BP.csv": "fce4414447bed2b4994894b540278b06aa263250dbd083f9b1d987864d7ef845",
+    "TARGET_WEIGHTS_5BP.csv": "5393b852fc5b0f925b81dd029bcccd6aa314e13f25e26c5d18151078bfdf6e3b",
+    "JAN30_CHECK_5BP.csv": "2d46e1699fa2d523303e63d459c8d4f530b5da523ab5c051e89988d7b7f5fe9c"
+  },
+  "asset_profit_rows_verified": 1260,
+  "financial_period_asset_sums_verified": 36,
+  "target_weight_rows_verified": 2122,
+  "jan30_rows_verified": 6,
+  "numeric_checks": 5547,
+  "maximum_errors": {
+    "asset_profit": 0.0,
+    "asset_profit_sum": 5.275069270282984e-11,
+    "predeployment_target": 0.0,
+    "deployed_target": 0.0,
+    "jan30_return": 0.0,
+    "K3_same_Jan30": 0.0
+  },
+  "selected_financial_components": [
+    {
+      "key": "W13612_K1_5bp_historical2022_2025",
+      "period": "2022",
+      "largest_positive_negative_components": [
+        [
+          "VNQ",
+          -3743.0959759723773
+        ],
+        [
+          "MCHI",
+          -3616.2590952798964
+        ],
+        [
+          "XLE",
+          -2960.30155465937
+        ],
+        [
+          "PDBC",
+          2922.56331850509
+        ],
+        [
+          "SHY",
+          -194.84142525477952
+        ],
+        [
+          "BIL",
+          16.822321783418502
+        ],
+        [
+          "AGG",
+          0.0
+        ]
+      ]
+    },
+    {
+      "key": "W13612_K3_5bp_reset2026",
+      "period": "2026YTD",
+      "largest_positive_negative_components": [
+        [
+          "SOXX",
+          5666.994453539043
+        ],
+        [
+          "PDBC",
+          3161.702912667646
+        ],
+        [
+          "XLE",
+          1767.0442472672096
+        ],
+        [
+          "VGT",
+          1225.6722339072016
+        ],
+        [
+          "VEA",
+          629.6038326477046
+        ],
+        [
+          "IEMG",
+          -605.6634311653482
+        ],
+        [
+          "XLI",
+          -430.6022081952433
+        ]
+      ]
+    }
+  ],
+  "jan30_evidence": [
+    {
+      "key": "W13612_K1_5bp_reset2026",
+      "score": "calendar_13612w",
+      "k": "1",
+      "jan29_holdings": "SHY:57;SLV:634",
+      "jan30_return": "-0.25728030966560766"
+    },
+    {
+      "key": "W13612_K2_5bp_reset2026",
+      "score": "calendar_13612w",
+      "k": "2",
+      "jan29_holdings": "SHY:57;SLV:317;SOXX:69",
+      "jan30_return": "-0.16081768957121512"
+    },
+    {
+      "key": "W13612_K3_5bp_reset2026",
+      "score": "calendar_13612w",
+      "k": "3",
+      "jan29_holdings": "SHY:57;SLV:211;SOXX:46;VEA:225",
+      "jan30_return": "-0.11788138309176543"
+    },
+    {
+      "key": "C10_5bp_reset2026",
+      "score": "original252",
+      "k": "1",
+      "jan29_holdings": "SHY:57;SLV:634",
+      "jan30_return": "-0.25728030966560766"
+    },
+    {
+      "key": "C11_5bp_reset2026",
+      "score": "original252",
+      "k": "2",
+      "jan29_holdings": "SHY:57;SLV:317;SOXX:69",
+      "jan30_return": "-0.16081768957121512"
+    },
+    {
+      "key": "C00_5bp_reset2026",
+      "score": "original252",
+      "k": "3",
+      "jan29_holdings": "SHY:57;SLV:211;SOXX:46;VEA:225",
+      "jan30_return": "-0.11788138309176543"
+    }
+  ],
+  "new_K3_early2026_target_evidence": [
+    {
+      "decision_day": "2026-01-30",
+      "risk_targets": [
+        "SLV",
+        "SOXX",
+        "XLE"
+      ]
+    },
+    {
+      "decision_day": "2026-02-27",
+      "risk_targets": [
+        "SLV",
+        "XLE",
+        "SOXX"
+      ]
+    },
+    {
+      "decision_day": "2026-03-31",
+      "risk_targets": [
+        "PDBC",
+        "XLE",
+        "SOXX"
+      ]
+    },
+    {
+      "decision_day": "2026-04-30",
+      "risk_targets": [
+        "SOXX",
+        "PDBC",
+        "QQQ"
+      ]
+    }
+  ],
+  "conclusions": [
+    "Assetprofitisadescriptiveaccountingidentity, notcausalorcounterfactualreturnattribution.",
+    "New13612WK3hasexactlythesameJan29holdingsandJan30returnas252K3; later2026gainsdonotdemonstrateavoidanceofthatcrash.",
+    "Do notchoosenewK3aschampionfromseen2026performancewhenthe2022–2025maincomparisonislowerreturnandhigherDDforallK."
+  ],
+  "native_runs": 0,
+  "API_calls": 0,
+  "tests": 0,
+  "Git": 0,
+  "old_source_or_data_modified": false
+}

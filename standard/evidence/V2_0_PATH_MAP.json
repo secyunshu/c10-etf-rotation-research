@@ -1,0 +1,79 @@
+{
+  "scope": "Original v2.0.0 relative hash locks map these intentionally changed files to preserved originals; all other historical lock files remain at original paths",
+  "original_publication_tag": "v2.0.0",
+  "base_commit": "35a4dd2b6fb328a590f356a385fd2fd2652d2804",
+  "files": {
+    "standard/STRATEGY.json": {
+      "preserved_path": "standard/evidence/v2_0_preserved/standard/STRATEGY.json",
+      "sha256": "f8af2cb9f5f491e1148b2f18e6a389faafcd95da787d61e607ff1fef1c49639f"
+    },
+    "src/c10standard/models.py": {
+      "preserved_path": "standard/evidence/v2_0_preserved/src/c10standard/models.py",
+      "sha256": "d3cf7345a827bb32cac0b9d1179dc9e6bf43379f556cfccdbee9b2f0a2722e9a"
+    },
+    "src/c10standard/run.py": {
+      "preserved_path": "standard/evidence/v2_0_preserved/src/c10standard/run.py",
+      "sha256": "6535ed6ce0661e72f4f9627dac1e91b826fc5006a3f15a321d426015970a1a10"
+    },
+    "src/c10standard/report.py": {
+      "preserved_path": "standard/evidence/v2_0_preserved/src/c10standard/report.py",
+      "sha256": "49d23e88a5c507928099136276d078a4b73717082d29f5afabeeadfb79923ba9"
+    },
+    "tests/test_standard_v2.py": {
+      "preserved_path": "standard/evidence/v2_0_preserved/tests/test_standard_v2.py",
+      "sha256": "d2c135b750ec83bee517e4e683a23baea38174ad11478af744ca8023d3487657"
+    },
+    "tests/test_standard_report.py": {
+      "preserved_path": "standard/evidence/v2_0_preserved/tests/test_standard_report.py",
+      "sha256": "75299d48d5759317e1e8ed57fc2180bef2df495956f41fd078134f4e3f2d4bb0"
+    },
+    "pyproject.toml": {
+      "preserved_path": "standard/evidence/v2_0_preserved/pyproject.toml",
+      "sha256": "833c8c5fbefef5170fd76e365d26904036b5f92abfc526036240132432b48594"
+    },
+    "README.md": {
+      "preserved_path": "standard/evidence/v2_0_preserved/README.md",
+      "sha256": "5d735d0708ebe60b35736d87deef0138fc048b6dfac9c025ccabcd4d9683fab3"
+    },
+    "docs/STANDARD_V2.md": {
+      "preserved_path": "standard/evidence/v2_0_preserved/docs/STANDARD_V2.md",
+      "sha256": "0dc0f38e0191402c66a85baadb8203a4382b40aa920735eb5b21d330e892c831"
+    },
+    "docs/REPRODUCE_V2.md": {
+      "preserved_path": "standard/evidence/v2_0_preserved/docs/REPRODUCE_V2.md",
+      "sha256": "9fd068d6a8a3d67e470752ea0beaaa2a6fb635d2d36458af8e73da7039475fd8"
+    },
+    "MANIFEST.sha256": {
+      "preserved_path": "standard/evidence/v2_0_preserved/MANIFEST.sha256",
+      "sha256": "f2157fccf4ff3f1391ce60cbfbe53333ed6b4e75a7ef7385a8bd1fc7dbee25b8"
+    },
+    "standard/results/summary.csv": {
+      "preserved_path": "standard/evidence/v2_0_preserved/standard/results/summary.csv",
+      "sha256": "49c43c26ec10e04f201864a6042105799aa74a71364c10c612f59ec9a730c4bc"
+    },
+    "standard/results/RESULTS.md": {
+      "preserved_path": "standard/evidence/v2_0_preserved/standard/results/RESULTS.md",
+      "sha256": "c57d8c3fd1f509a156481bccf766d92232e96f509fadd10c774f9623a160c34b"
+    },
+    "standard/results/annual.csv": {
+      "preserved_path": "standard/evidence/v2_0_preserved/standard/results/annual.csv",
+      "sha256": "927bda766bc3ddb56c7d211fbcb34cdda15fe72342ad7a63968b3c84af1edd2f"
+    },
+    "standard/results/verification.json": {
+      "preserved_path": "standard/evidence/v2_0_preserved/standard/results/verification.json",
+      "sha256": "da152a386826612a775742d66a0e43af31e2453ff7cd96415c7a0d97db83bd6b"
+    },
+    "standard/results/monthly.csv": {
+      "preserved_path": "standard/evidence/v2_0_preserved/standard/results/monthly.csv",
+      "sha256": "747ff3f3d0ee490b03e779546eea812fdfd7acfba3a79b87eaf11719d875d755"
+    },
+    "standard/figures/reset2026.png": {
+      "preserved_path": "standard/evidence/v2_0_preserved/standard/figures/reset2026.png",
+      "sha256": "7f7f5fef5550cf01a0c9b7b49bdc2baed9dab4609a5c7bb22c1e78a07e29de46"
+    },
+    "standard/figures/historical.png": {
+      "preserved_path": "standard/evidence/v2_0_preserved/standard/figures/historical.png",
+      "sha256": "8521377dae9db1c2416bc7785f5263ff954b68c389bc890cb86bae4b7c234337"
+    }
+  }
+}

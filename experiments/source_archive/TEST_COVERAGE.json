@@ -1,0 +1,195 @@
+{
+  "scope": "Original source/test archive plus public active equivalents, not a one-to-one claim or unexecuted test pass",
+  "original_script_modules": 9,
+  "original_test_modules": 8,
+  "original_test_functions": 76,
+  "archive_to_active": [
+    {
+      "original": "experiments/source_archive/group_cap/tests/test_etf_group_cap_inputs.py",
+      "original_test_function_count": 10,
+      "original_module_run_in_clean_clone": false,
+      "active_modules": [
+        "tests/test_standard_v2.py",
+        "tests/test_reproduction.py"
+      ],
+      "coverage_and_limits": "PARTIAL: canonical recurrence/split and cutoff tested; original Futu raw QA and issuer-adjudication integration retained as archive, not re-executed"
+    },
+    {
+      "original": "experiments/source_archive/group_cap/tests/test_etf_group_cap_targets.py",
+      "original_test_function_count": 7,
+      "original_module_run_in_clean_clone": false,
+      "active_modules": [
+        "tests/test_standard_v2.py",
+        "tests/test_experiments.py"
+      ],
+      "coverage_and_limits": "Group/fixedslots/SHY/ties/future and explicitK covered on portable core"
+    },
+    {
+      "original": "experiments/source_archive/group_cap/tests/test_etf_group_cap_run.py",
+      "original_test_function_count": 12,
+      "original_module_run_in_clean_clone": false,
+      "active_modules": [
+        "tests/test_experiments.py",
+        "tests/test_standard_v2.py"
+      ],
+      "coverage_and_limits": "PARTIAL: equivalent current hooks/budget/ref/resume protections tested; original72role registry/integration paths archived"
+    },
+    {
+      "original": "experiments/source_archive/group_cap/tests/test_etf_group_cap_report.py",
+      "original_test_function_count": 3,
+      "original_module_run_in_clean_clone": false,
+      "active_modules": [
+        "tests/test_standard_report.py",
+        "tests/test_experiments_report.py"
+      ],
+      "coverage_and_limits": "OpeningNAV/DD/annual/YTD and financial tables verified"
+    },
+    {
+      "original": "experiments/source_archive/calendar13612w/tests/test_etf_13612w.py",
+      "original_test_function_count": 17,
+      "original_module_run_in_clean_clone": false,
+      "active_modules": [
+        "tests/test_experiments.py"
+      ],
+      "coverage_and_limits": "Calendar13612W signals/raworacle/qualification/gates/prefix/savedcases covered; originallocalrunner exactcode archive"
+    },
+    {
+      "original": "experiments/source_archive/calendar13612w/tests/test_etf_13612w_report.py",
+      "original_test_function_count": 5,
+      "original_module_run_in_clean_clone": false,
+      "active_modules": [
+        "tests/test_experiments_report.py"
+      ],
+      "coverage_and_limits": "Portable table identities/pairs/2026 denominator/statistics plus complete readonly report acceptance"
+    },
+    {
+      "original": "experiments/source_archive/top2_variants/tests/test_etf_momentum_variants.py",
+      "original_test_function_count": 16,
+      "original_module_run_in_clean_clone": false,
+      "active_modules": [
+        "tests/test_experiments.py"
+      ],
+      "coverage_and_limits": "Six score/gate definitions, independentraworacle/prefix, budget/resume covered"
+    },
+    {
+      "original": "experiments/source_archive/top2_variants/tests/test_etf_momentum_variants_report.py",
+      "original_test_function_count": 6,
+      "original_module_run_in_clean_clone": false,
+      "active_modules": [
+        "tests/test_experiments_report.py"
+      ],
+      "coverage_and_limits": "Fixedsixfamily/1003dates/pointwiseCI/Pareto/table equality validated; full14tables checked in actualCLI"
+    }
+  ],
+  "active_modules": [
+    {
+      "path": "tests/test_default_policy.py",
+      "test_functions": [
+        "test_configuration_and_python_entry_select_the_authorized_top_two_policy",
+        "test_cli_default_is_top_two_but_explicit_top_one_remains_reproducible",
+        "test_generated_report_focuses_top_two_and_preserves_all_adverse_references"
+      ],
+      "sha256": "b64b9180bf3488e3de27d4630f8fca0795c68adb02dab60d2036c3ba95e9f540"
+    },
+    {
+      "path": "tests/test_experiments.py",
+      "test_functions": [
+        "test_public_adapter_boundaries_reject_invalid_runtime_types_before_use",
+        "test_exact54_fixed_identities_bind_real_trial_files_and_distinct_native_namespaces",
+        "test_calendar_weighted_and_equal_scores_use_true_endpoints",
+        "test_skip21_regression_and_volatility_floor_keep_their_original_economic_meaning",
+        "test_group_quota_and_failed_gate_preserve_slots_without_replacement",
+        "test_independent_raw_oracle_and_prefix_rebuild_agree_for_all_mechanisms",
+        "test_scope_hooks_restore_on_failure_and_never_turn_shell_c11_into_standard_identity",
+        "test_new_release_journal_shares72_starts_between_default_and_experiments_and_keeps_failures",
+        "test_reference_hash_drift_is_rejected_before_use",
+        "test_an_old_budget_journal_is_rejected_without_relabelling_its_attempts",
+        "test_rank_only_variants_keep_unscaled_shy_gate_and_equal_gate_is_strict",
+        "test_partial_native_evidence_is_preserved_without_an_account_retry",
+        "test_default_cli_only_verifies_references_without_starting_native",
+        "test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native",
+        "test_default_account_budget_scope_uses_same_new_journal_and_restores_it",
+        "test_completed_account_execution_resume_never_invokes_native_again"
+      ],
+      "sha256": "8a77e172298c3b17f7160dbbbf9f72957054e51f242add91c1bb5ba0cd73583d"
+    },
+    {
+      "path": "tests/test_experiments_report.py",
+      "test_functions": [
+        "test_ytd_uses_explicit_case_capital_and_never_extrapolates_cagr",
+        "test_historical_bootstrap_includes_first_day_and_rejects_future_dates",
+        "test_csv_verification_requires_case_identity_exact_columns_and_numeric_results",
+        "test_bootstrap_family_retains_all_six_including_identical_paths"
+      ],
+      "sha256": "2143bf7fa4cb6175fa9874cbc47360fdf95b213219127dd5219d8b4d3d9439ad"
+    },
+    {
+      "path": "tests/test_report.py",
+      "test_functions": [
+        "test_annual_return_uses_prior_close_and_initial_capital",
+        "test_annual_returns_compound_to_continuous_account_total",
+        "test_annual_drawdown_includes_loss_from_opening_capital",
+        "test_monthly_returns_use_previous_month_close_and_compound",
+        "test_drawdown_peak_trough_recovery_includes_initial_loss",
+        "test_invalid_nav_order_and_future_holdout_are_rejected",
+        "test_all_published_accounts_match_archived_metrics_and_common_period",
+        "test_changed_reference_return_fails_independent_verification",
+        "test_relabelled_account_or_changed_window_cannot_publish_valid_books"
+      ],
+      "sha256": "85d3cadeb4880c0953633a06307e7cdd5f894de0da16da34c1b58b9504dfd234"
+    },
+    {
+      "path": "tests/test_reproduction.py",
+      "test_functions": [
+        "test_frozen_market_has_exact_calendar_and_universe",
+        "test_tampered_market_file_is_rejected_before_use",
+        "test_physical_future_prices_are_rejected_instead_of_clipped",
+        "test_stored_total_return_must_reconcile_with_cash_and_splits",
+        "test_future_features_cannot_change_prior_c10_decision",
+        "test_ineligible_high_score_asset_cannot_receive_risk_capital",
+        "test_reference_ledger_and_metrics_reconcile_without_native",
+        "test_comparison_rejects_extra_rows_and_economic_drift",
+        "test_liquidated_benchmark_keeps_earned_unpaid_dividend_in_nav",
+        "test_failed_native_attempts_still_consume_the_fixed_budget",
+        "test_invalid_journal_status_cannot_silently_evade_budget",
+        "test_nonfinite_target_weight_cannot_pass_reference_validation"
+      ],
+      "sha256": "e8eebd5961b70643c11251731740f8ee4dc14baa4bf19ffa428662ea4f6027fe"
+    },
+    {
+      "path": "tests/test_standard_report.py",
+      "test_functions": [
+        "test_first_day_loss_and_year_opening_are_not_dropped",
+        "test_continuous_ytd_uses_own_prior_nav_and_reset_uses_new_cash",
+        "test_months_and_years_compound_to_the_same_continuous_account",
+        "test_blank_or_duplicate_nav_fails_before_a_report_can_claim_success",
+        "test_saved_standard_keeps_negative_top_one_reference_and_separate_2026_denominators"
+      ],
+      "sha256": "dee8e69a691799411df7656e186cfff5257cd3b3066650782ed7d8bfde67ab7f"
+    },
+    {
+      "path": "tests/test_standard_v2.py",
+      "test_functions": [
+        "test_fixed_matrix_preserves_all_accounts_and_top_two_is_default",
+        "test_group_slots_and_cash_gate_preserve_the_fixed_risk_budget",
+        "test_actual_pool_feeds_and_benchmark_feeds_are_separate",
+        "test_shared_journal_counts_failed_attempts_and_rejects_the_ninety_seventh",
+        "test_failed_native_without_completed_artifact_cannot_be_silently_overwritten",
+        "test_v2_market_rejects_future_physical_data_and_changed_total_return",
+        "test_legacy_journal_cannot_be_adopted_as_the_new_v2_budget",
+        "test_completed_saved_artifact_is_revalidated_without_another_native_attempt",
+        "test_native_failure_is_registered_before_entry_and_preserves_its_evidence",
+        "test_public_data_and_all_reference_hashes_load_without_private_repository_access",
+        "test_future_signal_rows_and_ineligible_high_momentum_cannot_change_valid_prior_choice",
+        "test_ported_audit_checks_real_saved_accounts_and_rejects_a_wrong_native_day_return",
+        "test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector",
+        "test_v2_configuration_cannot_describe_rules_different_from_the_executed_standard",
+        "test_budget_refusal_is_not_recorded_as_an_attempt_that_never_entered_native",
+        "test_saved_wrong_native_scalar_is_rejected_before_verification_without_native"
+      ],
+      "sha256": "45f16e0506ff02565699f07de00a9d85645a137c3c88d22d943ec47595ee74b8"
+    }
+  ],
+  "runtime_acceptance": "Actual pytest collected-case count, native comparison receipts and complete nonnative report reproduction are separately recorded after execution",
+  "raw_provider_inputs": "Not republished; canonical prices/actions and specific resolution evidence sufficient to reproduce account behavior, not supplier QA fetch process"
+}

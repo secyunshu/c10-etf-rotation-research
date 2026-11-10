@@ -1,0 +1,73 @@
+{
+  "status": "PASS_FOR_INITIAL_NATIVE_SOURCE_FREEZE",
+  "reviewed_utc": "2026-11-10T07:29:14.941251+00:00",
+  "study_id": "ETF13612W_CALENDAR_MONTHENDS_GROUPED_20261110",
+  "supersedes_pending_review": "IMPLEMENTATION_REVIEW.json",
+  "prior_review_sha256": "dfbee7cfb007d1bada29b88346dbb4a3615ebb8a4e10eb97be988e19c8f2504f",
+  "source_hashes": {
+    "scripts/etf_13612w.py": "09f67777a6e2ab03b8872318e4803778bd322310b3f31ea3bc01354d45d18202",
+    "tests/test_etf_13612w.py": "1b0f1e059ad0e102fda99cffa82c1d20f1c2183fc3406779bf9c27826248957a",
+    "scripts/etf_13612w_report.py": "f254854ca57e7064499558ddc1ff641f24b0f8783d0c33c69dd5a38ffe157fa3",
+    "tests/test_etf_13612w_report.py": "cde71876d5d95852cf38fc1dc5de4837d9acdc813763f1f9bfd2cb455fc111c6"
+  },
+  "protocol_sha256": "2cbe7188f6cfb0c4288c13e767173c44ef70c399851c0f4cf6f74be65bd53484",
+  "catalog_sha256": "45902e69f2d4552d21e1a396a22ece7d0e3af802afc98641aa903883415ae4e2",
+  "required_fixes_found": [],
+  "core_specification_quality_result": "Initialcoreimplementationreviewremainsvalid; allfourfinalsource/testhashesverified unchangedandASTparsedusingprojectPython.",
+  "report_review": {
+    "strict_registry": "Exactplanned18science+36publicV2roles,withscore/rule/K/cost/cohort/path/mode/sourcehash; bridgesexcludedfromreportroles.",
+    "full_audit_gate": "PASSexact20trialkeys/18science/2bridges/36reuse/54roles plusregistrybinding; hashchecks beforestatistics, beforewrite, afterplots.",
+    "periods": 126,
+    "summary_roles": 54,
+    "monthly_rows": 1260,
+    "paired_comparisons": 42,
+    "pairing": "Eachnewperiodhasuniqueoriginal252sameK/cost/cohort/period+exactstart/end/sessioncount.",
+    "annual_return": "Actualclosing/openingminus1, separatelyhistoricalCAGR; openingincludespriornativecloseorinitial50000.",
+    "drawdown": "Peakstartsperiodopeningcapital,firstsessionlossretained.",
+    "continuous_YTD": "Requiresown2025-12-31NAV; doesnotreset50000; bothresetandcontinuousreported.",
+    "costs": "Orders/fees/turnover slicedtoperiod; oldsourceMETRICS/YTDcrosschecks; whole-monthcompoundmatchesperiod.",
+    "CAGR2026": "nullall2026YTD; annualizedvol/Sharpeexplicitmetricsnotannualizedprofit.",
+    "coverage_checks": "Archivedhistperiodsetexact7; savedYTD/monthcoverageidentitiesvalidated; partiallastNovmonthretained.",
+    "plot_scope": "Fixed5bpnewK123+SPYQQQ hist/resetseparate; initialcapitalandDDopeningincluded, seen2026label; noresultselecteduniverseorparameters."
+  },
+  "pure_test_source_review": [
+    "Monthlyholiday/leap/initial12monthanchorandknownscorearithmetic.",
+    "Missing/NaN/Inf/nonpositiveendpointrejectandfutureobservationsirrelevant.",
+    "Groupgreedyquota,SHYstrictgate,fixedslotbudget,ties,qualificationandwarmup.",
+    "Original252bridgehooktarget/raworaclepreservation andfinallyrestore.",
+    "Hard28failedstartmeter/noautopartialrerun/completed0native revalidation.",
+    "ActualsavedartifactwrongscalarrejectedbeforeVERIFIED.",
+    "Reportpriorclosecontinuous/firstdayDD/resetcash/2026CAGRnull.",
+    "Reportregistryrelabel/duplicatefail,bridgesexcluded,matchedcomparisonidentity/cost/cohortperiodfail."
+  ],
+  "parent_execution_evidence": {
+    "combined_tests_typeguard_passed": 39,
+    "warnings": 150,
+    "mypy_strict_sources": 81,
+    "Pyright": "PASS2",
+    "Ruff": "PASS",
+    "source": "Parentactualexecutionreported, notindependenttestrerun."
+  },
+  "syntax_check_note": "SystemPython3.9couldnotparsePEP695reportgenerics; nofilewritten. RecheckedwithprojectPython3.14ASTsuccess; notaproductsyntaxbug.",
+  "native_acceptance_reminders": [
+    "Parentprepareonlyafterbothauthorsfinalstopwrites, freezeallfourfiles anddependencies; preparecodeglobincludesreportandtests.",
+    "Runexact2original252bridges then18science, count20plannednative/allfailureshard28distinctstudyjournal.",
+    "IndependentresultreviewstillrequiredafterFULL_AUDIT/report; thissourcegateisnotresultorframeworkefficacyPASS.",
+    "KeepV2standardandoldresearchsource/data/forwardchainimmutable.",
+    "Finalconclusionmustseparatefullscoringdefinitioneffect(multiwindow+calendarspan), notcausalonlyrecentweight; noadditionalcounterfactualarm."
+  ],
+  "interpretation_limits": [
+    "Calendar13612Wcomponentonly,notcompleteFAA/PAA/VAA.",
+    "Historical34remainsconditionaloriginal95/expostcategory/asynchronousAUMandexitcoveragebias.",
+    "2022–2025previouslyresearched;2026alreadyseen; allnewresultsareexploratory,notfreshOOS.",
+    "NoresultbasedKwinnerpromotionorweights/window/groups/frequencyannualpoolchanges."
+  ],
+  "reviewer_execution": {
+    "native": 0,
+    "API": 0,
+    "tests": 0,
+    "Git": 0,
+    "new_strategy_returns_read": false,
+    "source_or_old_data_modified": false
+  }
+}
