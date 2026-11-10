@@ -1,0 +1,97 @@
+{
+  "status": "PASS_LOCAL_PUBLICATION_VALIDATION",
+  "version": "2.1.0",
+  "date": "2026-11-11",
+  "default_rule": "C11",
+  "top_k": 2,
+  "authorization": "User explicitly selected V2top2 default and requested all added tests/research material onGitHub",
+  "changed_mechanism": "Default selection only; all per-contract signals/data/accountresults unchanged",
+  "tests": {
+    "active_pytest_collected_passed": 69,
+    "typeguard_packages": [
+      "c10standard",
+      "c10experiments"
+    ],
+    "warnings": 344,
+    "warnings_note": "pandas/exchange-calendar deprecations retained",
+    "original_archived_modules": 8,
+    "original_archived_test_functions": 76,
+    "original_archive_tests_rerun": false,
+    "coverage_map": "experiments/source_archive/TEST_COVERAGE.json"
+  },
+  "static": {
+    "mypy_strict_files": 35,
+    "pyright_errors": 0,
+    "ruff": "PASS",
+    "dependency_compatibility": "uvpipcheckPASS"
+  },
+  "native": {
+    "default_C11_accounts": 3,
+    "portable_experiment_accounts": 54,
+    "started": 57,
+    "native_completed": 57,
+    "finished": 57,
+    "failed": 0,
+    "hard_cap": 72,
+    "maximum_economic_difference": 0.0,
+    "old_budget_reused": false,
+    "default_cli_invocation": {
+      "entry": "c10standard.run.main() under c10experiments.run.release_budget()",
+      "arguments": [
+        "--root <current_checkout>",
+        "--output runs/default_top2_release",
+        "--journal <same_release_journal>",
+        "--cohort <historical2022_2025|reset2026|continuous2022_2026>"
+      ],
+      "rule_argument_present": false,
+      "observed_contracts": [
+        "C11_5bp_historical2022_2025",
+        "C11_5bp_reset2026",
+        "C11_5bp_continuous2022_2026"
+      ],
+      "evidence_scope": "Parent actual command invocation and retained raw stdout, additionally pure CLI regression tests; output contracts alone do not prove an omitted argument"
+    }
+  },
+  "nonnative_report": {
+    "unique_books": 90,
+    "archived_metric_values": 3150,
+    "table_count": 14,
+    "bootstrap_runs": 6,
+    "replications": 10000,
+    "new_native": 0
+  },
+  "old_version_preserved": {
+    "relative_source_lock_items": 461,
+    "preserved_changed_paths": 18,
+    "archive_map": "standard/evidence/V2_0_PATH_MAP.json",
+    "original_public_checkout_untouched": true
+  },
+  "source_publication": {
+    "original_script_modules": 9,
+    "original_test_modules": 8,
+    "byte_exact_source_files": 17,
+    "metadata_projections": 33,
+    "complete_active_runtime_packages": [
+      "c10standard",
+      "c10experiments"
+    ],
+    "private_runtime_dependencies": false
+  },
+  "market_API_calls": 0,
+  "trading_calls": 0,
+  "research_limits_retained": [
+    "conditional historical universe",
+    "seen2026",
+    "default chosen after seeingresults",
+    "no live efficacy approval"
+  ],
+  "tooling_note": "gstack ship skill path unavailable after prior installation disappeared; searched and performed required checks/review/git publication directly, no automated ship receipt claimed. Native managed-worktree call returned no result and was terminated; nativegitworktreefallbackused.",
+  "evidence": {
+    "standard/evidence/REPRODUCTION_LOCK_V2_1.json": "384d2dc78da0c95dcc02b9b534272a0c502f6ad3a7dd85a48ec8686286ab4cba",
+    "standard/evidence/NATIVE_COMPARISON_V2_1.json": "9f0df9213c02f6c4d8fbde95cafa811bde70f95a575eae0a260065bc75f3e64f",
+    "standard/evidence/NATIVE_ATTEMPTS_V2_1.jsonl": "2547f48e4f786fb55071e26d7de7a64ff6261a8cb2ce6ceebd36e4c5f5f54544",
+    "standard/evidence/EXPERIMENT_REPORT_VERIFICATION_V2_1.json": "0d9e4a7a43a5d42575742abc75b3dfc3279cdc5a351d36589ac3a2af41365707",
+    "experiments/source_archive/INDEX.json": "dcf76e2f1f4d0a89d5cea12d9936c148e1cc20dc56aa8f2703f89ca653e92fe7",
+    "experiments/source_archive/TEST_COVERAGE.json": "1902ff33a57a5728d903ad9d3b7ef0c0617f0ba0ae2e4a4f61b49a86c93a2086"
+  }
+}

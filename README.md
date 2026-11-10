@@ -61,7 +61,7 @@ python -m c10standard.run --output runs/default_top2 --journal runs/standard_att
 
 运行时不需要API账号或私有目录。三种cohort严格区分：2022–2025末开盘清仓、2026年初重置、从2022连续运行的2026年度切片。[复现指南](docs/REPRODUCE_V2.md)解释完整检查、失败留证及输出字段。
 
-旧版2.0发布验收与72次复现记录保留在[历史收据](standard/evidence/RELEASE_VERIFICATION.json)。本次2.1默认变更与完整测试公开使用独立验收记录，不把旧通过记录冒充新默认的验证。计算可复现不代表策略未来有效。
+本次[2.1发布验收](standard/evidence/RELEASE_VERIFICATION_V2_1.json)：69项活跃测试通过，3个默认C11账户＋54个实验账户共57次原生复现全部完成、零失败，与参考经济数值差为0；90个账本的14张报表和六次统计检验亦独立重算一致。旧版2.0的72次复现记录保留在[历史收据](standard/evidence/RELEASE_VERIFICATION.json)，不冒充本次验证。计算可复现不代表策略未来有效。
 
 ## 证据边界
 
