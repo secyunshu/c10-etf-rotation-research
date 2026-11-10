@@ -1,0 +1,398 @@
+[
+  {
+    "trial": {
+      "key": "W13612_K1_5bp_historical2022_2025",
+      "k": 1,
+      "cost_bps": 5,
+      "cohort": "historical2022_2025",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K1_5bp_historical2022_2025",
+    "hashes": {
+      "METRICS.json": "ed0de87e1304712c9b4788b69b0290e86295d892fd9c3021b00d516489c27852",
+      "NATIVE_TOTAL_RETURN.json": "9589e4ada3664736f8f524c96cffcd5dec89b43d2301e69508bbbe86d8a72509",
+      "dividends.csv.gz": "eec659948348e0cb953f45a6060a0bfb75637cde4b82b3e88a2a9fec57e4b34f",
+      "TARGETS.json": "7a49bc69592dc6b67b7ec14866d52024863a3a77b368ce4fc30adc088e4b1f3e",
+      "TRIAL.json": "15e7ce82050b4800b197f1b7af3b70cf2dba4edddb944f5d7d21703c10f4b48c",
+      "holdings.csv.gz": "a5e91413403a0aa9df6a0349f2df5003c3112e193d2fbf07567ab3f5b39f0e6d",
+      "daily.csv.gz": "e6d59aae8408b4ef3a4deca45173047c3a5894718af1c939df43dfce6ab22205",
+      "orders.csv.gz": "bb88fbc990ad32a448f43a1ee7f7291e2516d9a3843c6704f50678f680c3e4ef",
+      "trades.csv.gz": "7a51ec5a1e35a22b78ca342fc3770faab9d1f8dd705514a00ed81bfef3e6b1b7"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K2_5bp_historical2022_2025",
+      "k": 2,
+      "cost_bps": 5,
+      "cohort": "historical2022_2025",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K2_5bp_historical2022_2025",
+    "hashes": {
+      "METRICS.json": "528bc0391b3eb1dcce313432a80e359e41cda59d53dafeaeac6024184573a93f",
+      "NATIVE_TOTAL_RETURN.json": "4991dd90eda03ae5961d4530c0a8759cb1e97bbfd9fbf8d09c668f199fe4e880",
+      "dividends.csv.gz": "468a78b427c03937a81dd898ccd95af109588d2b458c2129853bf6fc5f79b35b",
+      "TARGETS.json": "e1cc3d70d47f37301d4c171f4b536059fac374f02bb0ef3529d8550dd8b33cfb",
+      "TRIAL.json": "fd4a71d0dbe898c351f1655ad1b5be51ec496d4ee32d159f01a807723c01cca0",
+      "holdings.csv.gz": "30c2eb069d013fabb72447bd73c620ff00c12f5c8414a2366aeed041ee19c04b",
+      "daily.csv.gz": "d5e513a7b23b5b4ecaa5e9dd98acd6d9ac8b43e0e494975b92743f8fd31e7260",
+      "orders.csv.gz": "c3de560569fd88ad3a8379217fb80288b8a68aafbb60764b142c99b3bd347f2d",
+      "trades.csv.gz": "85595fbc514fb4b20d30eb9284ab529eb20c4dbebca3ecffbc501805356449ca"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K3_5bp_historical2022_2025",
+      "k": 3,
+      "cost_bps": 5,
+      "cohort": "historical2022_2025",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K3_5bp_historical2022_2025",
+    "hashes": {
+      "METRICS.json": "db6448e8e88b5a74009ad3b1531c962883ca71d2212e00166d59ba36c2ec7a30",
+      "NATIVE_TOTAL_RETURN.json": "d31ae1fcc20411b1a5dd14249faf17e6c0ed48e69bcce7a3dfa926c1e6409033",
+      "dividends.csv.gz": "7e0027b1670297936d98cbc60df1d3041f7f4f94f987f725cf42301a516badc2",
+      "TARGETS.json": "a6fe55c39759ab99cc105ef95d8d4b12848dae8ad4393472b32b7d060a0ac97d",
+      "TRIAL.json": "10170b7fc5be724886e4539a16e96c54a8ce7fdea9a0bda18a047b89152dbebd",
+      "holdings.csv.gz": "0b2872e325e4479de68ab56b3b331dd4b301770a907703e172e718121e624e70",
+      "daily.csv.gz": "1c948d86a7cdbbd965a08bceffd27e9215d56d23bd7a2a2abe8a78a26e1b8340",
+      "orders.csv.gz": "731b0208388ad1967e26670a46411f5af625d563c58dcc108751c5eff083f762",
+      "trades.csv.gz": "a4d42932c31f2d315848944adb20325591525033d7db4c896ffa9342df3d2e6a"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K1_20bp_historical2022_2025",
+      "k": 1,
+      "cost_bps": 20,
+      "cohort": "historical2022_2025",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K1_20bp_historical2022_2025",
+    "hashes": {
+      "METRICS.json": "a27b55281553c82dca94c6cc631317aa39335ca0a355e3fea5b23120b08dafdf",
+      "NATIVE_TOTAL_RETURN.json": "1108d08a049e64847a5773ab88b2874de7fa1454ba0ffc718763b9f745b7edc7",
+      "dividends.csv.gz": "aa45b76ec0d3897a08cf76894e08fd8fa516605ae4d1e1024a43ceb71243e1f4",
+      "TARGETS.json": "7a49bc69592dc6b67b7ec14866d52024863a3a77b368ce4fc30adc088e4b1f3e",
+      "TRIAL.json": "5de3d738555e7c29e838e4451d656cd68483a4c3c00deab85d344d0ab4607ba5",
+      "holdings.csv.gz": "26007781de61ea94826edd59de79344e392927612cd8a9805f655a3f2d7d6f29",
+      "daily.csv.gz": "e703cada21ac076fa72dddb027b609ec906265a65f3a83c962ae07187f66208d",
+      "orders.csv.gz": "afd3a341326f22beff80f2e7ba11f19d59679bcd408af3ded7f90cb36a98d95f",
+      "trades.csv.gz": "de29ea8e5570cf3373f3db16f4909534cf415925826e58d9abf7d301a39a19bc"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K2_20bp_historical2022_2025",
+      "k": 2,
+      "cost_bps": 20,
+      "cohort": "historical2022_2025",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K2_20bp_historical2022_2025",
+    "hashes": {
+      "METRICS.json": "aea30cc34fc9c6ec9da47501653d1cc736c21d0dace97cc4f625967e09dcd537",
+      "NATIVE_TOTAL_RETURN.json": "397d449a10064b162246cac4963030eb96a4d1ce0dc1becad7ecb785eaa4bc85",
+      "dividends.csv.gz": "2df5bc6ddd4e12632b273cb796b62ae392794194abf0b1700fb8e76bb547f379",
+      "TARGETS.json": "e1cc3d70d47f37301d4c171f4b536059fac374f02bb0ef3529d8550dd8b33cfb",
+      "TRIAL.json": "fca9f8f194d7503a3878e51f6759b63609619255365b01539d38a34b4f127ddc",
+      "holdings.csv.gz": "4bfa477b58dc947ad03a0844f567d0bd8916e84ce6a9e5686bba00ddd5173769",
+      "daily.csv.gz": "5399d8839626387bdd7226453fc01adb9f2ef4cdd7d9318d84e41aaf568ff6e7",
+      "orders.csv.gz": "4376668217930a04f83db8dd11318e091b990bccdf6c6d8e72c052340623b5aa",
+      "trades.csv.gz": "84562467f3d29ce12c21ead94a7d5e8a11e72d0d001f786734a59ad068742a7c"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K3_20bp_historical2022_2025",
+      "k": 3,
+      "cost_bps": 20,
+      "cohort": "historical2022_2025",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K3_20bp_historical2022_2025",
+    "hashes": {
+      "METRICS.json": "8d8fe1a199202b210459e4c662d20fac66d692176f8b7e39b4fbe03d98eb7856",
+      "NATIVE_TOTAL_RETURN.json": "2cf1363a7271f02013a20c68dc6950054b57caa5f09e90974eb57e9369184146",
+      "dividends.csv.gz": "340e5219f4f5969fe67a221c186654a7805cce9178bbbf00e584e9594dbbb447",
+      "TARGETS.json": "a6fe55c39759ab99cc105ef95d8d4b12848dae8ad4393472b32b7d060a0ac97d",
+      "TRIAL.json": "859c9e0db18771b7b8cce793065f538fcaebe93d9f3d63442a06f4db36f081ae",
+      "holdings.csv.gz": "fc4af8f364f66d974813ce83fc27a57b8f9bef129bab843b69086aa71e3a5d58",
+      "daily.csv.gz": "76b95bc0cd2ddfc050d9a4145f647eb86fdf5f88c6813d1b4ec7b2232662a023",
+      "orders.csv.gz": "8f7016c9066160a551ddd309a5e0e605521ef76ef3bd0eeebc3b47080a14ae34",
+      "trades.csv.gz": "f2cdcd3c75021c1fc26ff313f28fb93ab8a989469d2c80c64929fd9738a585f7"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K1_5bp_reset2026",
+      "k": 1,
+      "cost_bps": 5,
+      "cohort": "reset2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K1_5bp_reset2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "6caba2047e33521beec2dcdc24ef4f05c960d55f6af881949f5a82ffbe85874a",
+      "YTD.json": "d51e39d0fddebe270ff42fac570840df1106d98a4800012a54719990609941f3",
+      "dividends.csv.gz": "a02412e4df7ff3e9ed31b8ab0ee0aac049a1b016514056d0ec33d8ddd9ebc852",
+      "TARGETS.json": "9907951bf030c22f464bbed2213915b52c5403d34dac1457764b893c08a8df15",
+      "TRIAL.json": "7ff79ce1c069a9c5ac66c7e4ccf68c15b7ab77a94dd59034ed5fe8736f3e4795",
+      "holdings.csv.gz": "685f9324ef1ad11ce89fd5e3bc3ba12dc751e898ea832c1cc6c24ff86a02f6d5",
+      "daily.csv.gz": "0f1bbfa98db2268a81096c0f5e1779d3c272cd734faeb2a36e9eb9440ab6e309",
+      "orders.csv.gz": "6c90e13a266dd3225704d9dfa6225322fac79a6e2d775c23e5feecc30987cb3f",
+      "trades.csv.gz": "f7ee75cf4b3446dba115bfd2416ab6ff30bf99d594b7e1078e84a5cf1d5d0c32"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K2_5bp_reset2026",
+      "k": 2,
+      "cost_bps": 5,
+      "cohort": "reset2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K2_5bp_reset2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "e6c8e203c1f5ad6d338739fd025a49640d5a32f55d750f15ed0fa6b707fe15ce",
+      "YTD.json": "cfb2e1f0aeab4ff395f80250aad49842fa4d966f61e0530a64d32d76a03bf090",
+      "dividends.csv.gz": "a6ec3f4d01e20ca26742e4a1e404fecc2924f539e3dd5ca17cae8027acc31ecb",
+      "TARGETS.json": "9c5c461122a787b89c2927cf52608a042abca81eefa83945531f1622b993cc65",
+      "TRIAL.json": "3138c30da38b8eb10f1e2063368604428966e60be192e496742be3854bcdbae4",
+      "holdings.csv.gz": "a06a890f83611a04c7e09477677ab1a84cc5bff7516c9ff9bb87d5440febf3a3",
+      "daily.csv.gz": "16f572651e44a11a04f8b34b63fa3dc89d27ae162ab85791eb391e29c8af4606",
+      "orders.csv.gz": "9a5cd76a21bab9f849189fca2578e092891737cc7b098bf96090f8b685733f20",
+      "trades.csv.gz": "efe4ec36ef5a3c0f63c933175e892829277b614d7fd113aaabc82af4e672bc63"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K3_5bp_reset2026",
+      "k": 3,
+      "cost_bps": 5,
+      "cohort": "reset2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K3_5bp_reset2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "6a234b4b7b1c4d2114206e1b655341bdd7b945f0a28b087ee717c09dabe1d4f7",
+      "YTD.json": "cf49080aefa428a77171bd0246dae54a7e5ee8908ad9d77978341e4c725b6a80",
+      "dividends.csv.gz": "eef73307523f6b1aded3a37d51a9dce09b7dabd83dee3dd726d341b649052014",
+      "TARGETS.json": "d9178de129220aa12d69d16840ac11c210ffb9b742aa14d09eb32a359853383c",
+      "TRIAL.json": "ae60fbb51b2187d08050e531bec0f616b125a54adb78fd9078b1903fd1226dc3",
+      "holdings.csv.gz": "00e4e329df1dbdb743b28d4d56e15734b02d25117707103efd0b0a1d5542f364",
+      "daily.csv.gz": "0ccd4d35e2cc822aa5907de772a9b55d3fadbdfef5ab9bfedcb51b2b8a5f7b96",
+      "orders.csv.gz": "bb2020c20dbb961a1eb4c220354edf13c3ba9d19f9cd2a88d409a65147d72d50",
+      "trades.csv.gz": "09767868e7d0953a7a75a4e2e9ce3d6cdaf6e42bc7341e42c06913fa2ff642e0"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K1_20bp_reset2026",
+      "k": 1,
+      "cost_bps": 20,
+      "cohort": "reset2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K1_20bp_reset2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "9230ab2d37235029febbd360d11f01e4da51a1d4bc874c28a058bfdc064918ee",
+      "YTD.json": "36a93783bb3ba1f2aeac2cf36cccd9820db169d091eb1dcc6ffedcff8c85be41",
+      "dividends.csv.gz": "e2d32c8a554351d84d88b25b549176ac2601a7a18a1d037627e99a17688a94cc",
+      "TARGETS.json": "9907951bf030c22f464bbed2213915b52c5403d34dac1457764b893c08a8df15",
+      "TRIAL.json": "40405c064c2fcabcde4ab6c764e98bd4d4ba6845131ad5d6d88b4db5c14807d7",
+      "holdings.csv.gz": "1aac69b914ef01f7b6e1d1f1a4ffcc7ee4f1f05fee0ff30f1ef78f08e327877d",
+      "daily.csv.gz": "80dd63b4cee782a262a9349c2e96bc56f968b4508c0c6ef98dfdee2e8c31aa02",
+      "orders.csv.gz": "aabfecf8d2949c6898d5b5bd02c164eb1015e70237e105c78d4a6f8457a566a6",
+      "trades.csv.gz": "649c7c804842b661461403a20f50b7e1cadaa4eda7988d446d35f978148c3ce1"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K2_20bp_reset2026",
+      "k": 2,
+      "cost_bps": 20,
+      "cohort": "reset2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K2_20bp_reset2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "e59c03b0157ed8031885efbf5f2b9b59798d7d4313f6af30cd2b053f3a7d4edc",
+      "YTD.json": "484b1627e29310ec97e7733f5b41ffbbc9e71f177d1fb080f8be03a4c816172a",
+      "dividends.csv.gz": "130921c1e185d9940169ec4cc592312bc173f4270f98e32dfea31d519b82be31",
+      "TARGETS.json": "9c5c461122a787b89c2927cf52608a042abca81eefa83945531f1622b993cc65",
+      "TRIAL.json": "f80cb92d4ad6e9f90b3a71a188396e40d1e64307983cabbcecec7e5d4df0fdcd",
+      "holdings.csv.gz": "5dad05caec7ca1fed7e08c5fa46ab15fda01d26d21751cb4e6a8f3616e281599",
+      "daily.csv.gz": "a7b9b565999b7b82bfd945b50c05b2894f2702055486122c73c1b2967263ff7a",
+      "orders.csv.gz": "14b8b04e195fb1cfeb7f3caa48924b4c8394485eaa861027c77fcc1cb57742bf",
+      "trades.csv.gz": "7e7deb7f0811bb7e72b14c984b2b0d1b98ee95a241965a303add75642ea8fa5b"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K3_20bp_reset2026",
+      "k": 3,
+      "cost_bps": 20,
+      "cohort": "reset2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K3_20bp_reset2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "c853df6dea0f09529063fc10e1171117d8346032c891edbdc89acb764a522f1d",
+      "YTD.json": "8b6e999e870d5ceed00fb5ba8a33b8b3d54bcf7bc9fd59b124c4b0035e3e6ed8",
+      "dividends.csv.gz": "06b910b28a91bc6f7bca1ca83218e9d3146c83e61a2ef8fc7b37c38a30addbb7",
+      "TARGETS.json": "d9178de129220aa12d69d16840ac11c210ffb9b742aa14d09eb32a359853383c",
+      "TRIAL.json": "46bc76be5e4b0cc2ab31be7cb6c00f2ee3fa244408100f3d4a1e2f7a7b6bb6e8",
+      "holdings.csv.gz": "bcaad5eb689c8c5b0b4060ff3a8503497b8da61eefa2433ad806fd889e9c2b9d",
+      "daily.csv.gz": "c0ed211eb430ac115db34a63938afa6135ed02c2cf9f01583b73e758b0647627",
+      "orders.csv.gz": "8048212d79dbdd3784d66fb8d23ed1e3b80a2fade22605c3747c0026d546dbcc",
+      "trades.csv.gz": "f4bf7f32d1e75542e159ff5172995e50e03adf122f58f359c507bf56a51e6c99"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K1_5bp_continuous2022_2026",
+      "k": 1,
+      "cost_bps": 5,
+      "cohort": "continuous2022_2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K1_5bp_continuous2022_2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "41fc2e74b6b8274c6591ff23068775a23f326810d8db3d9fe921f3738c0f1a95",
+      "YTD.json": "ce8b4b6910cfaaef48b4d93162166b1d5ba1f93bc2d7652720923931230c2b24",
+      "dividends.csv.gz": "93dcefcff20f94cd4a72a37b35e77c2cc1a9bce6e2c7f7777a401aa4089afd15",
+      "TARGETS.json": "21c6a7c28bb186b08d508838505d1180ac961ec4a58fef243572d80cf203bf89",
+      "TRIAL.json": "4bad7b70fbf4a037b556dc5086030759668069fe6c5dfa1b5727c08b399ef8b8",
+      "holdings.csv.gz": "54898daebd129bbae7b073e282175cb13a8e76249197e3f975da823720c75981",
+      "daily.csv.gz": "7415f0c49be21e9817cafb839617af0ca4ad3e87873f7c33cfe9c8ed2496ae4d",
+      "orders.csv.gz": "ee1910063af28112c511e7f250a8e027ec4e2c206c90c8c27d0b2bb1bf5fb5ec",
+      "trades.csv.gz": "5a85fc1d4b7db936c5802641aa7b959278ac0d12ace9c46bce2af39d0c5aa0d9"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K2_5bp_continuous2022_2026",
+      "k": 2,
+      "cost_bps": 5,
+      "cohort": "continuous2022_2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K2_5bp_continuous2022_2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "3e9fdea0d71b0c78f8c4ba2be7f28df70910a5efe63214fa248a301edf38236d",
+      "YTD.json": "cffae1a264d8feedd2dfc77686634960f909789abfc2658cce0149c7f2e0816a",
+      "dividends.csv.gz": "e4ba14c260c8c8e6ea277362978af6e501fbfa3a6c35fd778b86372fa18abf9f",
+      "TARGETS.json": "2ee99ff5931110b64dc401d20f697ced7a66586fa17351ebb9b2bc31a8499838",
+      "TRIAL.json": "c40943e17c5d74a42440c31405a41de1232fc93994e847c47c78d776c3a0c060",
+      "holdings.csv.gz": "62cc2892eec1cb4782cbf1f671496a8652bfc9e9bcba033c6953ca0db4e6c6bd",
+      "daily.csv.gz": "c0ad0db9ebe1a976c17641daf58bd1869935d8f6512d5ce6ad9eda8cf64dd1b0",
+      "orders.csv.gz": "6243135ae9b649c7580f6d84f32fd1d4dfbf44042e593b01fdb0b0446e325dd4",
+      "trades.csv.gz": "15f227fd54f0dadc3f321e35e9b10b3a3b71dc4d8a588db6839a06d20545e219"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K3_5bp_continuous2022_2026",
+      "k": 3,
+      "cost_bps": 5,
+      "cohort": "continuous2022_2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K3_5bp_continuous2022_2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "438676ea0ae0ccfa3d962fff2401c955b5b14e821fa8ce73275f9671fe16c222",
+      "YTD.json": "128de8026c66c84bb20b3e624158776c4706af9c0f3c0049bc5601ff21538ac4",
+      "dividends.csv.gz": "59776fd8d242611613cbce5a5c2f484370a4e623392e62db1ce8a6ae2eda5087",
+      "TARGETS.json": "bfa7f5a4bce18497da1b41c45d28de4a0176af3a3d4ada4fca6077a03ce0f69c",
+      "TRIAL.json": "9c9d9fe59d7d6f24ae77c6e8bf30fd53ddd32d5f1df7dfefe98d8256f9ff22a0",
+      "holdings.csv.gz": "4bb869c82b5fb500531e77bff8f9e56aa09e7a045918ae5f3159d2c2937570f4",
+      "daily.csv.gz": "e914c234f56851954208b73128a25181455a8da16eba95f1566f5595a4f66679",
+      "orders.csv.gz": "0ae05a9e326593bba76fb3b2abe68c40c69ade95b295493e593cf07910f27c1d",
+      "trades.csv.gz": "d8edb1b8e7f2dad6d48c84d18cf36c5a9c6ca9cce6a09f1ee9ae311ef4c3e8c4"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K1_20bp_continuous2022_2026",
+      "k": 1,
+      "cost_bps": 20,
+      "cohort": "continuous2022_2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K1_20bp_continuous2022_2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "d5f7d435b0f40bbba5dcad0407967a8debfa71640dd2111214d255cc725e11e7",
+      "YTD.json": "bd2b48c534eee106e730d77a8a202aa04f4108ab934ed81e15a8b491476d74a4",
+      "dividends.csv.gz": "acf44a2f8425a17c65afe1a71bab45f4ba663df160df2174a108a291dfd4a4ec",
+      "TARGETS.json": "21c6a7c28bb186b08d508838505d1180ac961ec4a58fef243572d80cf203bf89",
+      "TRIAL.json": "47c9010b3654a48b4a1df9a9d2bb9a2aa2913031908d7489ff265a3d6a280aff",
+      "holdings.csv.gz": "498c8120bec2304175bfd7194a9fc874d322597741cf74cf484b00d451aeed02",
+      "daily.csv.gz": "3a97f039be5b32b7631e972f89aae397eddb0f3686db1715f8e4f955bd3d893e",
+      "orders.csv.gz": "81fb94bb88085977176e4f91ab770847d74ea30b1fda7c186538667d0a11de9d",
+      "trades.csv.gz": "e530fe754b3eb4b0a6a83b2ca96bba53f938833930abe1a636fee78012b0962d"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K2_20bp_continuous2022_2026",
+      "k": 2,
+      "cost_bps": 20,
+      "cohort": "continuous2022_2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K2_20bp_continuous2022_2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "0980d4c58498a27cac644c5baecd9090e83e37f4962da63bf49c0ebccaf24510",
+      "YTD.json": "ac3053484b9bfa155589420109b8136955bfa34524ac28418200fedfea5a62ee",
+      "dividends.csv.gz": "2e44f60a3d7e7d4dc88cddeaf4dad56a041be633f20882ddec1cc7b9887c62c8",
+      "TARGETS.json": "2ee99ff5931110b64dc401d20f697ced7a66586fa17351ebb9b2bc31a8499838",
+      "TRIAL.json": "2df4aecac96fb7ac10d8efef107f0c5d761a61ffd831857f5776c2a309d9c819",
+      "holdings.csv.gz": "9c66f9d37fb0c8306f26e32dffdf3cdf2775cb63c5882c0a6a7775c36d8b9459",
+      "daily.csv.gz": "ec4c5025dc9dd5d9be3712b5decd24475a6c9a9d2e942bbbb5044c88e0ff7cda",
+      "orders.csv.gz": "3acb20ec6b0fd737cc184bd02ce1b0d517f511b302a06aeb620c2b28c9284848",
+      "trades.csv.gz": "08705505c9ca1220634d5c005102b1dfa1c9276dfa433103ad689a3a51cc0377"
+    }
+  },
+  {
+    "trial": {
+      "key": "W13612_K3_20bp_continuous2022_2026",
+      "k": 3,
+      "cost_bps": 20,
+      "cohort": "continuous2022_2026",
+      "kind": "science",
+      "score": "calendar_13612w"
+    },
+    "path": "experiments/calendar13612w/reference/W13612_K3_20bp_continuous2022_2026",
+    "hashes": {
+      "NATIVE_TOTAL_RETURN.json": "ec74db1ec559efe9c7670f2394a11736688712d9d05113710f3e60c74c51eb31",
+      "YTD.json": "0b9aad587f266f6eb7140f92ab5a29a22f9cc04ddec3029cfad84c3e2d5d9dd8",
+      "dividends.csv.gz": "d08af68f3858e2367f16cb99bf0c9035bc2e59a81cfde03d30563c9199a78b6f",
+      "TARGETS.json": "bfa7f5a4bce18497da1b41c45d28de4a0176af3a3d4ada4fca6077a03ce0f69c",
+      "TRIAL.json": "9977f6001637590e35e0765f8f10ec3b9a9101cf641cad1a252579a3e1a138cc",
+      "holdings.csv.gz": "dfe6d744ae8f7723cad8acd96d51b55068ad89c959190768917501e571841035",
+      "daily.csv.gz": "b765780556a4c2c03872a87fd74236393f92c0e619e3339a8d1cee2294c87283",
+      "orders.csv.gz": "f678392e246e785324403a474e9be9ca72f026ae87a7746569b2f98781b19130",
+      "trades.csv.gz": "d4c7ceb3825a743f07b35b42a4fb0b31e08df5dcb7571d89d1c743ea3c7b989e"
+    }
+  }
+]
