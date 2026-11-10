@@ -1,0 +1,8 @@
+{
+  "key": "E01_K2_5bp_historical2022_2025",
+  "variant": "E01",
+  "cost_bps": 5,
+  "cohort": "historical2022_2025",
+  "kind": "science",
+  "k": 2
+}
