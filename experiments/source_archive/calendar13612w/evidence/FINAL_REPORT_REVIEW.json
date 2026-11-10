@@ -1,0 +1,38 @@
+{
+  "status": "PASS_WITH_RESEARCH_LIMITATIONS",
+  "reviewed_utc": "2026-11-10T12:49:17.617415+00:00",
+  "final_report_sha256": "9dd09baea8e979ad8161551c33f78637e0c97eb0e7b6d40a5e45fd9df8726511",
+  "main_independent_review_sha256": "c767ce2b914dd964197916c26345a42019d2abe30a93458bac78be1aa8670503",
+  "supplement_review_sha256": "050fdb5f1b705fc6e28b7f0dee4936d80795dd22b3657217f53abd215aed9857",
+  "report_tables_checked": 6,
+  "formatted_numeric_cells_checked": 118,
+  "necessary_mechanism_details_checked": [
+    "newK3April2026return12.51percent",
+    "newK3SLVprofitroundsplus211USD",
+    "newK3YTDprofitrounds11863USD",
+    "K3Jan30newoldidenticalminus11.7881percent andMar31targetswitchverifiedinsupplement"
+  ],
+  "logic_review": {
+    "all_hist_K_returns_lower_DD_higher_than_original252": true,
+    "partial_annual_K2_K3_improvements_not_hidden": true,
+    "2026K3promisingbutnotchampion_or_reliabilityproof": true,
+    "no_causal_recentweight_claim": true,
+    "true_calendar_plus_weight_whole_scoring_change_explained": true,
+    "not_full_FAA_PAA_VAA_replication": true,
+    "asset_profit_not_causal_attribution": true,
+    "Jan30_loss_not_avoided": true,
+    "2026_reset_continuous_not_independentfuture_samples": true,
+    "conditional_pool_PIT_and_seen_research_bias_retained": true,
+    "no_standard_replacement_or_new_parameter_arm": true,
+    "20_native_vs18science36reuse54roles_correct": true,
+    "39_tests_not_overstated": "Parentactual39/typeguard/150warnings/mypy81evidence,independentreviewer0rerun"
+  },
+  "nonblocking_wording_note": "Openingparagraph uses显著改善 colloquially; no statistical significance test was conducted and report explicitly disclaims significance. 明显改善 islessambiguous ifparentchooseseditorialupdate.",
+  "required_fixes_found": [],
+  "remaining_work": "Parentdeliveryhash/localGit ifauthorized; noadditionalexperimentneeded.",
+  "reviewer_native_runs": 0,
+  "reviewer_API_calls": 0,
+  "reviewer_tests_run": 0,
+  "reviewer_Git_commands": 0,
+  "source_or_old_data_modified": false
+}

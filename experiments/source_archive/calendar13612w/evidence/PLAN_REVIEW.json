@@ -1,0 +1,96 @@
+{
+  "status": "PLAN_PASS_CODE_REVIEW_PENDING",
+  "reviewed_utc": "2026-11-10T07:14:57.426169+00:00",
+  "study_id": "ETF13612W_CALENDAR_MONTHENDS_GROUPED_20261110",
+  "plan_sha256": "e528ae397d86ec837abb12db15538fce069cd7aafb7f5bbdf1ad9fddcfaba0d9",
+  "protocol_sha256": "2cbe7188f6cfb0c4288c13e767173c44ef70c399851c0f4cf6f74be65bd53484",
+  "catalog_sha256": "45902e69f2d4552d21e1a396a22ece7d0e3af802afc98641aa903883415ae4e2",
+  "source_hashes_verified": 6,
+  "specification_checks": {
+    "score_formula": "(12*R1+4*R3+2*R6+R12)/4",
+    "months": [
+      1,
+      3,
+      6,
+      12
+    ],
+    "month_definition": "Exact last XNYS session of calendar t-minus-m month; no21/63/126/252 proxy andnoffill.",
+    "score_gate": "Strict ETF score > SHY same13612W score; noextra zero/SMA/canary filter.",
+    "scale_divisor": "4iscommonpositivescale; notweightsnormalizedto1; ranksandSHYcomparisonunchangedbydivisor.",
+    "pool": "Sameacceptedconditionalhistorical34risk+SHY",
+    "economic_groups": 21,
+    "cap": "GreedyglobalrankdistinctgroupsuntilKfixedslots, thenstrictSHYgate; unusedslotsdefensivewithoutbackfillorreweight.",
+    "allocation": "Predeployment.90/Krisk,SHYresidual,once.95; unchangedintegernativeexecution/fees/tax/slippage.",
+    "historical": "2022-01-03..2025-12-31terminalopenliquidation",
+    "reset": "2026-01-02new50000..2026-11-06closeMTM",
+    "continuous": "2022genesis..2026-11-06nonflat,2026denominatorown2025-12-31closeNAV",
+    "new_science_accounts": 18,
+    "implementation_bridges": 2,
+    "planned_native_starts": 20,
+    "native_hard_cap_including_failed_and_fixtures": 28,
+    "reused_public_standard_accounts": 36,
+    "report_roles": 54,
+    "default_standard_replaced": false,
+    "annual_pool_refresh_added": false,
+    "full_named_strategy_replication_claim": false
+  },
+  "calendar_only_checks": [
+    {
+      "signal": "2021-12-31",
+      "R1_endpoint": "2021-11-30",
+      "R3_endpoint": "2021-09-30",
+      "R6_endpoint": "2021-06-30",
+      "R12_endpoint": "2020-12-31",
+      "source_start": "2020-12-31",
+      "observations_through_signal": 253
+    },
+    {
+      "signal": "2024-03-28",
+      "R1_endpoint": "2024-02-29",
+      "R3_endpoint": "2023-12-29",
+      "R6_endpoint": "2023-09-29",
+      "R12_endpoint": "2023-03-31",
+      "R12_trading_intervals": 249,
+      "holiday": "GoodFriday2024-03-29closed"
+    },
+    {
+      "signal": "2025-12-31",
+      "R1_endpoint": "2025-11-28",
+      "R3_endpoint": "2025-09-30",
+      "R6_endpoint": "2025-06-30",
+      "R12_endpoint": "2024-12-31",
+      "R12_trading_intervals": 250
+    }
+  ],
+  "required_implementation_acceptance": [
+    "Constructexact13monthlyanchors0..12 orcheckallrequired0,1,3,6,12endpointsagainstcalendar andsourcebeforedecision; neverlatestroworpad.",
+    "InitialforcedsignalDec31 mustpasstheexactcalendarcontract; missing/nonfiniteendpoints rejectratherthanreducehorizon orslotexposures.",
+    "Independentoracle mustderiveTRmonthendpointreturns andrawliquidity independentlyfromfeaturetargets; anchoredknownholiday/leap examplespreventsharedoff-by-onebugs.",
+    "Bridgeusesoriginalexact252tradingdaysignal, never13612score; books/targets/nativeactualreturnscomparedtoV2reference.",
+    "Outertrialmetadata labels13612W despiteC10/C11/C00 trueKshell; catalogimmutable andtrialdistinction retained.",
+    "Scopedtarget/oracle/feedhookrestorefinally; actual35/2/3feeds remainselectedonly; noall45feeds.",
+    "Historyloadphysically2025beforefeatures;2026MTMfinitecalendar neverdate.max-calendarquery.",
+    "Everyactualnativebeginmeteredbeforeentry,hard28shareddurablejournal,partialfailurespreserved,completednativeartifactrevalidation0newstarts.",
+    "BeforefirstCerebro freezecode/config/reference/inputhashesincludingreport;fullreceipt bindsall54roles with36reusesnotindependentnewtrials.",
+    "Reportannualtotalreturns/DDincludeopeningcapital,2026YTDnotannualizedandreset/continuousseparate;20bpcostandnegativeoutcomesretained."
+  ],
+  "interpretation_qualification": {
+    "accepted_parent_clarification": "Comparison to252 is a change of the whole scoringdefinition: multiwindowweights pluscalendarhorizons. Do notcausallyattributeperformancechangesonlytorecentmonthweight.",
+    "no_added_counterfactual": "Noadditionalcalendar12-onlyarm required; wouldexpandregisteredsearch.",
+    "historical_pool": "Retainsoriginal95/asynchronousarchivedAUM/category/survivorbias; notcompletePIT.",
+    "seen_data": "2022–2025alreadyresearched and2026alreadyseen; nofreshOOS/reliabilitypromotion.",
+    "multiple_exploration": "18sciencepathspluspreviousresearcharenotindependentconfirmatorytests; noformalnewmultipletrialcorrectionclaimed.",
+    "named_strategy_limit": "Tests13612Wscoringcomponentonly; notfullFAA/PAA/VAA replication.",
+    "mechanism_limit": "Couldchange reversalresponse/turnover/whipsaw; inspectpairedoutputswithoutresultdependentweights/windows/groupsorKchampion."
+  },
+  "scope_execution": {
+    "new_native": 0,
+    "API": 0,
+    "tests": 0,
+    "Git": 0,
+    "new_returns_read": false,
+    "old_code_or_data_modified": false,
+    "calendar_arithmetic_only": true
+  },
+  "next_step": "Reviewthinadapterandfocusedpuretests beforefirstnative; planitselfhasnounresolvedblockingambiguity."
+}

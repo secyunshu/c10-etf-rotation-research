@@ -1,0 +1,79 @@
+{
+  "status": "PASS_WITH_RESEARCH_LIMITATIONS",
+  "reviewed_utc": "2026-11-10T16:01:57.612954+00:00",
+  "final_report_sha256": "1e84d3a713b04747c567380764707ba867fd5f7510a6568cd56031d2ded7b7c1",
+  "independent_result_review_sha256": "cb76ad066da0ae04a15aced96264a0830d22ee85174f2b6f6a0715ac8d0559ba",
+  "numeric_report_cells_checked": 239,
+  "metric_tables_verified": 6,
+  "mechanism_evidence": {
+    "shared_maxDD_implementation_not_copy_error": [
+      {
+        "variant": "E01",
+        "maxdd": 0.20225255407410714,
+        "peak": "2022-06-08",
+        "trough": "2022-09-26",
+        "May31risk_targets": [
+          "XLE",
+          "PDBC"
+        ]
+      },
+      {
+        "variant": "E02",
+        "maxdd": 0.2023165658988464,
+        "peak": "2022-06-08",
+        "trough": "2022-09-26",
+        "May31risk_targets": [
+          "XLE",
+          "PDBC"
+        ]
+      },
+      {
+        "variant": "E03",
+        "maxdd": 0.20231637604964348,
+        "peak": "2022-06-08",
+        "trough": "2022-09-26",
+        "May31risk_targets": [
+          "XLE",
+          "PDBC"
+        ]
+      },
+      {
+        "variant": "E04",
+        "maxdd": 0.2023300015706324,
+        "peak": "2022-06-08",
+        "trough": "2022-09-26",
+        "May31risk_targets": [
+          "XLE",
+          "PDBC"
+        ]
+      }
+    ],
+    "E03BIL_positive_targets": 26,
+    "E03historical_targets_total": 48,
+    "E03pointwiseCI_high_negative_all6": true
+  },
+  "logic_review": {
+    "all_six_not_improved_fullCAGR_including_E05_equality_correct": true,
+    "E05_exactpath_not_counted_newsuccess": true,
+    "no_two_cost_Pareto_improvement_claim_correct": true,
+    "E01_return_DD_tradeoff_not_promotion": true,
+    "E03_lower_vol_not_return_enhancement": true,
+    "E06_SMA_not_universal_DD_reduction": true,
+    "all_p1_is_no_positive_superiority_not_equivalence": true,
+    "pointwise_negative_CI_not_family_significance": true,
+    "2026_seen_reset_continuous_not_independent_OOS": true,
+    "historical34_residual_PIT_bias_retained": true,
+    "raw_prefix_causality_is_fixed_data_check_not_universeproof": true,
+    "V2defaultK1_not_replaced_and_anchorK2_not_livetradingapproval": true,
+    "38main_plus1prefix_testexecution_wording_correct": true
+  },
+  "required_fixes_found": [],
+  "next": "Parentdeliveryhash/localGit and separatelylabeledresearchpublicationifauthorized; noadditionalnativeexperimentneeded.",
+  "reviewer_execution": {
+    "native": 0,
+    "API": 0,
+    "tests": 0,
+    "Git": 0,
+    "source_or_old_data_modified": false
+  }
+}

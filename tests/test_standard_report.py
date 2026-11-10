@@ -69,7 +69,7 @@ def test_blank_or_duplicate_nav_fails_before_a_report_can_claim_success() -> Non
         summarize(book(), date(2024, 1, 1), date(2024, 12, 31), "2024")
 
 
-def test_saved_standard_keeps_negative_default_and_separate_2026_denominators() -> None:
+def test_saved_standard_keeps_negative_top_one_reference_and_separate_2026_denominators() -> None:
     books, hashes = load_books(Path(__file__).resolve().parents[1])
     assert len(books) == 36 and hashes >= 288
     assert sum(verify_book(row) for row in books) == 1260

@@ -1,0 +1,17 @@
+{
+  "status": "PUBLISHED_VERIFIED",
+  "checked_utc": "2026-11-10T16:06:07.197116+00:00",
+  "repository": "https://github.com/secyunshu/c10-etf-rotation-research",
+  "pull_request": "https://github.com/secyunshu/c10-etf-rotation-research/pull/3",
+  "default_branch": "main",
+  "merge_commit": "35a4dd2b6fb328a590f356a385fd2fd2652d2804",
+  "path": "experiments/top2-momentum-variants",
+  "scope": "Independent evidence snapshot and36native accountbooks; no new portableCLI orstandardchange",
+  "remote_evidence_json_matches": true,
+  "public_manifest_files": 1187,
+  "unchanged_standard_source_files": 461,
+  "new_native_for_publication": 0,
+  "market_API_calls": 0,
+  "verification_sha256": "5821b8baba5694c36c46cbd2a5b31874185a86779cd04918888eb8799ed7ac9b",
+  "network_note": "Slow direct fetch retried with8118; proxy push failed speedlimit then verified branchabsent and direct authenticatedgit push succeeded. No failed command claimed passed."
+}

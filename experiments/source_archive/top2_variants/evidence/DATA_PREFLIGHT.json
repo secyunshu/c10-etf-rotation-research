@@ -1,0 +1,43 @@
+{
+  "status": "PASS_SOURCE_FEASIBILITY_BEFORE_NEW_RETURNS",
+  "checked_utc": "2026-11-10T15:40:31.223104+00:00",
+  "physical_inputs": [
+    {
+      "cutoff": "2025",
+      "assets": 35,
+      "rows_per_asset": 1256,
+      "first_signal_warmup_observations": 253,
+      "columns": [
+        "tr",
+        "close",
+        "volume",
+        "turnover"
+      ],
+      "new_market_API": 0
+    },
+    {
+      "cutoff": "2026",
+      "assets": 35,
+      "rows_per_asset": 1470,
+      "first_signal_warmup_observations": 253,
+      "columns": [
+        "tr",
+        "close",
+        "volume",
+        "turnover"
+      ],
+      "new_market_API": 0
+    }
+  ],
+  "controls_public252_and_benchmarks": 24,
+  "controls_prior13612W_top2": 6,
+  "API_calls": 0,
+  "native_runs": 0,
+  "source_protocol_sha256": "9d888f2522fb43c466fd44b0d7e89f8aca999b7256552e6fb389c62c599aa0d0",
+  "source_standard_sha256": "f8af2cb9f5f491e1148b2f18e6a389faafcd95da787d61e607ff1fef1c49639f",
+  "remarks": [
+    "All prices and company actions use already accepted immutable canonical sources",
+    "Historical universe remains conditional; no fresh OOS claimed",
+    "Only necessary used-feature history available; no new data source required"
+  ]
+}

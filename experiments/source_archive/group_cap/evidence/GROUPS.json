@@ -1,0 +1,92 @@
+{
+  "groups": {
+    "us_broad_style": [
+      "VTI",
+      "VOO",
+      "QQQ",
+      "IJR",
+      "SCHD",
+      "SPHQ",
+      "USMV",
+      "SPMO",
+      "SPY",
+      "VIG",
+      "QUAL"
+    ],
+    "technology_semiconductors": [
+      "VGT",
+      "SMH",
+      "SOXX"
+    ],
+    "financials": [
+      "XLF"
+    ],
+    "healthcare": [
+      "XLV"
+    ],
+    "energy": [
+      "XLE"
+    ],
+    "industrials": [
+      "XLI"
+    ],
+    "utilities": [
+      "XLU"
+    ],
+    "consumer_discretionary": [
+      "XLY"
+    ],
+    "consumer_staples": [
+      "XLP"
+    ],
+    "communications": [
+      "XLC"
+    ],
+    "materials": [
+      "XLB"
+    ],
+    "real_estate": [
+      "VNQ"
+    ],
+    "developed_foreign": [
+      "VEA",
+      "EWJ"
+    ],
+    "emerging_foreign": [
+      "IEMG",
+      "INDA",
+      "MCHI"
+    ],
+    "short_treasury": [
+      "SGOV",
+      "VGSH",
+      "BIL"
+    ],
+    "nominal_treasury_duration": [
+      "IEF",
+      "TLT"
+    ],
+    "inflation_bonds": [
+      "VTIP",
+      "TIP"
+    ],
+    "investment_grade_bonds": [
+      "BND",
+      "VCIT",
+      "AGG"
+    ],
+    "high_yield_credit": [
+      "USHY",
+      "HYG"
+    ],
+    "precious_metals": [
+      "GLD",
+      "SLV"
+    ],
+    "broad_commodities": [
+      "PDBC"
+    ]
+  },
+  "SHY": "defenderonly, notriskquota",
+  "not_empirical_correlation_fit": true
+}

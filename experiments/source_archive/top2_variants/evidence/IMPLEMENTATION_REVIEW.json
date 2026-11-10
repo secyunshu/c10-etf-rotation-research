@@ -1,0 +1,79 @@
+{
+  "status": "PASS_FOR_NATIVE_FREEZE",
+  "reviewed_utc": "2026-11-10T15:49:01.202135+00:00",
+  "study_id": "ETF_V2_TOP2_SIX_MOMENTUM_VARIANTS_20261110",
+  "source_hashes": {
+    "scripts/etf_momentum_variants.py": "1a2079d7b45b4beab2786036ed7774383cd58948b1c76bf375bca4f43d5e0c8b",
+    "tests/test_etf_momentum_variants.py": "8001521b2f2c07576132596756a49afd07bd61d0a403603a96e5e3fedf727d48",
+    "scripts/etf_momentum_variants_report.py": "3380fc810cd6c9508f0aaecb70aa45582a595250a0c0b601e233b4bc4478c392",
+    "tests/test_etf_momentum_variants_report.py": "8fd78bb4e20f98b5100a5da725a60a400a7b6a1d1428ff3cae33ecf418fde695"
+  },
+  "protocol_sha256": "9d888f2522fb43c466fd44b0d7e89f8aca999b7256552e6fb389c62c599aa0d0",
+  "catalog_sha256": "6f4338e7700226a2ef0c4a3c8cd7e9c380007b4e9eee6c0c510043ec17f10469",
+  "plan_review_sha256": "bc51fb216456503bd55ca2b73ea7c813921f4896000cb15acc05a90807ee3964",
+  "required_fixes_found": [],
+  "signal_specification_checks": [
+    "E01 uses TR[t-21]/TR[t-252]-1 and identical SHY skip gate.",
+    "E02 uses equal exact calendar-month-end R1/R3/R6/R12 and identical SHY score gate; raw DateOffset oracle is independent of feature Period endpoints.",
+    "E03 explicitly rejects nonfinite/negative vol63 before 1% annualized sample-volatility floor; raw oracle uses 63 returns from64TRprices; gate remains unscaled R252.",
+    "E04 signed log-OLS slope of252prices times252 andR-squared; constant returns0; raw OLS independent; gate remainsR252.",
+    "E05 adds strict R252>max(SHYR252,0); E06 adds currentTR>last200TRmean only after ranked distinct-group slots.",
+    "All variants retain top2 fixed.45 predeployment slots, unusedSHY, once.95, original qualification, monthly next-open and immutable historical34/group21."
+  ],
+  "execution_and_preservation_checks": [
+    "Exactly36science+2original252K2bridges,38planned starts,48hard cap including failures; typed durable independent journal.",
+    "Only existing native._native/audit/export_books execute accounts; no broker or account rewrite.",
+    "Scoped target/oracle hooks restore in finally; true variant identity kept outside C11 execution shell.",
+    "Physical2025 input features for historical; finite-calendar MTM2026; continuous uses own2025Dec31NAV.",
+    "Incomplete native evidence cannot silently rerun; completed marker binds artifactSHA; saved books/scalar/targets/metrics checked beforeVERIFIED.",
+    "Both original252 bridges compare exact native vectors/openTrade/scalar/targets/metrics/books before science.",
+    "66 registry identities/path/variant/K/cost/cohort/sourcehash validated:36new+24publicV2+6prior13612;30reuses are not new trials.",
+    "Prepare locks all new code/report/tests and source/reference dependencies; FULL_AUDIT binds38paths, registry,journal,source and causal receipt."
+  ],
+  "causality_source_review": {
+    "implementation": "Rebuild raw-prefix features at59registeredcloses; compare8usedcolumns and253/calendarTRendpoints with full2026 and physical2025 stores, then all6 full/prefix/raw target sets.",
+    "expected_prefix_rebuilds": 59,
+    "expected_variant_targets": 354,
+    "actual_execution_status": "NOT_RUN_YET; requires root actual stage, not a source-review PASS claim.",
+    "runtime_gate": "Science requires identity/status/RUN_LOCK bound CAUSALITY_RECEIPT; report requires exact receipt path hash.",
+    "pure_fixture_review": "Deliberately noncausal reg252 must fail without receipt; restored feature produces actual stored six target matches; no native."
+  },
+  "report_statistics_checks": [
+    "Strict expected66roles,154periods,66summaries,1540months,168matchedpairs; both BASE252 andW13612 sameK/cost/cohort/dates.",
+    "Saved-stat parser uses preceding nativeNAV or50000 opening, includes first-dayDD, current-period fees/orders/turnover; continuous requires ownDec31NAV and2026CAGRnull.",
+    "Bootstrap includes fixed ordered E01..E06 columns including duplicates; same-cost net daily return differences vsBASE252; exact1003historical sessions, no2026 or row dropping.",
+    "Existing max_bootstrap B10000 blocks5/20/60 and fixed seeds; local six-family only. Dailybp mean/pointwiseCI multiply252/10000, not CAGR/simultaneous/global CI.",
+    "Local support requires the individual variant adjusted_p<.05 at all six cost/block combinations; family_p cannot substitute.",
+    "Pareto needs CAGR>=base/DD<=base and one strict beyond1e-10 at bothcosts; identical baseline is false, descriptive only.",
+    "Same-path target/NAV hashes disclose overlaps without removing variants from family.",
+    "FULL_AUDIT/registry/causality/source hashes checked before and after reporting/plots."
+  ],
+  "test_and_static_execution_evidence": {
+    "parent_main_tests_passed": 38,
+    "parent_main_warnings": 105,
+    "parent_additional_prefix_fixture_passed": 1,
+    "prefix_fixture_warnings": 4,
+    "distinct_test_coverage": 39,
+    "one_shot_39_run_claimed": false,
+    "parent_final_mypy_strict_files": 81,
+    "parent_final_Pyright": "PASS2",
+    "parent_final_Ruff": "PASS",
+    "qualification": "Parent/author actual checks reported; independent reviewer did not rerun tests."
+  },
+  "research_limits": [
+    "Previously researched history/seen2026, conditional historical pool and earlier-trial multiplicity remain.",
+    "Six mechanisms are not independent discoveries; identical paths are not repeat independent wins.",
+    "E02 vs252 changes calendar basis as well as scoring; vs13612 changes weights. No causal decomposition claimed.",
+    "No result-driven parameter/K/group/annual-universe/default-standard change authorized.",
+    "No native fullfill/cost assumptions interpreted as live execution proof."
+  ],
+  "next_steps": "Freeze/prepare; root executes actual prefix causality and inspects59/354 receipt, then two bridges and36science. Independent result/statistical review follows completion.",
+  "reviewer_execution": {
+    "native": 0,
+    "API": 0,
+    "tests": 0,
+    "Git": 0,
+    "new_variant_returns_read": false,
+    "source_or_old_data_modified": false
+  }
+}

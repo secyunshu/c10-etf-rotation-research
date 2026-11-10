@@ -1,0 +1,147 @@
+{
+  "status": "PLAN_PASS_IMPLEMENTATION_REVIEW_PENDING",
+  "reviewed_utc": "2026-11-10T15:40:07.465748+00:00",
+  "study_id": "ETF_V2_TOP2_SIX_MOMENTUM_VARIANTS_20261110",
+  "input_hashes": {
+    "docs/superpowers/plans/2026-11-10-etf-momentum-variants.md": "0e8872bc0ad73acd346ced18b9f3c50d578ba43a5df52a3c8951a66c17a72ebc",
+    "research/ETF_MOMENTUM_VARIANTS_20261110/PROTOCOL.json": "9d888f2522fb43c466fd44b0d7e89f8aca999b7256552e6fb389c62c599aa0d0",
+    "research/ETF_MOMENTUM_VARIANTS_20261110/CATALOG.json": "6f4338e7700226a2ef0c4a3c8cd7e9c380007b4e9eee6c0c510043ec17f10469"
+  },
+  "frozen_source_hashes_verified": 6,
+  "existing_statistics_sha256": "d09deaf3ab3e5ecc561fd2e4a4d0bc3498a24999e0aa9f8a47558b9580b2d73e",
+  "existing_features_sha256": "f5dd7bd60bf93142d09f4c93aff09e0bbaf3d791f1ca233b22a0343b31aca36b",
+  "specification_verdict": "Sixfixedmechanismvariants are sufficientlyprecise for implementation; no blockingplanambiguity found. They are not six statistically independent discoveries.",
+  "variant_checks": {
+    "E01": {
+      "rank": "TR[t-21]/TR[t-252]-1",
+      "gate": "strict same skip score over SHY",
+      "important_boundary": "Numerator tminus21, denominator tminus252; not tminus273 or calendar12minus1. Currentt rawqualification stillusescurrentknownclose/liquidity."
+    },
+    "E02": {
+      "rank": "(Rcalendar1+Rcalendar3+Rcalendar6+Rcalendar12)/4",
+      "gate": "strict same equalcalendar score over SHY",
+      "important_boundary": "ExactpriorcalendarmonthlastXNYSsessions; no21/63proxies orpadding. Comparewith13612K2isolatesweights; comparewith252alsochangescalendarbasis."
+    },
+    "E03": {
+      "rank": "R252/max(annualizedsamplevol63,0.01)",
+      "gate": "strict unscaledR252overSHYR252",
+      "important_boundary": "63dailyreturns require64prices, sampleddof1 times sqrt252. Rejectnonfinite/negativevolbeforemax; zero合法使用1percentfloor. No inversevolallocation."
+    },
+    "E04": {
+      "rank": "252*OLSslope(logTRlast252pricepoints)*R_squared",
+      "gate": "strict unscaledR252overSHYR252",
+      "important_boundary": "Regressionuses252prices versusR252253prices; keepnegativeslopesigned; constantlogTRseries score0 as maturefunction."
+    },
+    "E05": {
+      "rank": "originalR252",
+      "gate": "strictR252>max(SHYR252,0)",
+      "important_boundary": "Thisisanextraabsolute-momentumdefense; ifSHYpositive itmaycoincidewithbaseline. Retainasfixedfamilymember, notindependentwin."
+    },
+    "E06": {
+      "rank": "originalR252",
+      "gate": "strictR252>SHYR252 andTRcurrent>meanlast200TRincludingcurrent",
+      "important_boundary": "Applyaftergreedygroupselection, donotprefilterSMAandbackfill orreweightpassedslot."
+    }
+  },
+  "shared_rules": {
+    "pool": "AcceptedV2conditionalhistorical34+SHY",
+    "groups": 21,
+    "top_k": 2,
+    "slots": "Fixed.45predeploymenteach,unuseddefensive,once.95",
+    "qualification": "Min253,rawprice5,ADV20actual10M,20positivevolumedays",
+    "ranking": "descendingvariant score/symbolascending, greedygroupcap beforegates",
+    "no_added_mechanisms": [
+      "No inversevolweights",
+      "No newasset/MTUM",
+      "No annualuniverseupdate",
+      "No stops/leverage/statefulbuffer",
+      "No extraDminus1accounts",
+      "No weight/window/group/frequencygrid"
+    ],
+    "cohorts": "Historical2022–25endopenliquidation;reset2026newcashMTM;continuousfrom2022own2025Dec31denominator;2026alreadyseen."
+  },
+  "catalog_and_report_count_checks": {
+    "new_science": 36,
+    "original252_top2_fixedbridges": 2,
+    "planned_actual_native_starts": 38,
+    "hard_cap_including_failures_fixtures": 48,
+    "publicV2_reuses": 24,
+    "previous13612Wtop2_reuses": 6,
+    "reuses_total": 30,
+    "reported_roles": 66,
+    "each_cohort_roles": 22,
+    "expected_period_rows": 154,
+    "expected_summary_rows": 66,
+    "expected_monthly_rows": 1540,
+    "new_vs_each_scoring_control_period_pairs": 84,
+    "both_scoring_controls_period_pairs": 168,
+    "reuse_andbridges_notindependentscience": true
+  },
+  "calendar_only_evidence": {
+    "registered_monthend_signal_dates": 59,
+    "E02required_endpoints_all_withinsource": true,
+    "initial_source": "2020-12-31",
+    "initial_signal": "2021-12-31",
+    "initial_observations": 253,
+    "E01_initial_numerator_tminus21": "2021-12-01",
+    "E01_initial_denominator_tminus252": "2020-12-31",
+    "E02initial1monthanchor": "2021-11-30",
+    "calendarR12tradingintervalrange": [
+      249,
+      253
+    ]
+  },
+  "causality_acceptance_requirements": [
+    "At everyregisteredmonthlyclose includinginitialsignal rebuildusedfeatures fromstrictsourceprefix; comparewithfullfeaturestore atsameclose beforeinterpretingreturns.",
+    "Prefixrebuild mustcoverTRreturnlags, vol63, logOLS252, SMA200, actualturnover20/positive20/rawclose andexactcalendarlags; neverusefuturefittedparameters/backwardrolling/centeredwindows.",
+    "Separate raworacle shouldderiveformulas/eligibility/gate/groupdirectlyfromrawprefix, notcallfeaturedecision orreuseprecomputedscore.",
+    "Currentcloseisallowedforsignal; executionmustbenextXNYSopen. Everyregularfilldate mustmatchpriorregisteredtarget due date, whileterminalexit isaseparateexplicitexception. No assertionthateverytargetmustproduceorder.",
+    "ExistingacceptedTR/shareunitcompanyactionsretained; noapprovalfornewfinancialcorrectioninferredfromthisstudy.",
+    "Historyphysically2025beforefeatures;2026separateauthorizedwindow andfiniteMTMdecisioncalendar."
+  ],
+  "statistics_review": {
+    "method": "Existingrotbt.statistics.max_bootstrap uses commoncircularblockrowresampling across6columns, recenteredmaxmeannull, plusoneadjustedp.",
+    "family": "ExactlyE01..E06,includingidenticalrealizedpaths; localconditional6family only.",
+    "window": "Exactcommon1003XNYSsessions2022–2025; includeinitialdaycost/return from50000; noinnerjoindroporNaNimputation.",
+    "differences": "DailyNETaccountr_i minus samecostoriginal252K2netreturn, notdifferencesofCAGR orgrosssignals.",
+    "repetitions": 10000,
+    "blocks": [
+      5,
+      20,
+      60
+    ],
+    "seed": "20261105+block, unchangedmaturehelper",
+    "costs": "5and20bpsingle-side separately; samehypotheticalmarketpath, notindependentreplications.",
+    "unit_conversion": "Helpermean_bp/CI aredailybasispoints. Multiplyallmean/CIendpointsby252forannualizedarithmeticmeanbp; do notcompoundorcallCAGRCI.",
+    "CI": "Pointwisepercentile95percentmean-excessCI, notmultiplicity-adjustedsimultaneousband.",
+    "claim_gate": "Samevariantadjustedp<.05forall3blocks/bothcosts onlyconditional localstatisticalsupport; family_p smallisnotvariantPASS.",
+    "non_significance": "Nonsignificantdoesnotprovezeroeffect/equivalence. PositivepointwiseCIandnonsignificantadjustedparecompatible.",
+    "pareto": "HistoricalCAGR>=base/DD<=basewithonestrictatbothcosts isdescriptivefinancialtradeoff, notsignificance/livePASS.",
+    "broader_search": "No correctionforearlierhundredsoftrials, previouslyseen2026, mechanismtransferselection orresearchanchorchoice; nofreshOOS."
+  },
+  "independence_and_reporting_limits": [
+    "OldC06/C07/C08/C09/C21 legacy36/top3/dev2022–24 donotreplacecurrenthistorical34/groupcap/top2completewindowretest.",
+    "VariationssharedataandmayoverlapstronglyorbeexactNAV/targetduplicates; disclosehashidentitieswithoutdroppingthemfrompreregisteredfamily.",
+    "Original252and13612sameK/cost/cohortcomparisons mustretainsamewindows/settings; riskadjustedrankingnotriskmatchedportfolio.",
+    "Allannualnegativesandworstyear mustremainvisible;2026bothstartingstates cannotrescuefailedmainhistory.",
+    "Futureobservationcandidate canbereportedwithoutchangingpublishedV2/defaultK1 orselectinga statisticallyvalidatedwinner."
+  ],
+  "implementation_acceptance_reminders": [
+    "Freezeallnewsignal/run/report/tests/config/dependencyhashesbeforefirstCerebro; existingcore/inputs/publicstandard/oldoutputsimmutable.",
+    "Independentstudytypedappend-onlyjournal metersallactualstarts beforeentry,hard48withfailedartifactsretained andcompleteartifact0-native recovery.",
+    "Bothpreselectedoriginal252K2bridges exactbooks/targets/actualnativevectors/scalars/openTrade/metricsbefore36science.",
+    "66registryexpectedidentities/path/score/K/cost/cohort/referencehashesverified beforeFULL_AUDIT/report.",
+    "Statisticsandreportadapterscanbetestedwithpurearrays/fixtures withoutnative; author/rootrunchecks, independentevidencequalificationexplicit."
+  ],
+  "required_plan_fixes_found": [],
+  "reviewer_execution": {
+    "native": 0,
+    "API": 0,
+    "tests": 0,
+    "Git": 0,
+    "new_variant_returns_read": false,
+    "old_code_or_data_modified": false,
+    "pure_calendar_arithmetic_only": true
+  },
+  "next": "Reviewthinimplementation andstatistics/reportsourcebeforefirst38plannednative."
+}

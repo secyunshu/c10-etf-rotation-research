@@ -1,0 +1,175 @@
+{
+  "version": 2,
+  "id": "C10_HISTORICAL_GROUP_CAP_V2",
+  "adopted_date": "2026-11-10",
+  "status": "RESEARCH_STANDARD_NOT_LIVE_APPROVAL",
+  "default_rule": "C10",
+  "group_cap": true,
+  "risk_names": [
+    "AGG",
+    "BIL",
+    "EWJ",
+    "GLD",
+    "HYG",
+    "IEF",
+    "IEMG",
+    "IJR",
+    "INDA",
+    "MCHI",
+    "PDBC",
+    "QQQ",
+    "QUAL",
+    "SLV",
+    "SOXX",
+    "SPY",
+    "TIP",
+    "TLT",
+    "USMV",
+    "VCIT",
+    "VEA",
+    "VGT",
+    "VIG",
+    "VNQ",
+    "VTI",
+    "XLB",
+    "XLC",
+    "XLE",
+    "XLF",
+    "XLI",
+    "XLP",
+    "XLU",
+    "XLV",
+    "XLY"
+  ],
+  "groups": {
+    "us_broad_style": [
+      "VTI",
+      "QQQ",
+      "IJR",
+      "USMV",
+      "SPY",
+      "VIG",
+      "QUAL"
+    ],
+    "technology_semiconductors": [
+      "VGT",
+      "SOXX"
+    ],
+    "financials": [
+      "XLF"
+    ],
+    "healthcare": [
+      "XLV"
+    ],
+    "energy": [
+      "XLE"
+    ],
+    "industrials": [
+      "XLI"
+    ],
+    "utilities": [
+      "XLU"
+    ],
+    "consumer_discretionary": [
+      "XLY"
+    ],
+    "consumer_staples": [
+      "XLP"
+    ],
+    "communications": [
+      "XLC"
+    ],
+    "materials": [
+      "XLB"
+    ],
+    "real_estate": [
+      "VNQ"
+    ],
+    "developed_foreign": [
+      "VEA",
+      "EWJ"
+    ],
+    "emerging_foreign": [
+      "IEMG",
+      "INDA",
+      "MCHI"
+    ],
+    "short_treasury": [
+      "BIL"
+    ],
+    "nominal_treasury_duration": [
+      "IEF",
+      "TLT"
+    ],
+    "inflation_bonds": [
+      "TIP"
+    ],
+    "investment_grade_bonds": [
+      "VCIT",
+      "AGG"
+    ],
+    "high_yield_credit": [
+      "HYG"
+    ],
+    "precious_metals": [
+      "GLD",
+      "SLV"
+    ],
+    "broad_commodities": [
+      "PDBC"
+    ]
+  },
+  "defender": "SHY",
+  "lookback": 252,
+  "frequency": "monthly",
+  "allowed_top_k": [
+    1,
+    2,
+    3
+  ],
+  "universe_update": "fixed_for_this_study_no_annual_refresh",
+  "aum_min_usd": 5000000000,
+  "aum_information_cutoff": "before2022-01-03",
+  "historical_aum_source": "last2021archived_ETFdb_reportedAUM_original95_candidates",
+  "complete_PIT_universe": false,
+  "residual_selection_bias": [
+    "2026-designed candidate/category cohort",
+    "asynchronous archived values with uncertain AUM economic dates",
+    "incomplete historical survivor/delisting coverage"
+  ],
+  "adv20_min_usd": 10000000,
+  "positive_volume_days": 20,
+  "minimum_price_usd": 5,
+  "minimum_observations": 253,
+  "selection": "global TR252 desc/symbol asc; greedy skip used group; fixed K slots then strict SHY TR252 gate; unused slots go to SHY",
+  "initial_cash": 50000,
+  "predeployment_risk": 0.9,
+  "deployment": 0.95,
+  "tax": 0,
+  "costs_bps": [
+    5,
+    20
+  ],
+  "historical_period": [
+    "2022-01-03",
+    "2025-12-31"
+  ],
+  "historical_terminal": "last_day_open_liquidation",
+  "ytd_period": [
+    "2026-01-02",
+    "2026-11-06"
+  ],
+  "ytd_terminal": "close_mark_to_market",
+  "continuous_2026_denominator": "own2025-12-31closeNAV_without_prior_liquidation",
+  "fresh_OOS": false,
+  "fees": {
+    "commission_per_share": 0.0049,
+    "commission_min": 0.99,
+    "platform_per_share": 0.005,
+    "platform_min": 1.0,
+    "settlement_per_share": 0.003,
+    "sec_rate": 2.06e-05,
+    "sec_min": 0.01,
+    "nms_per_share": 3e-06
+  }
+}

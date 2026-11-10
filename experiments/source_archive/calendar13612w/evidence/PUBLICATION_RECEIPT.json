@@ -1,0 +1,13 @@
+{
+  "status": "PUBLISHED",
+  "time": "2026-11-10T12:55:39.389514+00:00",
+  "repository": "https://github.com/secyunshu/c10-etf-rotation-research",
+  "pull_request": "https://github.com/secyunshu/c10-etf-rotation-research/pull/2",
+  "commit": "bfd9216c6a80b784c7ef72c2c8921faa8300945d",
+  "path": "experiments/calendar13612w",
+  "scope": "Exploratory report/CSV/figures and18exportednativebooks; standardV2 unchanged; not a new portable executionCLI",
+  "new_native_for_publication": 0,
+  "verification_json_remote_content_exact": true,
+  "verification_json_sha256": "d6ce01bca6459c0e2290195a064181ff4d4ce2f56b4550c4a7b9912f2527599f",
+  "network_note": "8118 proxy GitHub API TLS/EOF failures retained; direct authenticated API fallback succeeded; merged state independently checked by git fetch and remote contents."
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "accounts": 36,
+  "source_hashes_checked": 348,
+  "archived_metric_values_checked": 1260,
+  "annual_rows": 120,
+  "summary_rows": 36,
+  "monthly_rows": 1416,
+  "native_attempts_by_report": 0,
+  "source": "standard/ACCOUNTS.json",
+  "scope": "continuous summaries are 2026 YTD; annual/monthly tables retain all account dates"
+}
