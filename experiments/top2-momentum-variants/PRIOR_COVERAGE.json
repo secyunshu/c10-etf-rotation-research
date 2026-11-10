@@ -1,0 +1,68 @@
+[
+  {
+    "new_variant": "E01",
+    "prior_id": "C06",
+    "prior_window": "2022-2024 dev",
+    "prior_pool": "legacy2026selected36",
+    "same_economic_contract": false,
+    "reason": "Same skip21 scoring; old top3/current K2, different pool andgroupcap",
+    "prior_cagr5bp": 0.14273322990249393,
+    "prior_max_dd5bp": 0.15074785171174965,
+    "interpretation": "Conditional replication/transfer, not independent fresh discovery; no new returns inspected for this selection"
+  },
+  {
+    "new_variant": "E02",
+    "prior_id": "C07",
+    "prior_window": "2022-2024 dev",
+    "prior_pool": "legacy2026selected36",
+    "same_economic_contract": false,
+    "reason": "Not exact: old rankaverage63/126/252, new calendarequal1/3/6/12; priorW13612 is weightedcalendarcontrol",
+    "prior_cagr5bp": 0.07979952320650185,
+    "prior_max_dd5bp": 0.15030432277219063,
+    "interpretation": "Conditional replication/transfer, not independent fresh discovery; no new returns inspected for this selection"
+  },
+  {
+    "new_variant": "E03",
+    "prior_id": "C09",
+    "prior_window": "2022-2024 dev",
+    "prior_pool": "legacy2026selected36",
+    "same_economic_contract": false,
+    "reason": "Same R252/vol63 ranking; oldtop3/currentK2,pool/groupcap differ",
+    "prior_cagr5bp": 0.07480009710063484,
+    "prior_max_dd5bp": 0.15061835502756538,
+    "interpretation": "Conditional replication/transfer, not independent fresh discovery; no new returns inspected for this selection"
+  },
+  {
+    "new_variant": "E04",
+    "prior_id": "C08",
+    "prior_window": "2022-2024 dev",
+    "prior_pool": "legacy2026selected36",
+    "same_economic_contract": false,
+    "reason": "Same reg252 ranking; oldtop3/currentK2,pool/groupcap differ",
+    "prior_cagr5bp": 0.10882357643153195,
+    "prior_max_dd5bp": 0.15070988174376843,
+    "interpretation": "Conditional replication/transfer, not independent fresh discovery; no new returns inspected for this selection"
+  },
+  {
+    "new_variant": "E05",
+    "prior_id": null,
+    "prior_window": null,
+    "prior_pool": null,
+    "same_economic_contract": false,
+    "reason": "No exactzero-gate role reused; previoustrendandcashmargin variants differ",
+    "prior_cagr5bp": null,
+    "prior_max_dd5bp": null,
+    "interpretation": "Conditional replication/transfer, not independent fresh discovery; no new returns inspected for this selection"
+  },
+  {
+    "new_variant": "E06",
+    "prior_id": "C21",
+    "prior_window": "2022-2024 dev",
+    "prior_pool": "legacy2026selected36",
+    "same_economic_contract": false,
+    "reason": "Same SMA200postselection filter; oldtop3/currentK2,pool/groupcap differ",
+    "prior_cagr5bp": 0.13432390471992117,
+    "prior_max_dd5bp": 0.20375313837196862,
+    "interpretation": "Conditional replication/transfer, not independent fresh discovery; no new returns inspected for this selection"
+  }
+]

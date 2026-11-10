@@ -1,0 +1,8 @@
+{
+  "key": "E02_K2_5bp_reset2026",
+  "variant": "E02",
+  "cost_bps": 5,
+  "cohort": "reset2026",
+  "kind": "science",
+  "k": 2
+}
