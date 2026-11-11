@@ -1,0 +1,7 @@
+cost_bps,comparison,different_target_dates,daily_nav_exact,max_nav_difference,economic_five_books_equal,daily_max_difference,orders_max_difference,holdings_max_difference,dividends_max_difference,trades_max_difference
+5,B_vs_D,1,False,798.4864985877648,False,,,,,
+5,C_vs_A,2,False,740.53290809638565,False,,,,,
+5,D_vs_E,0,True,0,True,0,0,0,0,0
+20,B_vs_D,1,False,653.12780712996027,False,,,,,
+20,C_vs_A,2,False,582.59717075941444,False,,,,,
+20,D_vs_E,0,True,0,True,0,0,0,0,0
