@@ -1,0 +1,162 @@
+[
+  {
+    "variant": "BASE",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "historical2022_2025"
+    }
+  },
+  {
+    "variant": "BASE",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "continuous2022_2026"
+    }
+  },
+  {
+    "variant": "P01",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "historical2022_2025"
+    }
+  },
+  {
+    "variant": "P01",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "reset2026"
+    }
+  },
+  {
+    "variant": "P01",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "continuous2022_2026"
+    }
+  },
+  {
+    "variant": "P01",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "historical2022_2025"
+    }
+  },
+  {
+    "variant": "P01",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "reset2026"
+    }
+  },
+  {
+    "variant": "P01",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "continuous2022_2026"
+    }
+  },
+  {
+    "variant": "P02",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "historical2022_2025"
+    }
+  },
+  {
+    "variant": "P02",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "reset2026"
+    }
+  },
+  {
+    "variant": "P02",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "continuous2022_2026"
+    }
+  },
+  {
+    "variant": "P02",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "historical2022_2025"
+    }
+  },
+  {
+    "variant": "P02",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "reset2026"
+    }
+  },
+  {
+    "variant": "P02",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "continuous2022_2026"
+    }
+  },
+  {
+    "variant": "P03",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "historical2022_2025"
+    }
+  },
+  {
+    "variant": "P03",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "reset2026"
+    }
+  },
+  {
+    "variant": "P03",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 5,
+      "cohort": "continuous2022_2026"
+    }
+  },
+  {
+    "variant": "P03",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "historical2022_2025"
+    }
+  },
+  {
+    "variant": "P03",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "reset2026"
+    }
+  },
+  {
+    "variant": "P03",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "continuous2022_2026"
+    }
+  }
+]

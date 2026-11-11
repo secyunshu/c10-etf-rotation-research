@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "new_accounts": 18,
+  "reused_controls": 24,
+  "native_attempts_by_report": 0,
+  "bootstrap_runs": 6,
+  "bootstrap_repetitions_each": 10000,
+  "checked_table_cells": 59908,
+  "checked_archived_statistics": 1470,
+  "tables": {
+    "SUMMARY.csv": {
+      "rows": 42,
+      "sha256": "61ab17639624ff36f283633798055fdb894010174b1899c8b16a8e2b6c39b3bc"
+    },
+    "ANNUAL.csv": {
+      "rows": 140,
+      "sha256": "2c35e87f397f4f51c1b9dca611e13baecc482d8be75610ce4f059c1381bd0ecb"
+    },
+    "MONTHLY.csv": {
+      "rows": 1652,
+      "sha256": "289ea41e50bb44fee54cb616ea6bd4c3c5dce0e8603864d5f989f1e966619450"
+    },
+    "SHY_EXPOSURE.csv": {
+      "rows": 42,
+      "sha256": "e714adf4a1bc91a3c87254a5bae2342cf601cbacd147481ddc28350de48c3ee7"
+    },
+    "TARGETS.csv": {
+      "rows": 3208,
+      "sha256": "755b59551956a46f52da3f1527a9273af47c40349ffeaf7445eab6e10b1f1ed3"
+    },
+    "LOCAL_BOOTSTRAP.csv": {
+      "rows": 18,
+      "sha256": "1fda43032d0dd308b8d718938c2faea8e31bc804dfa89ffb39c6be1aac498456"
+    }
+  }
+}

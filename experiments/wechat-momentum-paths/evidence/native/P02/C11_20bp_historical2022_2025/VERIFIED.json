@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "account": "C11_20bp_historical2022_2025",
+  "hashes": {
+    "metrics.json": "6dd44f20642f0ed8acd88d6117e3cb6f6dc2a8beb549b0ce414ad0f9921c781b",
+    "native_total_return.json": "e2dc91c20f6d4409e223bfeb08353d04a5f8ff737b325d27a4d50dc86ef553e7",
+    "BINDING.json": "db7fd8252b0eb5ab89eb1afc2c0c29ca0a9a7077d215cf666725fdec13d6cdb7",
+    "dividends.csv.gz": "e5dd3179631ece741eb45a1d1cea0c288a2fcf622df711213653b7478006d3e5",
+    "targets.json": "8cd95c9a8513acd0720b5167bdae295201e528aeebeb8d9c4407c99188f11699",
+    "NATIVE_COMPLETE.json": "ae16b7fc40683d4e82cee6e2ca954c07dc56fca641f29fd448586985fea86ff7",
+    "holdings.csv.gz": "33f45cf92e88088830d8b6f55b7b1cb76892a2bc2a6b6b40e980ad58f5572a51",
+    "daily.csv.gz": "4fbbc5b4e5b13e6c8e9201628fa491db6cb7ada102efd5a9bdebf64816a44c89",
+    "orders.csv.gz": "ad5b017ad1e7944de835e0e4818969fe5b6ddc89985db21b4ecaebe763bde62c",
+    "trades.csv.gz": "ea66eb8218caee87401e8fa7a3d0a1e8800dca3e07ca65761d238e14b02e8132",
+    "CONTRACT.json": "dab5917e48e71b720ec0490653ffa13a11d22f6e1e908a190419d891e8518de1",
+    "ARTIFACT.json": "bc6c0f1a17dbde861e821bb5b063dffde62c2bbf097c5ec69cb1ceb635155e06"
+  },
+  "max_differences": {}
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://mp.weixin.qq.com/s/zTU2-FcGSXkeYOxLZlmUQw",
+  "title": "【国信金工】动量类因子全解析",
+  "account": "量化藏经阁",
+  "published": "2021-12-14 08:02",
+  "original_report_date": "2021-12-13",
+  "authors": [
+    "张欣慰",
+    "张宇"
+  ],
+  "read_method": "gstack /browse Chromium rendered DOM and original formula screenshots",
+  "retrieved_user_date": "2026-11-11",
+  "copyright_scope": "Full article and images retained locally only; metadata/formula observations and hashes published.",
+  "raw_hashes": {
+    "ARTICLE_BROWSER.json": "296afebcb5abf68ddb04db6dda8174a523e74c1ff0c7f1ea222cd36988675644",
+    "formula_17.png": "61bc5d4ceba042804ece47deaffaff9225d7a3a7de76435bf6d79e524982b241",
+    "formula_21.png": "629a4021fd3e4df2feda2f41e57a9226e3d6daec0dd1c4e0894964ecac26a18a",
+    "formula_24.png": "622e8a322e270e6c295321e8524559b0a6f4fb93b788fde2891795de50c89488",
+    "ARTICLE_TEXT.txt": "9a8e07c95728038ff29e0f9bbae8614807c44b90daad695cd86d9b2c1e9064e0"
+  }
+}

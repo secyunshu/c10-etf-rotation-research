@@ -1,0 +1,12 @@
+{
+  "experiment": "WECHAT_MOMENTUM_PATHS_V1",
+  "trial": {
+    "variant": "P02",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "reset2026"
+    }
+  },
+  "source_lock_sha256": "60461f3fb228ae0874c61cb71323bfa7b52b8a7e88b0a9d3d22f9b9664c923db"
+}

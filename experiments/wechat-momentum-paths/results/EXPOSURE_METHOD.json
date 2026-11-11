@@ -1,0 +1,7 @@
+{
+  "method": "mean over report days of holding.size * holding.close / daily.equity per symbol; cash uses daily.cash; receivable uses daily.locked; continuous/reset reportdays in2026 only",
+  "purpose": "descriptive mechanism check; no new strategy or native or hypothesis selection",
+  "cases": 24,
+  "native": 0,
+  "receivable_note": "daily.locked is included in daily.cash; do not add it again to NAV weights"
+}
