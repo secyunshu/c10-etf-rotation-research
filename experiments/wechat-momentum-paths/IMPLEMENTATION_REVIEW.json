@@ -1,0 +1,19 @@
+{
+  "status": "PASS_SOURCE_REVIEW",
+  "reviewer": "independent backtrader_audit",
+  "all_findings_closed": true,
+  "closed": [
+    "Report outer signal identity bound to source lock before parsing native books",
+    "Full contract calendar and terminal zero positions checked",
+    "Smooth denominator aggregation overflow fails explicitly",
+    "Successful or failed trial cannot be rerun in a different output directory"
+  ],
+  "native_started_before_source_commit": 0,
+  "source_commit": "641a636",
+  "plan_commit": "8f9829d",
+  "tests": 133,
+  "mypy_source_files": 42,
+  "pyright_errors": 0,
+  "ruff_errors": 0,
+  "prior_frozen_files_unchanged": 973
+}

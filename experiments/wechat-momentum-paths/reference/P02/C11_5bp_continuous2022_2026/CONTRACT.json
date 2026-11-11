@@ -1,0 +1,5 @@
+{
+  "rule": "C11",
+  "cost_bps": 5,
+  "cohort": "continuous2022_2026"
+}

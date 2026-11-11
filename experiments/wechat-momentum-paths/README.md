@@ -26,10 +26,10 @@ python -m pytest -q tests/test_paths_signals.py tests/test_paths_run.py tests/te
 PYTHONPATH=src python -m c10paths.run --stage bridge
 PYTHONPATH=src python -m c10paths.run --stage science
 PYTHONPATH=src python -m c10paths.run
-PYTHONPATH=src python -m c10paths.report --native-output runs/wechat-paths --output runs/wechat-native-report
+PYTHONPATH=src python -m c10paths.report --native-output runs/wechat-paths
 ```
 
-未传`--stage`只验证已生成账户，不启动新回测。成功账户在同目录复核，禁止换目录重跑同trial；失败保留且阻断自动重跑。每个独立复现任务有自己的本地`evidence/attempts.jsonl`，硬上限28；本研究原始计数单独归档为`evidence/RESEARCH_ATTEMPTS.jsonl`，不可将原研究失败/计数删除重置。本轮协调工作始终共用同一计数。
+最后一条报告命令会将重跑账户生成的六张表与本仓库已发布表逐单元比较，包括目标表；不会覆盖不同结果。未传`--stage`只验证已生成账户，不启动新回测。成功账户在同目录复核，禁止换目录重跑同trial；失败保留且阻断自动重跑。每个独立复现任务有自己的本地`evidence/attempts.jsonl`，硬上限28；本研究原始计数单独归档为`evidence/RESEARCH_ATTEMPTS.jsonl`，不可将原研究失败/计数删除重置。本轮协调工作始终共用同一计数。
 
 `reference/<variant>/<C11合约名>/`保留五账本、实际目标、原生总收益、年度/YTD指标和外层变种身份。共同C11仅是执行合约壳，实际信号由BINDING.json明确绑定，不能靠目录重命名改变身份。完整大ARTIFACT原生序列化留本地；它可通过以上命令重建，不把未分发大对象称已上传。
 
