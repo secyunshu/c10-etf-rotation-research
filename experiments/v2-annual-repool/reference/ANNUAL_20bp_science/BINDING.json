@@ -1,0 +1,10 @@
+{
+  "experiment": "V2_ANNUAL_REPOOL_V1",
+  "contract": {
+    "mode": "ANNUAL",
+    "cost_bps": 20,
+    "stage": "science",
+    "schedule_sha256": "cd6642e1396a91a4b0a541a68606c4ef6f51d1b9d9ba8a679d6408bf907f5bcb"
+  },
+  "source_sha256": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038"
+}

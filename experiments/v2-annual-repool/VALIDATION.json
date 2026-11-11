@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "native_planned": 4,
+  "native_hard_cap": 8,
+  "native_started": 4,
+  "native_finished": 4,
+  "native_failed": 0,
+  "source_objects": 184,
+  "new_aum_observations": 190,
+  "four_annual_risk_counts": [
+    34,
+    33,
+    33,
+    33
+  ],
+  "market_rows": 51496,
+  "tests_passed": 54,
+  "new_tests": 30,
+  "reused_tests": 24,
+  "warnings": 4,
+  "mypy_files": 49,
+  "pyright_errors": 0,
+  "ruff_errors": 0,
+  "real_prefix_dates": {
+    "FIXED": 48,
+    "ANNUAL": 48
+  },
+  "new_market_api": 0,
+  "no2026market_read": true,
+  "default_changed": false,
+  "source_lock_sha256": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038",
+  "source_freeze_commit": "2bd1018",
+  "plan_commit": "f283e52",
+  "economic_interpretation": "positive historical tradeoff, mostly2023 pool switch; laterannual updates changed no selectedtargets inoverlap,not repeatedindependentproof"
+}

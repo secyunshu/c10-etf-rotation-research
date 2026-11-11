@@ -1,0 +1,6 @@
+{
+  "mode": "FIXED",
+  "cost_bps": 20,
+  "stage": "bridge",
+  "schedule_sha256": "84bb09d4291d25679b4d5440a227f6c0c937b9b535872c61879030d52da5f665"
+}
