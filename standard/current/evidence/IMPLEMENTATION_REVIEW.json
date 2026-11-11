@@ -1,0 +1,11 @@
+{
+  "status": "PASS_IMPL_WITH_REFERENCE_LOCK_FIX",
+  "reviewer": "independent backtrader_audit",
+  "closed_finding": "Explicitly bind all four annual reference directories and every file in the new release lock, because old annualsource lock didnot include them",
+  "tests_before_fix": "3 new reference-change tests failed because annualrefs absent fromsnapshot",
+  "tests_after_fix": "11current policy tests pass;65 relevant combined tests pass",
+  "native_started_before_freeze": 0,
+  "source_checks": "oldannual/oldfalsify/oldqqq/oldpaths/old2023 locks unchanged;prior1275manifest verified via3preserved docmapping",
+  "new_current_policy": "2.2.0 annualtop2",
+  "existing_legacy_policy": "2.1.0 fixedtop2 retained, oldCLI explicit compatibility"
+}
