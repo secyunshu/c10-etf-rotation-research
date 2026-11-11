@@ -1,0 +1,84 @@
+{
+  "status": "CONDITIONAL_SUPPORT_WITH_EXPLICIT_SOURCE_COUNTEREXAMPLE",
+  "new_browser_records": [
+    {
+      "id": "SMH20221128",
+      "url": "https://web.archive.org/web/20221128181853id_/https://vaneck.com/us/en/investments/semiconductor-etf-smh/",
+      "effective_url": "https://web.archive.org/web/20221128181853id_/https://vaneck.com/us/en/investments/semiconductor-etf-smh/",
+      "http_status": 200,
+      "title": "SMH - VanEck Semiconductor ETF | Overview | VanEck",
+      "html_sha256": "cbb460f24d3fc5ff55ea4272185dd140e0a019189a4d33e5c2d0df4629c813e1",
+      "pre2023_archive_confirmed": true,
+      "full_page_retained_local_only": true,
+      "economic_asof": "2022-11-25",
+      "reported_total_net_assets_usd_rounded": 7200000000,
+      "shares_outstanding": 32620937
+    },
+    {
+      "id": "SOXX20221227",
+      "url": "https://web.archive.org/web/20221227220742id_/https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf",
+      "effective_url": "https://web.archive.org/web/20221227220742id_/https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf",
+      "http_status": 200,
+      "title": "iShares Semiconductor ETF | SOXX",
+      "html_sha256": "7fe94fb1592a6e453887ba7d5d0abadc8d029d594bda6f2d38c233843459b3c9",
+      "pre2023_archive_confirmed": true,
+      "full_page_retained_local_only": true,
+      "economic_asof": "2022-12-23",
+      "reported_net_assets_usd": 5823084645,
+      "nav_usd_rounded": 348.69,
+      "shares_outstanding": 16700000
+    },
+    {
+      "id": "SMH20220924",
+      "url": "https://web.archive.org/web/20220924231057id_/https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/",
+      "effective_url": "https://web.archive.org/web/20220924231057id_/https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/",
+      "http_status": 200,
+      "title": "SMH - VanEck Semiconductor ETF | Overview | VanEck",
+      "html_sha256": "be07bb6690ca9c096455470ed4dc48484c0f51a306f956bd4b05b1a6f9958636",
+      "pre2023_archive_confirmed": true,
+      "full_page_retained_local_only": true,
+      "economic_asof": "2022-09-23",
+      "reported_total_net_assets_usd_rounded": 6100000000,
+      "shares_outstanding": 31770937
+    }
+  ],
+  "same_date_economic_crosscheck": [
+    {
+      "date": "2021-09-30",
+      "SMH": 5938000000,
+      "SOXX": 7177863048.3
+    },
+    {
+      "date": "2022-09-30",
+      "SMH": 5632000000,
+      "SOXX": 5458181655.15
+    }
+  ],
+  "same_date_publication_status": "retrospectiveissuerdocs retrieved2026;originalpublicavailability unverified",
+  "SMH_calendar2022_end_value": "NOT_FOUND",
+  "SOXX_2022_12_30_calculated_nav_times_shares": 5833740233.25,
+  "VEA_IEFA_counterexample": {
+    "VEA_date": "2022-12-31",
+    "VEA_etf_share_assets": 100471000000,
+    "IEFA_date": "2022-12-30",
+    "IEFA_nav_times_shares": 88989480787.2,
+    "direction": "VEA>IEFA, contrary to asynchronous2022 archivewinnerIEFA",
+    "availability": "postdatedofficialhistory;not proven availableDec2022",
+    "not_exact_same_reportingdate": true
+  },
+  "underlying_postdated_documents": {
+    "VanEck": "prospectus cover2026-02-01 plus2026-08-11supplement;SMHp166fiscalSep30",
+    "VanguardVEA": "prospectuscover2026-04-28;ETFshareclassp35Dec31"
+  },
+  "retained_old_source_hashes": {
+    "OTHER_ISSUER_FINANCIAL_HIGHLIGHTS.json": "4ddbc9248790574451877cf7d8eb69211e0cd5f89f414306cfecd8755490eb52",
+    "ALL_AUM_OBSERVATIONS.json": "d1c0736cc96ce8b1e158fe6c58633d60062d084cc7fd1fd2c0b32ea4eca82d8c",
+    "audit/ISHARES_ALL_DATED_NAV_POINTS_V3.csv": "ce33255d43e54e58222ee6cc71f3cb74e52a158fec77724c7fbf9238252e6682",
+    "audit/ISHARES_NAV_SHARES_BATCH03.json": "44675747aae137fde42710a1ca0d33fca81773a8908919925e703c235161c752",
+    "audit/ISHARES_NAV_SHARES_BATCH05.json": "f0e83990638aea186deca9bafe6d5f32ad92ce7d7016dda83e81b257f2cd8929",
+    "raw/VanEck_thematic_prospectus.pdf": "4f435e85eefe09f381090a8281372d2aabd31141a841bf411da46f960c38c44c",
+    "raw/VEA_p936.pdf": "118a7a6ed3e29a160e2a31bdad4c7665aedcb281864c82f97714c8e406fef9d1"
+  },
+  "raw_browser_payload_sha256": "6323af8f36619429e3a9284b58497c4cc7d5d9af5ceed5b0c5096362e1314e55",
+  "conclusion": "SMH larger direction gains contemporaryissuer support, but exactsame-dayyearendPIT ranking notproved. SOXX faulty.5215Blabel is contradicted byissuer5.823B;no rawoverwrite. VEA_IEFA showsnon-semiarchivechoice can be source-sensitive. Counterfactuals B/C bracket effects without changingpolicy or selecting bestsource."
+}

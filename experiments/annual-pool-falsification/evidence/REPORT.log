@@ -1,0 +1,20 @@
+<repository>/scripts/falsify_report.py:171: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  first = pd.read_csv(a.folder / f"{name}.csv.gz", float_precision="round_trip")
+<repository>/scripts/falsify_report.py:172: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  second = pd.read_csv(b.folder / f"{name}.csv.gz", float_precision="round_trip")
+{
+  "status": "PASS",
+  "source_lock": "c3c70badbb7a90c1e5ac9e80265761d007a66859c750cd3e598c9fa5b0ec5e9c",
+  "roles": 14,
+  "new_accounts": 6,
+  "reused_accounts": 8,
+  "native_attempts": 0,
+  "table_cells": 1656,
+  "metric_values": 882,
+  "table_hashes": {
+    "SUMMARY.csv": "1765ba929d4304cad7d8864b01f7e84f652129b67b35e8c371f9b39c69f749dd",
+    "ANNUAL.csv": "ac57daec12c55fef6e6216d9d6bcb0321ea9a859de19de95cdae744ec681e175",
+    "WEALTH_CONTRASTS.csv": "3ae7c182be39d1a2d4a88d9fab233f4e9fb15406411df86cd64add117ec5ff17",
+    "PATH_EQUALITY.csv": "6d64c1411aa7f0910a698cb4ff58da31608c1d40ac2b698ba7e8d5bed3bb70bb"
+  }
+}

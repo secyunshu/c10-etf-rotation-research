@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "accounts": [
+    "A_5bp_bridge",
+    "D_20bp_bridge"
+  ],
+  "max_difference": 0.0,
+  "native": 2
+}

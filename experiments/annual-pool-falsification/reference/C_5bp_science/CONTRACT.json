@@ -1,0 +1,6 @@
+{
+  "mode": "ANNUAL",
+  "cost_bps": 5,
+  "stage": "science",
+  "schedule_sha256": "cd6642e1396a91a4b0a541a68606c4ef6f51d1b9d9ba8a679d6408bf907f5bcb"
+}

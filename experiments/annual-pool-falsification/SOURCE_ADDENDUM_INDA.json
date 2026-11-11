@@ -1,0 +1,23 @@
+{
+  "status": "NEW_PRE2024_OFFICIAL_COUNTEREVIDENCE_TO_STALE_JUNE_INPUT",
+  "inspected_after_counterfactual_results": true,
+  "scope": "sourceaudit of actualremainingtargetdifference; no policy/data change or extra native",
+  "symbol": "INDA",
+  "economic_date": "2023-10-25",
+  "reported_net_assets_usd": 5875216424,
+  "shares_outstanding": 136200000,
+  "archive_capture": "20231026090436",
+  "url": "https://web.archive.org/web/20231026090436id_/https://www.ishares.com/us/products/239659/ishares-msci-india-etf",
+  "effective_url": "https://web.archive.org/web/20231026090436id_/https://www.ishares.com/us/products/239659/ishares-msci-india-etf",
+  "html_sha256": "3f7487bb9ade49fc3cb7989b4bccf04d0a0f287d7d8a460c8449681caefa3ae2",
+  "local_payload_sha256": "a28bdf80aadb95671b49417f3cb2d18816bf14eff2d988a61e334f6910b12eff",
+  "prior_annual_policy_record": {
+    "provider": "ETFdb",
+    "page_update": "2023-06-15",
+    "capture": "20230618211959",
+    "reported_aum_usd": 4889400000,
+    "tradingyear": 2024,
+    "result": "excludedbelow5B"
+  },
+  "conclusion": "INDA crossed5B byOct25 in a sourcepublicbefore2024. JuneETFdb was outdated as a general latestavailableAUM proxy. ExactDec31notproved, but stale-June exclusion cannot be defended as if no newer public evidence existed. Oldliteralarchive-study unchanged and not rebranded strictPIT."
+}

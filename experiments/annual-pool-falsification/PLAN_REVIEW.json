@@ -1,0 +1,14 @@
+{
+  "status": "PASS_PLAN",
+  "reviewer": "independent backtrader_audit",
+  "plan_sha256": "889fcc81f7a9d18c964ab52973b6bc4791ae434f340b10a104895156f30b51c1",
+  "native_started": 0,
+  "required_implementation_boundaries": [
+    "own outercase journal and execute; never callannual_run.execute oldbudget",
+    "same scopeforproduction/raworacle/timing/fullprefix and binding",
+    "Case identity + perasset mixedcutoffs separate from referenceD innercontract",
+    "A5/D20 bridge exactfullbooks/native/targets/timing notsummaryonly"
+  ],
+  "source_quality_audit": "pending, mechanism validation independent of perfectPIT availability;unknown remainsunknown",
+  "budget": "8planned12hard6science2bridges"
+}
