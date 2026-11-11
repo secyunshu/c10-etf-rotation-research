@@ -1,0 +1,44 @@
+{
+  "attempts": [
+    {
+      "symbol": "SCHH",
+      "year": 2024,
+      "capture": "20241004074202",
+      "original": "https://etfdb.com/etf/SCHH/",
+      "cdx_url": "https://web.archive.org/cdx/search/cdx?url=etfdb.com%2Fetf%2FSCHH%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&from=2024&to=2024&limit=-50",
+      "cdx_sha256": "192cc209cf15aa18d645e1e16cd8e11d8d97cfbb007d63669bcb74282e998a95",
+      "request_url": "https://web.archive.org/web/20241004074202id_/https://etfdb.com/etf/SCHH/",
+      "status": 200,
+      "effective_url": "https://web.archive.org/web/20241004074202id_/https://etfdb.com/etf/SCHH/",
+      "effective_capture": "20241004074202",
+      "html_sha256": "8dc7d0c14ea035ca0373e4da7c5ef09c4d1de1ff7fc12341d9e7304271f6a60a",
+      "title": "Schwab US REIT ETF",
+      "aum_display": "AUM $8,013.3 M",
+      "aum_usd": 8013300000,
+      "page_updated": "Oct 02, 2024",
+      "aum_context": "Day Lo - Day Hi - Open Volume Day Lo Day Hi 52 Week Lo $16.11 52 Week Hi $23.52 AUM $8,013.3 M Shares 345.4 M Historical Trading Data 1 Month Avg. Volume 5,033,574 3 Month Avg. Volume 3,763,885 Alternative ETFs in the ETF Database Real Esta",
+      "result": "OK"
+    },
+    {
+      "symbol": "XLF",
+      "year": 2024,
+      "capture": "20241214013751",
+      "original": "https://etfdb.com/etf/XLF/",
+      "cdx_url": "https://web.archive.org/cdx/search/cdx?url=etfdb.com%2Fetf%2FXLF%2F&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&from=2024&to=2024&limit=-50",
+      "cdx_sha256": "ec848e5d1495fc371f04f9cc9a7a9227c2338569b9f1424be74a7c87c9ea458d",
+      "request_url": "https://web.archive.org/web/20241214013751id_/https://etfdb.com/etf/XLF/",
+      "status": 200,
+      "effective_url": "https://web.archive.org/web/20241214013751id_/https://etfdb.com/etf/XLF/",
+      "effective_capture": "20241214013751",
+      "html_sha256": "d95a814ed91bbeaccc50dfa255a6999037359d2dde74910bfe3e494501dbc9e9",
+      "title": "Financial Select Sector SPDR Fund",
+      "aum_display": "AUM $50,339.9 M",
+      "aum_usd": 50339900000,
+      "page_updated": "Dec 12, 2024",
+      "aum_context": "Day Lo - Day Hi - Open Volume Day Lo Day Hi 52 Week Lo $35.96 52 Week Hi $51.62 AUM $50,339.9 M Shares 1,011.0 M Historical Trading Data 1 Month Avg. Volume 36,944,228 3 Month Avg. Volume 38,541,012 Alternative ETFs in the ETF Database Fina",
+      "result": "OK"
+    }
+  ],
+  "note": "Failedlatest archives preserved, no futurepage accepted",
+  "raw_sha256": "0a3ee498bbe09717cb596bb4f60f1c2757f3c50de4ea3f9089f1fdd75dd7d457"
+}

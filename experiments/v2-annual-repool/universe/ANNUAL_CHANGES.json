@@ -1,0 +1,67 @@
+[
+  {
+    "trade_year": 2022,
+    "source_cutoff": "2021-12-31",
+    "price_asof": "2021-12-31",
+    "execute_on": "2022-01-03",
+    "risk_count": 34,
+    "added": [],
+    "removed": [],
+    "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+  },
+  {
+    "trade_year": 2023,
+    "source_cutoff": "2022-12-31",
+    "price_asof": "2022-12-30",
+    "execute_on": "2023-01-03",
+    "risk_count": 33,
+    "added": [
+      "BND",
+      "IEFA",
+      "SMH",
+      "VCSH",
+      "VWO"
+    ],
+    "removed": [
+      "AGG",
+      "IEMG",
+      "INDA",
+      "SOXX",
+      "VCIT",
+      "VEA"
+    ],
+    "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+  },
+  {
+    "trade_year": 2024,
+    "source_cutoff": "2023-12-31",
+    "price_asof": "2023-12-29",
+    "execute_on": "2024-01-02",
+    "risk_count": 33,
+    "added": [
+      "VCIT",
+      "VEA"
+    ],
+    "removed": [
+      "IEFA",
+      "VCSH"
+    ],
+    "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+  },
+  {
+    "trade_year": 2025,
+    "source_cutoff": "2024-12-31",
+    "price_asof": "2024-12-31",
+    "execute_on": "2025-01-02",
+    "risk_count": 33,
+    "added": [
+      "INDA",
+      "USHY"
+    ],
+    "removed": [
+      "HYG",
+      "PDBC"
+    ],
+    "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+  }
+]

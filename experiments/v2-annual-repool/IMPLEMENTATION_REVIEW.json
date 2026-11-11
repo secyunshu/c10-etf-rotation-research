@@ -1,0 +1,33 @@
+{
+  "status": "PASS_SOURCE_STATIC_AND_LOCAL_VALIDATION",
+  "independent_reviewer": "backtrader_audit",
+  "data_independent_review": "PASS_SOURCE_DATA_FOR_FREEZE",
+  "tests_passed": 54,
+  "new_pure_mock_tests": 30,
+  "existing_2025_tests": 24,
+  "warnings": 4,
+  "strict_mypy_sources": 49,
+  "pyright_errors": 0,
+  "ruff_errors": 0,
+  "real_prefix_checks": {
+    "FIXED": 48,
+    "ANNUAL": 48
+  },
+  "native_started": 0,
+  "key_semantics": [
+    "poolyear determined by nextsessionyear",
+    "separate price/selection/source/executiondates",
+    "unionfeeds not scoreuniverse",
+    "choices empty no annual liquidation or account reset",
+    "removedhold sell nextopen and dividend receivables retained",
+    "single95percentdeployment",
+    "fourcatalog hard8",
+    "sixoldsamewindowrefs reused"
+  ],
+  "no_2026_market_payload_read": true,
+  "independent_aum_rows": 190,
+  "independent_market_rows": 51496,
+  "independent_cash_events": 1113,
+  "independent_splits": 6,
+  "independent_TR_max_error": 2.16e-12
+}

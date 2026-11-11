@@ -1,7 +1,7 @@
 {
   "id": "V2_ANNUAL_REPOOL_2022_2025",
-  "asof": "2022-12-31",
-  "decision_close": "2022-12-30",
+  "asof": "Dec31 of prior calendar year per effective_year_mapping",
+  "decision_close": "last trading-day close in priorcalendar year for annual activation; ordinarymonthends sameyear activepool",
   "first_open": "2022-01-03",
   "last": "2025-12-31",
   "aum_min_usd": 5000000000,
@@ -467,7 +467,7 @@
   "candidate_count": 95,
   "source_manifest_sha256": "dc826cd173d3db0202ee11eee4d072bc2c4d27037585bfe1a4b2671eac8439cc",
   "selection": "max reported AUM within original fixed categories, earliest ticker on exact ties; minimum USD5B; SHY defender only, deduprisk",
-  "primary_source": "latest verifiable ETFdb archive captured in2022 on or before2022-12-31, same reporting method as prior V2; exact asset economic date separate, do not invent common Dec31 stamp",
+  "primary_source": "latest retrievable valid ETFdb archive in each priorcalendar year, failed/future replay excluded and allobservations retained",
   "unavailable_policy": "retain missing/failed provenance, seek alternate historical public source; never use2026 AUM, future performance or silently reuse2021 pool",
   "crosscheck": "same-date issuer2022economic data separately labelled if pre-start publication unverified; do not mix into primary ranking without explicit evidence",
   "pit_limitations": [
