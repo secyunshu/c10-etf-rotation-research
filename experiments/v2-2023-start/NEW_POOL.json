@@ -1,0 +1,118 @@
+{
+  "role": "NEW_POOL",
+  "risk_names": [
+    "BIL",
+    "BND",
+    "EWJ",
+    "GLD",
+    "HYG",
+    "IEF",
+    "IEFA",
+    "IJR",
+    "MCHI",
+    "PDBC",
+    "QQQ",
+    "QUAL",
+    "SLV",
+    "SMH",
+    "SPY",
+    "TIP",
+    "TLT",
+    "USMV",
+    "VCSH",
+    "VGT",
+    "VIG",
+    "VNQ",
+    "VTI",
+    "VWO",
+    "XLB",
+    "XLC",
+    "XLE",
+    "XLF",
+    "XLI",
+    "XLP",
+    "XLU",
+    "XLV",
+    "XLY"
+  ],
+  "groups": {
+    "groups": {
+      "us_broad_style": [
+        "IJR",
+        "QQQ",
+        "QUAL",
+        "SPY",
+        "USMV",
+        "VIG",
+        "VTI"
+      ],
+      "technology_semiconductors": [
+        "SMH",
+        "VGT"
+      ],
+      "financials": [
+        "XLF"
+      ],
+      "healthcare": [
+        "XLV"
+      ],
+      "energy": [
+        "XLE"
+      ],
+      "industrials": [
+        "XLI"
+      ],
+      "utilities": [
+        "XLU"
+      ],
+      "consumer_discretionary": [
+        "XLY"
+      ],
+      "consumer_staples": [
+        "XLP"
+      ],
+      "communications": [
+        "XLC"
+      ],
+      "materials": [
+        "XLB"
+      ],
+      "real_estate": [
+        "VNQ"
+      ],
+      "developed_foreign": [
+        "EWJ",
+        "IEFA"
+      ],
+      "emerging_foreign": [
+        "MCHI",
+        "VWO"
+      ],
+      "short_treasury": [
+        "BIL"
+      ],
+      "nominal_treasury_duration": [
+        "IEF",
+        "TLT"
+      ],
+      "inflation_bonds": [
+        "TIP"
+      ],
+      "investment_grade_bonds": [
+        "BND",
+        "VCSH"
+      ],
+      "high_yield_credit": [
+        "HYG"
+      ],
+      "precious_metals": [
+        "GLD",
+        "SLV"
+      ],
+      "broad_commodities": [
+        "PDBC"
+      ]
+    }
+  },
+  "sha256": "13cbe6f2a9ce1dcebfb3cbd03eecb9db390978485265b89417e5db3a4562752a"
+}

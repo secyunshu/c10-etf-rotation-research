@@ -1,0 +1,15 @@
+{
+  "status": "PASS_SOURCE_AND_DATA",
+  "source_reviewer": "independent backtrader_audit",
+  "native_started": 0,
+  "scope": "sevennewmodules:typed2023contract/dynamicpool/nativeconfigreuse/oracle/audit/report",
+  "regression_scope_deviation": "Implementation agent accidentally expanded oldregression to tests/test_standard_v2.py and tests/test_experiments.py: existingtests read2026 market/reference internally, no values shown/no native/new economic computation. Stopped broadscope; subsequent tests are newstudy and explicitlysafe2025 tests. AUM and mainpayload remain historicalonly.",
+  "new_source_files": 7,
+  "data_reviewer": "independent backtrader_audit",
+  "independent_market_rows": 50240,
+  "independent_TR_max_abs_error": 2.16e-12,
+  "tests_passed": 49,
+  "mypy_sources": 49,
+  "pyright_errors": 0,
+  "ruff_errors": 0
+}

@@ -1,0 +1,936 @@
+{
+  "IEFA": {
+    "rows": 1256,
+    "cash": 11,
+    "splits": 0,
+    "status": "PASS",
+    "matches": [
+      {
+        "symbol": "IEFA",
+        "ex_date": "2021-06-10",
+        "pay_date": "2021-06-16",
+        "raw_rehab_amount": 1.08835,
+        "retained_approved_amount": 1.08835,
+        "detailed_amount": 1.08836,
+        "later_share_factor": 1.0,
+        "difference": 1.0000000000065512e-05
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2021-12-13",
+        "pay_date": "2021-12-17",
+        "raw_rehab_amount": 1.27722,
+        "retained_approved_amount": 1.27722,
+        "detailed_amount": 1.27722,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2021-12-30",
+        "pay_date": "2022-01-05",
+        "raw_rehab_amount": 0.10969,
+        "retained_approved_amount": 0.10969,
+        "detailed_amount": 0.10969,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2022-06-09",
+        "pay_date": "2022-06-15",
+        "raw_rehab_amount": 1.33194,
+        "retained_approved_amount": 1.33194,
+        "detailed_amount": 1.33194,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2022-12-13",
+        "pay_date": "2022-12-19",
+        "raw_rehab_amount": 0.33457,
+        "retained_approved_amount": 0.33457,
+        "detailed_amount": 0.33457,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2023-06-07",
+        "pay_date": "2023-06-13",
+        "raw_rehab_amount": 1.28396,
+        "retained_approved_amount": 1.28396,
+        "detailed_amount": 1.28396,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2023-12-20",
+        "pay_date": "2023-12-27",
+        "raw_rehab_amount": 0.96781,
+        "retained_approved_amount": 0.96781,
+        "detailed_amount": 0.96781,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2024-06-11",
+        "pay_date": "2024-06-17",
+        "raw_rehab_amount": 1.30964,
+        "retained_approved_amount": 1.30964,
+        "detailed_amount": 1.30964,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2024-12-17",
+        "pay_date": "2024-12-20",
+        "raw_rehab_amount": 1.13048,
+        "retained_approved_amount": 1.13048,
+        "detailed_amount": 1.13048,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2025-06-16",
+        "pay_date": "2025-06-20",
+        "raw_rehab_amount": 1.46651,
+        "retained_approved_amount": 1.46651,
+        "detailed_amount": 1.46651,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "IEFA",
+        "ex_date": "2025-12-16",
+        "pay_date": "2025-12-19",
+        "raw_rehab_amount": 1.71059,
+        "retained_approved_amount": 1.71059,
+        "detailed_amount": 1.71059,
+        "later_share_factor": 1,
+        "difference": 0.0
+      }
+    ]
+  },
+  "VWO": {
+    "rows": 1256,
+    "cash": 20,
+    "splits": 0,
+    "status": "PASS",
+    "matches": [
+      {
+        "symbol": "VWO",
+        "ex_date": "2021-03-22",
+        "pay_date": "2021-03-25",
+        "raw_rehab_amount": 0.0684,
+        "retained_approved_amount": 0.0684,
+        "detailed_amount": 0.0684,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2021-06-21",
+        "pay_date": "2021-06-24",
+        "raw_rehab_amount": 0.2803,
+        "retained_approved_amount": 0.2803,
+        "detailed_amount": 0.2803,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2021-09-20",
+        "pay_date": "2021-09-23",
+        "raw_rehab_amount": 0.4727,
+        "retained_approved_amount": 0.4727,
+        "detailed_amount": 0.4727,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2021-12-20",
+        "pay_date": "2021-12-23",
+        "raw_rehab_amount": 0.478,
+        "retained_approved_amount": 0.478,
+        "detailed_amount": 0.478,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2022-03-21",
+        "pay_date": "2022-03-24",
+        "raw_rehab_amount": 0.1339,
+        "retained_approved_amount": 0.1339,
+        "detailed_amount": 0.1339,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2022-06-21",
+        "pay_date": "2022-06-24",
+        "raw_rehab_amount": 0.3057,
+        "retained_approved_amount": 0.3057,
+        "detailed_amount": 0.3057,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2022-09-19",
+        "pay_date": "2022-09-22",
+        "raw_rehab_amount": 0.5294,
+        "retained_approved_amount": 0.5294,
+        "detailed_amount": 0.5294,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2022-12-19",
+        "pay_date": "2022-12-22",
+        "raw_rehab_amount": 0.6347,
+        "retained_approved_amount": 0.6347,
+        "detailed_amount": 0.6347,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2023-03-20",
+        "pay_date": "2023-03-23",
+        "raw_rehab_amount": 0.0281,
+        "retained_approved_amount": 0.0281,
+        "detailed_amount": 0.0281,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2023-06-20",
+        "pay_date": "2023-06-23",
+        "raw_rehab_amount": 0.2267,
+        "retained_approved_amount": 0.2267,
+        "detailed_amount": 0.2267,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2023-09-18",
+        "pay_date": "2023-09-21",
+        "raw_rehab_amount": 0.3275,
+        "retained_approved_amount": 0.3275,
+        "detailed_amount": 0.3275,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2023-12-18",
+        "pay_date": "2023-12-21",
+        "raw_rehab_amount": 0.8649,
+        "retained_approved_amount": 0.8649,
+        "detailed_amount": 0.8649,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2024-03-15",
+        "pay_date": "2024-03-20",
+        "raw_rehab_amount": 0.0385,
+        "retained_approved_amount": 0.0385,
+        "detailed_amount": 0.0385,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2024-06-21",
+        "pay_date": "2024-06-25",
+        "raw_rehab_amount": 0.1704,
+        "retained_approved_amount": 0.1704,
+        "detailed_amount": 0.1704,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2024-09-20",
+        "pay_date": "2024-09-24",
+        "raw_rehab_amount": 0.1344,
+        "retained_approved_amount": 0.1344,
+        "detailed_amount": 0.1344,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2024-12-20",
+        "pay_date": "2024-12-24",
+        "raw_rehab_amount": 1.0656,
+        "retained_approved_amount": 1.0656,
+        "detailed_amount": 1.0656,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2025-03-21",
+        "pay_date": "2025-03-25",
+        "raw_rehab_amount": 0.0468,
+        "retained_approved_amount": 0.0468,
+        "detailed_amount": 0.0468,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2025-06-20",
+        "pay_date": "2025-06-24",
+        "raw_rehab_amount": 0.1385,
+        "retained_approved_amount": 0.1385,
+        "detailed_amount": 0.1385,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2025-09-19",
+        "pay_date": "2025-09-23",
+        "raw_rehab_amount": 0.2795,
+        "retained_approved_amount": 0.2795,
+        "detailed_amount": 0.2795,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VWO",
+        "ex_date": "2025-12-19",
+        "pay_date": "2025-12-23",
+        "raw_rehab_amount": 1.0325,
+        "retained_approved_amount": 1.0325,
+        "detailed_amount": 1.0325,
+        "later_share_factor": 1,
+        "difference": 0.0
+      }
+    ]
+  },
+  "VCSH": {
+    "rows": 1256,
+    "cash": 60,
+    "splits": 0,
+    "status": "PASS",
+    "matches": [
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-02-01",
+        "pay_date": "2021-02-04",
+        "raw_rehab_amount": 0.1245,
+        "retained_approved_amount": 0.1245,
+        "detailed_amount": 0.1245,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-03-01",
+        "pay_date": "2021-03-04",
+        "raw_rehab_amount": 0.1085,
+        "retained_approved_amount": 0.1085,
+        "detailed_amount": 0.1085,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-04-01",
+        "pay_date": "2021-04-07",
+        "raw_rehab_amount": 0.1162,
+        "retained_approved_amount": 0.1162,
+        "detailed_amount": 0.1162,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-05-03",
+        "pay_date": "2021-05-06",
+        "raw_rehab_amount": 0.1073,
+        "retained_approved_amount": 0.1073,
+        "detailed_amount": 0.1073,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-06-01",
+        "pay_date": "2021-06-04",
+        "raw_rehab_amount": 0.1098,
+        "retained_approved_amount": 0.1098,
+        "detailed_amount": 0.1098,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-07-01",
+        "pay_date": "2021-07-07",
+        "raw_rehab_amount": 0.1031,
+        "retained_approved_amount": 0.1031,
+        "detailed_amount": 0.1031,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-08-02",
+        "pay_date": "2021-08-05",
+        "raw_rehab_amount": 0.1082,
+        "retained_approved_amount": 0.1082,
+        "detailed_amount": 0.1082,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-09-01",
+        "pay_date": "2021-09-07",
+        "raw_rehab_amount": 0.1058,
+        "retained_approved_amount": 0.1058,
+        "detailed_amount": 0.1058,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-10-01",
+        "pay_date": "2021-10-06",
+        "raw_rehab_amount": 0.1078,
+        "retained_approved_amount": 0.1078,
+        "detailed_amount": 0.1078,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-11-01",
+        "pay_date": "2021-11-04",
+        "raw_rehab_amount": 0.1009,
+        "retained_approved_amount": 0.1009,
+        "detailed_amount": 0.1009,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-12-01",
+        "pay_date": "2021-12-06",
+        "raw_rehab_amount": 0.0988,
+        "retained_approved_amount": 0.0988,
+        "detailed_amount": 0.0988,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2021-12-23",
+        "pay_date": "2021-12-29",
+        "raw_rehab_amount": 0.2816,
+        "retained_approved_amount": 0.2816,
+        "detailed_amount": 0.2816,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-02-01",
+        "pay_date": "2022-02-04",
+        "raw_rehab_amount": 0.099,
+        "retained_approved_amount": 0.099,
+        "detailed_amount": 0.099,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-03-01",
+        "pay_date": "2022-03-04",
+        "raw_rehab_amount": 0.0923,
+        "retained_approved_amount": 0.0923,
+        "detailed_amount": 0.0923,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-04-01",
+        "pay_date": "2022-04-06",
+        "raw_rehab_amount": 0.1064,
+        "retained_approved_amount": 0.1064,
+        "detailed_amount": 0.1064,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-05-02",
+        "pay_date": "2022-05-05",
+        "raw_rehab_amount": 0.1078,
+        "retained_approved_amount": 0.1078,
+        "detailed_amount": 0.1078,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-06-01",
+        "pay_date": "2022-06-06",
+        "raw_rehab_amount": 0.1159,
+        "retained_approved_amount": 0.1159,
+        "detailed_amount": 0.1159,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-07-01",
+        "pay_date": "2022-07-07",
+        "raw_rehab_amount": 0.1179,
+        "retained_approved_amount": 0.1179,
+        "detailed_amount": 0.1179,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-08-01",
+        "pay_date": "2022-08-04",
+        "raw_rehab_amount": 0.1272,
+        "retained_approved_amount": 0.1272,
+        "detailed_amount": 0.1272,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-09-01",
+        "pay_date": "2022-09-07",
+        "raw_rehab_amount": 0.1362,
+        "retained_approved_amount": 0.1362,
+        "detailed_amount": 0.1362,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-10-03",
+        "pay_date": "2022-10-06",
+        "raw_rehab_amount": 0.1443,
+        "retained_approved_amount": 0.1443,
+        "detailed_amount": 0.1443,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-11-01",
+        "pay_date": "2022-11-04",
+        "raw_rehab_amount": 0.1481,
+        "retained_approved_amount": 0.1481,
+        "detailed_amount": 0.1481,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-12-01",
+        "pay_date": "2022-12-06",
+        "raw_rehab_amount": 0.1496,
+        "retained_approved_amount": 0.1496,
+        "detailed_amount": 0.1496,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2022-12-23",
+        "pay_date": "2022-12-29",
+        "raw_rehab_amount": 0.1693,
+        "retained_approved_amount": 0.1693,
+        "detailed_amount": 0.1693,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-02-01",
+        "pay_date": "2023-02-06",
+        "raw_rehab_amount": 0.1723,
+        "retained_approved_amount": 0.1723,
+        "detailed_amount": 0.1723,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-03-01",
+        "pay_date": "2023-03-06",
+        "raw_rehab_amount": 0.1639,
+        "retained_approved_amount": 0.1639,
+        "detailed_amount": 0.1639,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-04-03",
+        "pay_date": "2023-04-06",
+        "raw_rehab_amount": 0.1908,
+        "retained_approved_amount": 0.1908,
+        "detailed_amount": 0.1908,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-05-01",
+        "pay_date": "2023-05-04",
+        "raw_rehab_amount": 0.1826,
+        "retained_approved_amount": 0.1826,
+        "detailed_amount": 0.1826,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-06-01",
+        "pay_date": "2023-06-06",
+        "raw_rehab_amount": 0.1952,
+        "retained_approved_amount": 0.1952,
+        "detailed_amount": 0.1952,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-07-03",
+        "pay_date": "2023-07-07",
+        "raw_rehab_amount": 0.1923,
+        "retained_approved_amount": 0.1923,
+        "detailed_amount": 0.1923,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-08-01",
+        "pay_date": "2023-08-04",
+        "raw_rehab_amount": 0.1983,
+        "retained_approved_amount": 0.1983,
+        "detailed_amount": 0.1983,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-09-01",
+        "pay_date": "2023-09-07",
+        "raw_rehab_amount": 0.2095,
+        "retained_approved_amount": 0.2095,
+        "detailed_amount": 0.2095,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-10-02",
+        "pay_date": "2023-10-05",
+        "raw_rehab_amount": 0.2147,
+        "retained_approved_amount": 0.2147,
+        "detailed_amount": 0.2147,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-11-01",
+        "pay_date": "2023-11-06",
+        "raw_rehab_amount": 0.2267,
+        "retained_approved_amount": 0.2267,
+        "detailed_amount": 0.2267,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-12-01",
+        "pay_date": "2023-12-06",
+        "raw_rehab_amount": 0.2164,
+        "retained_approved_amount": 0.2164,
+        "detailed_amount": 0.2164,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2023-12-22",
+        "pay_date": "2023-12-28",
+        "raw_rehab_amount": 0.2312,
+        "retained_approved_amount": 0.2312,
+        "detailed_amount": 0.2312,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-02-01",
+        "pay_date": "2024-02-06",
+        "raw_rehab_amount": 0.234,
+        "retained_approved_amount": 0.234,
+        "detailed_amount": 0.234,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-03-01",
+        "pay_date": "2024-03-06",
+        "raw_rehab_amount": 0.229,
+        "retained_approved_amount": 0.229,
+        "detailed_amount": 0.229,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-04-01",
+        "pay_date": "2024-04-04",
+        "raw_rehab_amount": 0.2479,
+        "retained_approved_amount": 0.2479,
+        "detailed_amount": 0.2479,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-05-01",
+        "pay_date": "2024-05-06",
+        "raw_rehab_amount": 0.2492,
+        "retained_approved_amount": 0.2492,
+        "detailed_amount": 0.2492,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-06-03",
+        "pay_date": "2024-06-05",
+        "raw_rehab_amount": 0.258,
+        "retained_approved_amount": 0.258,
+        "detailed_amount": 0.258,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-07-01",
+        "pay_date": "2024-07-03",
+        "raw_rehab_amount": 0.2559,
+        "retained_approved_amount": 0.2559,
+        "detailed_amount": 0.2559,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-08-01",
+        "pay_date": "2024-08-05",
+        "raw_rehab_amount": 0.2669,
+        "retained_approved_amount": 0.2669,
+        "detailed_amount": 0.2669,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-09-03",
+        "pay_date": "2024-09-05",
+        "raw_rehab_amount": 0.2627,
+        "retained_approved_amount": 0.2627,
+        "detailed_amount": 0.2627,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-10-01",
+        "pay_date": "2024-10-03",
+        "raw_rehab_amount": 0.2605,
+        "retained_approved_amount": 0.2605,
+        "detailed_amount": 0.2605,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-11-01",
+        "pay_date": "2024-11-05",
+        "raw_rehab_amount": 0.2741,
+        "retained_approved_amount": 0.2741,
+        "detailed_amount": 0.2741,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-12-02",
+        "pay_date": "2024-12-04",
+        "raw_rehab_amount": 0.2729,
+        "retained_approved_amount": 0.2729,
+        "detailed_amount": 0.2729,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2024-12-24",
+        "pay_date": "2024-12-27",
+        "raw_rehab_amount": 0.2798,
+        "retained_approved_amount": 0.2798,
+        "detailed_amount": 0.2798,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-02-03",
+        "pay_date": "2025-02-05",
+        "raw_rehab_amount": 0.2813,
+        "retained_approved_amount": 0.2813,
+        "detailed_amount": 0.2813,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-03-03",
+        "pay_date": "2025-03-05",
+        "raw_rehab_amount": 0.2588,
+        "retained_approved_amount": 0.2588,
+        "detailed_amount": 0.2588,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-04-01",
+        "pay_date": "2025-04-03",
+        "raw_rehab_amount": 0.289,
+        "retained_approved_amount": 0.289,
+        "detailed_amount": 0.289,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-05-01",
+        "pay_date": "2025-05-05",
+        "raw_rehab_amount": 0.2824,
+        "retained_approved_amount": 0.2824,
+        "detailed_amount": 0.2824,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-06-02",
+        "pay_date": "2025-06-04",
+        "raw_rehab_amount": 0.297,
+        "retained_approved_amount": 0.297,
+        "detailed_amount": 0.297,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-07-01",
+        "pay_date": "2025-07-03",
+        "raw_rehab_amount": 0.2903,
+        "retained_approved_amount": 0.2903,
+        "detailed_amount": 0.2903,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-08-01",
+        "pay_date": "2025-08-05",
+        "raw_rehab_amount": 0.2972,
+        "retained_approved_amount": 0.2972,
+        "detailed_amount": 0.2972,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-09-02",
+        "pay_date": "2025-09-04",
+        "raw_rehab_amount": 0.2901,
+        "retained_approved_amount": 0.2901,
+        "detailed_amount": 0.2901,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-10-01",
+        "pay_date": "2025-10-03",
+        "raw_rehab_amount": 0.2904,
+        "retained_approved_amount": 0.2904,
+        "detailed_amount": 0.2904,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-11-03",
+        "pay_date": "2025-11-05",
+        "raw_rehab_amount": 0.2974,
+        "retained_approved_amount": 0.2974,
+        "detailed_amount": 0.2974,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-12-01",
+        "pay_date": "2025-12-03",
+        "raw_rehab_amount": 0.2911,
+        "retained_approved_amount": 0.2911,
+        "detailed_amount": 0.2911,
+        "later_share_factor": 1.0,
+        "difference": 0.0
+      },
+      {
+        "symbol": "VCSH",
+        "ex_date": "2025-12-18",
+        "pay_date": "2025-12-22",
+        "raw_rehab_amount": 0.3005,
+        "retained_approved_amount": 0.3005,
+        "detailed_amount": 0.3005,
+        "later_share_factor": 1,
+        "difference": 0.0
+      }
+    ]
+  }
+}

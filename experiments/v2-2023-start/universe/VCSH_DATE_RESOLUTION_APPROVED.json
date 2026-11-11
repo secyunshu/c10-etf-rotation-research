@@ -1,0 +1,27 @@
+{
+  "status": "USER_APPROVED_EXACT_TWO_DATE_CORRECTIONS",
+  "symbol": "VCSH",
+  "changes": [
+    {
+      "amount": 0.1923,
+      "detail_ex": "2023-07-05",
+      "rehab_ex": "2023-07-03",
+      "yahoo_ex": "2023-07-03",
+      "pay_date": "2023-07-07"
+    },
+    {
+      "amount": 0.2312,
+      "detail_ex": "2023-12-21",
+      "rehab_ex": "2023-12-22",
+      "yahoo_ex": "2023-12-22",
+      "pay_date": "2023-12-28"
+    }
+  ],
+  "policy": "Retain all raw; only normalized detailexdate aligned to Futu rehab plus independentYahoo, amounts and real payment dates retained. No alternative day scenario optimizing returns.",
+  "source_hashes": {
+    "VCSH_rehab.log": "670b88184313b4681e02149c4d760140d4f4753f683040da6c205645fcc24166",
+    "VCSH_dividends.log": "08a8643f6811ad88022b8fbfc3ee545dcf90d2717e2440034bfac0386659a307",
+    "VCSH_YAHOO_2023.json": "16d768a2d00a51afe765e708b44d6c491d13ea0f9c5dbe736df5baa30c6483fa"
+  },
+  "authorization": "User2026-11-11 approved exactly July3 and December22 dates; amounts and payment dates unchanged"
+}

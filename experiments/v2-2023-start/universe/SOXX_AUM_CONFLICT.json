@@ -1,0 +1,16 @@
+{
+  "symbol": "SOXX",
+  "status": "SOURCE_INTERNAL_CONFLICT_RETAINED",
+  "literal_reported_aum_usd": 521500000,
+  "same_page_price": 333.76,
+  "same_page_shares_display": "17.1M",
+  "same_page_price_times_shares_usd": 5707296000,
+  "same_page_proxy_not_audited_nav_aum": true,
+  "selection_status": "pendingindependentreview",
+  "candidate_threshold_status": "UNKNOWN_DISPUTED",
+  "smh_reported_aum_usd": 7506900000,
+  "winner_under_both_observed_values": "SMH",
+  "method": "Retain raw label; do not infer SOXX actually below5B. Samepage price*shares sensitivity only, asynchronous snapshots continue to limit exact yearend rank.",
+  "url": "https://web.archive.org/web/20220925013513id_/https://etfdb.com/etf/SOXX/",
+  "html_sha256": "6da3b0840e49b6793cd103471f0e42d5313bb4e67b1a6eb8e514c62865f7eb0c"
+}
