@@ -1,0 +1,67 @@
+{
+  "status": "PASS_CONDITIONAL_ARCHIVE_POOL_AND_CANONICAL_INPUTS",
+  "new_risk_count": 33,
+  "old_risk_count": 34,
+  "union_assets_including_defender": 40,
+  "rows_per_asset": 1256,
+  "first": "2020-12-31",
+  "last": "2025-12-31",
+  "aum_candidates": 95,
+  "aum_categories": 36,
+  "winner_categories": 34,
+  "fixed_pool_rebuilt_once": true,
+  "source_capture_range": [
+    "20220818003935",
+    "20221220014033"
+  ],
+  "page_age_days_range": [
+    18,
+    140
+  ],
+  "aum_economic_date": "unknown separately; page update not assumed AUM date",
+  "same_page_SOXX_status": "disputed threshold; raw521.5M not trusted for actual5B qualification; SMH stayswinner under observed5.707296B price*roundedshares alternative, not true same-date proof",
+  "near_rank_notes": [
+    "VGT42.0687B Nov23 vs XLK41.3137B Dec1; asynchronous1.83percentgap",
+    "VCSH41.3864B Nov29 vs VCIT40.7846B Dec8; asynchronous1.48percentgap",
+    "VEA olderSep27 snapshot vsIEFANov28; reportedlatestobservablewinner not exactDec30 ranking",
+    "VWO Dec8 vsIEMGSep29; same-dateissuer economic record can reverse rank but contemporaneouspublication notverified and excluded fromprimary"
+  ],
+  "approved_corrections": [
+    "VCSH2023-07-05\u219207-03",
+    "VCSH2023-12-21\u219212-22",
+    "VCSH2021-12-23rehab.1821\u2192sum.2816, realpay unchanged"
+  ],
+  "additional_market_source": "Futu officialskill history rawRTH/none, rehab, detailedactualpayment; IEFA/VWO rawOHLCVturnover identical earlier archivedFutu for overlap",
+  "legacy_reused_assets": 37,
+  "new_normalized_assets": [
+    "IEFA",
+    "VWO",
+    "VCSH"
+  ],
+  "new_cash_counts": {
+    "IEFA": 11,
+    "VWO": 20,
+    "VCSH": 60
+  },
+  "new_splits": 0,
+  "raw_local_only": true,
+  "raw_source_sha256": {
+    "REPAIRS_BROWSER_RAW.json": "edf690aec0673e18273dca116fb80ecfbf562861c885a9851131f019c4abaea7",
+    "IEFA_dividends.log": "329265fddc661db4fd36561860c2c07a3f96fb23a482ee9d4bc996eebafe6949",
+    "ALL95_BROWSER_RAW.json": "efd4bfd9d373f3ff7b80962e25e70f4f97ba9b88e7604f775e08e00288535ce7",
+    "IEFA_prices.log": "6bfd94db4384a6c7feb07aa2dbd87e9d9a1474e15c6692aa58e3a1de8273393f",
+    "VWO_rehab.log": "3cffacb91ff2e9b70b3e356c63d5e58da98a97d082548f00ac1672fbc9adb833",
+    "IEFA_rehab.log": "240fd8437b98a58f0a1c2d27cc3016441332e11b3f11f4406b8d77f137ccb030",
+    "VCSH_splits.log": "d2d59768db7d81e8b6b81c2ce42876ae8c77eece20a43e04e1de902a9e609e0c",
+    "VCSH_rehab.log": "670b88184313b4681e02149c4d760140d4f4753f683040da6c205645fcc24166",
+    "VCSH_YAHOO_2021_2025.json": "f87ebdfcfc8379a83ace685d763ce5fc3d8ba52f8c6fc8633a0c45901d86ebba",
+    "VCSH_YAHOO_2023.json": "16d768a2d00a51afe765e708b44d6c491d13ea0f9c5dbe736df5baa30c6483fa",
+    "VWO_prices.log": "fdddbe7c32c617f446a69c672dc0fad0f9271120b186f28142e15407872a0650",
+    "FUTU_QUOTA.log": "55806cf267cbeb51560acca2e5804bf177cbe9ecd2554ce0f2f8e5f5486da1a1",
+    "VCSH_dividends.log": "08a8643f6811ad88022b8fbfc3ee545dcf90d2717e2440034bfac0386659a307",
+    "VCSH_prices.log": "2c7555f9074e3ee3a2c562d5dbc5fc91b3b94b3db8173e3e04993ed6728d8d14",
+    "VWO_dividends.log": "3242b309b136882edeba4575efa8445c96bed66eff572ecb1e909079050a9f30"
+  },
+  "data_manifest_sha256": "d5a59b94582f3563a156d6df25e0c8a10d43d8746a2beda76bfb7a714e161474",
+  "new_native_before_acceptance": 0
+}

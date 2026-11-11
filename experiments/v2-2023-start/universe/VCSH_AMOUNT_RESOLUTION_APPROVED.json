@@ -1,0 +1,17 @@
+{
+  "status": "USER_APPROVED",
+  "symbol": "VCSH",
+  "ex_date": "2021-12-23",
+  "original_rehab_amount": 0.1821,
+  "normal_cash": 0.0995,
+  "capital_distribution": 0.1821,
+  "adopted_total": 0.2816,
+  "pay_date": "2021-12-29",
+  "yahoo_rounded": 0.282,
+  "authorization": "User2026-11-11 explicitly approved sum; raw preserved",
+  "source_sha256": {
+    "VCSH_rehab.log": "670b88184313b4681e02149c4d760140d4f4753f683040da6c205645fcc24166",
+    "VCSH_dividends.log": "08a8643f6811ad88022b8fbfc3ee545dcf90d2717e2440034bfac0386659a307",
+    "VCSH_YAHOO_2021_2025.json": "f87ebdfcfc8379a83ace685d763ce5fc3d8ba52f8c6fc8633a0c45901d86ebba"
+  }
+}

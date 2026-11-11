@@ -1,0 +1,16 @@
+{
+  "status": "PASS_PLAN",
+  "final_pool_and_input_acceptance": "PENDING",
+  "reviewer": "independent backtrader_audit",
+  "plan_sha256": "d8198c6ae8ce08fc8f45d6ac40f4f5f0991ed19bbdf44fffa60dc67ea1f95790",
+  "native_started": 0,
+  "required_clarification": "Old categories template current2026 values are provenance only, never historical sorting inputs",
+  "resolution": "DATA_PROTOCOL category_template_scope explicit; selector only group/comparison_symbols plus new2022 records",
+  "checks": [
+    "Dec30signal Jan3execution warmup253",
+    "fresh50k allroles, oldpool comparison isolates poolchange",
+    "2bridges8science plan10hard16",
+    "Backtrader reuse and no schema validation bypass",
+    "seen sample and conditionalPIT limitations stated"
+  ]
+}

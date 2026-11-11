@@ -1,0 +1,153 @@
+{
+  "hashes": {
+    "AGG": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "f86119387708b24ddefa09307ed7053f5105c28407bdce2c6231000f99a92884"
+    },
+    "BIL": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "4cad0021fdd94a1b9615c55778b03116e64041bf4e2a8996e14565e753203738"
+    },
+    "BND": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "1f7fa88a5f8dfb0e3472850b907ef1d9644f6b939dbf1112ec27c472bd542011"
+    },
+    "EWJ": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "c7a52d4d91e5d41091afc98d7f749ca2b37747e65e6aae2ed78378b40bfa27a1"
+    },
+    "GLD": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "9004e93349a76a00e45d62c6b57fd21702cc69b79b0573b3b638f3da16875655"
+    },
+    "HYG": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "ac2853eb82840bf381a7b6858df50a5384df8991504d988cbc6bce7d78b339db"
+    },
+    "IEF": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "45012d14be9c6623ff3e3b47d1ba634549ef7f487f70c1ae07f8753442e29c13"
+    },
+    "IEMG": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "dd0bcca93e077f5105786aa20033a28df67dc7915df9c0b822d868e69ba2915b"
+    },
+    "IJR": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "75e66634369c42ab772d6e9dca8b97ade251ad2a3fb0b5ad684555ee77c48af3"
+    },
+    "INDA": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "6686cc54621140add5f05dfc6717497e39d362b4d2760be4405b3df04d332f6b"
+    },
+    "MCHI": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "673cd756321d500c84cf34f01979dd215a1faff4ba26faebc9d051eac59222ff"
+    },
+    "PDBC": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "5d9e617595a1bf5ff466df62acc8111445aa58ea9908faf21571131116597baf"
+    },
+    "QQQ": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "145ec850451e8dd5abf3016586849368ee6f1838399228431ac46273116885e3"
+    },
+    "QUAL": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "a81925915d51e9968870352fb2a4fa6a321f406ddbf0965df774b45a179acc6e"
+    },
+    "SHY": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "18097080957a077e7907c4fa83e4c62dcd801c152366f64807c1d878d403bbea"
+    },
+    "SLV": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "d56ebd00db195ab825647d56f0009c9b5bec4f1a060a82077696551c79c9f438"
+    },
+    "SMH": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "b200730b64b55f9a60f391c28a07831d9f287c35d4b806e151ca68306cc8a14a"
+    },
+    "SOXX": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "1a60da91014ff41974b4ac82222dee8dabfedd825246c5ee0811d11fae6c2e64"
+    },
+    "SPY": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "9bc4f722267b4f5fa24955256fc985e7568527c91dd45b856743426a5501066c"
+    },
+    "TIP": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "0f2b1c584427dab9eef16975a5ea64e147341610ac1ec9affc0ca7104bc74b1e"
+    },
+    "TLT": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "b9f754b4adba257b84ffc13f8b016cf01ccd9c7586051cdd4e65f87506c37c27"
+    },
+    "USMV": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "6b02c58512a950b35e6144f8f6d14d9562e19f08543377999a939bfef8b8ec4d"
+    },
+    "VCIT": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "eeb0a5a163d3f32eaa7ff0a75db5df3be5b1311afb5d9341b939729aad8c7114"
+    },
+    "VEA": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "f5701401a84a5ff220d9972ffe6c24160dd37e38d29e06987fdad5a35adc6f7a"
+    },
+    "VGT": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "631aec62db8efa5986e9ebcfacb05474ff19f6a6aa62cbb7611d3370f021503a"
+    },
+    "VIG": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "1f2ad9c1020ca1879d8f6c88fee7178eea02edc0f297630b3fd9b4bf9e8ac7de"
+    },
+    "VNQ": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "626f3d3ccdf1e2e2bcddaeae90d2720539d659bbe627948a3f711fbe4b9716d7"
+    },
+    "VTI": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "504d521bae5e3412ad46a3617e538b0e00dc07374191fb054c5f8f4c6675acad"
+    },
+    "XLB": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "350b77dd6888d260b03b73bbb3b54b50f7187b66eb8936f01bc248d8e7490046"
+    },
+    "XLC": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "ae72ddd997b0f7adfba68db1b7c4ddfe403c8217e7113d41a5e27e872e24ba47"
+    },
+    "XLE": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "a118ceb95af8a7f496cbeb25066ddc93267bac20292f614cd72a5f6ed0a9d630"
+    },
+    "XLF": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "d4c39661f4fc967618ca95a28c5344c93e0d2817943732807a2491d525368665"
+    },
+    "XLI": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "6984b441b50a2a101f3e85a35c50a36460fc3c5542113f6a0d8570bb8062927e"
+    },
+    "XLP": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "c86392a5532c4b19139e1aa99d5279522f2abb816e80bf17d60c2ecb64601b41"
+    },
+    "XLU": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "e7e095a50be277657cd1600eea27bed285032e37f5046bef73bc359edff275be"
+    },
+    "XLV": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "9a659422b0e3419784ecd856980570ceb8728de15a4c1f87b03b5ef92e5d064a"
+    },
+    "XLY": {
+      "source": "prior accepted group-cap2025 canonical",
+      "source_file_sha256": "5c426ee796c5383f472c9801ef8db4ff333e165ce51e03b868bd9400b8b7173b"
+    }
+  },
+  "joint_manifest_sha256": "d95c2f54fb6a54bffcbbfc6a8da7d604f19785c2c996fd7f71612ae25af2bbe0"
+}

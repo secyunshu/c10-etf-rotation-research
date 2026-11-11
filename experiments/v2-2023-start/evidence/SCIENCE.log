@@ -1,0 +1,72 @@
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:117: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  compare_frames(pd.read_csv(generated / filename, float_precision="round_trip"),
+<repository>/scripts/v2_2023_run.py:118: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+  pd.read_csv(folder / filename, float_precision="round_trip"),

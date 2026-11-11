@@ -1,0 +1,80 @@
+[
+  {
+    "period": "early",
+    "days": 250,
+    "cagr": 0.509186948660203,
+    "total_return": 0.5042653270399999,
+    "sharpe": 2.492781555164067,
+    "max_dd": 0.10334222964329931,
+    "fees": 2.518528,
+    "dividends": 446.30608,
+    "orders": 1,
+    "turnover": 0.7427027243698219,
+    "positive_years": 1
+  },
+  {
+    "period": "late",
+    "days": 502,
+    "cagr": 0.22742310386497433,
+    "total_return": 0.5041192990450853,
+    "sharpe": 1.1205430131585685,
+    "max_dd": 0.219110101448863,
+    "fees": 4.76400773848,
+    "dividends": 992.87232,
+    "orders": 1,
+    "turnover": 1.1750350514976953,
+    "positive_years": 2
+  },
+  {
+    "period": "2023",
+    "days": 250,
+    "cagr": 0.509186948660203,
+    "total_return": 0.5042653270399999,
+    "sharpe": 2.492781555164067,
+    "max_dd": 0.10334222964329931,
+    "fees": 2.518528,
+    "dividends": 446.30608,
+    "orders": 1,
+    "turnover": 0.7427027243698219,
+    "positive_years": 1
+  },
+  {
+    "period": "2024",
+    "days": 252,
+    "cagr": 0.244663469791067,
+    "total_return": 0.244663469791067,
+    "sharpe": 1.3520437494664617,
+    "max_dd": 0.13060139643705804,
+    "fees": 0.0,
+    "dividends": 500.97872,
+    "orders": 0,
+    "turnover": 0.0,
+    "positive_years": 1
+  },
+  {
+    "period": "2025",
+    "days": 250,
+    "cagr": 0.21028648301991804,
+    "total_return": 0.2084546028313754,
+    "sharpe": 0.9570205178213002,
+    "max_dd": 0.219110101448863,
+    "fees": 4.76400773848,
+    "dividends": 491.8936,
+    "orders": 1,
+    "turnover": 1.085130225123769,
+    "positive_years": 1
+  },
+  {
+    "period": "full",
+    "days": 752,
+    "cagr": 0.3147130635580664,
+    "total_return": 1.2625945092852304,
+    "sharpe": 1.5254035240078376,
+    "max_dd": 0.219110101448863,
+    "fees": 7.28253573848,
+    "dividends": 1439.1784,
+    "orders": 2,
+    "turnover": 1.8809499589443601,
+    "positive_years": 3
+  }
+]

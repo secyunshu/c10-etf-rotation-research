@@ -1,0 +1,10 @@
+{
+  "experiment": "V2_REPOOL_2023_V1",
+  "contract": {
+    "role": "QQQ_BH",
+    "cost_bps": 5,
+    "stage": "science",
+    "pool_sha256": "4a049c8d881b52fbd5c7961e8688f00726ab84859fb5e644d1c9f0a625cb15e2"
+  },
+  "source_sha256": "86e704175e3b736a59e77d173ded98df5617930bca6decefd18964689087dc99"
+}
