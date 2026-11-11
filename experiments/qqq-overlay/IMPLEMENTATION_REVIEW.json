@@ -1,0 +1,13 @@
+{
+  "status": "PASS_SOURCE",
+  "reviewer": "independent backtrader_audit",
+  "plan_commit": "2668d44",
+  "native_started_before_source_freeze": 0,
+  "review_scope": [
+    "directaccountweights and invested1 vs original .95",
+    "postgate branch/no refill/fixedQQQ and group exception",
+    "historicalonly runner/report binding and two bridges",
+    "8attempt budget, preserve failures, no successful reruns, hook restoration"
+  ],
+  "regression_scope_note": "Old infrastructure regression includes existing 2026 fixtures and fixed historical/2026 reference checks; no new strategy signals, simulation, selection or reporting use2026. New experiment market and result computations are physically2025only."
+}
