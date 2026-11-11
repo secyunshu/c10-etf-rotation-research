@@ -1,0 +1,46 @@
+{
+  "status": "PASS_CONDITIONAL_ARCHIVE_SCHEDULE",
+  "annual_risk_counts": [
+    34,
+    33,
+    33,
+    33
+  ],
+  "annual_first2022_exact_original2021": true,
+  "annual2023_exact_previously_accepted2022": true,
+  "new_aum_observations": 190,
+  "old_aum_observations_reused": 190,
+  "categories_each_year": 36,
+  "latest_valid_archive_not_exact_dec31aum": true,
+  "economic_aum_date": "unknown separately from pageupdate formostrecords",
+  "source_page_age_days_range": {
+    "2023": [
+      8,
+      220
+    ],
+    "2024": [
+      4,
+      225
+    ]
+  },
+  "failed_archive_replays": [
+    "2024SCHHlatestforwarded2025blocked",
+    "2024XLFlatestforwardedearlier2024blocked"
+  ],
+  "resolution": "latestdistinct prior archive that rendersvalidcontent within2024;no futureaccepted;allrawattempts preserved",
+  "same_page_price_times_rounded_shares_check": "all190 within10percent;diagnosticnotauditedassetproof",
+  "union_assets": 41,
+  "rows_per_asset": 1256,
+  "market_first": "2020-12-31",
+  "market_last": "2025-12-31",
+  "input_sources": "40 priorv2-2023 acceptedcanonical + USHY earlieracceptedjoint45/2025; no numeric change",
+  "new_market_api_calls": 0,
+  "new_cash_corrections": 0,
+  "prior_approved_vcsh_and_prior_soxx_conflict_retained": true,
+  "raw_local_hashes": {
+    "FINAL_BROWSER_RAW.json": "0a3ee498bbe09717cb596bb4f60f1c2757f3c50de4ea3f9089f1fdd75dd7d457",
+    "ALL_BROWSER_RAW.json": "d5175119f2fc1fa170c31427fe0e1b09118c0c5ee860f424c792237537422223"
+  },
+  "manifest_hash": "ab527d710371933ffb72fc989c87adb5d7691c005f102875e92b291bb1226a11",
+  "native_started": 0
+}

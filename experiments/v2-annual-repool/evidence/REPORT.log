@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "cases": 8,
+  "annual_rows": 32,
+  "summary_rows": 8,
+  "checked_table_cells": 3998,
+  "source_lock": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038",
+  "native_attempts": 0,
+  "table_hashes": {
+    "ANNUAL.csv": "9e5da3609778ead99f8865dadf3908634c30e686de94bfd12d03d0916a3af4b4",
+    "SUMMARY.csv": "d1a5c89ea5fe79c1d890cce8a633be9fd15089d3f0b1504eed90427f99d4ce58",
+    "TARGETS.csv": "66de32d6d542a69ab8f0090f06c1f611615c09de8fabbd2d6d7bc643dc4cebd3",
+    "TIMINGS.csv": "8f85e92e0b82e5307f2f1c3062d3714dda65ee0188195c160a9acce6966ec063",
+    "YEAR_OPEN_ORDERS.csv": "7cbec2cb2ece7909c7195288494b94a4a46b6ec8672f550b518864d10f57c14e"
+  }
+}

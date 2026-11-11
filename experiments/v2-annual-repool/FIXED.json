@@ -1,0 +1,502 @@
+{
+  "mode": "FIXED",
+  "entries": [
+    {
+      "year": 2022,
+      "risk_names": [
+        "AGG",
+        "BIL",
+        "EWJ",
+        "GLD",
+        "HYG",
+        "IEF",
+        "IEMG",
+        "IJR",
+        "INDA",
+        "MCHI",
+        "PDBC",
+        "QQQ",
+        "QUAL",
+        "SLV",
+        "SOXX",
+        "SPY",
+        "TIP",
+        "TLT",
+        "USMV",
+        "VCIT",
+        "VEA",
+        "VGT",
+        "VIG",
+        "VNQ",
+        "VTI",
+        "XLB",
+        "XLC",
+        "XLE",
+        "XLF",
+        "XLI",
+        "XLP",
+        "XLU",
+        "XLV",
+        "XLY"
+      ],
+      "groups": {
+        "groups": {
+          "us_broad_style": [
+            "VTI",
+            "QQQ",
+            "IJR",
+            "USMV",
+            "SPY",
+            "VIG",
+            "QUAL"
+          ],
+          "technology_semiconductors": [
+            "VGT",
+            "SOXX"
+          ],
+          "financials": [
+            "XLF"
+          ],
+          "healthcare": [
+            "XLV"
+          ],
+          "energy": [
+            "XLE"
+          ],
+          "industrials": [
+            "XLI"
+          ],
+          "utilities": [
+            "XLU"
+          ],
+          "consumer_discretionary": [
+            "XLY"
+          ],
+          "consumer_staples": [
+            "XLP"
+          ],
+          "communications": [
+            "XLC"
+          ],
+          "materials": [
+            "XLB"
+          ],
+          "real_estate": [
+            "VNQ"
+          ],
+          "developed_foreign": [
+            "VEA",
+            "EWJ"
+          ],
+          "emerging_foreign": [
+            "IEMG",
+            "INDA",
+            "MCHI"
+          ],
+          "short_treasury": [
+            "BIL"
+          ],
+          "nominal_treasury_duration": [
+            "IEF",
+            "TLT"
+          ],
+          "inflation_bonds": [
+            "TIP"
+          ],
+          "investment_grade_bonds": [
+            "VCIT",
+            "AGG"
+          ],
+          "high_yield_credit": [
+            "HYG"
+          ],
+          "precious_metals": [
+            "GLD",
+            "SLV"
+          ],
+          "broad_commodities": [
+            "PDBC"
+          ]
+        }
+      },
+      "price_asof": "2021-12-31",
+      "selection_asof": "2021-12-31",
+      "execute_on": "2022-01-03",
+      "source_asof": "2021-12-31",
+      "sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+    },
+    {
+      "year": 2023,
+      "risk_names": [
+        "AGG",
+        "BIL",
+        "EWJ",
+        "GLD",
+        "HYG",
+        "IEF",
+        "IEMG",
+        "IJR",
+        "INDA",
+        "MCHI",
+        "PDBC",
+        "QQQ",
+        "QUAL",
+        "SLV",
+        "SOXX",
+        "SPY",
+        "TIP",
+        "TLT",
+        "USMV",
+        "VCIT",
+        "VEA",
+        "VGT",
+        "VIG",
+        "VNQ",
+        "VTI",
+        "XLB",
+        "XLC",
+        "XLE",
+        "XLF",
+        "XLI",
+        "XLP",
+        "XLU",
+        "XLV",
+        "XLY"
+      ],
+      "groups": {
+        "groups": {
+          "us_broad_style": [
+            "VTI",
+            "QQQ",
+            "IJR",
+            "USMV",
+            "SPY",
+            "VIG",
+            "QUAL"
+          ],
+          "technology_semiconductors": [
+            "VGT",
+            "SOXX"
+          ],
+          "financials": [
+            "XLF"
+          ],
+          "healthcare": [
+            "XLV"
+          ],
+          "energy": [
+            "XLE"
+          ],
+          "industrials": [
+            "XLI"
+          ],
+          "utilities": [
+            "XLU"
+          ],
+          "consumer_discretionary": [
+            "XLY"
+          ],
+          "consumer_staples": [
+            "XLP"
+          ],
+          "communications": [
+            "XLC"
+          ],
+          "materials": [
+            "XLB"
+          ],
+          "real_estate": [
+            "VNQ"
+          ],
+          "developed_foreign": [
+            "VEA",
+            "EWJ"
+          ],
+          "emerging_foreign": [
+            "IEMG",
+            "INDA",
+            "MCHI"
+          ],
+          "short_treasury": [
+            "BIL"
+          ],
+          "nominal_treasury_duration": [
+            "IEF",
+            "TLT"
+          ],
+          "inflation_bonds": [
+            "TIP"
+          ],
+          "investment_grade_bonds": [
+            "VCIT",
+            "AGG"
+          ],
+          "high_yield_credit": [
+            "HYG"
+          ],
+          "precious_metals": [
+            "GLD",
+            "SLV"
+          ],
+          "broad_commodities": [
+            "PDBC"
+          ]
+        }
+      },
+      "price_asof": "2022-12-30",
+      "selection_asof": "2022-12-31",
+      "execute_on": "2023-01-03",
+      "source_asof": "2021-12-31",
+      "sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+    },
+    {
+      "year": 2024,
+      "risk_names": [
+        "AGG",
+        "BIL",
+        "EWJ",
+        "GLD",
+        "HYG",
+        "IEF",
+        "IEMG",
+        "IJR",
+        "INDA",
+        "MCHI",
+        "PDBC",
+        "QQQ",
+        "QUAL",
+        "SLV",
+        "SOXX",
+        "SPY",
+        "TIP",
+        "TLT",
+        "USMV",
+        "VCIT",
+        "VEA",
+        "VGT",
+        "VIG",
+        "VNQ",
+        "VTI",
+        "XLB",
+        "XLC",
+        "XLE",
+        "XLF",
+        "XLI",
+        "XLP",
+        "XLU",
+        "XLV",
+        "XLY"
+      ],
+      "groups": {
+        "groups": {
+          "us_broad_style": [
+            "VTI",
+            "QQQ",
+            "IJR",
+            "USMV",
+            "SPY",
+            "VIG",
+            "QUAL"
+          ],
+          "technology_semiconductors": [
+            "VGT",
+            "SOXX"
+          ],
+          "financials": [
+            "XLF"
+          ],
+          "healthcare": [
+            "XLV"
+          ],
+          "energy": [
+            "XLE"
+          ],
+          "industrials": [
+            "XLI"
+          ],
+          "utilities": [
+            "XLU"
+          ],
+          "consumer_discretionary": [
+            "XLY"
+          ],
+          "consumer_staples": [
+            "XLP"
+          ],
+          "communications": [
+            "XLC"
+          ],
+          "materials": [
+            "XLB"
+          ],
+          "real_estate": [
+            "VNQ"
+          ],
+          "developed_foreign": [
+            "VEA",
+            "EWJ"
+          ],
+          "emerging_foreign": [
+            "IEMG",
+            "INDA",
+            "MCHI"
+          ],
+          "short_treasury": [
+            "BIL"
+          ],
+          "nominal_treasury_duration": [
+            "IEF",
+            "TLT"
+          ],
+          "inflation_bonds": [
+            "TIP"
+          ],
+          "investment_grade_bonds": [
+            "VCIT",
+            "AGG"
+          ],
+          "high_yield_credit": [
+            "HYG"
+          ],
+          "precious_metals": [
+            "GLD",
+            "SLV"
+          ],
+          "broad_commodities": [
+            "PDBC"
+          ]
+        }
+      },
+      "price_asof": "2023-12-29",
+      "selection_asof": "2023-12-31",
+      "execute_on": "2024-01-02",
+      "source_asof": "2021-12-31",
+      "sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+    },
+    {
+      "year": 2025,
+      "risk_names": [
+        "AGG",
+        "BIL",
+        "EWJ",
+        "GLD",
+        "HYG",
+        "IEF",
+        "IEMG",
+        "IJR",
+        "INDA",
+        "MCHI",
+        "PDBC",
+        "QQQ",
+        "QUAL",
+        "SLV",
+        "SOXX",
+        "SPY",
+        "TIP",
+        "TLT",
+        "USMV",
+        "VCIT",
+        "VEA",
+        "VGT",
+        "VIG",
+        "VNQ",
+        "VTI",
+        "XLB",
+        "XLC",
+        "XLE",
+        "XLF",
+        "XLI",
+        "XLP",
+        "XLU",
+        "XLV",
+        "XLY"
+      ],
+      "groups": {
+        "groups": {
+          "us_broad_style": [
+            "VTI",
+            "QQQ",
+            "IJR",
+            "USMV",
+            "SPY",
+            "VIG",
+            "QUAL"
+          ],
+          "technology_semiconductors": [
+            "VGT",
+            "SOXX"
+          ],
+          "financials": [
+            "XLF"
+          ],
+          "healthcare": [
+            "XLV"
+          ],
+          "energy": [
+            "XLE"
+          ],
+          "industrials": [
+            "XLI"
+          ],
+          "utilities": [
+            "XLU"
+          ],
+          "consumer_discretionary": [
+            "XLY"
+          ],
+          "consumer_staples": [
+            "XLP"
+          ],
+          "communications": [
+            "XLC"
+          ],
+          "materials": [
+            "XLB"
+          ],
+          "real_estate": [
+            "VNQ"
+          ],
+          "developed_foreign": [
+            "VEA",
+            "EWJ"
+          ],
+          "emerging_foreign": [
+            "IEMG",
+            "INDA",
+            "MCHI"
+          ],
+          "short_treasury": [
+            "BIL"
+          ],
+          "nominal_treasury_duration": [
+            "IEF",
+            "TLT"
+          ],
+          "inflation_bonds": [
+            "TIP"
+          ],
+          "investment_grade_bonds": [
+            "VCIT",
+            "AGG"
+          ],
+          "high_yield_credit": [
+            "HYG"
+          ],
+          "precious_metals": [
+            "GLD",
+            "SLV"
+          ],
+          "broad_commodities": [
+            "PDBC"
+          ]
+        }
+      },
+      "price_asof": "2024-12-31",
+      "selection_asof": "2024-12-31",
+      "execute_on": "2025-01-02",
+      "source_asof": "2021-12-31",
+      "sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+    }
+  ],
+  "sha256": "84bb09d4291d25679b4d5440a227f6c0c937b9b535872c61879030d52da5f665"
+}
