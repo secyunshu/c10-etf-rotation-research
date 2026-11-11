@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "source_lock_sha256": "892a85a193c4aadde5b821ddb7b1e3d8b6122f9a23e679bfed9c44f6bf984065",
+  "science": 2,
+  "controls": 6,
+  "native_attempts": 0,
+  "table_cells": 13670,
+  "archived_metric_values": 504,
+  "tables": {
+    "SUMMARY.csv": {
+      "rows": 8,
+      "sha256": "a08911e1f6023209b17dd957dab5bad9c27d83ea6a8c0f7df80276d24ba56ea2"
+    },
+    "ANNUAL.csv": {
+      "rows": 32,
+      "sha256": "ac87b821d88faf4a88c033422cd9a913c35b43705a643022a91b48f87db4853f"
+    },
+    "MONTHLY.csv": {
+      "rows": 384,
+      "sha256": "05b637692a2b2afcf2c7820371724a437289cfacba19f8fe6a3b3fe6068cac10"
+    },
+    "TARGETS.csv": {
+      "rows": 662,
+      "sha256": "3ec5a445e32ba840c9cfbee49573645e922ca958f808f86e5be625cb638c63b3"
+    },
+    "EXPOSURE.csv": {
+      "rows": 40,
+      "sha256": "a7f1cfe3c7e535d6a7c1ed899fb2ab9b96b4bb6cf6d14f208199b8871de390ba"
+    },
+    "BRANCHES.csv": {
+      "rows": 96,
+      "sha256": "6dc743b11e3d64bf24034a8388f0776ba3bd477d53dab29be7df04189b161dba"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hashes": {
+    "BINDING.json": "c204d12b59cb0361f7ae84225d558d346bf8df17af2713eeaa2e9e7ea83885d7",
+    "CONTRACT.json": "74c828fd85019788187f50faddc507766a2eb0d8974107a61d9c78ce22faf738",
+    "daily.csv.gz": "3e947a03bdd876463ded09bb31313c15a19ac67697d63cc62c261b7f6c6e5ce9",
+    "orders.csv.gz": "67491fe19c10b5240207ad4826ff2231fb71499a6fef856834a82cf8498a2778",
+    "holdings.csv.gz": "5b016361b8d595eb7bd35cb581a55474f0e9f1cd356f92efe524839b9c3c358b",
+    "dividends.csv.gz": "fbb9c9bd063df7d37120161a24c7c37bed5feaee2a01bab9a264e1464d2d0b17",
+    "trades.csv.gz": "0dd49f4ec829cdef2a74576fffae89c5072fa87f55b1a91417853fa23c3daa4d",
+    "targets.json": "3717e0ffe2089f3b00f93bc08d44a9cbf85cbc5bb1df2a43878e482cd17d592a",
+    "native_total_return.json": "4f28022bbbaf0fab534e0bb14b678f8b3525e8d72bb4f1c1be020ffe2921834a",
+    "metrics.json": "edbf5a648ef8683c73065454d8c316ee4b9d8926a54a651b27adc56e5acd0236"
+  }
+}

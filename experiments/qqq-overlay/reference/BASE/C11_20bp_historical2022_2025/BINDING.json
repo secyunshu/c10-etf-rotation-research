@@ -1,0 +1,12 @@
+{
+  "experiment": "QQQ_OVERLAY_V1",
+  "trial": {
+    "variant": "BASE",
+    "contract": {
+      "rule": "C11",
+      "cost_bps": 20,
+      "cohort": "historical2022_2025"
+    }
+  },
+  "source_lock_sha256": "892a85a193c4aadde5b821ddb7b1e3d8b6122f9a23e679bfed9c44f6bf984065"
+}

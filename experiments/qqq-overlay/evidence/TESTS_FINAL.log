@@ -1,0 +1,37 @@
+.......................................................................  [100%]
+=============================== warnings summary ===============================
+tests/test_reproduction.py::test_frozen_market_has_exact_calendar_and_universe
+tests/test_reproduction.py::test_frozen_market_has_exact_calendar_and_universe
+tests/test_reproduction.py::test_frozen_market_has_exact_calendar_and_universe
+tests/test_reproduction.py::test_frozen_market_has_exact_calendar_and_universe
+  <venv>/lib/python3.14/site-packages/pandas/core/series.py:848: Pandas4Warning: Series.values returning an ndarray that drops timezone information for DatetimeTZDtype is deprecated. In a future version, this will return the underlying DatetimeArray instead. Use 'Series.dt.tz_convert(None).to_numpy()' to get a NumPy array of UTC values, or 'Series.array' to get the ExtensionArray.
+  See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#whatsnew-310-deprecations-values for more details.
+    warnings.warn(
+
+tests/test_default_policy.py: 70 warnings
+tests/test_standard_v2.py: 175 warnings
+  <repository>/src/c10standard/io.py:134: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    frame=pd.read_csv(
+
+tests/test_standard_v2.py: 15 warnings
+  <repository>/tests/test_standard_v2.py:283: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(folder / f"{name}.csv.gz", float_precision="round_trip").to_dict("records")
+
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+  <repository>/src/c10standard/run.py:98: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(reference / f"{name}.csv.gz", float_precision="round_trip"),
+
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+  <repository>/src/c10standard/run.py:99: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(folder / f"{name}.csv.gz", float_precision="round_trip"),
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+71 passed, 274 warnings in 14.57s
