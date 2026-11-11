@@ -1,0 +1,3278 @@
+{
+  "cases": [
+    {
+      "id": "A",
+      "pools": [
+        {
+          "year": 2022,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SOXX"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "source_asof": "2021-12-31",
+          "sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "year": 2023,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SOXX"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "source_asof": "2021-12-31",
+          "sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "year": 2024,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SOXX"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "execute_on": "2024-01-02",
+          "source_asof": "2021-12-31",
+          "sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "year": 2025,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SOXX"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "execute_on": "2025-01-02",
+          "source_asof": "2021-12-31",
+          "sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        }
+      ],
+      "pool_sources": [
+        {
+          "year": 2022,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SOXX": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31"
+          }
+        },
+        {
+          "year": 2023,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SOXX": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31"
+          }
+        },
+        {
+          "year": 2024,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SOXX": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31"
+          }
+        },
+        {
+          "year": 2025,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SOXX": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31"
+          }
+        }
+      ],
+      "intervention_note": "Original 2021 fixed pool; reference policy.",
+      "sha256": "4fbe59c7194282ac26938c42b6d50dcb19f1bbfbc2d9a5d2d1735377bfd2a271"
+    },
+    {
+      "id": "B",
+      "pools": [
+        {
+          "year": 2022,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SOXX"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "source_asof": "2021-12-31",
+          "sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "year": 2023,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SMH"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "source_asof": "2022-12-31",
+          "sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "year": 2024,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SMH"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "execute_on": "2024-01-02",
+          "source_asof": "2022-12-31",
+          "sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "year": 2025,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SMH"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "execute_on": "2025-01-02",
+          "source_asof": "2022-12-31",
+          "sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        }
+      ],
+      "pool_sources": [
+        {
+          "year": 2022,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SOXX": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31"
+          }
+        },
+        {
+          "year": 2023,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31",
+            "SMH": "2022-12-31"
+          }
+        },
+        {
+          "year": 2024,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31",
+            "SMH": "2022-12-31"
+          }
+        },
+        {
+          "year": 2025,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31",
+            "SMH": "2022-12-31"
+          }
+        }
+      ],
+      "intervention_note": "From 2023 force SMH using 2022 source; other assets retain 2021 sources.",
+      "sha256": "7f400cdef3b636de20ed7530da61a2d190fb78ee5c58a3045c161f2e25fd06c9"
+    },
+    {
+      "id": "C",
+      "pools": [
+        {
+          "year": 2022,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SOXX"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "source_asof": "2021-12-31",
+          "sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "year": 2023,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEFA",
+            "IJR",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCSH",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SOXX",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "IEFA"
+              ],
+              "emerging_foreign": [
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCSH"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "source_asof": "2022-12-31",
+          "sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "year": 2024,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IJR",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SOXX",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "VEA"
+              ],
+              "emerging_foreign": [
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCIT"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "execute_on": "2024-01-02",
+          "source_asof": "2023-12-31",
+          "sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "year": 2025,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "IEF",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USHY",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SOXX",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "VEA"
+              ],
+              "emerging_foreign": [
+                "INDA",
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCIT"
+              ],
+              "high_yield_credit": [
+                "USHY"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ]
+            }
+          },
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "execute_on": "2025-01-02",
+          "source_asof": "2024-12-31",
+          "sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        }
+      ],
+      "pool_sources": [
+        {
+          "year": 2022,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SOXX": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31"
+          }
+        },
+        {
+          "year": 2023,
+          "asof": {
+            "BIL": "2022-12-31",
+            "BND": "2022-12-31",
+            "EWJ": "2022-12-31",
+            "GLD": "2022-12-31",
+            "HYG": "2022-12-31",
+            "IEF": "2022-12-31",
+            "IEFA": "2022-12-31",
+            "IJR": "2022-12-31",
+            "MCHI": "2022-12-31",
+            "PDBC": "2022-12-31",
+            "QQQ": "2022-12-31",
+            "QUAL": "2022-12-31",
+            "SLV": "2022-12-31",
+            "SPY": "2022-12-31",
+            "TIP": "2022-12-31",
+            "TLT": "2022-12-31",
+            "USMV": "2022-12-31",
+            "VCSH": "2022-12-31",
+            "VGT": "2022-12-31",
+            "VIG": "2022-12-31",
+            "VNQ": "2022-12-31",
+            "VTI": "2022-12-31",
+            "VWO": "2022-12-31",
+            "XLB": "2022-12-31",
+            "XLC": "2022-12-31",
+            "XLE": "2022-12-31",
+            "XLF": "2022-12-31",
+            "XLI": "2022-12-31",
+            "XLP": "2022-12-31",
+            "XLU": "2022-12-31",
+            "XLV": "2022-12-31",
+            "XLY": "2022-12-31",
+            "SOXX": "2021-12-31"
+          }
+        },
+        {
+          "year": 2024,
+          "asof": {
+            "BIL": "2023-12-31",
+            "BND": "2023-12-31",
+            "EWJ": "2023-12-31",
+            "GLD": "2023-12-31",
+            "HYG": "2023-12-31",
+            "IEF": "2023-12-31",
+            "IJR": "2023-12-31",
+            "MCHI": "2023-12-31",
+            "PDBC": "2023-12-31",
+            "QQQ": "2023-12-31",
+            "QUAL": "2023-12-31",
+            "SLV": "2023-12-31",
+            "SPY": "2023-12-31",
+            "TIP": "2023-12-31",
+            "TLT": "2023-12-31",
+            "USMV": "2023-12-31",
+            "VCIT": "2023-12-31",
+            "VEA": "2023-12-31",
+            "VGT": "2023-12-31",
+            "VIG": "2023-12-31",
+            "VNQ": "2023-12-31",
+            "VTI": "2023-12-31",
+            "VWO": "2023-12-31",
+            "XLB": "2023-12-31",
+            "XLC": "2023-12-31",
+            "XLE": "2023-12-31",
+            "XLF": "2023-12-31",
+            "XLI": "2023-12-31",
+            "XLP": "2023-12-31",
+            "XLU": "2023-12-31",
+            "XLV": "2023-12-31",
+            "XLY": "2023-12-31",
+            "SOXX": "2021-12-31"
+          }
+        },
+        {
+          "year": 2025,
+          "asof": {
+            "BIL": "2024-12-31",
+            "BND": "2024-12-31",
+            "EWJ": "2024-12-31",
+            "GLD": "2024-12-31",
+            "IEF": "2024-12-31",
+            "IJR": "2024-12-31",
+            "INDA": "2024-12-31",
+            "MCHI": "2024-12-31",
+            "QQQ": "2024-12-31",
+            "QUAL": "2024-12-31",
+            "SLV": "2024-12-31",
+            "SPY": "2024-12-31",
+            "TIP": "2024-12-31",
+            "TLT": "2024-12-31",
+            "USHY": "2024-12-31",
+            "USMV": "2024-12-31",
+            "VCIT": "2024-12-31",
+            "VEA": "2024-12-31",
+            "VGT": "2024-12-31",
+            "VIG": "2024-12-31",
+            "VNQ": "2024-12-31",
+            "VTI": "2024-12-31",
+            "VWO": "2024-12-31",
+            "XLB": "2024-12-31",
+            "XLC": "2024-12-31",
+            "XLE": "2024-12-31",
+            "XLF": "2024-12-31",
+            "XLI": "2024-12-31",
+            "XLP": "2024-12-31",
+            "XLU": "2024-12-31",
+            "XLV": "2024-12-31",
+            "XLY": "2024-12-31",
+            "SOXX": "2021-12-31"
+          }
+        }
+      ],
+      "intervention_note": "Annual pools with SOXX forced from 2023 using 2021 source; no AUM eligibility claim.",
+      "sha256": "98543a7ff289488b4aec2959a5ec4912b06e2a5b747c7267ef6ea0388f5b2e03"
+    },
+    {
+      "id": "D",
+      "pools": [
+        {
+          "year": 2022,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SOXX"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "source_asof": "2021-12-31",
+          "sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "year": 2023,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEFA",
+            "IJR",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCSH",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SMH",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "IEFA"
+              ],
+              "emerging_foreign": [
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCSH"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "source_asof": "2022-12-31",
+          "sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "year": 2024,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IJR",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SMH",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "VEA"
+              ],
+              "emerging_foreign": [
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCIT"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "execute_on": "2024-01-02",
+          "source_asof": "2023-12-31",
+          "sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "year": 2025,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "IEF",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USHY",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SMH",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "VEA"
+              ],
+              "emerging_foreign": [
+                "INDA",
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCIT"
+              ],
+              "high_yield_credit": [
+                "USHY"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ]
+            }
+          },
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "execute_on": "2025-01-02",
+          "source_asof": "2024-12-31",
+          "sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        }
+      ],
+      "pool_sources": [
+        {
+          "year": 2022,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SOXX": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31"
+          }
+        },
+        {
+          "year": 2023,
+          "asof": {
+            "BIL": "2022-12-31",
+            "BND": "2022-12-31",
+            "EWJ": "2022-12-31",
+            "GLD": "2022-12-31",
+            "HYG": "2022-12-31",
+            "IEF": "2022-12-31",
+            "IEFA": "2022-12-31",
+            "IJR": "2022-12-31",
+            "MCHI": "2022-12-31",
+            "PDBC": "2022-12-31",
+            "QQQ": "2022-12-31",
+            "QUAL": "2022-12-31",
+            "SLV": "2022-12-31",
+            "SMH": "2022-12-31",
+            "SPY": "2022-12-31",
+            "TIP": "2022-12-31",
+            "TLT": "2022-12-31",
+            "USMV": "2022-12-31",
+            "VCSH": "2022-12-31",
+            "VGT": "2022-12-31",
+            "VIG": "2022-12-31",
+            "VNQ": "2022-12-31",
+            "VTI": "2022-12-31",
+            "VWO": "2022-12-31",
+            "XLB": "2022-12-31",
+            "XLC": "2022-12-31",
+            "XLE": "2022-12-31",
+            "XLF": "2022-12-31",
+            "XLI": "2022-12-31",
+            "XLP": "2022-12-31",
+            "XLU": "2022-12-31",
+            "XLV": "2022-12-31",
+            "XLY": "2022-12-31"
+          }
+        },
+        {
+          "year": 2024,
+          "asof": {
+            "BIL": "2023-12-31",
+            "BND": "2023-12-31",
+            "EWJ": "2023-12-31",
+            "GLD": "2023-12-31",
+            "HYG": "2023-12-31",
+            "IEF": "2023-12-31",
+            "IJR": "2023-12-31",
+            "MCHI": "2023-12-31",
+            "PDBC": "2023-12-31",
+            "QQQ": "2023-12-31",
+            "QUAL": "2023-12-31",
+            "SLV": "2023-12-31",
+            "SMH": "2023-12-31",
+            "SPY": "2023-12-31",
+            "TIP": "2023-12-31",
+            "TLT": "2023-12-31",
+            "USMV": "2023-12-31",
+            "VCIT": "2023-12-31",
+            "VEA": "2023-12-31",
+            "VGT": "2023-12-31",
+            "VIG": "2023-12-31",
+            "VNQ": "2023-12-31",
+            "VTI": "2023-12-31",
+            "VWO": "2023-12-31",
+            "XLB": "2023-12-31",
+            "XLC": "2023-12-31",
+            "XLE": "2023-12-31",
+            "XLF": "2023-12-31",
+            "XLI": "2023-12-31",
+            "XLP": "2023-12-31",
+            "XLU": "2023-12-31",
+            "XLV": "2023-12-31",
+            "XLY": "2023-12-31"
+          }
+        },
+        {
+          "year": 2025,
+          "asof": {
+            "BIL": "2024-12-31",
+            "BND": "2024-12-31",
+            "EWJ": "2024-12-31",
+            "GLD": "2024-12-31",
+            "IEF": "2024-12-31",
+            "IJR": "2024-12-31",
+            "INDA": "2024-12-31",
+            "MCHI": "2024-12-31",
+            "QQQ": "2024-12-31",
+            "QUAL": "2024-12-31",
+            "SLV": "2024-12-31",
+            "SMH": "2024-12-31",
+            "SPY": "2024-12-31",
+            "TIP": "2024-12-31",
+            "TLT": "2024-12-31",
+            "USHY": "2024-12-31",
+            "USMV": "2024-12-31",
+            "VCIT": "2024-12-31",
+            "VEA": "2024-12-31",
+            "VGT": "2024-12-31",
+            "VIG": "2024-12-31",
+            "VNQ": "2024-12-31",
+            "VTI": "2024-12-31",
+            "VWO": "2024-12-31",
+            "XLB": "2024-12-31",
+            "XLC": "2024-12-31",
+            "XLE": "2024-12-31",
+            "XLF": "2024-12-31",
+            "XLI": "2024-12-31",
+            "XLP": "2024-12-31",
+            "XLU": "2024-12-31",
+            "XLV": "2024-12-31",
+            "XLY": "2024-12-31"
+          }
+        }
+      ],
+      "intervention_note": "Original annual pools; reference policy.",
+      "sha256": "8046bcbd842581ec5516f2231cd45fe9db49ecbc72b3974fd7bf27c180a9618e"
+    },
+    {
+      "id": "E",
+      "pools": [
+        {
+          "year": 2022,
+          "risk_names": [
+            "AGG",
+            "BIL",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEMG",
+            "IJR",
+            "INDA",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SOXX",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCIT",
+            "VEA",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "VTI",
+                "QQQ",
+                "IJR",
+                "USMV",
+                "SPY",
+                "VIG",
+                "QUAL"
+              ],
+              "technology_semiconductors": [
+                "VGT",
+                "SOXX"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "VEA",
+                "EWJ"
+              ],
+              "emerging_foreign": [
+                "IEMG",
+                "INDA",
+                "MCHI"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "VCIT",
+                "AGG"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "source_asof": "2021-12-31",
+          "sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "year": 2023,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEFA",
+            "IJR",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCSH",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SMH",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "IEFA"
+              ],
+              "emerging_foreign": [
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCSH"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "source_asof": "2022-12-31",
+          "sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "year": 2024,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEFA",
+            "IJR",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCSH",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SMH",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "IEFA"
+              ],
+              "emerging_foreign": [
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCSH"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "execute_on": "2024-01-02",
+          "source_asof": "2022-12-31",
+          "sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "year": 2025,
+          "risk_names": [
+            "BIL",
+            "BND",
+            "EWJ",
+            "GLD",
+            "HYG",
+            "IEF",
+            "IEFA",
+            "IJR",
+            "MCHI",
+            "PDBC",
+            "QQQ",
+            "QUAL",
+            "SLV",
+            "SMH",
+            "SPY",
+            "TIP",
+            "TLT",
+            "USMV",
+            "VCSH",
+            "VGT",
+            "VIG",
+            "VNQ",
+            "VTI",
+            "VWO",
+            "XLB",
+            "XLC",
+            "XLE",
+            "XLF",
+            "XLI",
+            "XLP",
+            "XLU",
+            "XLV",
+            "XLY"
+          ],
+          "groups": {
+            "groups": {
+              "us_broad_style": [
+                "IJR",
+                "QQQ",
+                "QUAL",
+                "SPY",
+                "USMV",
+                "VIG",
+                "VTI"
+              ],
+              "technology_semiconductors": [
+                "SMH",
+                "VGT"
+              ],
+              "financials": [
+                "XLF"
+              ],
+              "healthcare": [
+                "XLV"
+              ],
+              "energy": [
+                "XLE"
+              ],
+              "industrials": [
+                "XLI"
+              ],
+              "utilities": [
+                "XLU"
+              ],
+              "consumer_discretionary": [
+                "XLY"
+              ],
+              "consumer_staples": [
+                "XLP"
+              ],
+              "communications": [
+                "XLC"
+              ],
+              "materials": [
+                "XLB"
+              ],
+              "real_estate": [
+                "VNQ"
+              ],
+              "developed_foreign": [
+                "EWJ",
+                "IEFA"
+              ],
+              "emerging_foreign": [
+                "MCHI",
+                "VWO"
+              ],
+              "short_treasury": [
+                "BIL"
+              ],
+              "nominal_treasury_duration": [
+                "IEF",
+                "TLT"
+              ],
+              "inflation_bonds": [
+                "TIP"
+              ],
+              "investment_grade_bonds": [
+                "BND",
+                "VCSH"
+              ],
+              "high_yield_credit": [
+                "HYG"
+              ],
+              "precious_metals": [
+                "GLD",
+                "SLV"
+              ],
+              "broad_commodities": [
+                "PDBC"
+              ]
+            }
+          },
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "execute_on": "2025-01-02",
+          "source_asof": "2022-12-31",
+          "sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        }
+      ],
+      "pool_sources": [
+        {
+          "year": 2022,
+          "asof": {
+            "AGG": "2021-12-31",
+            "BIL": "2021-12-31",
+            "EWJ": "2021-12-31",
+            "GLD": "2021-12-31",
+            "HYG": "2021-12-31",
+            "IEF": "2021-12-31",
+            "IEMG": "2021-12-31",
+            "IJR": "2021-12-31",
+            "INDA": "2021-12-31",
+            "MCHI": "2021-12-31",
+            "PDBC": "2021-12-31",
+            "QQQ": "2021-12-31",
+            "QUAL": "2021-12-31",
+            "SLV": "2021-12-31",
+            "SOXX": "2021-12-31",
+            "SPY": "2021-12-31",
+            "TIP": "2021-12-31",
+            "TLT": "2021-12-31",
+            "USMV": "2021-12-31",
+            "VCIT": "2021-12-31",
+            "VEA": "2021-12-31",
+            "VGT": "2021-12-31",
+            "VIG": "2021-12-31",
+            "VNQ": "2021-12-31",
+            "VTI": "2021-12-31",
+            "XLB": "2021-12-31",
+            "XLC": "2021-12-31",
+            "XLE": "2021-12-31",
+            "XLF": "2021-12-31",
+            "XLI": "2021-12-31",
+            "XLP": "2021-12-31",
+            "XLU": "2021-12-31",
+            "XLV": "2021-12-31",
+            "XLY": "2021-12-31"
+          }
+        },
+        {
+          "year": 2023,
+          "asof": {
+            "BIL": "2022-12-31",
+            "BND": "2022-12-31",
+            "EWJ": "2022-12-31",
+            "GLD": "2022-12-31",
+            "HYG": "2022-12-31",
+            "IEF": "2022-12-31",
+            "IEFA": "2022-12-31",
+            "IJR": "2022-12-31",
+            "MCHI": "2022-12-31",
+            "PDBC": "2022-12-31",
+            "QQQ": "2022-12-31",
+            "QUAL": "2022-12-31",
+            "SLV": "2022-12-31",
+            "SMH": "2022-12-31",
+            "SPY": "2022-12-31",
+            "TIP": "2022-12-31",
+            "TLT": "2022-12-31",
+            "USMV": "2022-12-31",
+            "VCSH": "2022-12-31",
+            "VGT": "2022-12-31",
+            "VIG": "2022-12-31",
+            "VNQ": "2022-12-31",
+            "VTI": "2022-12-31",
+            "VWO": "2022-12-31",
+            "XLB": "2022-12-31",
+            "XLC": "2022-12-31",
+            "XLE": "2022-12-31",
+            "XLF": "2022-12-31",
+            "XLI": "2022-12-31",
+            "XLP": "2022-12-31",
+            "XLU": "2022-12-31",
+            "XLV": "2022-12-31",
+            "XLY": "2022-12-31"
+          }
+        },
+        {
+          "year": 2024,
+          "asof": {
+            "BIL": "2022-12-31",
+            "BND": "2022-12-31",
+            "EWJ": "2022-12-31",
+            "GLD": "2022-12-31",
+            "HYG": "2022-12-31",
+            "IEF": "2022-12-31",
+            "IEFA": "2022-12-31",
+            "IJR": "2022-12-31",
+            "MCHI": "2022-12-31",
+            "PDBC": "2022-12-31",
+            "QQQ": "2022-12-31",
+            "QUAL": "2022-12-31",
+            "SLV": "2022-12-31",
+            "SMH": "2022-12-31",
+            "SPY": "2022-12-31",
+            "TIP": "2022-12-31",
+            "TLT": "2022-12-31",
+            "USMV": "2022-12-31",
+            "VCSH": "2022-12-31",
+            "VGT": "2022-12-31",
+            "VIG": "2022-12-31",
+            "VNQ": "2022-12-31",
+            "VTI": "2022-12-31",
+            "VWO": "2022-12-31",
+            "XLB": "2022-12-31",
+            "XLC": "2022-12-31",
+            "XLE": "2022-12-31",
+            "XLF": "2022-12-31",
+            "XLI": "2022-12-31",
+            "XLP": "2022-12-31",
+            "XLU": "2022-12-31",
+            "XLV": "2022-12-31",
+            "XLY": "2022-12-31"
+          }
+        },
+        {
+          "year": 2025,
+          "asof": {
+            "BIL": "2022-12-31",
+            "BND": "2022-12-31",
+            "EWJ": "2022-12-31",
+            "GLD": "2022-12-31",
+            "HYG": "2022-12-31",
+            "IEF": "2022-12-31",
+            "IEFA": "2022-12-31",
+            "IJR": "2022-12-31",
+            "MCHI": "2022-12-31",
+            "PDBC": "2022-12-31",
+            "QQQ": "2022-12-31",
+            "QUAL": "2022-12-31",
+            "SLV": "2022-12-31",
+            "SMH": "2022-12-31",
+            "SPY": "2022-12-31",
+            "TIP": "2022-12-31",
+            "TLT": "2022-12-31",
+            "USMV": "2022-12-31",
+            "VCSH": "2022-12-31",
+            "VGT": "2022-12-31",
+            "VIG": "2022-12-31",
+            "VNQ": "2022-12-31",
+            "VTI": "2022-12-31",
+            "VWO": "2022-12-31",
+            "XLB": "2022-12-31",
+            "XLC": "2022-12-31",
+            "XLE": "2022-12-31",
+            "XLF": "2022-12-31",
+            "XLI": "2022-12-31",
+            "XLP": "2022-12-31",
+            "XLU": "2022-12-31",
+            "XLV": "2022-12-31",
+            "XLY": "2022-12-31"
+          }
+        }
+      ],
+      "intervention_note": "Apply 2022 source pool from 2023 and retain it through 2025.",
+      "sha256": "e06398cd5cd6eda8424766fa7fcfbf3efdc93412f92817ed55ec9ad76aec3474"
+    }
+  ]
+}

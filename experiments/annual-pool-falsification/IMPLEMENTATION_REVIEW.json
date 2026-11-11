@@ -1,0 +1,23 @@
+{
+  "status": "PASS_SOURCE_STATIC_AND_TESTS",
+  "independent_reviewer": "backtrader_audit",
+  "tests_passed": 68,
+  "new_tests": 17,
+  "prior_pure_2025_tests": 51,
+  "warnings": 30,
+  "mypy_source_files": 47,
+  "pyright_errors": 0,
+  "ruff_errors": 0,
+  "actualcase_prefixes": {
+    "A": 48,
+    "B": 48,
+    "C": 48,
+    "D": 48,
+    "E": 48
+  },
+  "native_started": 0,
+  "policy_identity": "outerCaseBinding actualpool+perassetsources; innerD/Acontractexecutioncontaineronly",
+  "same_scope": "production/raworacle/timings/financialandprefixallactualcase",
+  "no_oldsource_changes": true,
+  "no2026read": true
+}

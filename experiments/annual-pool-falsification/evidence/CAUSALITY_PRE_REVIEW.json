@@ -1,0 +1,4127 @@
+{
+  "status": "PASS",
+  "native": 0,
+  "scope": "all5distinctcases48fullasof/physicalprefix/raworacle+timing",
+  "records": [
+    {
+      "account": "A_5bp_bridge",
+      "dates": 48,
+      "targets": [
+        {
+          "day": "2021-12-31",
+          "q": {
+            "XLE": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-02-28",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-03-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-04-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-05-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-06-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-07-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-08-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-09-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-10-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-11-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-12-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-02-28",
+          "q": {
+            "XLE": 0.45,
+            "XLI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-03-31",
+          "q": {
+            "XLE": 0.45,
+            "BIL": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-04-28",
+          "q": {
+            "XLE": 0.45,
+            "VEA": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-05-31",
+          "q": {
+            "VGT": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-06-30",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-07-31",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-08-31",
+          "q": {
+            "SOXX": 0.45,
+            "SLV": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-09-29",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-10-31",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-11-30",
+          "q": {
+            "XLC": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-12-29",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-01-31",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-02-29",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-03-28",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-04-30",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-05-31",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-06-28",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-07-31",
+          "q": {
+            "SOXX": 0.45,
+            "INDA": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-08-30",
+          "q": {
+            "SOXX": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-09-30",
+          "q": {
+            "SOXX": 0.45,
+            "XLU": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-10-31",
+          "q": {
+            "SOXX": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-11-29",
+          "q": {
+            "XLF": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-12-31",
+          "q": {
+            "XLC": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-01-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-02-28",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-03-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-04-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-05-30",
+          "q": {
+            "GLD": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-06-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-07-31",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-08-29",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-09-30",
+          "q": {
+            "SLV": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-10-31",
+          "q": {
+            "GLD": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-11-28",
+          "q": {
+            "SLV": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        }
+      ],
+      "timings": [
+        {
+          "pool_year": 2022,
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-01-31",
+          "selection_asof": "2022-01-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-02-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-02-28",
+          "selection_asof": "2022-02-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-03-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-03-31",
+          "selection_asof": "2022-03-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-04-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-04-29",
+          "selection_asof": "2022-04-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-05-02",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-05-31",
+          "selection_asof": "2022-05-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-06-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-06-30",
+          "selection_asof": "2022-06-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-07-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-07-29",
+          "selection_asof": "2022-07-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-08-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-08-31",
+          "selection_asof": "2022-08-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-09-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-09-30",
+          "selection_asof": "2022-09-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-10-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-10-31",
+          "selection_asof": "2022-10-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-11-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-11-30",
+          "selection_asof": "2022-11-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-12-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-01-03",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-01-31",
+          "selection_asof": "2023-01-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-02-01",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-02-28",
+          "selection_asof": "2023-02-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-03-01",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-03-31",
+          "selection_asof": "2023-03-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-04-03",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-04-28",
+          "selection_asof": "2023-04-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-05-01",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-05-31",
+          "selection_asof": "2023-05-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-06-01",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-06-30",
+          "selection_asof": "2023-06-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-07-03",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-07-31",
+          "selection_asof": "2023-07-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-08-01",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-08-31",
+          "selection_asof": "2023-08-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-09-01",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-09-29",
+          "selection_asof": "2023-09-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-10-02",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-10-31",
+          "selection_asof": "2023-10-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-11-01",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-11-30",
+          "selection_asof": "2023-11-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2023-12-01",
+          "pool_sha256": "a1fa73613f054c38a93b1fd3e1ccfa6fedc5361af77c14708f2eee3933f5e923"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-01-02",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-01-31",
+          "selection_asof": "2024-01-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-02-01",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-02-29",
+          "selection_asof": "2024-02-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-03-01",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-03-28",
+          "selection_asof": "2024-03-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-04-01",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-04-30",
+          "selection_asof": "2024-04-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-05-01",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-05-31",
+          "selection_asof": "2024-05-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-06-03",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-06-28",
+          "selection_asof": "2024-06-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-07-01",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-07-31",
+          "selection_asof": "2024-07-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-08-01",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-08-30",
+          "selection_asof": "2024-08-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-09-03",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-09-30",
+          "selection_asof": "2024-09-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-10-01",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-10-31",
+          "selection_asof": "2024-10-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-11-01",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-11-29",
+          "selection_asof": "2024-11-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2024-12-02",
+          "pool_sha256": "5e7302e5aec3d003d8dd51d5461f2223b5271f59d18790e383f08c30ccb22ad5"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-01-02",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-01-31",
+          "selection_asof": "2025-01-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-02-03",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-02-28",
+          "selection_asof": "2025-02-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-03-03",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-03-31",
+          "selection_asof": "2025-03-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-04-01",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-04-30",
+          "selection_asof": "2025-04-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-05-01",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-05-30",
+          "selection_asof": "2025-05-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-06-02",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-06-30",
+          "selection_asof": "2025-06-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-07-01",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-07-31",
+          "selection_asof": "2025-07-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-08-01",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-08-29",
+          "selection_asof": "2025-08-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-09-02",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-09-30",
+          "selection_asof": "2025-09-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-10-01",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-10-31",
+          "selection_asof": "2025-10-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-11-03",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-11-28",
+          "selection_asof": "2025-11-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2025-12-01",
+          "pool_sha256": "8b0e4e7baf914ddfb9dca90da574061eb3abb5d2b72765d1a76c7afea1ab0c14"
+        }
+      ]
+    },
+    {
+      "account": "D_20bp_bridge",
+      "dates": 48,
+      "targets": [
+        {
+          "day": "2021-12-31",
+          "q": {
+            "XLE": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-02-28",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-03-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-04-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-05-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-06-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-07-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-08-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-09-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-10-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-11-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-12-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-02-28",
+          "q": {
+            "XLE": 0.45,
+            "XLI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-03-31",
+          "q": {
+            "XLE": 0.45,
+            "BIL": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-04-28",
+          "q": {
+            "XLE": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-05-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-06-30",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-07-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-08-31",
+          "q": {
+            "SMH": 0.45,
+            "SLV": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-09-29",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-10-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-11-30",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-12-29",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-01-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-02-29",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-03-28",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-04-30",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-05-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-06-28",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-07-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-08-30",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-09-30",
+          "q": {
+            "SMH": 0.45,
+            "XLU": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-10-31",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-11-29",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-12-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-01-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-02-28",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-03-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-04-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-05-30",
+          "q": {
+            "GLD": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-06-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-07-31",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-08-29",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-09-30",
+          "q": {
+            "SLV": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-10-31",
+          "q": {
+            "GLD": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-11-28",
+          "q": {
+            "SLV": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        }
+      ],
+      "timings": [
+        {
+          "pool_year": 2022,
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-01-31",
+          "selection_asof": "2022-01-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-02-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-02-28",
+          "selection_asof": "2022-02-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-03-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-03-31",
+          "selection_asof": "2022-03-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-04-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-04-29",
+          "selection_asof": "2022-04-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-05-02",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-05-31",
+          "selection_asof": "2022-05-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-06-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-06-30",
+          "selection_asof": "2022-06-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-07-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-07-29",
+          "selection_asof": "2022-07-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-08-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-08-31",
+          "selection_asof": "2022-08-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-09-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-09-30",
+          "selection_asof": "2022-09-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-10-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-10-31",
+          "selection_asof": "2022-10-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-11-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-11-30",
+          "selection_asof": "2022-11-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-12-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-01-31",
+          "selection_asof": "2023-01-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-02-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-02-28",
+          "selection_asof": "2023-02-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-03-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-03-31",
+          "selection_asof": "2023-03-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-04-03",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-04-28",
+          "selection_asof": "2023-04-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-05-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-05-31",
+          "selection_asof": "2023-05-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-06-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-06-30",
+          "selection_asof": "2023-06-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-07-03",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-07-31",
+          "selection_asof": "2023-07-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-08-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-08-31",
+          "selection_asof": "2023-08-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-09-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-09-29",
+          "selection_asof": "2023-09-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-10-02",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-10-31",
+          "selection_asof": "2023-10-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-11-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-11-30",
+          "selection_asof": "2023-11-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-12-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-01-02",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-01-31",
+          "selection_asof": "2024-01-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-02-01",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-02-29",
+          "selection_asof": "2024-02-29",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-03-01",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-03-28",
+          "selection_asof": "2024-03-28",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-04-01",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-04-30",
+          "selection_asof": "2024-04-30",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-05-01",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-05-31",
+          "selection_asof": "2024-05-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-06-03",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-06-28",
+          "selection_asof": "2024-06-28",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-07-01",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-07-31",
+          "selection_asof": "2024-07-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-08-01",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-08-30",
+          "selection_asof": "2024-08-30",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-09-03",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-09-30",
+          "selection_asof": "2024-09-30",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-10-01",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-10-31",
+          "selection_asof": "2024-10-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-11-01",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-11-29",
+          "selection_asof": "2024-11-29",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-12-02",
+          "pool_sha256": "5a2065375cd218fc70823752fce27bc799dbca9726ed54d77bf595a8ebb86bc7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-01-02",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-01-31",
+          "selection_asof": "2025-01-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-02-03",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-02-28",
+          "selection_asof": "2025-02-28",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-03-03",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-03-31",
+          "selection_asof": "2025-03-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-04-01",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-04-30",
+          "selection_asof": "2025-04-30",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-05-01",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-05-30",
+          "selection_asof": "2025-05-30",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-06-02",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-06-30",
+          "selection_asof": "2025-06-30",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-07-01",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-07-31",
+          "selection_asof": "2025-07-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-08-01",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-08-29",
+          "selection_asof": "2025-08-29",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-09-02",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-09-30",
+          "selection_asof": "2025-09-30",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-10-01",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-10-31",
+          "selection_asof": "2025-10-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-11-03",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-11-28",
+          "selection_asof": "2025-11-28",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-12-01",
+          "pool_sha256": "85b516fabfdd0bf09a6c1f6ad2706b65648cc5c8789e0380e26c3f24b22bc9b9"
+        }
+      ]
+    },
+    {
+      "account": "B_5bp_science",
+      "dates": 48,
+      "targets": [
+        {
+          "day": "2021-12-31",
+          "q": {
+            "XLE": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-02-28",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-03-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-04-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-05-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-06-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-07-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-08-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-09-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-10-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-11-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-12-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-02-28",
+          "q": {
+            "XLE": 0.45,
+            "XLI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-03-31",
+          "q": {
+            "XLE": 0.45,
+            "BIL": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-04-28",
+          "q": {
+            "XLE": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-05-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-06-30",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-07-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-08-31",
+          "q": {
+            "SMH": 0.45,
+            "SLV": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-09-29",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-10-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-11-30",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-12-29",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-01-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-02-29",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-03-28",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-04-30",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-05-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-06-28",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-07-31",
+          "q": {
+            "SMH": 0.45,
+            "INDA": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-08-30",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-09-30",
+          "q": {
+            "SMH": 0.45,
+            "XLU": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-10-31",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-11-29",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-12-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-01-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-02-28",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-03-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-04-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-05-30",
+          "q": {
+            "GLD": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-06-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-07-31",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-08-29",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-09-30",
+          "q": {
+            "SLV": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-10-31",
+          "q": {
+            "GLD": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-11-28",
+          "q": {
+            "SLV": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        }
+      ],
+      "timings": [
+        {
+          "pool_year": 2022,
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-01-31",
+          "selection_asof": "2022-01-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-02-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-02-28",
+          "selection_asof": "2022-02-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-03-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-03-31",
+          "selection_asof": "2022-03-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-04-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-04-29",
+          "selection_asof": "2022-04-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-05-02",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-05-31",
+          "selection_asof": "2022-05-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-06-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-06-30",
+          "selection_asof": "2022-06-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-07-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-07-29",
+          "selection_asof": "2022-07-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-08-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-08-31",
+          "selection_asof": "2022-08-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-09-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-09-30",
+          "selection_asof": "2022-09-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-10-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-10-31",
+          "selection_asof": "2022-10-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-11-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-11-30",
+          "selection_asof": "2022-11-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-12-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-01-31",
+          "selection_asof": "2023-01-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-02-01",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-02-28",
+          "selection_asof": "2023-02-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-03-01",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-03-31",
+          "selection_asof": "2023-03-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-04-03",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-04-28",
+          "selection_asof": "2023-04-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-05-01",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-05-31",
+          "selection_asof": "2023-05-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-06-01",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-06-30",
+          "selection_asof": "2023-06-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-07-03",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-07-31",
+          "selection_asof": "2023-07-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-08-01",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-08-31",
+          "selection_asof": "2023-08-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-09-01",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-09-29",
+          "selection_asof": "2023-09-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-10-02",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-10-31",
+          "selection_asof": "2023-10-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-11-01",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-11-30",
+          "selection_asof": "2023-11-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-12-01",
+          "pool_sha256": "17a9ae06af5dccd2494b991455e8d0b9bdaf2251fb635f4e5cf94ef57f776868"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-01-02",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-01-31",
+          "selection_asof": "2024-01-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-02-01",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-02-29",
+          "selection_asof": "2024-02-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-03-01",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-03-28",
+          "selection_asof": "2024-03-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-04-01",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-04-30",
+          "selection_asof": "2024-04-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-05-01",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-05-31",
+          "selection_asof": "2024-05-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-06-03",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-06-28",
+          "selection_asof": "2024-06-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-07-01",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-07-31",
+          "selection_asof": "2024-07-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-08-01",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-08-30",
+          "selection_asof": "2024-08-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-09-03",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-09-30",
+          "selection_asof": "2024-09-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-10-01",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-10-31",
+          "selection_asof": "2024-10-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-11-01",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-11-29",
+          "selection_asof": "2024-11-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-12-02",
+          "pool_sha256": "80b41addf993aa2ef4aaa1f7c10a6502660f25e41b10de7e9c3b79fc73ee15d8"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-01-02",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-01-31",
+          "selection_asof": "2025-01-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-02-03",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-02-28",
+          "selection_asof": "2025-02-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-03-03",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-03-31",
+          "selection_asof": "2025-03-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-04-01",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-04-30",
+          "selection_asof": "2025-04-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-05-01",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-05-30",
+          "selection_asof": "2025-05-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-06-02",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-06-30",
+          "selection_asof": "2025-06-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-07-01",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-07-31",
+          "selection_asof": "2025-07-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-08-01",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-08-29",
+          "selection_asof": "2025-08-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-09-02",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-09-30",
+          "selection_asof": "2025-09-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-10-01",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-10-31",
+          "selection_asof": "2025-10-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-11-03",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-11-28",
+          "selection_asof": "2025-11-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-12-01",
+          "pool_sha256": "e317248d24574c964c611da71e4ee0c354e73b4f043d0e5d20b9932dcccc4241"
+        }
+      ]
+    },
+    {
+      "account": "C_5bp_science",
+      "dates": 48,
+      "targets": [
+        {
+          "day": "2021-12-31",
+          "q": {
+            "XLE": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-02-28",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-03-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-04-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-05-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-06-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-07-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-08-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-09-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-10-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-11-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-12-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-02-28",
+          "q": {
+            "XLE": 0.45,
+            "XLI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-03-31",
+          "q": {
+            "XLE": 0.45,
+            "BIL": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-04-28",
+          "q": {
+            "XLE": 0.45,
+            "IEFA": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-05-31",
+          "q": {
+            "VGT": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-06-30",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-07-31",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-08-31",
+          "q": {
+            "SOXX": 0.45,
+            "SLV": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-09-29",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-10-31",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-11-30",
+          "q": {
+            "XLC": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-12-29",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-01-31",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-02-29",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-03-28",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-04-30",
+          "q": {
+            "SOXX": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-05-31",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-06-28",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-07-31",
+          "q": {
+            "SOXX": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-08-30",
+          "q": {
+            "SOXX": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-09-30",
+          "q": {
+            "SOXX": 0.45,
+            "XLU": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-10-31",
+          "q": {
+            "SOXX": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-11-29",
+          "q": {
+            "XLF": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-12-31",
+          "q": {
+            "XLC": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-01-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-02-28",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-03-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-04-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-05-30",
+          "q": {
+            "GLD": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-06-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-07-31",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-08-29",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-09-30",
+          "q": {
+            "SLV": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-10-31",
+          "q": {
+            "GLD": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-11-28",
+          "q": {
+            "SLV": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        }
+      ],
+      "timings": [
+        {
+          "pool_year": 2022,
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-01-31",
+          "selection_asof": "2022-01-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-02-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-02-28",
+          "selection_asof": "2022-02-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-03-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-03-31",
+          "selection_asof": "2022-03-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-04-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-04-29",
+          "selection_asof": "2022-04-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-05-02",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-05-31",
+          "selection_asof": "2022-05-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-06-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-06-30",
+          "selection_asof": "2022-06-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-07-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-07-29",
+          "selection_asof": "2022-07-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-08-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-08-31",
+          "selection_asof": "2022-08-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-09-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-09-30",
+          "selection_asof": "2022-09-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-10-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-10-31",
+          "selection_asof": "2022-10-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-11-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-11-30",
+          "selection_asof": "2022-11-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-12-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-01-31",
+          "selection_asof": "2023-01-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-02-01",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-02-28",
+          "selection_asof": "2023-02-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-03-01",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-03-31",
+          "selection_asof": "2023-03-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-04-03",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-04-28",
+          "selection_asof": "2023-04-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-05-01",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-05-31",
+          "selection_asof": "2023-05-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-06-01",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-06-30",
+          "selection_asof": "2023-06-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-07-03",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-07-31",
+          "selection_asof": "2023-07-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-08-01",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-08-31",
+          "selection_asof": "2023-08-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-09-01",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-09-29",
+          "selection_asof": "2023-09-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-10-02",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-10-31",
+          "selection_asof": "2023-10-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-11-01",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-11-30",
+          "selection_asof": "2023-11-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-12-01",
+          "pool_sha256": "15f3df1af9597db26aa82ff39b94a8953700d7700e5310ee5e34af29d78213cc"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-01-02",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-01-31",
+          "selection_asof": "2024-01-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-02-01",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-02-29",
+          "selection_asof": "2024-02-29",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-03-01",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-03-28",
+          "selection_asof": "2024-03-28",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-04-01",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-04-30",
+          "selection_asof": "2024-04-30",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-05-01",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-05-31",
+          "selection_asof": "2024-05-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-06-03",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-06-28",
+          "selection_asof": "2024-06-28",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-07-01",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-07-31",
+          "selection_asof": "2024-07-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-08-01",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-08-30",
+          "selection_asof": "2024-08-30",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-09-03",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-09-30",
+          "selection_asof": "2024-09-30",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-10-01",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-10-31",
+          "selection_asof": "2024-10-31",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-11-01",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-11-29",
+          "selection_asof": "2024-11-29",
+          "source_asof": "2023-12-31",
+          "execute_on": "2024-12-02",
+          "pool_sha256": "f7a4c715c7b613003a8607cfb8d137be206b61c925fef0236724939f53d9481b"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-01-02",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-01-31",
+          "selection_asof": "2025-01-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-02-03",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-02-28",
+          "selection_asof": "2025-02-28",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-03-03",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-03-31",
+          "selection_asof": "2025-03-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-04-01",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-04-30",
+          "selection_asof": "2025-04-30",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-05-01",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-05-30",
+          "selection_asof": "2025-05-30",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-06-02",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-06-30",
+          "selection_asof": "2025-06-30",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-07-01",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-07-31",
+          "selection_asof": "2025-07-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-08-01",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-08-29",
+          "selection_asof": "2025-08-29",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-09-02",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-09-30",
+          "selection_asof": "2025-09-30",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-10-01",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-10-31",
+          "selection_asof": "2025-10-31",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-11-03",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-11-28",
+          "selection_asof": "2025-11-28",
+          "source_asof": "2024-12-31",
+          "execute_on": "2025-12-01",
+          "pool_sha256": "360de6588ead32041357b170651fd4dc4e7ff0455ee61e2da487c9b24a0e5356"
+        }
+      ]
+    },
+    {
+      "account": "E_5bp_science",
+      "dates": 48,
+      "targets": [
+        {
+          "day": "2021-12-31",
+          "q": {
+            "XLE": 0.45,
+            "SOXX": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-02-28",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-03-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-04-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-05-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-06-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-07-29",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-08-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-09-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-10-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-11-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2022-12-30",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-01-31",
+          "q": {
+            "XLE": 0.45,
+            "PDBC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-02-28",
+          "q": {
+            "XLE": 0.45,
+            "XLI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-03-31",
+          "q": {
+            "XLE": 0.45,
+            "BIL": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-04-28",
+          "q": {
+            "XLE": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-05-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-06-30",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-07-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-08-31",
+          "q": {
+            "SMH": 0.45,
+            "SLV": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-09-29",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-10-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-11-30",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2023-12-29",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-01-31",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-02-29",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-03-28",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-04-30",
+          "q": {
+            "SMH": 0.45,
+            "QQQ": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-05-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-06-28",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-07-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-08-30",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-09-30",
+          "q": {
+            "SMH": 0.45,
+            "XLU": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-10-31",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-11-29",
+          "q": {
+            "SMH": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2024-12-31",
+          "q": {
+            "SMH": 0.45,
+            "XLC": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-01-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-02-28",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-03-31",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-04-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-05-30",
+          "q": {
+            "GLD": 0.45,
+            "XLF": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-06-30",
+          "q": {
+            "GLD": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-07-31",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-08-29",
+          "q": {
+            "MCHI": 0.45,
+            "GLD": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-09-30",
+          "q": {
+            "SLV": 0.45,
+            "MCHI": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-10-31",
+          "q": {
+            "GLD": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        },
+        {
+          "day": "2025-11-28",
+          "q": {
+            "SLV": 0.45,
+            "SMH": 0.45,
+            "SHY": 0.09999999999999998
+          },
+          "reason": "oracle"
+        }
+      ],
+      "timings": [
+        {
+          "pool_year": 2022,
+          "price_asof": "2021-12-31",
+          "selection_asof": "2021-12-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-01-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-01-31",
+          "selection_asof": "2022-01-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-02-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-02-28",
+          "selection_asof": "2022-02-28",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-03-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-03-31",
+          "selection_asof": "2022-03-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-04-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-04-29",
+          "selection_asof": "2022-04-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-05-02",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-05-31",
+          "selection_asof": "2022-05-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-06-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-06-30",
+          "selection_asof": "2022-06-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-07-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-07-29",
+          "selection_asof": "2022-07-29",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-08-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-08-31",
+          "selection_asof": "2022-08-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-09-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-09-30",
+          "selection_asof": "2022-09-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-10-03",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-10-31",
+          "selection_asof": "2022-10-31",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-11-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2022,
+          "price_asof": "2022-11-30",
+          "selection_asof": "2022-11-30",
+          "source_asof": "2021-12-31",
+          "execute_on": "2022-12-01",
+          "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2022-12-30",
+          "selection_asof": "2022-12-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-01-03",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-01-31",
+          "selection_asof": "2023-01-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-02-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-02-28",
+          "selection_asof": "2023-02-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-03-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-03-31",
+          "selection_asof": "2023-03-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-04-03",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-04-28",
+          "selection_asof": "2023-04-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-05-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-05-31",
+          "selection_asof": "2023-05-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-06-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-06-30",
+          "selection_asof": "2023-06-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-07-03",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-07-31",
+          "selection_asof": "2023-07-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-08-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-08-31",
+          "selection_asof": "2023-08-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-09-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-09-29",
+          "selection_asof": "2023-09-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-10-02",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-10-31",
+          "selection_asof": "2023-10-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-11-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2023,
+          "price_asof": "2023-11-30",
+          "selection_asof": "2023-11-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2023-12-01",
+          "pool_sha256": "4031d2882f788b4d6c7ff399c15fc6fda0aa7a86e83744669df3f5f1691e1938"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2023-12-29",
+          "selection_asof": "2023-12-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-01-02",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-01-31",
+          "selection_asof": "2024-01-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-02-01",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-02-29",
+          "selection_asof": "2024-02-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-03-01",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-03-28",
+          "selection_asof": "2024-03-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-04-01",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-04-30",
+          "selection_asof": "2024-04-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-05-01",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-05-31",
+          "selection_asof": "2024-05-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-06-03",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-06-28",
+          "selection_asof": "2024-06-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-07-01",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-07-31",
+          "selection_asof": "2024-07-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-08-01",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-08-30",
+          "selection_asof": "2024-08-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-09-03",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-09-30",
+          "selection_asof": "2024-09-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-10-01",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-10-31",
+          "selection_asof": "2024-10-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-11-01",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2024,
+          "price_asof": "2024-11-29",
+          "selection_asof": "2024-11-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2024-12-02",
+          "pool_sha256": "b1d7dd36b0a294067311b39b17f2211c200739516142fe310d38934fb0c7dd66"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2024-12-31",
+          "selection_asof": "2024-12-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-01-02",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-01-31",
+          "selection_asof": "2025-01-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-02-03",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-02-28",
+          "selection_asof": "2025-02-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-03-03",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-03-31",
+          "selection_asof": "2025-03-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-04-01",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-04-30",
+          "selection_asof": "2025-04-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-05-01",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-05-30",
+          "selection_asof": "2025-05-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-06-02",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-06-30",
+          "selection_asof": "2025-06-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-07-01",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-07-31",
+          "selection_asof": "2025-07-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-08-01",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-08-29",
+          "selection_asof": "2025-08-29",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-09-02",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-09-30",
+          "selection_asof": "2025-09-30",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-10-01",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-10-31",
+          "selection_asof": "2025-10-31",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-11-03",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        },
+        {
+          "pool_year": 2025,
+          "price_asof": "2025-11-28",
+          "selection_asof": "2025-11-28",
+          "source_asof": "2022-12-31",
+          "execute_on": "2025-12-01",
+          "pool_sha256": "3ac9d6a4c1ae8d673bd4c52758cc248ac6da855854710d011c1f96e07908b3d7"
+        }
+      ]
+    }
+  ]
+}
