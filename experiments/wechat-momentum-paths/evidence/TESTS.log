@@ -1,0 +1,99 @@
+........................................................................ [ 54%]
+............................................................             [100%]
+=============================== warnings summary ===============================
+tests/test_default_policy.py: 70 warnings
+tests/test_experiments.py: 35 warnings
+tests/test_standard_v2.py: 175 warnings
+  <repository>/src/c10standard/io.py:134: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    frame=pd.read_csv(
+
+tests/test_default_policy.py::test_cli_default_is_top_two_but_explicit_top_one_remains_reproducible[None-C11]
+tests/test_default_policy.py::test_cli_default_is_top_two_but_explicit_top_one_remains_reproducible[None-C11]
+tests/test_default_policy.py::test_cli_default_is_top_two_but_explicit_top_one_remains_reproducible[None-C11]
+tests/test_default_policy.py::test_cli_default_is_top_two_but_explicit_top_one_remains_reproducible[None-C11]
+  <venv>/lib/python3.14/site-packages/pandas/core/series.py:848: Pandas4Warning: Series.values returning an ndarray that drops timezone information for DatetimeTZDtype is deprecated. In a future version, this will return the underlying DatetimeArray instead. Use 'Series.dt.tz_convert(None).to_numpy()' to get a NumPy array of UTC values, or 'Series.array' to get the ExtensionArray.
+  See https://pandas.pydata.org/docs/dev/whatsnew/v3.1.0.html#whatsnew-310-deprecations-values for more details.
+    warnings.warn(
+
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+  <repository>/tests/test_experiments.py:304: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(source / f"{book}.csv.gz", float_precision="round_trip"),
+
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+  <repository>/tests/test_experiments.py:305: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(baseline / f"{book}.csv.gz", float_precision="round_trip"),
+
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+  <repository>/tests/test_experiments.py:311: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(source / f"{name}.csv.gz", float_precision="round_trip").to_dict("records")
+
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+  <repository>/src/c10standard/run.py:162: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(generated / filename, float_precision="round_trip"),
+
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+  <repository>/src/c10standard/run.py:163: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(folder / filename, float_precision="round_trip"),
+
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+  <repository>/src/c10experiments/run.py:49: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(reference / f"{name}.csv.gz", float_precision="round_trip"),
+
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+tests/test_experiments.py::test_saved_wrong_scalar_is_rejected_by_reused_standard_validator_without_native
+  <repository>/src/c10experiments/run.py:50: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(folder / f"{name}.csv.gz", float_precision="round_trip"),
+
+tests/test_paths_signals.py::test_smooth_denominator_overflow_fails_instead_of_reporting_zero_momentum[features]
+  <venv>/lib/python3.14/site-packages/numpy/_core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+    return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+
+tests/test_standard_v2.py: 15 warnings
+  <repository>/tests/test_standard_v2.py:283: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(folder / f"{name}.csv.gz", float_precision="round_trip").to_dict("records")
+
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+  <repository>/src/c10standard/run.py:98: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(reference / f"{name}.csv.gz", float_precision="round_trip"),
+
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+tests/test_standard_v2.py::test_scalar_only_old_benchmark_reference_does_not_require_a_fabricated_native_vector
+  <repository>/src/c10standard/run.py:99: Pandas4Warning: The 'float_precision' argument is deprecated. Use the default float precision instead.
+    pd.read_csv(folder / f"{name}.csv.gz", float_precision="round_trip"),
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+132 passed, 345 warnings in 23.05s
