@@ -1,0 +1,17 @@
+{
+  "status": "PASS_PLAN",
+  "reviewer": "independent backtrader_audit",
+  "plan_sha256": "d48d3a0dc3a999f82b32239447f898f73056a2e9a53c782f334d7bcc7cdb38b6",
+  "native_started": 0,
+  "pool_and_inputs": "PENDING",
+  "code_freeze_order": "afterTDDandreviewbeforefirstnative; datafreezeonlyafteracceptance",
+  "confirmed": [
+    "Nov10completeRTH notNov11premarket",
+    "2025sourcepool no2026AUM",
+    "2022continuous no2025exit noJan2026reset",
+    "ownDec31NAVYTD denominator",
+    "terminalfalse+openTrade forscience",
+    "2oldhistoricalbridges+6continuousscience8hard12",
+    "separatequote220cap"
+  ]
+}
