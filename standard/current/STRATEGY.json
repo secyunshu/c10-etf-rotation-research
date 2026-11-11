@@ -1,0 +1,49 @@
+{
+  "policy_version": "2.2.0",
+  "id": "V2_TOP2_ANNUAL_POOL",
+  "adopted_date": "2026-11-11",
+  "status": "RESEARCH_STANDARD_NOT_LIVE_APPROVAL",
+  "user_authorization": "Make annual universe rebuilding part of the default V2 Top2 policy and publish to GitHub",
+  "default_rule": "C11",
+  "top_k": 2,
+  "universe_refresh": "annual",
+  "rebalance_frequency": "monthly",
+  "momentum_lookback_trading_days": 252,
+  "aum_min_usd": 5000000000,
+  "adv20_min_usd": 10000000,
+  "risk_group_cap": 1,
+  "defender": "SHY",
+  "gate": "selected asset R252 strictly greater than SHY R252; no replacement after gate",
+  "risk_slot_weight": 0.4275,
+  "minimum_shy_weight": 0.095,
+  "cash_target": 0.05,
+  "initial_cash": 50000,
+  "costs_bps": [
+    5,
+    20
+  ],
+  "schedule_path": "experiments/v2-annual-repool/ANNUAL.json",
+  "schedule_sha256": "76238faaff2528732bf44a7b24bb66b6afe12d3496e91e6b68eafe2dda626257",
+  "schedule_identity_sha256": "cd6642e1396a91a4b0a541a68606c4ef6f51d1b9d9ba8a679d6408bf907f5bcb",
+  "verified_trade_years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "annual_selection": "previous Dec31 available archivedAUM within fixed95comparables/36categories; maximum category representative above5B",
+  "signal_timing": "last monthly trading close prices, annual pool metadata cutoff Dec31, execution nextsession; activepool by executionyear",
+  "legacy_fixed_config": "standard/STRATEGY.json",
+  "annual_reference": "experiments/v2-annual-repool/reference",
+  "historical_results": "experiments/v2-annual-repool/results",
+  "source_limitations": [
+    "asynchronous archival AUM is not exact common yearend snapshot",
+    "candidate/class design and survivorship limitations persist",
+    "INDA2023June snapshot had later pre2024 issuer evidence above5B; old reproduction not corrected",
+    "observed annual benefit mostly semiconductor representative switch;2024/25extra updates no selectedtarget effect"
+  ],
+  "new_oos_validation": false,
+  "annual_2026_verified": false,
+  "future_schedule_policy": "Missingyear requires new documented source/data acceptance; never carry forward lastpool silently",
+  "runtime_package_version_note": "Legacy compatibility distribution metadata remains2.1.0; current policy release is2.2.0"
+}

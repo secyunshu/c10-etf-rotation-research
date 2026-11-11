@@ -1,0 +1,8 @@
+{
+  "policy_version": "2.2.0",
+  "strategy_path": "standard/current/STRATEGY.json",
+  "strategy_sha256": "81c498228cc15c4b05baa407d572d0ff1f9a4892b6009d96a422052773eb63e1",
+  "entrypoint": "scripts.current_standard",
+  "prior_policy": "2.1.0-fixed-pool",
+  "authorization_date": "2026-11-11"
+}

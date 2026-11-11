@@ -1,0 +1,15 @@
+{
+  "status": "PASS_PLAN",
+  "independent_reviewer": "backtrader_audit",
+  "plan_sha256": "bceef64fdaa3c1d9b2cf8119129cdbd9a9367915264eb82c16d3ef139aca2e1e",
+  "native_started": 0,
+  "adoption_authorized": true,
+  "conditions": [
+    "newcurrentpointer config anddefaultentry matchANNUALD",
+    "newrelease lock source/docs/policy/schedule/references",
+    "oldfixedcontractandhashes unchanged",
+    "no2026annualclaims or schedulecarryforward",
+    "newnative4plan8hard budget finallyrestore",
+    "policyversion2.2 distinctfromfrozenlegacyruntime2.1"
+  ]
+}
