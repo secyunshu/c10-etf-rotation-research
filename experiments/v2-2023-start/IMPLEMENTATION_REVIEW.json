@@ -11,5 +11,8 @@
   "tests_passed": 49,
   "mypy_sources": 49,
   "pyright_errors": 0,
-  "ruff_errors": 0
+  "ruff_errors": 0,
+  "source_freeze_commit": "45eb2c5",
+  "plan_commit": "dfb75d7",
+  "source_lock_sha256": "86e704175e3b736a59e77d173ded98df5617930bca6decefd18964689087dc99"
 }

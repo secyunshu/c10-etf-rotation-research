@@ -1,0 +1,10 @@
+{
+  "experiment": "V2_REPOOL_2023_V1",
+  "contract": {
+    "role": "NEW_POOL",
+    "cost_bps": 5,
+    "stage": "science",
+    "pool_sha256": "13cbe6f2a9ce1dcebfb3cbd03eecb9db390978485265b89417e5db3a4562752a"
+  },
+  "source_sha256": "86e704175e3b736a59e77d173ded98df5617930bca6decefd18964689087dc99"
+}

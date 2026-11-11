@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "accounts": 8,
+  "annual_rows": 24,
+  "summary_rows": 8,
+  "target_rows": 436,
+  "checked_metric_values": 528,
+  "checked_table_cells": 2804,
+  "source_lock": "86e704175e3b736a59e77d173ded98df5617930bca6decefd18964689087dc99",
+  "native_attempts": 0,
+  "table_hashes": {
+    "ANNUAL.csv": "0d12f74fcd89eb6081ebf7cbf6e7bb1fce0e162910b369ad6d162c8438194c90",
+    "SUMMARY.csv": "b3d5d77decea42e911be53a536ce4f14fa9748e369b45a41122eb7fd9f80b268",
+    "TARGETS.csv": "151684d87dcaba07735f47c776948e8f32c943569ace78cb0a7e47635dac9500",
+    "INITIAL_ORDERS.csv": "bbb555c50b3b2b597468894bd11c7582177651682f15df369ca9a9f94919386b"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "raw_journal_sha256": "211b5fe69238ce1f4799e77c56e9e1009959d4d978aabd310e60771907cf53a1",
+  "public_journal_sha256": "d608d3aac7e3ce276f9daaf3bb000860424f6fb7466d5bdb542232cf9c8fdc53",
+  "transformation": "absolute repository path replaced with <repository>; no event/account/time/counter change",
+  "raw_kept_locally": true
+}
