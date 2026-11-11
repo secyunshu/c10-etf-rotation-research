@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "account": "FIXED_5bp_bridge",
+  "hashes": {
+    "metrics.json": "edbf5a648ef8683c73065454d8c316ee4b9d8926a54a651b27adc56e5acd0236",
+    "native_total_return.json": "4f28022bbbaf0fab534e0bb14b678f8b3525e8d72bb4f1c1be020ffe2921834a",
+    "timings.json": "350d4fabfe3d1d1eba2bee442006a3cbc4af7ab65596199330827da2bad94edb",
+    "open_trades.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "BINDING.json": "d43f004c9bf4016df0402de256489042dff8569b5fa3d8b2d1d77689486fd136",
+    "dividends.csv.gz": "e47692fc8855c9f73365be95a6938a378b0243237f0eb4b3de8e878a4bfdc65e",
+    "targets.json": "3717e0ffe2089f3b00f93bc08d44a9cbf85cbc5bb1df2a43878e482cd17d592a",
+    "native_returns.json": "46b3420243c6550dd58b7b4c146610728b1e3146d066c31b2ad4b89d56d54d32",
+    "NATIVE_COMPLETE.json": "cfd78451c7edde824e873d8b67b5b16ae09e414bd868d75c70405378cf331976",
+    "holdings.csv.gz": "0281fe8461ec7f3687bbe76d2e1a16eff951e3abb6c8452d914fac2964ebf2be",
+    "daily.csv.gz": "f5c1ff8df670c36d85fce711ee4259068c84b379940efdf7285f46c65e465a29",
+    "orders.csv.gz": "e9c074b5eaa484fa6fca61e64242a17a6422ee12071cf03c1879106af974ac93",
+    "trades.csv.gz": "7787c5227cf69a53f2acca3387f057cb0cd2391d2063f1ae2b0fa5a15e45896f",
+    "CONTRACT.json": "4b0e51f643018fbe4f980b47ad9026b6104af7557844fe038325b929239a6146",
+    "ARTIFACT.json": "138af9acf557bd5ccd9a63d4d7930216f88405337734321620f10d2380cbd529"
+  },
+  "max_differences": {
+    "daily": 0.0,
+    "orders": 0.0,
+    "holdings": 0.0,
+    "dividends": 0.0,
+    "trades": 0.0,
+    "targets": 0.0,
+    "native_total_return": 0.0,
+    "metrics.json": 0.0,
+    "native_returns.json": 0.0,
+    "open_trades.json": 0.0
+  }
+}

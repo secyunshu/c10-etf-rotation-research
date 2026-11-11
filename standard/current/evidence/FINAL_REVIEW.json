@@ -1,0 +1,21 @@
+{
+  "status": "PASS_UNPUBLISHED",
+  "independent_reviewer": "backtrader_audit",
+  "release_lock_files": 68,
+  "annual_reference_files_explicitly_locked": 56,
+  "release_lock_sha256": "c8033aae40e29c2692cd106526aa3a40b924229e6570792f797ff7d8866b37f8",
+  "default_and_explicit_entry": "2.2.0/C11/top2/annual",
+  "native_started": 4,
+  "native_completed": 4,
+  "native_finished": 4,
+  "native_failed": 0,
+  "actual_receipt_files_checked": 60,
+  "five_book_pairs_byte_exact_after_decode": 20,
+  "json_objects_exact": 28,
+  "prior_manifest_entries_verified_via_preserved_documents": 1275,
+  "public_local_policy_identity_equal": true,
+  "new_annual2026_claim": false,
+  "old_annual_journal_unchanged": true,
+  "remote_publication_verified": false,
+  "remaining_work": "rebuild current root manifest; push/merge/tag and isolated download check"
+}

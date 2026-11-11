@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "preserved_manifest_path": "standard/current/evidence/prior_v2_1/MANIFEST.sha256",
+  "preserved_manifest_sha256": "0696b12be9f8df0faddf88e6a05ecb509939c3192b5aab04a7c8805b020a3e12",
+  "prior_manifest_entries_checked": 1275,
+  "changed_doc_mapping": [
+    {
+      "original_path": "README.md",
+      "preserved_path": "standard/current/evidence/prior_v2_1/README.md",
+      "prior_sha256": "7644c30db15300b5ff302d4d21ff1ce850dd98b90f5334f61358f9cd1d83c58c"
+    },
+    {
+      "original_path": "docs/STANDARD_V2.md",
+      "preserved_path": "standard/current/evidence/prior_v2_1/docs/STANDARD_V2.md",
+      "prior_sha256": "623f8ede50df8e609b27feb7beae8752b6c7a0fd70bec65d1c644015029613d0"
+    },
+    {
+      "original_path": "docs/REPRODUCE_V2.md",
+      "preserved_path": "standard/current/evidence/prior_v2_1/docs/REPRODUCE_V2.md",
+      "prior_sha256": "432cc67a9baa2e9664d0ed29bb335ab31d87a28eae0588f6a84f36da73205000"
+    }
+  ],
+  "policy_config_legacy_unchanged": true,
+  "old_python_sources_unchanged": true
+}
