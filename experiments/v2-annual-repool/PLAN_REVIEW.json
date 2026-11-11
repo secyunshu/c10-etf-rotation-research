@@ -1,0 +1,9 @@
+{
+  "status": "PASS_PLAN",
+  "reviewer": "independent backtrader_audit",
+  "source_and_pool_acceptance": "PENDING",
+  "plan_sha256": "16905a3bce7cc99f7370134dce01ed92eea842c62ed9eca58b8f5353f2f8cd93",
+  "native_started": 0,
+  "mandatory_execution_constraint": "choices=(), only2025terminal liquidation; annual targets use next-execution-year, source available byDec31 beforefirstopen",
+  "scope": "2fixedbridges+2annualscience4planned/hard8,6samewindowcontrols reused; dynamicrankingpool vsunionfeeds separate"
+}
