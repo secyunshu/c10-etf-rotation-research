@@ -1,0 +1,31 @@
+{
+  "C11": {
+    "nav_days": 217,
+    "max_drawdown_peak": "2026-01-29",
+    "max_drawdown_trough": "2026-03-30",
+    "last_positions_nav_weights": {
+      "QQQ": 0.09844532738625213,
+      "SMH": 0.451814971209102,
+      "XLE": 0.4371309846448062
+    },
+    "metrics_matched": 3
+  },
+  "SPY_BH": {
+    "nav_days": 217,
+    "max_drawdown_peak": "2026-01-27",
+    "max_drawdown_trough": "2026-03-30",
+    "last_positions_nav_weights": {
+      "SPY": 0.9819707762214901
+    },
+    "metrics_matched": 3
+  },
+  "QQQ_BH": {
+    "nav_days": 217,
+    "max_drawdown_peak": "2026-10-06",
+    "max_drawdown_trough": "2026-11-05",
+    "last_positions_nav_weights": {
+      "QQQ": 0.9901046442427435
+    },
+    "metrics_matched": 3
+  }
+}

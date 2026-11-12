@@ -1,0 +1,25 @@
+{
+  "source": "Futu OpenD, unadjusted RTH daily K-line and corporate actions",
+  "day": "2026-11-11",
+  "new_ex_dates_and_splits": 0,
+  "raw_response_log_sha256": {
+    "QQQ_get_kline.log": "af2cf94f5a1a646d2ea79c546bdf56d1ab508428eca617981bba3783df356c5e",
+    "QQQ_get_rehab.log": "25e50ce4a8c7a23d7db88b1a2dbf43bf265c5586d6c7b44649cadc37829aac38",
+    "QQQ_get_corporate_actions_dividends.log": "22b13fa93099bf040e1ab432a307b4b4ed91ece84361a1e46366bd7b595bb458",
+    "SHY_get_kline.log": "69c8d2afbad2f592e818055f7badba3c1347e582a60df93694943a7932d4212b",
+    "SHY_get_rehab.log": "5daca0fabcc2293d723de865be5283f9dc809d2b9dfedf2a9cd1ab5a0f0d5442",
+    "SHY_get_corporate_actions_dividends.log": "4a853ec2bc18d89a64b79b1ed9116415f78bc14f87c83474f34a2f39111360da",
+    "SLV_get_kline.log": "8f9267a0d2e66d0f5df9493436abf36606a3c609774159acf5cddd8f54d2a887",
+    "SLV_get_rehab.log": "7b165ac2c288e107e27cbf1e04f162cfa47ce075d881ecf9bb3e51c63ad5bf49",
+    "SLV_get_corporate_actions_dividends.log": "16b21cc8eb8fff96485b784ba9b1dde1b1ebc73266861163260125ca8c4593b3",
+    "SMH_get_kline.log": "df31a7c20a388acfb77a4d780531cfb9dbcc8aadac77b304d695ec46061a05f1",
+    "SMH_get_rehab.log": "50f863f392a7278c4a310494204e06816a0fce7503e970c31f9d6476017ecdbd",
+    "SMH_get_corporate_actions_dividends.log": "c8fb66bbfb753aaeb8361ea1ec7bbc757ae1bc0a55c84b262ffea559dc0305c7",
+    "SPY_get_kline.log": "a7124179d87052ed007d05ae35dc43f77a2ccc301bff50ea61a2a7239d629c74",
+    "SPY_get_rehab.log": "44c892e4186d8c74b1676fb7c68e1006c4a5198b562c89430429d3644420b31f",
+    "SPY_get_corporate_actions_dividends.log": "5baf99a80963c206b9e6bf964c83dc2e7b5900576eb2f2d007be0cb16b0b8376",
+    "XLE_get_kline.log": "e2e97c96f941eeedf1154026618a1354558260b85c303f26a4e014e6d936b7a1",
+    "XLE_get_rehab.log": "ebcc3f677a68f8e32cf3c7b1fc69a59a56d3b2107a5b6dcc87c6a2e307ca7ced",
+    "XLE_get_corporate_actions_dividends.log": "ab688620b71f290352375d444cd8f15e36003343de2e071628930ca2090cbbf2"
+  }
+}

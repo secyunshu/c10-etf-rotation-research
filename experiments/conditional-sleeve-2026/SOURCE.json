@@ -1,0 +1,10 @@
+{
+  "hashes": {
+    "scripts/conditional_sleeve_ytd.py": "b652060dbd70941951c09c649ea1b17d52b02e1a0f9d0096d0d67c463219dac9",
+    "scripts/conditional_sleeve.py": "523d88393e4ab539ce06424faf48a7e5da2e3007127ed386eddba5e5fcb17b46",
+    "experiments/annual-2026/SOURCE_LOCK.json": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed",
+    "experiments/conditional-sleeve-2026/PLAN.md": "68201c4c697bf96e6e2b27e6b5215a728209e19f005b0e6351a468da2cf7ff00",
+    "experiments/conditional-sleeve-2026/NOV11_BARS.json": "ceff9dab71b020116b2f5fc6344143e49824237b80fbb3ce46e7d2e5084aa839",
+    "experiments/conditional-sleeve-2026/NOV11_SOURCE.json": "f56cf8dcb49726ce4011a67387e18be246f1ac6be2cfd3ef4e574c9f9c55d57c"
+  }
+}

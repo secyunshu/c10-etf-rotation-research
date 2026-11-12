@@ -1,0 +1,47 @@
+{
+  "C11": {
+    "days": 217,
+    "first": "2026-01-02",
+    "last": "2026-11-11",
+    "opening_equity": 50000.0,
+    "closing_equity": 56102.61194348257,
+    "total_return": 0.12205223886965144,
+    "max_drawdown": 0.2689765482054457,
+    "sharpe_rf0": 0.5324689063052577,
+    "annualized_volatility": 0.42457310037640805,
+    "fees": 65.832351517451,
+    "orders": 27,
+    "dividends": 19.11474,
+    "turnover": 2.4926828858391183
+  },
+  "SPY_BH": {
+    "days": 217,
+    "first": "2026-01-02",
+    "last": "2026-11-11",
+    "opening_equity": 50000.0,
+    "closing_equity": 55710.74142399999,
+    "total_return": 0.11421482847999975,
+    "max_drawdown": 0.08769328252574116,
+    "sharpe_rf0": 0.9768676203592686,
+    "annualized_volatility": 0.13837878296774872,
+    "fees": 2.206216,
+    "orders": 1,
+    "dividends": 402.43319999999994,
+    "turnover": 0.9283310030040861
+  },
+  "QQQ_BH": {
+    "days": 217,
+    "first": "2026-01-02",
+    "last": "2026-11-11",
+    "opening_equity": 50000.0,
+    "closing_equity": 55782.386560000006,
+    "total_return": 0.11564773120000016,
+    "max_drawdown": 0.14690307957591997,
+    "sharpe_rf0": 0.6855568855178897,
+    "annualized_volatility": 0.22104661433891115,
+    "fees": 2.2302400000000002,
+    "orders": 1,
+    "dividends": 183.81920000000002,
+    "turnover": 0.9087537261718526
+  }
+}
