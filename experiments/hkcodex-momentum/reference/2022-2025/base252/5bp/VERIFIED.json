@@ -1,0 +1,10 @@
+{
+  "hashes": {
+    "ARTIFACT.json.gz": "513f6641766da9717ffcc7047e4049311e50aad677e7f892ea0ae0834763363d",
+    "daily.csv.gz": "efb61da5010dce124935a9f6bde6a2f72265a95c9e9d1d5841bdc6cf99264278",
+    "dividends.csv.gz": "b3678b3bb41296ef9dc0c3cd6442e35825d623cead5712728af3803014c6d234",
+    "holdings.csv.gz": "eb6b6a27847c6656b372841322022b0aec71524afe9703012a5e3d1c1e83bb47",
+    "orders.csv.gz": "5b0bd22856d7b11a967eecbbb0cc1283c2bbcf5a1795e957f1df97ab50bdfe0f",
+    "trades.csv.gz": "60d77d552a9c723d1bf90cfe1ccfc7a46f1c4e464f705dc3f2795024f80151c0"
+  }
+}

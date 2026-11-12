@@ -1,0 +1,12 @@
+{
+  "hashes": {
+    "scripts/adaptive_momentum.py": "d05d45a681b4d43648dc799c048026d81a78bcecbe304f96914570fce22cfbab",
+    "experiments/hkcodex-momentum/PLAN.md": "69b45796cf2f46fbbb037f9336e422fad97d83fe632cd1d9c5690c6a195a9b5b",
+    "experiments/v2-annual-repool/SOURCE_LOCK.json": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038",
+    "experiments/annual-2026/SOURCE_LOCK.json": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed",
+    "scripts/conditional_sleeve.py": "523d88393e4ab539ce06424faf48a7e5da2e3007127ed386eddba5e5fcb17b46",
+    "scripts/conditional_sleeve_ytd.py": "b652060dbd70941951c09c649ea1b17d52b02e1a0f9d0096d0d67c463219dac9",
+    "experiments/annual-qqq-spy-sleeve/reference/C11/ARTIFACT.json": "fb760b832c4230335aef7c16a087306f8aff6ac5f4c2cd19e63cf9142b54f306",
+    "experiments/conditional-sleeve-2026/reference/C11/ARTIFACT.json": "d27a6bc23f68005dacf461c3abe63e9312a638467486026e1bbab3f028691a87"
+  }
+}
