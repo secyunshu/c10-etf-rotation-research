@@ -1,0 +1,9 @@
+{
+  "hashes": {
+    "scripts/conditional_sleeve.py": "523d88393e4ab539ce06424faf48a7e5da2e3007127ed386eddba5e5fcb17b46",
+    "scripts/ytd_annual_report.py": "a2d43606adbbd445f01aa23e3effa270d52b5d745e14ad8b7ce3a3028f558f84",
+    "experiments/v2-annual-repool/SOURCE_LOCK.json": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038",
+    "experiments/v2-annual-repool/reference/ANNUAL_5bp_science/targets.json": "87847d7bd4475eccc75e42fd20d9eb0446adf4781f9e47381a082badc38b4cb9",
+    "experiments/annual-qqq-spy-sleeve/PLAN.md": "359c066e5ccb01305dd0435e97d596634c134a6cf1d1292183cf1ba611ed63e0"
+  }
+}
