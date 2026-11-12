@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "account": "QQQ_BH_20bp_science",
+  "hashes": {
+    "native_total_return.json": "e9a1b1ceecbbca43f638671b13e330b622073f2a4cc0e742da26836ddf1d1dbf",
+    "timings.json": "bb507070ee3d4d9f10eeb8fc88567b6c2dd4f67b92466d444c476c11f1bfb13f",
+    "open_trades.json": "38d100282a061a67c8a01867790128fe4e77163875f3e11eb6912763c18f0544",
+    "BINDING.json": "a86325c1be5760c3f5997847f89acf4c71871cb7ee241b45e3c333d06e9c2739",
+    "dividends.csv.gz": "2d9ac962590aef3af214ccaa52590ee65b2ed94eeb0bf23fd50041309f6ead56",
+    "targets.json": "af25b027f6d5271a65209a24e44a04bf422b5b6dba4f98c7d2644625963bbd08",
+    "native_returns.json": "01f3ed0df5871c9c48c1f0cdf51fb013bfd21ab77dad285be18b67f8d8f27c41",
+    "NATIVE_COMPLETE.json": "fdfb29b969cd865c963e94ee55f546ebe295051b43a1fc928e0f09f7b2b2c576",
+    "holdings.csv.gz": "ce71074411a63bc1d0422f7eab3c0bd235234d6900daf7464fdab9461702baed",
+    "daily.csv.gz": "bfe65b704a2fddbb80415173395cabb401912ba77894761c09276b1a1a871702",
+    "orders.csv.gz": "9f43950c8172ce670381faaab81e8742dc93600f0f1b12f0eeb4b5a5658228bf",
+    "trades.csv.gz": "0a41808cdefc25d67d7b2002dfc4767671b9387054542dcaf8e145ef6cde0c0a",
+    "CONTRACT.json": "6fae0e8d1bef2fa2bcc1cec20d24195a92ee4808a2a1bbea2bfa57eeb10329d2",
+    "ARTIFACT.json": "29ab1bddef0ce50f0fe495ce07ac2fbe3569c620711f57db388f90d9673e7347"
+  },
+  "max_differences": {
+    "daily": 0.0,
+    "orders": 0.0,
+    "holdings": 0.0,
+    "dividends": 0.0,
+    "trades": 0.0,
+    "targets": 0.0
+  }
+}

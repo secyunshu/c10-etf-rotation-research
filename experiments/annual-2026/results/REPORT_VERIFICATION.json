@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "accounts": 6,
+  "through": "2026-11-10",
+  "source_lock": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed",
+  "checked_table_cells": 7236,
+  "native_attempts": 0,
+  "tables": {
+    "ANNUAL.csv": "2cf7d588c2afdde6866d643a154b1acd8ad6473a17e1853074ee8df635c79051",
+    "SUMMARY.csv": "b3b51e51f124979ecb5a355718d703abb3c7aa696569ff97c892fe6ae9dc81c3",
+    "MONTHLY.csv": "04b7db0b9ba7d2fedc1b92fb3d6132efc5c54e65f15cadb9f43fd06948543553",
+    "END_POSITIONS.csv": "08a7676e35dc71fa103f177748f68b34ae851d656f42f4e087f333a0f8808ade",
+    "YTD_CONTRIBUTIONS.csv": "a57b919eb07a8a6956134669e14e7dbc91bb6b70a7f9fa151258b73b017e637c"
+  }
+}

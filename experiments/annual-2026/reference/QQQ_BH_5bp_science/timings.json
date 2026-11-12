@@ -1,0 +1,10 @@
+[
+  {
+    "pool_year": 2022,
+    "price_asof": "2021-12-31",
+    "selection_asof": "2021-12-31",
+    "source_asof": "2021-12-31",
+    "execute_on": "2022-01-03",
+    "pool_sha256": "d6fe3bfb094c26157b5ebb4f177a534634a0b3c349d3e409048ee41b0bab2b93"
+  }
+]

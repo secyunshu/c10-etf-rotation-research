@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "account": "ANNUAL_5bp_science",
+  "hashes": {
+    "native_total_return.json": "0aa22c94fe7958013b5caf65cc7e1952d8a3f269f8a309065596c5f7580e2041",
+    "timings.json": "5bd9b516247d4a54cb76b675f47ba42aa79bd10a1386d098838121716f3442e9",
+    "open_trades.json": "2175c44cede82d86796fc0fb93d3deee36bfd0d279cd6d953cac71e5c4444db1",
+    "BINDING.json": "d3ae7736c2aaec57868827935c542807553f73ca1e14fb4fd6159357e8f2c208",
+    "dividends.csv.gz": "ece444121881ea8fc8054034f99b87870e40a9698436629a1133c3437a20a5ab",
+    "targets.json": "d7d44cf93d437bc8aa13cc28c7a9b99222be85c1c749f9d08cf9d046f805360d",
+    "native_returns.json": "eda9c7159b1c5f17c9ff9190df0f5602364fb684cfb3eee41b99a8ed3560c212",
+    "NATIVE_COMPLETE.json": "ad4c0cdedbc9688198df6fca10931f2a8c84f0c568a90768ffa62fe5a77d84da",
+    "holdings.csv.gz": "040bd1fa05b2b2d63e21086d8e204a42a2e7aa46f6c8ee523970ff4e9f8c2394",
+    "daily.csv.gz": "1c356267471fac91efe56a22dfad18791a9b73163d0036cdc0edebd116c88146",
+    "orders.csv.gz": "6665c934d54a8c0bbcbca3bda522dd0aca913d122ce6b6f835396424ae76d2be",
+    "trades.csv.gz": "eeb031db1b537414de16b3f2abc62744769b1663d0c3a010232b782176f526ff",
+    "CONTRACT.json": "5bde446feb464201ba0ef75e562dbea4f4fb03aa55bf583e037ee9736d840573",
+    "ARTIFACT.json": "3b77f3f1c9830825afcd444862c192e2c6669faadd376fde89196cfe106ffc84"
+  },
+  "max_differences": {
+    "daily": 0.0,
+    "orders": 0.0,
+    "holdings": 0.0,
+    "dividends": 0.0,
+    "trades": 0.0,
+    "targets": 0.0,
+    "timings": 0.0,
+    "native_returns": 0.0
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "role": "ANNUAL",
+  "cost_bps": 5,
+  "stage": "bridge",
+  "schedule_sha256": "366f61a5d9d1032ffc06f441926ed26467e0f086dcfa08498b059637caf39405"
+}

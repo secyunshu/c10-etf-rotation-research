@@ -1,0 +1,10 @@
+{
+  "experiment": "ANNUAL_2026_CONTINUOUS_V1",
+  "contract": {
+    "role": "SPY_BH",
+    "cost_bps": 5,
+    "stage": "science",
+    "schedule_sha256": "405fe501588329cd552f94561b314a667a5bf2f966708e85b335a1a121026c35"
+  },
+  "source_sha256": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed"
+}

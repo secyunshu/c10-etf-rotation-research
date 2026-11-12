@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "daily_nav_recalculation": "Decimal previous close base and peak to trough",
+  "report_rows": {
+    "SUMMARY": 12,
+    "ANNUAL": 30,
+    "MONTHLY": 354
+  },
+  "checked_fields_per_row": 4,
+  "max_numeric_difference": 1e-11,
+  "native_events": {
+    "started": 8,
+    "native_completed": 8,
+    "finished": 8
+  },
+  "history_max_difference_by_account": {
+    "ANNUAL_20bp_bridge": 0.0,
+    "ANNUAL_20bp_science": 0.0,
+    "ANNUAL_5bp_bridge": 0.0,
+    "ANNUAL_5bp_science": 0.0,
+    "QQQ_BH_20bp_science": 0.0,
+    "QQQ_BH_5bp_science": 0.0,
+    "SPY_BH_20bp_science": 0.0,
+    "SPY_BH_5bp_science": 0.0
+  },
+  "annual_signal_dates_verified": {
+    "bridge": 48,
+    "science": 59
+  },
+  "regression_tests_passed": 201,
+  "new_native_attempts_in_this_check": 0
+}
