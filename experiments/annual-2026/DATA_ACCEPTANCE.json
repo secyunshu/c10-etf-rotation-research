@@ -1,0 +1,26 @@
+{
+  "status": "PASS_CONDITIONAL_SOURCE_AND_MARKET",
+  "schedule_sha256": "9f8098f7ba3d4bdd2044c80d15a6ea072a7c95a78ecaf3c7db585647b0ca1344",
+  "manifest_sha256": "f48df8b59484b485592c0eb4d8e8dcb8f704c33a151b49a185914251a71b0381",
+  "through": "2026-11-10",
+  "assets": 45,
+  "rows_each": 1472,
+  "historical41_numeric_prefix_exact": true,
+  "modern3_2021_2025_six_fields_and_totalreturn_exact": true,
+  "new_asset": "SCHP",
+  "new_asset_actions": "61 cash distributions, corroborated Futu detail/payment and historical-share rehab; 2024-10-11 2-for-1 split",
+  "SPY_volume": "existing 2026-11-09 seven-significant ROUND_HALF_UP proof independently repeated; preserve old volume; six-field old Futu exact",
+  "AUM_2025_observations": 95,
+  "risk2026": 34,
+  "raw_quote_jobs": 135,
+  "new_quote_jobs_this_continuation": 12,
+  "new_market_data_requests": "VOO SPMO SGOV SCHP: fullraw daily prices/rehab/payment details",
+  "limitations": [
+    "latest publicly archived 2025 AUM not uniform December31 economic date",
+    "original surviving candidate set and known prior INDA source staleness retained",
+    "2026 already seen, not independent OOS",
+    "fees, slippage and historical corporate action provider evidence remain modeling assumptions"
+  ],
+  "native_started": 0,
+  "build_attempts": "two preparatory validations rejected raw-validator TR column and pandas volume dtype; no native, no source overwrite; exact numeric history checked on successful build"
+}

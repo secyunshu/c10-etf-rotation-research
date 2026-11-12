@@ -1,0 +1,248 @@
+[
+  {
+    "symbol": "AGG",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "BIL",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "BND",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "EWJ",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "GLD",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "HYG",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "IEF",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "IEFA",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "IEMG",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "IJR",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "INDA",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "MCHI",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "PDBC",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "QQQ",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "QUAL",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "SHY",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "SLV",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "SMH",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "SOXX",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "SPY",
+    "overlap_rows": 41,
+    "raw_different_cells": 38,
+    "established_spy_rounding_only": true
+  },
+  {
+    "symbol": "TIP",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "TLT",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "USHY",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "USMV",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "VCIT",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "VCSH",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "VEA",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "VGT",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "VIG",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "VNQ",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "VTI",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "VWO",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLB",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLC",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLE",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLF",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLI",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLP",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLU",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLV",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  },
+  {
+    "symbol": "XLY",
+    "overlap_rows": 41,
+    "raw_different_cells": 0,
+    "established_spy_rounding_only": false
+  }
+]

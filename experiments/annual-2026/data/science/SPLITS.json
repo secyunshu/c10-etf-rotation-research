@@ -1,0 +1,116 @@
+{
+  "AGG": [],
+  "BIL": [],
+  "BND": [],
+  "EWJ": [],
+  "GLD": [],
+  "HYG": [],
+  "IEFA": [],
+  "IEF": [],
+  "IEMG": [],
+  "IJR": [],
+  "INDA": [],
+  "MCHI": [],
+  "PDBC": [],
+  "QQQ": [],
+  "QUAL": [
+    {
+      "symbol": "QUAL",
+      "day": "2026-11-05",
+      "shares_after_per_before": 4.0,
+      "source": "Futu actual split/join numerator and denominator"
+    }
+  ],
+  "SCHP": [
+    {
+      "symbol": "SCHP",
+      "day": "2024-10-11",
+      "shares_after_per_before": 2.0,
+      "source": "Futu actual split/join numerator and denominator"
+    }
+  ],
+  "SGOV": [],
+  "SHY": [],
+  "SLV": [],
+  "SMH": [
+    {
+      "symbol": "SMH",
+      "day": "2023-05-05",
+      "shares_after_per_before": 2.0,
+      "source": "Futu split/join numerator and denominator"
+    }
+  ],
+  "SOXX": [
+    {
+      "symbol": "SOXX",
+      "day": "2024-03-07",
+      "shares_after_per_before": 3.0,
+      "source": "Futu split/join numerator and denominator"
+    },
+    {
+      "symbol": "SOXX",
+      "day": "2026-11-05",
+      "shares_after_per_before": 3.0,
+      "source": "Futu actual split/join numerator and denominator"
+    }
+  ],
+  "SPMO": [],
+  "SPY": [],
+  "TIP": [],
+  "TLT": [],
+  "USHY": [],
+  "USMV": [],
+  "VCIT": [],
+  "VCSH": [],
+  "VEA": [],
+  "VGT": [
+    {
+      "symbol": "VGT",
+      "day": "2026-04-21",
+      "shares_after_per_before": 8.0,
+      "source": "Futu actual split/join numerator and denominator"
+    }
+  ],
+  "VIG": [],
+  "VNQ": [],
+  "VOO": [],
+  "VTI": [],
+  "VWO": [],
+  "XLB": [
+    {
+      "symbol": "XLB",
+      "day": "2025-12-05",
+      "shares_after_per_before": 2.0,
+      "source": "Futu split/join numerator and denominator"
+    }
+  ],
+  "XLC": [],
+  "XLE": [
+    {
+      "symbol": "XLE",
+      "day": "2025-12-05",
+      "shares_after_per_before": 2.0,
+      "source": "Futu split/join numerator and denominator"
+    }
+  ],
+  "XLF": [],
+  "XLI": [],
+  "XLP": [],
+  "XLU": [
+    {
+      "symbol": "XLU",
+      "day": "2025-12-05",
+      "shares_after_per_before": 2.0,
+      "source": "Futu split/join numerator and denominator"
+    }
+  ],
+  "XLV": [],
+  "XLY": [
+    {
+      "symbol": "XLY",
+      "day": "2025-12-05",
+      "shares_after_per_before": 2.0,
+      "source": "Futu split/join numerator and denominator"
+    }
+  ]
+}

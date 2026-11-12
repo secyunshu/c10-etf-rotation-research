@@ -1,0 +1,11 @@
+{
+  "status": "PASS_EXISTING_SOURCE_EXPLANATION",
+  "overlap_days": 41,
+  "different_volume_days": 38,
+  "max_absolute_shares": 47,
+  "prior_futu_six_fields_exact": true,
+  "old_equals_original_display_source": true,
+  "ROUND_HALF_UP_7significant_exact": true,
+  "resolution": "retain old values; append new2026 raw; same prior2026Nov9 rule",
+  "prior_evidence": "../etf_rotation_backtrader/research/C10_2026_YTD_20261109/SPY_VOLUME_ADDENDUM.md"
+}

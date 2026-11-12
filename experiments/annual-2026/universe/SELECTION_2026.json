@@ -1,0 +1,385 @@
+[
+  {
+    "category": "us_total",
+    "winner": "VTI",
+    "aum_usd": 545770000000,
+    "included": true,
+    "candidates": [
+      "VTI",
+      "ITOT",
+      "SCHB"
+    ]
+  },
+  {
+    "category": "us_sp500",
+    "winner": "VOO",
+    "aum_usd": 813000000000,
+    "included": true,
+    "candidates": [
+      "VOO",
+      "IVV",
+      "SPY",
+      "SPYM"
+    ]
+  },
+  {
+    "category": "us_nasdaq100",
+    "winner": "QQQ",
+    "aum_usd": 393565000000,
+    "included": true,
+    "candidates": [
+      "QQQ",
+      "QQQM"
+    ]
+  },
+  {
+    "category": "us_small",
+    "winner": "IJR",
+    "aum_usd": 86478600000,
+    "included": true,
+    "candidates": [
+      "IWM",
+      "VTWO",
+      "SCHA",
+      "IJR"
+    ]
+  },
+  {
+    "category": "us_tech",
+    "winner": "VGT",
+    "aum_usd": 108972000000,
+    "included": true,
+    "candidates": [
+      "XLK",
+      "VGT",
+      "IYW",
+      "FTEC"
+    ]
+  },
+  {
+    "category": "us_financial",
+    "winner": "XLF",
+    "aum_usd": 49527400000,
+    "included": true,
+    "candidates": [
+      "XLF",
+      "VFH"
+    ]
+  },
+  {
+    "category": "us_health",
+    "winner": "XLV",
+    "aum_usd": 36139400000,
+    "included": true,
+    "candidates": [
+      "XLV",
+      "VHT"
+    ]
+  },
+  {
+    "category": "us_energy",
+    "winner": "XLE",
+    "aum_usd": 27215400000,
+    "included": true,
+    "candidates": [
+      "XLE",
+      "VDE"
+    ]
+  },
+  {
+    "category": "us_industrial",
+    "winner": "XLI",
+    "aum_usd": 23014400000,
+    "included": true,
+    "candidates": [
+      "XLI",
+      "VIS"
+    ]
+  },
+  {
+    "category": "us_utilities",
+    "winner": "XLU",
+    "aum_usd": 21325700000,
+    "included": true,
+    "candidates": [
+      "XLU",
+      "VPU"
+    ]
+  },
+  {
+    "category": "us_discretionary",
+    "winner": "XLY",
+    "aum_usd": 21504000000,
+    "included": true,
+    "candidates": [
+      "XLY",
+      "VCR"
+    ]
+  },
+  {
+    "category": "us_staples",
+    "winner": "XLP",
+    "aum_usd": 16005600000.0,
+    "included": true,
+    "candidates": [
+      "XLP",
+      "VDC"
+    ]
+  },
+  {
+    "category": "us_communications",
+    "winner": "XLC",
+    "aum_usd": 26708400000,
+    "included": true,
+    "candidates": [
+      "XLC",
+      "VOX"
+    ]
+  },
+  {
+    "category": "us_materials",
+    "winner": "XLB",
+    "aum_usd": 5426900000,
+    "included": true,
+    "candidates": [
+      "XLB"
+    ]
+  },
+  {
+    "category": "us_real_estate",
+    "winner": "VNQ",
+    "aum_usd": 33620699999.999996,
+    "included": true,
+    "candidates": [
+      "VNQ",
+      "SCHH",
+      "XLRE"
+    ]
+  },
+  {
+    "category": "us_semiconductors",
+    "winner": "SMH",
+    "aum_usd": 35745200000,
+    "included": true,
+    "candidates": [
+      "SMH",
+      "SOXX"
+    ]
+  },
+  {
+    "category": "us_dividend",
+    "winner": "VIG",
+    "aum_usd": 100793000000,
+    "included": true,
+    "candidates": [
+      "VIG",
+      "SCHD",
+      "VYM",
+      "DGRO",
+      "DVY"
+    ]
+  },
+  {
+    "category": "us_quality",
+    "winner": "QUAL",
+    "aum_usd": 47980700000,
+    "included": true,
+    "candidates": [
+      "QUAL",
+      "SPHQ"
+    ]
+  },
+  {
+    "category": "us_min_vol",
+    "winner": "USMV",
+    "aum_usd": 23591600000,
+    "included": true,
+    "candidates": [
+      "USMV",
+      "SPLV"
+    ]
+  },
+  {
+    "category": "us_momentum",
+    "winner": "SPMO",
+    "aum_usd": 11776800000,
+    "included": true,
+    "candidates": [
+      "SPMO"
+    ]
+  },
+  {
+    "category": "developed_exus",
+    "winner": "VEA",
+    "aum_usd": 187788000000,
+    "included": true,
+    "candidates": [
+      "VEA",
+      "IEFA",
+      "EFA",
+      "SCHF"
+    ]
+  },
+  {
+    "category": "emerging",
+    "winner": "IEMG",
+    "aum_usd": 119938000000,
+    "included": true,
+    "candidates": [
+      "IEMG",
+      "VWO",
+      "EEM"
+    ]
+  },
+  {
+    "category": "japan",
+    "winner": "EWJ",
+    "aum_usd": 14588500000,
+    "included": true,
+    "candidates": [
+      "EWJ"
+    ]
+  },
+  {
+    "category": "india",
+    "winner": "INDA",
+    "aum_usd": 8283799999.999999,
+    "included": true,
+    "candidates": [
+      "INDA"
+    ]
+  },
+  {
+    "category": "china",
+    "winner": "MCHI",
+    "aum_usd": 8172600000,
+    "included": true,
+    "candidates": [
+      "MCHI"
+    ]
+  },
+  {
+    "category": "treasury_cash",
+    "winner": "SGOV",
+    "aum_usd": 66194200000,
+    "included": true,
+    "candidates": [
+      "SGOV",
+      "BIL",
+      "SHV",
+      "GBIL"
+    ]
+  },
+  {
+    "category": "treasury_short",
+    "winner": "SHY",
+    "aum_usd": 24435300000,
+    "included": true,
+    "candidates": [
+      "VGSH",
+      "SHY",
+      "SCHO"
+    ]
+  },
+  {
+    "category": "treasury_medium",
+    "winner": "IEF",
+    "aum_usd": 44018700000,
+    "included": true,
+    "candidates": [
+      "IEF",
+      "VGIT",
+      "SCHR"
+    ]
+  },
+  {
+    "category": "treasury_long",
+    "winner": "TLT",
+    "aum_usd": 48041700000,
+    "included": true,
+    "candidates": [
+      "TLT",
+      "VGLT",
+      "SPTL"
+    ]
+  },
+  {
+    "category": "treasury_inflation",
+    "winner": "SCHP",
+    "aum_usd": 14315000000,
+    "included": true,
+    "candidates": [
+      "TIP",
+      "SCHP",
+      "VTIP",
+      "STIP"
+    ]
+  },
+  {
+    "category": "aggregate_bonds",
+    "winner": "BND",
+    "aum_usd": 143684000000,
+    "included": true,
+    "candidates": [
+      "BND",
+      "AGG",
+      "SCHZ",
+      "SPAB"
+    ]
+  },
+  {
+    "category": "credit_investment_grade",
+    "winner": "VCIT",
+    "aum_usd": 57013900000,
+    "included": true,
+    "candidates": [
+      "LQD",
+      "VCSH",
+      "VCIT",
+      "IGIB"
+    ]
+  },
+  {
+    "category": "credit_high_yield",
+    "winner": "USHY",
+    "aum_usd": 23812000000,
+    "included": true,
+    "candidates": [
+      "HYG",
+      "USHY",
+      "JNK",
+      "SPHY"
+    ]
+  },
+  {
+    "category": "gold",
+    "winner": "GLD",
+    "aum_usd": 136334000000,
+    "included": true,
+    "candidates": [
+      "GLD",
+      "IAU",
+      "GLDM",
+      "SGOL",
+      "IAUM"
+    ]
+  },
+  {
+    "category": "silver",
+    "winner": "SLV",
+    "aum_usd": 25039300000,
+    "included": true,
+    "candidates": [
+      "SLV"
+    ]
+  },
+  {
+    "category": "broad_commodity",
+    "winner": "PDBC",
+    "aum_usd": 4621800000,
+    "included": false,
+    "candidates": [
+      "PDBC"
+    ]
+  }
+]
