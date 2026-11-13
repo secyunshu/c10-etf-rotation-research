@@ -1,0 +1,14 @@
+{
+  "hashes": {
+    "experiments/v2-annual-repool/SOURCE_LOCK.json": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038",
+    "scripts/intramonth_cycle.py": "57759e94010cef39d26020235e950df244a468f7aefceb0a7d0a98259656a5c4",
+    "experiments/annual-2026/SOURCE_LOCK.json": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed",
+    "experiments/intramonth-cycle/PLAN.md": "290b2815902a1deca9703fd6e09b8df4072283866283c09d2a272a0222fb0d26",
+    "experiments/annual-qqq-spy-sleeve/reference/C11/VERIFIED.json": "ee3d6c175940734cc5d3256cb0d49d9b0cbf917a83437e5e92c685fcce65db51",
+    "experiments/annual-qqq-spy-sleeve/reference/SPY_BH/VERIFIED.json": "8b485fe5510f20e474c8b14018025894f2a44743f329e20be56ac34a28a49227",
+    "experiments/annual-qqq-spy-sleeve/reference/QQQ_BH/VERIFIED.json": "3da2b7a8c43aa1b0aa36fc12037caef70d8a0ba472e1c9703c4ea9b960762f0c",
+    "experiments/conditional-sleeve-2026/reference/C11/VERIFIED.json": "2264b3be4555948f84c783184b3b3efc43531dd6b43c6d416fc943c23e4f3f02",
+    "experiments/conditional-sleeve-2026/reference/SPY_BH/VERIFIED.json": "0b86c3a6abcf7a52846e3efcc9e21343a1cb622754f272a67cefad35a391ef3a",
+    "experiments/conditional-sleeve-2026/reference/QQQ_BH/VERIFIED.json": "08ca049d4dae0c92c56503a683c1894056f187223c6333eaad9e32e7b971b9ec"
+  }
+}
