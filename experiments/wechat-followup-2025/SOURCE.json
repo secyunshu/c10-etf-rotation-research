@@ -1,0 +1,11 @@
+{
+  "hashes": {
+    "experiments/wechat-followup-2025/PLAN.md": "ab4867c3f8e41442ad17849df420eb2a544ce353ce77a47bed20b01733553e38",
+    "scripts/wechat_followup.py": "3ab7c1ef875849be1936568ac51df4818d72db3399cc944d971d353a86b0e4d0",
+    "scripts/current_standard.py": "df45995b1f1eb248249d533c737a4ef2fae9ddf6d86f46eaacb554a45bb4dc2d",
+    "scripts/conditional_sleeve.py": "523d88393e4ab539ce06424faf48a7e5da2e3007127ed386eddba5e5fcb17b46",
+    "scripts/ytd_annual_report.py": "a2d43606adbbd445f01aa23e3effa270d52b5d745e14ad8b7ce3a3028f558f84",
+    "experiments/v2-annual-repool/SOURCE_LOCK.json": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038",
+    "experiments/annual-qqq-spy-sleeve/reference/C11/VERIFIED.json": "ee3d6c175940734cc5d3256cb0d49d9b0cbf917a83437e5e92c685fcce65db51"
+  }
+}
