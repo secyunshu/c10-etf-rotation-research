@@ -1,0 +1,9 @@
+{
+  "hashes": {
+    "scripts/calendar_momentum.py": "2cd1b291e3d0c2b85c9060d44df056e7766d27bdb5ffa232ce32c02c1c7e1c22",
+    "experiments/calendar-skip-month/PLAN.md": "381180bff2a70e0813cb6c32958f500be374faacba31e4a80fa8c2f5147f85e3",
+    "experiments/hkcodex-momentum/SOURCE.json": "5ae0c8a77fe906dc77a79279f3f2efa2916af9543f20d9c8c861e8b94a15f1db",
+    "experiments/v2-annual-repool/SOURCE_LOCK.json": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038",
+    "experiments/annual-2026/SOURCE_LOCK.json": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed"
+  }
+}

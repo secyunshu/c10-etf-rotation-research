@@ -1,0 +1,2669 @@
+{
+  "2022-2025/base252": [
+    {
+      "target": {
+        "day": "2021-12-31",
+        "q": {
+          "XLE": 0.45,
+          "SOXX": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2020-12-31",
+      "end": "2021-12-31",
+      "execute_on": "2022-01-03",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-01-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-02-01",
+      "end": "2022-01-31",
+      "execute_on": "2022-02-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-02-28",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-03-01",
+      "end": "2022-02-28",
+      "execute_on": "2022-03-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-03-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-04-01",
+      "end": "2022-03-31",
+      "execute_on": "2022-04-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-04-29",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-04-30",
+      "end": "2022-04-29",
+      "execute_on": "2022-05-02",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-05-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-06-01",
+      "end": "2022-05-31",
+      "execute_on": "2022-06-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-06-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-06-30",
+      "end": "2022-06-30",
+      "execute_on": "2022-07-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-07-29",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-07-29",
+      "end": "2022-07-29",
+      "execute_on": "2022-08-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-08-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-08-31",
+      "end": "2022-08-31",
+      "execute_on": "2022-09-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-09-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-09-30",
+      "end": "2022-09-30",
+      "execute_on": "2022-10-03",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-10-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-10-29",
+      "end": "2022-10-31",
+      "execute_on": "2022-11-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-11-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-11-30",
+      "end": "2022-11-30",
+      "execute_on": "2022-12-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-12-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-12-30",
+      "end": "2022-12-30",
+      "execute_on": "2023-01-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-01-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-01-28",
+      "end": "2023-01-31",
+      "execute_on": "2023-02-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-02-28",
+        "q": {
+          "XLE": 0.45,
+          "XLI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-02-25",
+      "end": "2023-02-28",
+      "execute_on": "2023-03-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-03-31",
+        "q": {
+          "XLE": 0.45,
+          "BIL": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-03-30",
+      "end": "2023-03-31",
+      "execute_on": "2023-04-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-04-28",
+        "q": {
+          "XLE": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-04-27",
+      "end": "2023-04-28",
+      "execute_on": "2023-05-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-05-31",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-05-27",
+      "end": "2023-05-31",
+      "execute_on": "2023-06-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-06-30",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-06-29",
+      "end": "2023-06-30",
+      "execute_on": "2023-07-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-07-31",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-07-28",
+      "end": "2023-07-31",
+      "execute_on": "2023-08-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-08-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-08-30",
+      "end": "2023-08-31",
+      "execute_on": "2023-09-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-09-29",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-09-28",
+      "end": "2023-09-29",
+      "execute_on": "2023-10-02",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-10-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-10-28",
+      "end": "2023-10-31",
+      "execute_on": "2023-11-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-11-30",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-11-29",
+      "end": "2023-11-30",
+      "execute_on": "2023-12-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-12-29",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-12-28",
+      "end": "2023-12-29",
+      "execute_on": "2024-01-02",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-01-31",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-01-30",
+      "end": "2024-01-31",
+      "execute_on": "2024-02-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-02-29",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-02-28",
+      "end": "2024-02-29",
+      "execute_on": "2024-03-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-03-28",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-03-28",
+      "end": "2024-03-28",
+      "execute_on": "2024-04-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-04-30",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-04-28",
+      "end": "2024-04-30",
+      "execute_on": "2024-05-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-05-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-05-31",
+      "end": "2024-05-31",
+      "execute_on": "2024-06-03",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-06-28",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-06-28",
+      "end": "2024-06-28",
+      "execute_on": "2024-07-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-07-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-07-31",
+      "end": "2024-07-31",
+      "execute_on": "2024-08-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-08-30",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-08-30",
+      "end": "2024-08-30",
+      "execute_on": "2024-09-03",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-09-30",
+        "q": {
+          "SMH": 0.45,
+          "XLU": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-09-28",
+      "end": "2024-09-30",
+      "execute_on": "2024-10-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-10-31",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-10-31",
+      "end": "2024-10-31",
+      "execute_on": "2024-11-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-11-29",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-11-29",
+      "end": "2024-11-29",
+      "execute_on": "2024-12-02",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-12-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-12-29",
+      "end": "2024-12-31",
+      "execute_on": "2025-01-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-01-31",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-01-30",
+      "end": "2025-01-31",
+      "execute_on": "2025-02-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-02-28",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-02-27",
+      "end": "2025-02-28",
+      "execute_on": "2025-03-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-03-31",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-03-27",
+      "end": "2025-03-31",
+      "execute_on": "2025-04-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-04-30",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-04-26",
+      "end": "2025-04-30",
+      "execute_on": "2025-05-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-05-30",
+        "q": {
+          "GLD": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-05-28",
+      "end": "2025-05-30",
+      "execute_on": "2025-06-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-06-30",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-06-26",
+      "end": "2025-06-30",
+      "execute_on": "2025-07-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-07-31",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-07-29",
+      "end": "2025-07-31",
+      "execute_on": "2025-08-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-08-29",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-08-27",
+      "end": "2025-08-29",
+      "execute_on": "2025-09-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-09-30",
+        "q": {
+          "SLV": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-09-26",
+      "end": "2025-09-30",
+      "execute_on": "2025-10-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-10-31",
+        "q": {
+          "GLD": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-10-29",
+      "end": "2025-10-31",
+      "execute_on": "2025-11-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-11-28",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-11-25",
+      "end": "2025-11-28",
+      "execute_on": "2025-12-01",
+      "pool_year": 2025
+    }
+  ],
+  "2022-2025/calendar12": [
+    {
+      "target": {
+        "day": "2021-12-31",
+        "q": {
+          "XLE": 0.45,
+          "SOXX": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2020-12-31",
+      "end": "2021-12-31",
+      "execute_on": "2022-01-03",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-01-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-01-29",
+      "end": "2022-01-31",
+      "execute_on": "2022-02-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-02-28",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-02-26",
+      "end": "2022-02-28",
+      "execute_on": "2022-03-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-03-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-03-31",
+      "end": "2022-03-31",
+      "execute_on": "2022-04-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-04-29",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-04-30",
+      "end": "2022-04-29",
+      "execute_on": "2022-05-02",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-05-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-05-28",
+      "end": "2022-05-31",
+      "execute_on": "2022-06-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-06-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-06-30",
+      "end": "2022-06-30",
+      "execute_on": "2022-07-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-07-29",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-07-30",
+      "end": "2022-07-29",
+      "execute_on": "2022-08-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-08-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-08-31",
+      "end": "2022-08-31",
+      "execute_on": "2022-09-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-09-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-09-30",
+      "end": "2022-09-30",
+      "execute_on": "2022-10-03",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-10-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-10-29",
+      "end": "2022-10-31",
+      "execute_on": "2022-11-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-11-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-11-30",
+      "end": "2022-11-30",
+      "execute_on": "2022-12-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-12-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-12-31",
+      "end": "2022-12-30",
+      "execute_on": "2023-01-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-01-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-01-31",
+      "end": "2023-01-31",
+      "execute_on": "2023-02-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-02-28",
+        "q": {
+          "XLE": 0.45,
+          "XLI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-02-28",
+      "end": "2023-02-28",
+      "execute_on": "2023-03-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-03-31",
+        "q": {
+          "XLE": 0.45,
+          "BIL": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-03-31",
+      "end": "2023-03-31",
+      "execute_on": "2023-04-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-04-28",
+        "q": {
+          "XLE": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-04-29",
+      "end": "2023-04-28",
+      "execute_on": "2023-05-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-05-31",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-05-31",
+      "end": "2023-05-31",
+      "execute_on": "2023-06-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-06-30",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-06-30",
+      "end": "2023-06-30",
+      "execute_on": "2023-07-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-07-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-07-29",
+      "end": "2023-07-31",
+      "execute_on": "2023-08-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-08-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-08-31",
+      "end": "2023-08-31",
+      "execute_on": "2023-09-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-09-29",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-09-30",
+      "end": "2023-09-29",
+      "execute_on": "2023-10-02",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-10-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-10-31",
+      "end": "2023-10-31",
+      "execute_on": "2023-11-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-11-30",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-11-30",
+      "end": "2023-11-30",
+      "execute_on": "2023-12-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-12-29",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-12-30",
+      "end": "2023-12-29",
+      "execute_on": "2024-01-02",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-01-31",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-01-31",
+      "end": "2024-01-31",
+      "execute_on": "2024-02-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-02-29",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-02-28",
+      "end": "2024-02-29",
+      "execute_on": "2024-03-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-03-28",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-03-31",
+      "end": "2024-03-28",
+      "execute_on": "2024-04-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-04-30",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-04-28",
+      "end": "2024-04-30",
+      "execute_on": "2024-05-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-05-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-05-31",
+      "end": "2024-05-31",
+      "execute_on": "2024-06-03",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-06-28",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-06-30",
+      "end": "2024-06-28",
+      "execute_on": "2024-07-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-07-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-07-31",
+      "end": "2024-07-31",
+      "execute_on": "2024-08-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-08-30",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-08-31",
+      "end": "2024-08-30",
+      "execute_on": "2024-09-03",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-09-30",
+        "q": {
+          "SMH": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-09-29",
+      "end": "2024-09-30",
+      "execute_on": "2024-10-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-10-31",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-10-31",
+      "end": "2024-10-31",
+      "execute_on": "2024-11-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-11-29",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-11-30",
+      "end": "2024-11-29",
+      "execute_on": "2024-12-02",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-12-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-12-29",
+      "end": "2024-12-31",
+      "execute_on": "2025-01-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-01-31",
+        "q": {
+          "GLD": 0.45,
+          "XLY": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-01-31",
+      "end": "2025-01-31",
+      "execute_on": "2025-02-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-02-28",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-02-29",
+      "end": "2025-02-28",
+      "execute_on": "2025-03-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-03-31",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-03-28",
+      "end": "2025-03-31",
+      "execute_on": "2025-04-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-04-30",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-04-30",
+      "end": "2025-04-30",
+      "execute_on": "2025-05-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-05-30",
+        "q": {
+          "GLD": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-05-31",
+      "end": "2025-05-30",
+      "execute_on": "2025-06-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-06-30",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-06-28",
+      "end": "2025-06-30",
+      "execute_on": "2025-07-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-07-31",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-07-31",
+      "end": "2025-07-31",
+      "execute_on": "2025-08-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-08-29",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-08-30",
+      "end": "2025-08-29",
+      "execute_on": "2025-09-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-09-30",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-09-30",
+      "end": "2025-09-30",
+      "execute_on": "2025-10-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-10-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-10-31",
+      "end": "2025-10-31",
+      "execute_on": "2025-11-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-11-28",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-11-29",
+      "end": "2025-11-28",
+      "execute_on": "2025-12-01",
+      "pool_year": 2025
+    }
+  ],
+  "2022-2025/french12_2": [
+    {
+      "target": {
+        "day": "2021-12-31",
+        "q": {
+          "XLE": 0.45,
+          "SOXX": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2020-12-31",
+      "end": "2021-11-30",
+      "execute_on": "2022-01-03",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-01-31",
+        "q": {
+          "XLE": 0.45,
+          "VNQ": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-01-29",
+      "end": "2021-12-31",
+      "execute_on": "2022-02-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-02-28",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-02-26",
+      "end": "2022-01-31",
+      "execute_on": "2022-03-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-03-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-03-31",
+      "end": "2022-02-28",
+      "execute_on": "2022-04-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-04-29",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-04-30",
+      "end": "2022-03-31",
+      "execute_on": "2022-05-02",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-05-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-05-28",
+      "end": "2022-04-29",
+      "execute_on": "2022-06-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-06-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-06-30",
+      "end": "2022-05-31",
+      "execute_on": "2022-07-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-07-29",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-07-30",
+      "end": "2022-06-30",
+      "execute_on": "2022-08-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-08-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-08-31",
+      "end": "2022-07-29",
+      "execute_on": "2022-09-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-09-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-09-30",
+      "end": "2022-08-31",
+      "execute_on": "2022-10-03",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-10-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-10-29",
+      "end": "2022-09-30",
+      "execute_on": "2022-11-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-11-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-11-30",
+      "end": "2022-10-31",
+      "execute_on": "2022-12-01",
+      "pool_year": 2022
+    },
+    {
+      "target": {
+        "day": "2022-12-30",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2021-12-31",
+      "end": "2022-11-30",
+      "execute_on": "2023-01-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-01-31",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-01-31",
+      "end": "2022-12-30",
+      "execute_on": "2023-02-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-02-28",
+        "q": {
+          "XLE": 0.45,
+          "PDBC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-02-28",
+      "end": "2023-01-31",
+      "execute_on": "2023-03-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-03-31",
+        "q": {
+          "XLE": 0.45,
+          "BIL": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-03-31",
+      "end": "2023-02-28",
+      "execute_on": "2023-04-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-04-28",
+        "q": {
+          "SMH": 0.45,
+          "XLE": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-04-29",
+      "end": "2023-03-31",
+      "execute_on": "2023-05-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-05-31",
+        "q": {
+          "SLV": 0.45,
+          "XLI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-05-31",
+      "end": "2023-04-28",
+      "execute_on": "2023-06-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-06-30",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-06-30",
+      "end": "2023-05-31",
+      "execute_on": "2023-07-03",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-07-31",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-07-29",
+      "end": "2023-06-30",
+      "execute_on": "2023-08-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-08-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-08-31",
+      "end": "2023-07-31",
+      "execute_on": "2023-09-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-09-29",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-09-30",
+      "end": "2023-08-31",
+      "execute_on": "2023-10-02",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-10-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-10-31",
+      "end": "2023-09-29",
+      "execute_on": "2023-11-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-11-30",
+        "q": {
+          "XLC": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-11-30",
+      "end": "2023-10-31",
+      "execute_on": "2023-12-01",
+      "pool_year": 2023
+    },
+    {
+      "target": {
+        "day": "2023-12-29",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2022-12-30",
+      "end": "2023-11-30",
+      "execute_on": "2024-01-02",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-01-31",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-01-31",
+      "end": "2023-12-29",
+      "execute_on": "2024-02-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-02-29",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-02-28",
+      "end": "2024-01-31",
+      "execute_on": "2024-03-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-03-28",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-03-31",
+      "end": "2024-02-29",
+      "execute_on": "2024-04-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-04-30",
+        "q": {
+          "SMH": 0.45,
+          "QQQ": 0.45,
+          "SHY": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-04-28",
+      "end": "2024-03-28",
+      "execute_on": "2024-05-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-05-31",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-05-31",
+      "end": "2024-04-30",
+      "execute_on": "2024-06-03",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-06-28",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-06-30",
+      "end": "2024-05-31",
+      "execute_on": "2024-07-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-07-31",
+        "q": {
+          "SMH": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-07-31",
+      "end": "2024-06-28",
+      "execute_on": "2024-08-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-08-30",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-08-31",
+      "end": "2024-07-31",
+      "execute_on": "2024-09-03",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-09-30",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-09-29",
+      "end": "2024-08-30",
+      "execute_on": "2024-10-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-10-31",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-10-31",
+      "end": "2024-09-30",
+      "execute_on": "2024-11-01",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-11-29",
+        "q": {
+          "SMH": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-11-30",
+      "end": "2024-10-31",
+      "execute_on": "2024-12-02",
+      "pool_year": 2024
+    },
+    {
+      "target": {
+        "day": "2024-12-31",
+        "q": {
+          "SMH": 0.45,
+          "XLF": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2023-12-29",
+      "end": "2024-11-29",
+      "execute_on": "2025-01-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-01-31",
+        "q": {
+          "XLY": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-01-31",
+      "end": "2024-12-31",
+      "execute_on": "2025-02-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-02-28",
+        "q": {
+          "SLV": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-02-29",
+      "end": "2025-01-31",
+      "execute_on": "2025-03-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-03-31",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-03-28",
+      "end": "2025-02-28",
+      "execute_on": "2025-04-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-04-30",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-04-30",
+      "end": "2025-03-31",
+      "execute_on": "2025-05-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-05-30",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-05-31",
+      "end": "2025-04-30",
+      "execute_on": "2025-06-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-06-30",
+        "q": {
+          "GLD": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-06-28",
+      "end": "2025-05-30",
+      "execute_on": "2025-07-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-07-31",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-07-31",
+      "end": "2025-06-30",
+      "execute_on": "2025-08-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-08-29",
+        "q": {
+          "MCHI": 0.45,
+          "GLD": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-08-30",
+      "end": "2025-07-31",
+      "execute_on": "2025-09-02",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-09-30",
+        "q": {
+          "GLD": 0.45,
+          "XLC": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-09-30",
+      "end": "2025-08-29",
+      "execute_on": "2025-10-01",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-10-31",
+        "q": {
+          "SLV": 0.45,
+          "MCHI": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-10-31",
+      "end": "2025-09-30",
+      "execute_on": "2025-11-03",
+      "pool_year": 2025
+    },
+    {
+      "target": {
+        "day": "2025-11-28",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-11-29",
+      "end": "2025-10-31",
+      "execute_on": "2025-12-01",
+      "pool_year": 2025
+    }
+  ],
+  "2026YTD/base252": [
+    {
+      "target": {
+        "day": "2025-12-31",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-12-27",
+      "end": "2025-12-31",
+      "execute_on": "2026-01-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-01-30",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-01-29",
+      "end": "2026-01-30",
+      "execute_on": "2026-02-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-02-27",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-02-26",
+      "end": "2026-02-27",
+      "execute_on": "2026-03-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-03-31",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-03-28",
+      "end": "2026-03-31",
+      "execute_on": "2026-04-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-04-30",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-04-29",
+      "end": "2026-04-30",
+      "execute_on": "2026-05-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-05-29",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-05-28",
+      "end": "2026-05-29",
+      "execute_on": "2026-06-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-06-30",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-06-27",
+      "end": "2026-06-30",
+      "execute_on": "2026-07-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-07-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-07-30",
+      "end": "2026-07-31",
+      "execute_on": "2026-08-03",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-08-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-08-28",
+      "end": "2026-08-31",
+      "execute_on": "2026-09-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-09-30",
+        "q": {
+          "SMH": 0.45,
+          "XLE": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-09-29",
+      "end": "2026-09-30",
+      "execute_on": "2026-10-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-10-30",
+        "q": {
+          "XLE": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-10-29",
+      "end": "2026-10-30",
+      "execute_on": "2026-11-02",
+      "pool_year": 2026
+    }
+  ],
+  "2026YTD/calendar12": [
+    {
+      "target": {
+        "day": "2025-12-31",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-12-31",
+      "end": "2025-12-31",
+      "execute_on": "2026-01-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-01-30",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-01-31",
+      "end": "2026-01-30",
+      "execute_on": "2026-02-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-02-27",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-02-28",
+      "end": "2026-02-27",
+      "execute_on": "2026-03-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-03-31",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-03-31",
+      "end": "2026-03-31",
+      "execute_on": "2026-04-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-04-30",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-04-30",
+      "end": "2026-04-30",
+      "execute_on": "2026-05-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-05-29",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-05-30",
+      "end": "2026-05-29",
+      "execute_on": "2026-06-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-06-30",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-06-30",
+      "end": "2026-06-30",
+      "execute_on": "2026-07-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-07-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-07-31",
+      "end": "2026-07-31",
+      "execute_on": "2026-08-03",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-08-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-08-29",
+      "end": "2026-08-31",
+      "execute_on": "2026-09-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-09-30",
+        "q": {
+          "SMH": 0.45,
+          "XLE": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-09-30",
+      "end": "2026-09-30",
+      "execute_on": "2026-10-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-10-30",
+        "q": {
+          "XLE": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-10-31",
+      "end": "2026-10-30",
+      "execute_on": "2026-11-02",
+      "pool_year": 2026
+    }
+  ],
+  "2026YTD/french12_2": [
+    {
+      "target": {
+        "day": "2025-12-31",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2024-12-31",
+      "end": "2025-11-28",
+      "execute_on": "2026-01-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-01-30",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-01-31",
+      "end": "2025-12-31",
+      "execute_on": "2026-02-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-02-27",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-02-28",
+      "end": "2026-01-30",
+      "execute_on": "2026-03-02",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-03-31",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-03-31",
+      "end": "2026-02-27",
+      "execute_on": "2026-04-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-04-30",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-04-30",
+      "end": "2026-03-31",
+      "execute_on": "2026-05-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-05-29",
+        "q": {
+          "SLV": 0.45,
+          "SMH": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-05-30",
+      "end": "2026-04-30",
+      "execute_on": "2026-06-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-06-30",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-06-30",
+      "end": "2026-05-29",
+      "execute_on": "2026-07-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-07-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-07-31",
+      "end": "2026-06-30",
+      "execute_on": "2026-08-03",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-08-31",
+        "q": {
+          "SMH": 0.45,
+          "SLV": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-08-29",
+      "end": "2026-07-31",
+      "execute_on": "2026-09-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-09-30",
+        "q": {
+          "SMH": 0.45,
+          "XLE": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-09-30",
+      "end": "2026-08-31",
+      "execute_on": "2026-10-01",
+      "pool_year": 2026
+    },
+    {
+      "target": {
+        "day": "2026-10-30",
+        "q": {
+          "SMH": 0.45,
+          "XLE": 0.45,
+          "QQQ": 0.1
+        },
+        "reason": "oracle"
+      },
+      "start": "2025-10-31",
+      "end": "2026-09-30",
+      "execute_on": "2026-11-02",
+      "pool_year": 2026
+    }
+  ]
+}
