@@ -165,7 +165,10 @@ def run(execute: bool) -> None:
               ROOT / annual_io.STUDY / "SOURCE_LOCK.json",
               ROOT / ytd_annual_io.STUDY / "SOURCE_LOCK.json"]
     prior = Fingerprints.model_validate_json(inputs[2].read_bytes())
-    verify_hashes(ROOT, prior.hashes)
+    for name, expected in prior.hashes.items():
+        path = (ROOT / name).resolve()
+        if not path.is_relative_to(ROOT) or not path.is_file() or sha(path) != expected:
+            raise ValueError(f"invalid archived source: {name}")
     binding = Fingerprints(hashes={p.relative_to(ROOT).as_posix(): sha(p) for p in inputs})
     lock = STUDY / "SOURCE.json"
     if execute:
