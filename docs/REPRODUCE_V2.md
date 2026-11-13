@@ -1,20 +1,17 @@
-# 当前V2.2与历史V2复现入口
+# 当前 V2.3 与历史 V2 复现入口
 
-当前政策以[CURRENT.json](../standard/CURRENT.json)及[当前规则](CURRENT_STANDARD.md)为准。仓库根目录、锁定依赖环境：
+[当前规则](CURRENT_STANDARD.md)及[机器指针](../standard/CURRENT.json)定义最新标准。在仓库根目录运行：
 
 ```bash
 export PYTHONPATH=src:.
-# 默认年度池K2，校验来源/配置并重算公开账本，native0
 python -m scripts.current_standard
-# 真正重现2固定桥＋2年度成本账户，共4native
-python -m scripts.current_standard --execute --output runs/current-standard
-# 重复同路径只复验，不再native
-python -m scripts.current_standard --execute --output runs/current-standard
+python -m scripts.current_standard --execute --output runs/current-standard-v2-3
+python -m pytest -q standard/v2_3/tests
 ```
 
-先两桥再年度账户是技术复现，不是重新选择策略。每次独立复现任务共享`standard/current/evidence/attempts.jsonl`，hard8包含失败；本次发布原日志归档另存，不能清空已有日志绕预算。完整账簿、目标、timings、原生日收益及指标须与已验年度参考一致。默认只支持2022–2025，无2026年度池，不自动延用最后一年名单。
+默认核对六个存档账户和报告。`--execute` 重现三组历史连续账户和三组 2026 年初新账户。已生成的账户会再次核验。源锁、策略配置和存档账本共同限定离线复现范围。
 
-政策release v2.2.0与冻结兼容运行包2.1.0是不同版本轴。下方命令明确用于**历史固定池V2.1**，不会被偷偷重定向；旧账簿、代码及源锁完整保留。
+历史年度策略在 [v2.2.0 标签](https://github.com/secyunshu/c10-etf-rotation-research/tree/v2.2.0)复现。下文适用于更早的固定池 V2。
 
 ---
 
