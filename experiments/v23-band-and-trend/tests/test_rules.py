@@ -4,8 +4,11 @@ from math import exp
 import numpy as np
 import pytest
 
-from c10standard.models import TargetRecord
-from scripts.v23_band_trend import allow_band, short_score
+from c10standard.io import ROOT, load_strategy
+from c10standard.models import Artifact, Prepared, TargetRecord
+from scripts.annual_data import load_prepared
+from scripts.current_standard import HISTORY
+from scripts.v23_band_trend import allow_band, check_execution, short_score
 
 
 def target(symbols: tuple[str, str, str]) -> TargetRecord:
@@ -43,3 +46,18 @@ def test_regression_rewards_consistent_trend_with_same_endpoints() -> None:
     noisy[1:-1] *= np.exp(np.sin(np.arange(23)) * .04)
     assert short_score("total25", tuple(smooth)) == short_score("total25", tuple(noisy))
     assert short_score("reg25", tuple(smooth)) > short_score("reg25", tuple(noisy))
+
+
+def test_scheduled_open_does_not_subtract_new_uncredited_entitlement() -> None:
+    reference = ROOT / HISTORY / "reference/C11/ARTIFACT.json"
+    base = Artifact.model_validate_json(reference.read_bytes())
+    data = load_prepared("ANNUAL")
+    market = Prepared(datasets=data.datasets, features=data.features, strategy=load_strategy(),
+                      first=data.first, last=data.last,
+                      risk_names=tuple(d.symbol for d in data.datasets if d.symbol != "SHY"))
+    evidence = check_execution(base, market, "base252")
+    row = next(e for e in evidence if e.date == date(2024, 6, 3))
+    assert not row.enabled and row.orders == 4
+    # Incorrectly deducting the uncredited SHY dividend cuts this buy by 1 share.
+    assert any(o.day == row.date and o.symbol == "XLC" and o.size == 466
+               for o in base.account.orders)

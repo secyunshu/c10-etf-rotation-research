@@ -174,8 +174,9 @@ def check_execution(artifact: Artifact, market: Prepared, case: Case) -> list[Ba
             s: float(cast(float, funds[s].at[pd.Timestamp(day), "open"]))
             for s in prev.keys() | target.q.keys()
         }
+        # Same-open entitlements enter broker cash after sizing, so subtract only prior locks.
         locked = fsum(
-            d.net_amount for d in account.distributions if d.ex_date <= day < d.release_date
+            d.net_amount for d in account.distributions if d.ex_date < day < d.release_date
         )
         investable = close_cash.get(target.day, 50000.) - locked + fsum(
             shares * opens[s] for s, shares in prev.items()
@@ -195,7 +196,10 @@ def check_execution(artifact: Artifact, market: Prepared, case: Case) -> list[Ba
                 requested = owned
             delta = requested - owned
             if (delta <= 0 and fill != delta) or (delta > 0 and not 0 <= fill <= delta):
-                raise ValueError(f"order outside native band or target: {case} {day} {symbol}")
+                raise ValueError(
+                    f"order outside native band or target: {case} {day} {symbol}: "
+                    f"fill={fill} delta={delta} in_band={in_band}"
+                )
         if not fills[day].keys() <= opens.keys():
             raise ValueError("fill outside held or target symbols")
         result.append(BandEvidence(date=day, enabled=enabled, inside=tuple(inside),
