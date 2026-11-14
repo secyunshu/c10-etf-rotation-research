@@ -1,0 +1,13 @@
+{
+  "hashes": {
+    "experiments/v23-band-and-trend/PLAN.md": "a2ff5c74a7b1d396b2ed6686548e241cee82d761954db48330d4e8597620ea7a",
+    "experiments/v23-band-and-trend/tests/test_rules.py": "c6d64a81073e57f4383816abfbf8a5d1c435daabe706e2a5f776eac0ba64229d",
+    "scripts/v23_band_trend.py": "20ae46b8b8856211d6da49413da226c751cb4410b32e09bf758108a90a29e712",
+    "scripts/current_standard.py": "df45995b1f1eb248249d533c737a4ef2fae9ddf6d86f46eaacb554a45bb4dc2d",
+    "scripts/conditional_sleeve.py": "523d88393e4ab539ce06424faf48a7e5da2e3007127ed386eddba5e5fcb17b46",
+    "scripts/ytd_annual_report.py": "a2d43606adbbd445f01aa23e3effa270d52b5d745e14ad8b7ce3a3028f558f84",
+    "requirements.lock": "d49485c1c17ef1e92d3944225913f5d4062eee47b2e066551382a2413de9aca4",
+    "experiments/annual-qqq-spy-sleeve/reference/C11/VERIFIED.json": "ee3d6c175940734cc5d3256cb0d49d9b0cbf917a83437e5e92c685fcce65db51",
+    "experiments/v2-annual-repool/SOURCE_LOCK.json": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038"
+  }
+}
