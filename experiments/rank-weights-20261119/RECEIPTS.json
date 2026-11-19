@@ -1,0 +1,98 @@
+[
+  {
+    "window": "HIST",
+    "weight": "45_45",
+    "cost_bps": 5,
+    "status": "PASS",
+    "reused": true,
+    "error": ""
+  },
+  {
+    "window": "HIST",
+    "weight": "45_45",
+    "cost_bps": 20,
+    "status": "PASS",
+    "reused": true,
+    "error": ""
+  },
+  {
+    "window": "HIST",
+    "weight": "50_40",
+    "cost_bps": 5,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  },
+  {
+    "window": "HIST",
+    "weight": "50_40",
+    "cost_bps": 20,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  },
+  {
+    "window": "HIST",
+    "weight": "60_30",
+    "cost_bps": 5,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  },
+  {
+    "window": "HIST",
+    "weight": "60_30",
+    "cost_bps": 20,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  },
+  {
+    "window": "YTD2026",
+    "weight": "45_45",
+    "cost_bps": 5,
+    "status": "PASS",
+    "reused": true,
+    "error": ""
+  },
+  {
+    "window": "YTD2026",
+    "weight": "45_45",
+    "cost_bps": 20,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  },
+  {
+    "window": "YTD2026",
+    "weight": "50_40",
+    "cost_bps": 5,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  },
+  {
+    "window": "YTD2026",
+    "weight": "50_40",
+    "cost_bps": 20,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  },
+  {
+    "window": "YTD2026",
+    "weight": "60_30",
+    "cost_bps": 5,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  },
+  {
+    "window": "YTD2026",
+    "weight": "60_30",
+    "cost_bps": 20,
+    "status": "PASS",
+    "reused": false,
+    "error": ""
+  }
+]

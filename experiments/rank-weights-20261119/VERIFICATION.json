@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-19",
+  "identity": "V23_TOP2_ORDERED_WEIGHTS_45_45_50_40_60_30_FIXED_V1",
+  "plan_commit": "b150bde",
+  "implementation_and_signals_before_native_commit": "13964c2",
+  "windows": {
+    "HIST": [
+      "2022-01-03",
+      "2025-12-31"
+    ],
+    "YTD2026": [
+      "2026-01-02",
+      "2026-11-11"
+    ]
+  },
+  "separate_initial_cash_each_window": 50000,
+  "standard_policy_unchanged": true,
+  "higher_weight_follows_monthly_rank": true,
+  "conditional_sleeve_unchanged": true,
+  "unique_accounts": 12,
+  "native_starts": 9,
+  "native_completed": 9,
+  "market_failures": 0,
+  "market_reruns": 0,
+  "native_attempt_cap": 11,
+  "reused_standard_accounts": 3,
+  "standard_reused_model_equality_and_financial_audit": true,
+  "ranked_target_months": 59,
+  "independent_python_feature_and_raw_rank_and_prefix_checks": true,
+  "js_qualification_score_group_comparisons": 5910,
+  "js_ranked_target_checks": 59,
+  "js_financial_checks_including_pollution_scenarios": 550476,
+  "js_pollution_cases": 3,
+  "account_days": 7320,
+  "filled_orders": 1072,
+  "dividends": 258,
+  "max_js_cash_error": 7.253220246639103e-11,
+  "native_cash_holdings_splits_dividends_fees_locked_cash_and_TimeReturn_audited": true,
+  "independent_python_asset_pnl_and_yearly_metrics_audited": true,
+  "tests_new": 7,
+  "tests_original": 133,
+  "tests_combined": 140,
+  "third_party_warnings": 431,
+  "mypy_strict_pyright_strict_modules": [
+    "scripts/v23_rank_weights.py"
+  ],
+  "ruff_passed": true,
+  "js_syntax_passed": true,
+  "verify_mode_native_starts": 0,
+  "historical_source_lock": "99fef09388bd69c083f21533853905b37357d65dd380363fa48b675de6241038",
+  "ytd_source_lock": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed",
+  "fresh_oos_claimed": false,
+  "no_continuous_2022_2026_total_claimed": true,
+  "market_data_downloads": 0,
+  "qc_visits": 0,
+  "paid_operations": 0,
+  "real_trades": 0,
+  "github_pushes": 0,
+  "review": "Main-agent challenge review and separate-language arithmetic, not independent author audit."
+}

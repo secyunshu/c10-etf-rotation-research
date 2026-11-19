@@ -1,0 +1,118 @@
+{
+  "language": "JavaScript",
+  "accounts": [
+    {
+      "window": "HIST",
+      "weight": "45_45",
+      "cost": 5,
+      "days": 1003,
+      "orders": 155,
+      "dividends": 40,
+      "maxCashError": 2.921751729445532e-11
+    },
+    {
+      "window": "HIST",
+      "weight": "45_45",
+      "cost": 20,
+      "days": 1003,
+      "orders": 152,
+      "dividends": 40,
+      "maxCashError": 3.171862772433087e-11
+    },
+    {
+      "window": "HIST",
+      "weight": "50_40",
+      "cost": 5,
+      "days": 1003,
+      "orders": 149,
+      "dividends": 40,
+      "maxCashError": 2.7398527890909463e-11
+    },
+    {
+      "window": "HIST",
+      "weight": "50_40",
+      "cost": 20,
+      "days": 1003,
+      "orders": 149,
+      "dividends": 40,
+      "maxCashError": 3.376499080331996e-11
+    },
+    {
+      "window": "HIST",
+      "weight": "60_30",
+      "cost": 5,
+      "days": 1003,
+      "orders": 152,
+      "dividends": 40,
+      "maxCashError": 3.090860900556436e-11
+    },
+    {
+      "window": "HIST",
+      "weight": "60_30",
+      "cost": 20,
+      "days": 1003,
+      "orders": 152,
+      "dividends": 40,
+      "maxCashError": 7.253220246639103e-11
+    },
+    {
+      "window": "YTD2026",
+      "weight": "45_45",
+      "cost": 5,
+      "days": 217,
+      "orders": 27,
+      "dividends": 3,
+      "maxCashError": 1.4210854715202004e-12
+    },
+    {
+      "window": "YTD2026",
+      "weight": "45_45",
+      "cost": 20,
+      "days": 217,
+      "orders": 27,
+      "dividends": 3,
+      "maxCashError": 1.0913936421275139e-11
+    },
+    {
+      "window": "YTD2026",
+      "weight": "50_40",
+      "cost": 5,
+      "days": 217,
+      "orders": 27,
+      "dividends": 3,
+      "maxCashError": 3.069544618483633e-12
+    },
+    {
+      "window": "YTD2026",
+      "weight": "50_40",
+      "cost": 20,
+      "days": 217,
+      "orders": 28,
+      "dividends": 3,
+      "maxCashError": 6.934897101018578e-12
+    },
+    {
+      "window": "YTD2026",
+      "weight": "60_30",
+      "cost": 5,
+      "days": 217,
+      "orders": 27,
+      "dividends": 3,
+      "maxCashError": 1.3073986337985843e-12
+    },
+    {
+      "window": "YTD2026",
+      "weight": "60_30",
+      "cost": 20,
+      "days": 217,
+      "orders": 27,
+      "dividends": 3,
+      "maxCashError": 9.72022462519817e-12
+    }
+  ],
+  "scoringChecks": 5910,
+  "targetChecks": 59,
+  "financialChecks": 550476,
+  "corruptionChecks": 3,
+  "boundary": "Separate arithmetic from raw local inputs; no independent-author review or replacement broker."
+}

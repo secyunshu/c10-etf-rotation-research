@@ -1,0 +1,12 @@
+HIST 45_45 5bp PASS reused=True
+HIST 45_45 20bp PASS reused=True
+HIST 50_40 5bp PASS reused=False
+HIST 50_40 20bp PASS reused=False
+HIST 60_30 5bp PASS reused=False
+HIST 60_30 20bp PASS reused=False
+YTD2026 45_45 5bp PASS reused=True
+YTD2026 45_45 20bp PASS reused=False
+YTD2026 50_40 5bp PASS reused=False
+YTD2026 50_40 20bp PASS reused=False
+YTD2026 60_30 5bp PASS reused=False
+YTD2026 60_30 20bp PASS reused=False
