@@ -1,0 +1,26 @@
+{
+  "runs/current-standard-v2-3-1/HIST/QQQ_BH/ARTIFACT.json": {
+    "sha256": "4a5ec044afabcac8bff319641e43fe043038796bd7c0c5372630d4bd52a02529",
+    "mtime_ns": 1795081862612014751
+  },
+  "runs/current-standard-v2-3-1/HIST/SPY_BH/ARTIFACT.json": {
+    "sha256": "40421dedbae220593e28fc313b1208a129d361f17f49c7802e31b2765080f2db",
+    "mtime_ns": 1795081862472636922
+  },
+  "runs/current-standard-v2-3-1/HIST/C11/ARTIFACT.json": {
+    "sha256": "a931619625ad62cb836373ff56d1498063c95ce169d0a38a121562252a38ced6",
+    "mtime_ns": 1795081861950798353
+  },
+  "runs/current-standard-v2-3-1/YTD2026/QQQ_BH/ARTIFACT.json": {
+    "sha256": "b39d6b36f7a1be7491c2f1792d43bcf2b9e404c6295d48dd826a95eead9c0dc0",
+    "mtime_ns": 1795081863347899199
+  },
+  "runs/current-standard-v2-3-1/YTD2026/SPY_BH/ARTIFACT.json": {
+    "sha256": "90d251053dbbe4205d5da24eb2f5caebbab8e60f1f09ab826c8250f441cf4f5b",
+    "mtime_ns": 1795081863239285171
+  },
+  "runs/current-standard-v2-3-1/YTD2026/C11/ARTIFACT.json": {
+    "sha256": "928f243529f1865a14fd5fac264f8c4ee68e55b83cefb5fa7745fa2d1d47267d",
+    "mtime_ns": 1795081863120857080
+  }
+}
