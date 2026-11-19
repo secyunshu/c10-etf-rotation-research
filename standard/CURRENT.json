@@ -1,7 +1,7 @@
 {
-  "policy_version": "2.3.0",
-  "strategy_path": "standard/v2_3/STRATEGY.json",
-  "strategy_sha256": "9085ffa7e783ca543ac3962c6020c10dec25e22deab60654fa7c04fa154b3dd8",
-  "entrypoint": "scripts.current_standard",
-  "prior_policy": "2.2.0"
+  "policy_version": "2.3.1",
+  "strategy_path": "standard/v2_3_1/STRATEGY.json",
+  "strategy_sha256": "ab9d0f0548c1b4a979d6bfa17d891e98edbe2b825940ead845b40a4b3f44273f",
+  "entrypoint": "scripts.current_standard_ranked",
+  "prior_policy": "2.3.0"
 }

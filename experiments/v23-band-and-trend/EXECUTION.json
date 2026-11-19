@@ -1,0 +1,2947 @@
+{
+  "base252_5bp": [
+    {
+      "date": "2022-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-05-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-10-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-04-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-07-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2023-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-10-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-06-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2024-09-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2024-12-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2025-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-02-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-03-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-06-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2025-09-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-11-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    }
+  ],
+  "base252_20bp": [
+    {
+      "date": "2022-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-05-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2022-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-10-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2023-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-04-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-07-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2023-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-10-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2023-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2024-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-06-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2024-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2024-09-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-12-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2025-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-02-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-03-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2025-06-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2025-09-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-11-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    }
+  ],
+  "band1_5bp": [
+    {
+      "date": "2022-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-03-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "XLE"
+      ],
+      "orders": 1
+    },
+    {
+      "date": "2022-04-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2022-05-02",
+      "enabled": true,
+      "inside": [
+        "XLE"
+      ],
+      "suppressed": [
+        "XLE"
+      ],
+      "orders": 2
+    },
+    {
+      "date": "2022-06-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-07-01",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [
+        "QQQ"
+      ],
+      "orders": 2
+    },
+    {
+      "date": "2022-08-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-09-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2022-10-03",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "XLE"
+      ],
+      "orders": 1
+    },
+    {
+      "date": "2022-11-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-12-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-01-03",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "XLE"
+      ],
+      "orders": 1
+    },
+    {
+      "date": "2023-02-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-04-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-07-03",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SHY",
+        "SMH"
+      ],
+      "suppressed": [
+        "QQQ",
+        "SHY",
+        "SMH"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-08-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SHY",
+        "SMH"
+      ],
+      "suppressed": [
+        "SHY",
+        "SMH"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-10-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-11-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SMH",
+        "XLC"
+      ],
+      "suppressed": [
+        "QQQ",
+        "SMH",
+        "XLC"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-12-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SMH",
+        "XLC"
+      ],
+      "suppressed": [
+        "SMH",
+        "XLC"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2024-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-02-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SHY"
+      ],
+      "suppressed": [
+        "QQQ",
+        "SHY"
+      ],
+      "orders": 1
+    },
+    {
+      "date": "2024-03-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-06-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-07-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SMH",
+        "XLC"
+      ],
+      "suppressed": [
+        "QQQ",
+        "SMH",
+        "XLC"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2024-08-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "XLC"
+      ],
+      "suppressed": [
+        "QQQ",
+        "XLC"
+      ],
+      "orders": 1
+    },
+    {
+      "date": "2024-09-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-12-02",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2025-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-02-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-03-03",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-04-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-05-01",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [
+        "QQQ"
+      ],
+      "orders": 2
+    },
+    {
+      "date": "2025-06-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-08-01",
+      "enabled": true,
+      "inside": [
+        "GLD",
+        "MCHI",
+        "QQQ"
+      ],
+      "suppressed": [
+        "GLD",
+        "MCHI"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2025-09-02",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [
+        "QQQ"
+      ],
+      "orders": 2
+    },
+    {
+      "date": "2025-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-11-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    }
+  ],
+  "band1_20bp": [
+    {
+      "date": "2022-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-03-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "XLE"
+      ],
+      "orders": 1
+    },
+    {
+      "date": "2022-04-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2022-05-02",
+      "enabled": true,
+      "inside": [
+        "XLE"
+      ],
+      "suppressed": [
+        "XLE"
+      ],
+      "orders": 2
+    },
+    {
+      "date": "2022-06-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-07-01",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2022-08-01",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [
+        "QQQ"
+      ],
+      "orders": 2
+    },
+    {
+      "date": "2022-09-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "QQQ",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2022-10-03",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2022-11-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-12-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-01-03",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "XLE"
+      ],
+      "orders": 1
+    },
+    {
+      "date": "2023-02-01",
+      "enabled": true,
+      "inside": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "suppressed": [
+        "PDBC",
+        "QQQ",
+        "XLE"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-04-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-07-03",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SHY",
+        "SMH"
+      ],
+      "suppressed": [
+        "QQQ",
+        "SHY",
+        "SMH"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-08-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SHY",
+        "SMH"
+      ],
+      "suppressed": [
+        "SHY",
+        "SMH"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-10-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-11-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SMH",
+        "XLC"
+      ],
+      "suppressed": [
+        "SMH",
+        "XLC"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2023-12-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SMH",
+        "XLC"
+      ],
+      "suppressed": [
+        "SMH",
+        "XLC"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2024-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-02-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SHY"
+      ],
+      "suppressed": [
+        "QQQ",
+        "SHY"
+      ],
+      "orders": 1
+    },
+    {
+      "date": "2024-03-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-06-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-07-01",
+      "enabled": true,
+      "inside": [
+        "QQQ",
+        "SMH",
+        "XLC"
+      ],
+      "suppressed": [
+        "SMH",
+        "XLC"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2024-08-01",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2024-09-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2024-12-02",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2025-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-02-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-03-03",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [
+        "QQQ"
+      ],
+      "orders": 2
+    },
+    {
+      "date": "2025-04-01",
+      "enabled": true,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-05-01",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2025-06-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-08-01",
+      "enabled": true,
+      "inside": [
+        "GLD",
+        "MCHI",
+        "QQQ"
+      ],
+      "suppressed": [
+        "GLD",
+        "MCHI"
+      ],
+      "orders": 0
+    },
+    {
+      "date": "2025-09-02",
+      "enabled": true,
+      "inside": [
+        "QQQ"
+      ],
+      "suppressed": [
+        "QQQ"
+      ],
+      "orders": 2
+    },
+    {
+      "date": "2025-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-11-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    }
+  ],
+  "total25_5bp": [
+    {
+      "date": "2022-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 1
+    },
+    {
+      "date": "2022-05-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-10-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-04-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-07-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-10-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-06-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-09-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-12-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-02-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-03-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-06-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-09-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-11-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    }
+  ],
+  "total25_20bp": [
+    {
+      "date": "2022-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 2
+    },
+    {
+      "date": "2022-05-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-10-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-04-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-07-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-10-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-06-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-09-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-12-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-02-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-03-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-06-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-09-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-11-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    }
+  ],
+  "reg25_5bp": [
+    {
+      "date": "2022-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-05-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-10-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-04-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-07-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-10-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-06-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-09-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-12-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-02-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-03-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-06-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-09-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-11-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    }
+  ],
+  "reg25_20bp": [
+    {
+      "date": "2022-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-05-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2022-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2022-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-10-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2022-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-01-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-04-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2023-06-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-07-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2023-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-09-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-10-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2023-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-02-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-03-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-06-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2024-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-09-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2024-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-11-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2024-12-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-01-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-02-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-03-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-04-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 5
+    },
+    {
+      "date": "2025-05-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-06-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-07-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-08-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-09-02",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-10-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    },
+    {
+      "date": "2025-11-03",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 3
+    },
+    {
+      "date": "2025-12-01",
+      "enabled": false,
+      "inside": [],
+      "suppressed": [],
+      "orders": 4
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "policy_version": "2.3.1",
+  "prior_policy": "2.3.0",
+  "id": "ANNUAL_TOP2_RANKED_CONDITIONAL_SLEEVE",
+  "adopted_date": "2026-11-19",
+  "ranked_slot_weights": [
+    0.6,
+    0.3
+  ],
+  "sleeve_weight": 0.1,
+  "shy_momentum_gate": false,
+  "base_policy_path": "standard/v2_3/STRATEGY.json",
+  "base_policy_sha256": "9085ffa7e783ca543ac3962c6020c10dec25e22deab60654fa7c04fa154b3dd8"
+}
