@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-19",
+  "trigger": "User observed GitHub root README heading still V2.3 after V2.3.1 adoption",
+  "root_cause": "Documentation retained family heading and pre-publication status; not a GitHub cache or policy/config failure",
+  "fixed_files": [
+    "README.md",
+    "docs/CURRENT_STANDARD.md",
+    "docs/REPRODUCE_V2.md",
+    "standard/v2_3_1/REPORT.md",
+    "standard/v2_3_1/RELEASE_LOCK.json"
+  ],
+  "regression": "Two publication consistency tests first failed, then passed",
+  "tests_passed": 148,
+  "prior_tests": 146,
+  "third_party_warnings": 566,
+  "new_strict_mypy_pyright_ruff": "PASS current_standard_ranked.py",
+  "current_policy": "2.3.1",
+  "current_weights": [
+    0.6,
+    0.3,
+    0.1
+  ],
+  "six_reference_accounts_verified": true,
+  "current_links_and_hashes_verified": true,
+  "strategy_or_returns_changed": false,
+  "old_versions_and_research_files_changed": false,
+  "native_market_reruns": 0,
+  "release_tag_moved": false,
+  "notes": "Current main documentation corrected; immutable v2.3.1 tag preserves original code/strategy snapshot. Existing release notes point to latest main documentation."
+}

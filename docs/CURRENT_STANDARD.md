@@ -1,6 +1,6 @@
-# 当前标准 V2.3（机器版本2.3.1）
+# 当前标准 V2.3.1（60%／30%／条件底仓10%）
 
-2026-11-13采用V2.3，2026-11-19按用户明确选择改为第一名60%、第二名30%。`standard/CURRENT.json` 绑定 [V2.3 策略](../standard/v2_3_1/STRATEGY.json)，离线复现入口是 `PYTHONPATH=src:. python -m scripts.current_standard_ranked`。
+2026-11-13采用V2.3，2026-11-19按用户明确选择改为第一名60%、第二名30%。`standard/CURRENT.json` 绑定 [V2.3.1 策略](../standard/v2_3_1/STRATEGY.json)，离线复现入口是 `PYTHONPATH=src:. python -m scripts.current_standard_ranked`。
 
 年度候选池沿用 95 个候选、36 个类别和 21 个经济风险组。用截至上一年底可得的规模归档，选每个类别规模最大的代表，门槛为 50 亿美元。次年首个交易日启用新池。换池前保留原持仓和应收股息，交易时按新目标处理。缺少当年已核验名单时须先补充并验收来源。
 

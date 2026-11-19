@@ -1,8 +1,8 @@
 {
   "hashes": {
-    "README.md": "5cc8cec6e219a9121b860b0b146fedb4f70223d155dc74706cb94750e2649e79",
-    "docs/CURRENT_STANDARD.md": "af99b2619a488edf93abb2ed1d227dc7ebc182dce5a19a61e21c2a2fa41862ee",
-    "docs/REPRODUCE_V2.md": "2b04c4b6d22fe24b7c30031b15ec91a61b3eab3354d939d3fbc406e182fecdf4",
+    "README.md": "0ffffff8aedaae5a6e053f0752b552e613b5bba1343c320a92e82420b1f8901b",
+    "docs/CURRENT_STANDARD.md": "748bb2660b4f925b1deec7cb0edb9498edf92bd9fce293221ce9c491b8c8d97d",
+    "docs/REPRODUCE_V2.md": "87fa01f0d9864bc4237603d411d45651e8ed1125ee3909f22dba8774daec399c",
     "experiments/annual-2026/SOURCE_LOCK.json": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed",
     "experiments/rank-weights-20261119/SIGNALS.json": "c11608916212981ec1e479cb83cfbd17fd51b47548c2ea9c8b4b4cee6e3598b5",
     "experiments/rank-weights-20261119/VERIFICATION.json": "7bdbdfe196644c7f6abd28d34849d8f7aedd1e816edd7f27fb904f2fa6d4d230",
@@ -17,7 +17,7 @@
     "standard/v2_3_1/CLAUDE.md": "7a320c601d8f03d0becf07f48fa4b0445ecf475b46e06a45d138ec373b33982e",
     "standard/v2_3_1/PLAN.md": "b3660818a7eed5717fbf9deeeb8b7cdbde1f62a482e55a5931cb1a78b6e9a316",
     "standard/v2_3_1/PRIOR_CURRENT.json": "84a2dadca1659a038e3027742f8924ecf3ae4560f046802e8989f6b98c8710ee",
-    "standard/v2_3_1/REPORT.md": "df4db89b831a2bd0074e0b3cb41714bcab481b11b7530a29bd45a6ec7b70e00b",
+    "standard/v2_3_1/REPORT.md": "8e851e356c321bbe845a9e8ee48067c021ef1766ee3fe1b4eaa49cace77b5ff8",
     "standard/v2_3_1/RESULTS.json": "ddc491f8a65ba99717f6ca5ec2ddc78c0c0e9517ff4cd17d8006cc2ce1b8d8dc",
     "standard/v2_3_1/STRATEGY.json": "ab9d0f0548c1b4a979d6bfa17d891e98edbe2b825940ead845b40a4b3f44273f",
     "standard/v2_3_1/reference/HIST/C11/ACCOUNT.json.gz": "6d01a21e69a2b4b727904cd6ba420a74487a17b7532f542b30f84d20fcc4eb84",
@@ -32,6 +32,7 @@
     "standard/v2_3_1/reference/YTD2026/QQQ_BH/VERIFIED.json": "4f123ddb70349b7cb3ec043068c309718ef00ca264daf72c5d2bf877096fa96c",
     "standard/v2_3_1/reference/YTD2026/SPY_BH/ACCOUNT.json.gz": "a95899cc1d68d4b9743c3556e9f908f75adb82fac62a549510849929a349bb18",
     "standard/v2_3_1/reference/YTD2026/SPY_BH/VERIFIED.json": "9e4591fa82fb052c1f56c0a9cad715592d0b1eb91cbfbe1d0283d13cda9dafed",
-    "standard/v2_3_1/tests/test_default_ranked.py": "a028f73d71de910a51ac2c7cc3e611845cc17681d3fde5df1bd06a454c235300"
+    "standard/v2_3_1/tests/test_default_ranked.py": "a028f73d71de910a51ac2c7cc3e611845cc17681d3fde5df1bd06a454c235300",
+    "standard/v2_3_1/tests/test_publication_consistency.py": "54371350240ba42d92fe683e452a38f31d87cd3c037feea69c84ed8d1b65ca13"
   }
 }
