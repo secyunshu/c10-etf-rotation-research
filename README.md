@@ -20,6 +20,10 @@
 
 [当前标准逐年报告](standard/v2_3_1/REPORT.md) · [45/45旧版历史](experiments/annual-qqq-spy-sleeve/REPORT.md) · [权重对照](experiments/rank-weights-20261119/REPORT.md)
 
+## 进行中的研究
+
+**63 日限幅反波动率配权**是当前重要研究方向，处于前瞻待验证阶段。研究用同一组月度入选 ETF，与 60/30 和 45/45 对照。开发区间为 2020–2024，历史验证区间为 2025 全年和 2026 年 1–8 月。 [研究与前瞻流程](docs/RESEARCH_PROTOCOL.md)
+
 ## 离线运行
 
 从仓库根目录使用锁定的 Python 依赖。
