@@ -1,8 +1,8 @@
 {
   "hashes": {
-    "README.md": "7bb1915acced584d0a083f3b749f8d85d8eb199ca7aa785c7b68198ceec74c2b",
+    "README.md": "cc41aa05af7fa3c54ef3b59075f770d1046c29000dbb372cb98e599ae9597af1",
     "docs/CURRENT_STANDARD.md": "748bb2660b4f925b1deec7cb0edb9498edf92bd9fce293221ce9c491b8c8d97d",
-    "docs/REPRODUCE_V2.md": "87fa01f0d9864bc4237603d411d45651e8ed1125ee3909f22dba8774daec399c",
+    "docs/REPRODUCE_V2.md": "44f8e136df5bac2c484f8cbf87c13907f6756661080ef4de856b0cca8a81d90f",
     "experiments/annual-2026/SOURCE_LOCK.json": "e015773ad4eeab77de16c2400dfd14a5da4151c072ae65e0246e35c5793571ed",
     "experiments/rank-weights-20261119/SIGNALS.json": "c11608916212981ec1e479cb83cfbd17fd51b47548c2ea9c8b4b4cee6e3598b5",
     "experiments/rank-weights-20261119/VERIFICATION.json": "7bdbdfe196644c7f6abd28d34849d8f7aedd1e816edd7f27fb904f2fa6d4d230",
@@ -10,7 +10,7 @@
     "scripts/conditional_sleeve.py": "523d88393e4ab539ce06424faf48a7e5da2e3007127ed386eddba5e5fcb17b46",
     "scripts/conditional_sleeve_ytd.py": "b652060dbd70941951c09c649ea1b17d52b02e1a0f9d0096d0d67c463219dac9",
     "scripts/current_standard.py": "df45995b1f1eb248249d533c737a4ef2fae9ddf6d86f46eaacb554a45bb4dc2d",
-    "scripts/current_standard_ranked.py": "5320e117b0e8113e84dacdab677a3ae95d21dcff096653524f137570392e5dcd",
+    "scripts/current_standard_ranked.py": "ee51dad1c05a223e2fd296107fe8a627325202fc4fe569ef60353fd114d11041",
     "scripts/v23_rank_weights.py": "043fad75f148696766a9d114af8a5458229d5450952f06df8460e6bc6fd1ee6e",
     "standard/CURRENT.json": "ef92686a0e2c859218b413aee560fe09493f092625cc6bb6750067ea9434d021",
     "standard/v2_3/STRATEGY.json": "9085ffa7e783ca543ac3962c6020c10dec25e22deab60654fa7c04fa154b3dd8",
@@ -33,6 +33,7 @@
     "standard/v2_3_1/reference/YTD2026/SPY_BH/ACCOUNT.json.gz": "a95899cc1d68d4b9743c3556e9f908f75adb82fac62a549510849929a349bb18",
     "standard/v2_3_1/reference/YTD2026/SPY_BH/VERIFIED.json": "9e4591fa82fb052c1f56c0a9cad715592d0b1eb91cbfbe1d0283d13cda9dafed",
     "standard/v2_3_1/tests/test_default_ranked.py": "a028f73d71de910a51ac2c7cc3e611845cc17681d3fde5df1bd06a454c235300",
-    "standard/v2_3_1/tests/test_publication_consistency.py": "54371350240ba42d92fe683e452a38f31d87cd3c037feea69c84ed8d1b65ca13"
+    "standard/v2_3_1/tests/test_publication_consistency.py": "54371350240ba42d92fe683e452a38f31d87cd3c037feea69c84ed8d1b65ca13",
+    "standard/v2_3_1/tests/test_replay_resume.py": "c191baac28b378b106f59ec8aa39ef08d21355cb1bb929d813fded33cd386190"
   }
 }

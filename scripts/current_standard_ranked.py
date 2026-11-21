@@ -3,6 +3,7 @@ import argparse
 import gzip
 from datetime import date
 from pathlib import Path
+from tempfile import mkdtemp
 from typing import Annotated, Literal
 from unittest.mock import patch
 
@@ -113,20 +114,29 @@ def verify_account(ctx: Context, window: Window, rule: str, output: Path,
             day=day, q={rule.removesuffix("_BH"): 1.}, reason="oracle"))
 
     artifact = expected
+    completed = output / window / rule / "ARTIFACT.json"
+    staged: Path | None = None
     if execute:
-        folder = output / window / rule
-        p = folder / "ARTIFACT.json"
-        if p.exists():
-            artifact = Artifact.model_validate_json(p.read_bytes())
-        else:
-            folder.mkdir(parents=True)
+        if not completed.exists():
+            completed.parent.mkdir(parents=True, exist_ok=True)
+            attempt = Path(mkdtemp(prefix=".attempt-", dir=completed.parent))
             with patch.object(native, "target", target):
-                artifact = native.simulate(ctx.market, contract, settings, folder)
-        if Artifact.model_validate_json(artifact.model_dump_json()) != expected:
+                native.simulate(ctx.market, contract, settings, attempt)
+            staged = attempt / completed.name
+        artifact = Artifact.model_validate_json((staged or completed).read_bytes())
+        if artifact != expected:
             raise ValueError("native standard differs from reference")
     artifact.contract = contract
     with patch.object(audit, "oracle", target):
         audit.audit(artifact, ctx.market, settings)
+    if staged is not None:
+        try:
+            completed.hardlink_to(staged)
+        except FileExistsError as exc:
+            if Artifact.model_validate_json(completed.read_bytes()) != expected:
+                raise ValueError("concurrently completed account differs from reference") from exc
+        staged.unlink()
+        staged.parent.rmdir()
     return artifact
 
 

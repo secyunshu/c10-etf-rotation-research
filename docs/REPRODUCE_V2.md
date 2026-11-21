@@ -9,7 +9,7 @@ python -m scripts.current_standard_ranked --execute --output runs/current-standa
 python -m pytest -q standard/v2_3_1/tests
 ```
 
-默认核对六个存档账户和报告。`--execute` 重现三组历史连续账户和三组 2026 年初新账户。已生成的账户会再次核验。源锁、策略配置和存档账本共同限定离线复现范围。
+默认核对六个存档账户和报告。`--execute` 重现三组历史连续账户和三组 2026 年初新账户。已完成账本会再次核验。中断时可用同一输出路径重试，未完成的运行记录保存在账户目录中的 `.attempt-*`，完整核对通过后账本才写入正式路径。源码下载见 [V2.3.1 Release 顶部的修正版入口](https://github.com/secyunshu/c10-etf-rotation-research/releases/tag/v2.3.1)。源锁、策略配置和存档账本共同限定离线复现范围。
 
 旧45/45版本在已有`v2.3.0`标签运行`python -m scripts.current_standard`及`pytest -q standard/v2_3/tests`；当前CURRENT指针定义60/30，不将旧选择器当最新默认。
 
